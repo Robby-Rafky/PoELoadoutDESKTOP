@@ -1,0 +1,46 @@
+{
+  "Burial Medallion": {
+    "name": "Burial Medallion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9EYW5uaWdSZXJvbGxDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/62d38b9f1d/DannigRerollCurrency.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Exotic Coinage": {
+    "name": "Exotic Coinage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9CYXJ0ZXJSZWZyZXNoQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bf3e6fbe8f/BarterRefreshCurrency.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.5
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Astragali": {
+    "name": "Astragali",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9HYW1ibGVyUmVmcmVzaEN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f878f8fc1a/GamblerRefreshCurrency.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.04
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Scrap Metal": {
+    "name": "Scrap Metal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9EZWFsZXJSZWZyZXNoQ3VycmVuY3kiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f4db789e4b/DealerRefreshCurrency.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.29
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  }
+}

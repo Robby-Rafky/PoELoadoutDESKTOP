@@ -1,0 +1,156 @@
+{
+  "Tainted Oil": {
+    "name": "Tainted Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54c3400bd8/VaalOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 278.54
+    },
+    "exaltedValue": {
+      "Base": 2.85
+    }
+  },
+  "Golden Oil": {
+    "name": "Golden Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Hb2xkZW5PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/69094a06e9/GoldenOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 48.4
+    },
+    "exaltedValue": {
+      "Base": 0.5
+    }
+  },
+  "Silver Oil": {
+    "name": "Silver Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 22.79
+    },
+    "exaltedValue": {
+      "Base": 0.23
+    }
+  },
+  "Opalescent Oil": {
+    "name": "Opalescent Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9PcGFsZXNjZW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/11d5d92171/OpalescentOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Black Oil": {
+    "name": "Black Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/763ed79fad/BlackOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Crimson Oil": {
+    "name": "Crimson Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54fb620c7e/CrimsonOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.39
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Violet Oil": {
+    "name": "Violet Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WaW9sZXRPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64c679a735/VioletOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Indigo Oil": {
+    "name": "Indigo Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Azure Oil": {
+    "name": "Azure Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BenVyZU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/926343421b/AzureOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.93
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Teal Oil": {
+    "name": "Teal Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b6712a15cf/TealOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.56
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Sepia Oil": {
+    "name": "Sepia Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/580407bed5/SepiaOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Verdant Oil": {
+    "name": "Verdant Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Amber Oil": {
+    "name": "Amber Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BbWJlck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/931f4d2fdd/AmberOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Clear Oil": {
+    "name": "Clear Oil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.45
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  }
+}

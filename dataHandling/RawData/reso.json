@@ -1,0 +1,164 @@
+{
+  "lines": [
+    {
+      "id": 7662,
+      "name": "Prime Chaotic Resonator",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/584267701b/Reroll2x2C.png",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          7.53,
+          -5.3,
+          -18.39,
+          -39.55,
+          -25,
+          -26.95
+        ],
+        "totalChange": -26.95
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          7.53,
+          -5.3,
+          -18.39,
+          -39.55,
+          -25,
+          -26.95
+        ],
+        "totalChange": -26.95
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 14.61,
+      "exaltedValue": 0.15,
+      "count": 99,
+      "detailsId": "prime-chaotic-resonator",
+      "listingCount": 6151
+    },
+    {
+      "id": 7646,
+      "name": "Powerful Chaotic Resonator",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQSIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/b5be7d519f/Reroll2x2A.png",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -33.33,
+          0,
+          -10.99,
+          -33.33,
+          -33.33,
+          -7.67
+        ],
+        "totalChange": -7.67
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -33.33,
+          0,
+          -10.99,
+          -33.33,
+          -33.33,
+          -7.67
+        ],
+        "totalChange": -7.67
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.77,
+      "exaltedValue": 0.03,
+      "count": 99,
+      "detailsId": "powerful-chaotic-resonator",
+      "listingCount": 5126
+    },
+    {
+      "id": 7648,
+      "name": "Potent Chaotic Resonator",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngxQSIsInciOjEsImgiOjIsInNjYWxlIjoxfV0/1aa8e1c365/Reroll2x1A.png",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -2.5,
+          -23.0,
+          -50.0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -2.5,
+          -23.0,
+          -50.0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.02,
+      "count": 99,
+      "detailsId": "potent-chaotic-resonator",
+      "listingCount": 4711
+    },
+    {
+      "id": 7636,
+      "name": "Primitive Chaotic Resonator",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMXgxQSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/eea57ec0df/Reroll1x1A.png",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          -15.33,
+          -33.33,
+          -42.98,
+          -33.33,
+          -28
+        ],
+        "totalChange": -28
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          -15.33,
+          -33.33,
+          -42.98,
+          -33.33,
+          -28
+        ],
+        "totalChange": -28
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 1.08,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "primitive-chaotic-resonator",
+      "listingCount": 10503
+    }
+  ],
+  "language": {
+    "name": "en",
+    "translations": {}
+  }
+}

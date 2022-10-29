@@ -1,0 +1,1157 @@
+{
+  "Essence of Horror": {
+    "name": "Essence of Horror",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ib3Jyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/748d594bde/Horror1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 18.71
+    },
+    "exaltedValue": {
+      "Base": 0.16
+    }
+  },
+  "Essence of Insanity": {
+    "name": "Essence of Insanity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9JbnNhbml0eTEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/abff00730a/Insanity1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Essence of Hysteria": {
+    "name": "Essence of Hysteria",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9UZXJyb3IxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/80faa3ee53/Terror1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 9.82
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Essence of Delirium": {
+    "name": "Essence of Delirium",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NYWRuZXNzMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4884b879d8/Madness1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 9.16
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Deafening Essence of Loathing": {
+    "name": "Deafening Essence of Loathing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fdf6345fe6/Loathing7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Deafening Essence of Rage": {
+    "name": "Deafening Essence of Rage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ecf93b7233/Rage7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Deafening Essence of Sorrow": {
+    "name": "Deafening Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0b97d1a6b0/Sorrow7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Deafening Essence of Spite": {
+    "name": "Deafening Essence of Spite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67b002a3b7/Spite7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Deafening Essence of Contempt": {
+    "name": "Deafening Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eabee1b2e2/Contempt7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Envy": {
+    "name": "Deafening Essence of Envy",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7e2590a0e6/Envy7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Greed": {
+    "name": "Deafening Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bb443ee5e3/Greed7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Scorn": {
+    "name": "Deafening Essence of Scorn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3f926be5cb/Scorn7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Woe": {
+    "name": "Deafening Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c26067973c/Woe7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Zeal": {
+    "name": "Deafening Essence of Zeal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9aZWFsNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6bce73e351/Zeal7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deafening Essence of Wrath": {
+    "name": "Deafening Essence of Wrath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea0157df49/Wrath7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Anger": {
+    "name": "Deafening Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2cf0a55081/Anger7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Dread": {
+    "name": "Deafening Essence of Dread",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9EcmVhZDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f867c936c4/Dread7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Fear": {
+    "name": "Deafening Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Hatred": {
+    "name": "Deafening Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/81249b110a/Hatred7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Misery": {
+    "name": "Deafening Essence of Misery",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/98a9373284/Misery7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Anger": {
+    "name": "Muttering Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5f13108515/Anger2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Contempt": {
+    "name": "Muttering Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c0ae423980/Contempt2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Fear": {
+    "name": "Muttering Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d75c64c4d4/Fear2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Greed": {
+    "name": "Muttering Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/bd24f08afe/Greed2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Hatred": {
+    "name": "Muttering Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4242033438/Hatred2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Sorrow": {
+    "name": "Muttering Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3cyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/db9792191e/Sorrow2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Torment": {
+    "name": "Muttering Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50MiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a530969e96/Torment2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Muttering Essence of Woe": {
+    "name": "Muttering Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2UyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/42125a4a1c/Woe2.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Remnant of Corruption": {
+    "name": "Remnant of Corruption",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Fc3NlbmNlQ29ycnVwdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0e84041aa5/EssenceCorrupt.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Anger": {
+    "name": "Screaming Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/19d11b6ceb/Anger5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Anguish": {
+    "name": "Screaming Essence of Anguish",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3a010ed0e8/Anguish5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Contempt": {
+    "name": "Screaming Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/473f05aaee/Contempt5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Doubt": {
+    "name": "Screaming Essence of Doubt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/203952b786/Doubt5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Dread": {
+    "name": "Screaming Essence of Dread",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9EcmVhZDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/da89306159/Dread5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Envy": {
+    "name": "Screaming Essence of Envy",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/633982e75d/Envy5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Fear": {
+    "name": "Screaming Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1a0f1c6a68/Fear5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Greed": {
+    "name": "Screaming Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cc96065240/Greed5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Hatred": {
+    "name": "Screaming Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ce21e2462/Hatred5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Loathing": {
+    "name": "Screaming Essence of Loathing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/367d456623/Loathing5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Misery": {
+    "name": "Screaming Essence of Misery",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9c97fb5a0f/Misery5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Rage": {
+    "name": "Screaming Essence of Rage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/89c03ab737/Rage5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Scorn": {
+    "name": "Screaming Essence of Scorn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9031bf8c8e/Scorn5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Sorrow": {
+    "name": "Screaming Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/34d568ff94/Sorrow5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Spite": {
+    "name": "Screaming Essence of Spite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/76f8592685/Spite5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Suffering": {
+    "name": "Screaming Essence of Suffering",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/061b600839/Suffering5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Torment": {
+    "name": "Screaming Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5a7f95ea8d/Torment5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Woe": {
+    "name": "Screaming Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ec3cf669a0/Woe5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Wrath": {
+    "name": "Screaming Essence of Wrath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/39bfab2d24/Wrath5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Screaming Essence of Zeal": {
+    "name": "Screaming Essence of Zeal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9aZWFsNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f9189119bd/Zeal5.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Anger": {
+    "name": "Shrieking Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c144b7a0f9/Anger6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Contempt": {
+    "name": "Shrieking Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/332e9b32e9/Contempt6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Doubt": {
+    "name": "Shrieking Essence of Doubt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7c0e08e13f/Doubt6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Dread": {
+    "name": "Shrieking Essence of Dread",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9EcmVhZDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8910bae3d0/Dread6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Envy": {
+    "name": "Shrieking Essence of Envy",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9FbnZ5NiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/070e9a6d3d/Envy6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Fear": {
+    "name": "Shrieking Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3237cb341c/Fear6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Greed": {
+    "name": "Shrieking Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c6f0f32694/Greed6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Hatred": {
+    "name": "Shrieking Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1cce04f904/Hatred6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Loathing": {
+    "name": "Shrieking Essence of Loathing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2263aac346/Loathing6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Misery": {
+    "name": "Shrieking Essence of Misery",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1d8b4bbfda/Misery6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Rage": {
+    "name": "Shrieking Essence of Rage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/da35cbc46b/Rage6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Scorn": {
+    "name": "Shrieking Essence of Scorn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TY29ybjYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4cb0e71dc7/Scorn6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Sorrow": {
+    "name": "Shrieking Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9fccac2347/Sorrow6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Spite": {
+    "name": "Shrieking Essence of Spite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e98d86275/Spite6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Suffering": {
+    "name": "Shrieking Essence of Suffering",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b537ae202/Suffering6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Torment": {
+    "name": "Shrieking Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9109a7fad9/Torment6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Woe": {
+    "name": "Shrieking Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/89986b730b/Woe6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Wrath": {
+    "name": "Shrieking Essence of Wrath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64651e09ee/Wrath6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Zeal": {
+    "name": "Shrieking Essence of Zeal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9aZWFsNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/28f26e6b3f/Zeal6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Anger": {
+    "name": "Wailing Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2f3eca86d2/Anger4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Anguish": {
+    "name": "Wailing Essence of Anguish",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6f1252c22f/Anguish4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Contempt": {
+    "name": "Wailing Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81bb512694/Contempt4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Doubt": {
+    "name": "Wailing Essence of Doubt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d2f2f7c5d5/Doubt4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Fear": {
+    "name": "Wailing Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9f6bef7be1/Fear4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Greed": {
+    "name": "Wailing Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4b55a2c50f/Greed4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Hatred": {
+    "name": "Wailing Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQ0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2137aa1054/Hatred4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Loathing": {
+    "name": "Wailing Essence of Loathing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Mb2F0aGluZzQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/34e7918149/Loathing4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Rage": {
+    "name": "Wailing Essence of Rage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/94a3d5f6f2/Rage4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Sorrow": {
+    "name": "Wailing Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f755c252fc/Sorrow4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Spite": {
+    "name": "Wailing Essence of Spite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TcGl0ZTQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d47263973c/Spite4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Suffering": {
+    "name": "Wailing Essence of Suffering",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b0edfe414b/Suffering4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Torment": {
+    "name": "Wailing Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/59e31a8f9b/Torment4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Woe": {
+    "name": "Wailing Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/989ddf8de2/Woe4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Wrath": {
+    "name": "Wailing Essence of Wrath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/117a0bef80/Wrath4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Wailing Essence of Zeal": {
+    "name": "Wailing Essence of Zeal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9aZWFsNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/36f5f9a73f/Zeal4.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Anger": {
+    "name": "Weeping Essence of Anger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9BbmdlcjMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/53f0140663/Anger3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Contempt": {
+    "name": "Weeping Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7347bf5d1c/Contempt3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Doubt": {
+    "name": "Weeping Essence of Doubt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d62cf232e7/Doubt3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Fear": {
+    "name": "Weeping Essence of Fear",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d65a73894/Fear3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Greed": {
+    "name": "Weeping Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b9f85a0736/Greed3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Hatred": {
+    "name": "Weeping Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83a45f6ee9/Hatred3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Rage": {
+    "name": "Weeping Essence of Rage",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/01c3531a16/Rage3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Sorrow": {
+    "name": "Weeping Essence of Sorrow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3czIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/577fda6e69/Sorrow3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Suffering": {
+    "name": "Weeping Essence of Suffering",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmczIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b92ef3ac02/Suffering3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Torment": {
+    "name": "Weeping Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50MyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5a0e621b32/Torment3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Woe": {
+    "name": "Weeping Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2UzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4bce548a80/Woe3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Weeping Essence of Wrath": {
+    "name": "Weeping Essence of Wrath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a5ebd57d39/Wrath3.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Whispering Essence of Contempt": {
+    "name": "Whispering Essence of Contempt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Db250ZW1wdDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/68114b6900/Contempt1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Whispering Essence of Greed": {
+    "name": "Whispering Essence of Greed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9HcmVlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7a626ae68b/Greed1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Whispering Essence of Hatred": {
+    "name": "Whispering Essence of Hatred",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9IYXRyZWQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/81bf8c7a3e/Hatred1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Whispering Essence of Woe": {
+    "name": "Whispering Essence of Woe",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2UxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac40a316b5/Woe1.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Anguish": {
+    "name": "Deafening Essence of Anguish",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/866e512a2f/Anguish7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.96
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Shrieking Essence of Anguish": {
+    "name": "Shrieking Essence of Anguish",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Bbmd1aXNoNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/353e458e21/Anguish6.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.95
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Torment": {
+    "name": "Deafening Essence of Torment",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Ub3JtZW50NyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de4367a1ca/Torment7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.75
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Deafening Essence of Doubt": {
+    "name": "Deafening Essence of Doubt",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Deafening Essence of Suffering": {
+    "name": "Deafening Essence of Suffering",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9TdWZmZXJpbmc3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/180a7cbf52/Suffering7.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  }
+}

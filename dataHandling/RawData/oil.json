@@ -1,0 +1,568 @@
+{
+  "lines": [
+    {
+      "id": 60076,
+      "name": "Tainted Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54c3400bd8/VaalOil.png",
+      "baseType": "Tainted Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          4.44,
+          -13.72,
+          -26.14,
+          -41.28,
+          -24.04,
+          -18.98
+        ],
+        "totalChange": -18.98
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          4.44,
+          -13.72,
+          -26.14,
+          -41.28,
+          -24.04,
+          -18.98
+        ],
+        "totalChange": -18.98
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 278.54,
+      "exaltedValue": 2.85,
+      "count": 41,
+      "detailsId": "tainted-oil",
+      "listingCount": 246
+    },
+    {
+      "id": 22607,
+      "name": "Golden Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Hb2xkZW5PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/69094a06e9/GoldenOil.png",
+      "baseType": "Golden Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          2.19,
+          0,
+          -10,
+          -21.96,
+          -12.0,
+          -3.2
+        ],
+        "totalChange": -3.2
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          2.19,
+          0,
+          -10,
+          -21.96,
+          -12.0,
+          -3.2
+        ],
+        "totalChange": -3.2
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 48.4,
+      "exaltedValue": 0.5,
+      "count": 99,
+      "detailsId": "golden-oil",
+      "listingCount": 1444
+    },
+    {
+      "id": 22533,
+      "name": "Silver Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
+      "baseType": "Silver Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          -3.14,
+          -23.45,
+          -35,
+          -13.85,
+          13.95
+        ],
+        "totalChange": 13.95
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          -3.14,
+          -23.45,
+          -35,
+          -13.85,
+          13.95
+        ],
+        "totalChange": 13.95
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 22.79,
+      "exaltedValue": 0.23,
+      "count": 99,
+      "detailsId": "silver-oil",
+      "listingCount": 1117
+    },
+    {
+      "id": 22535,
+      "name": "Opalescent Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9PcGFsZXNjZW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/11d5d92171/OpalescentOil.png",
+      "baseType": "Opalescent Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          19.29,
+          14.29
+        ],
+        "totalChange": 14.29
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          19.29,
+          14.29
+        ],
+        "totalChange": 14.29
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 8.0,
+      "exaltedValue": 0.08,
+      "count": 99,
+      "detailsId": "opalescent-oil",
+      "listingCount": 1587
+    },
+    {
+      "id": 22531,
+      "name": "Black Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/763ed79fad/BlackOil.png",
+      "baseType": "Black Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -2.34,
+          -19.92,
+          -21.09,
+          -25.78,
+          -16.4,
+          -21.88
+        ],
+        "totalChange": -21.88
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -2.34,
+          -19.92,
+          -21.09,
+          -25.78,
+          -16.4,
+          -21.88
+        ],
+        "totalChange": -21.88
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.02,
+      "count": 99,
+      "detailsId": "black-oil",
+      "listingCount": 2413
+    },
+    {
+      "id": 22530,
+      "name": "Crimson Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54fb620c7e/CrimsonOil.png",
+      "baseType": "Crimson Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -0.66,
+          -0.65,
+          -7.27,
+          -28.12,
+          -8.61,
+          -7.95
+        ],
+        "totalChange": -7.95
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.66,
+          -0.65,
+          -7.27,
+          -28.12,
+          -8.61,
+          -7.95
+        ],
+        "totalChange": -7.95
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 1.39,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "crimson-oil",
+      "listingCount": 3054
+    },
+    {
+      "id": 22529,
+      "name": "Violet Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WaW9sZXRPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64c679a735/VioletOil.png",
+      "baseType": "Violet Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 1.0,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "violet-oil",
+      "listingCount": 3106
+    },
+    {
+      "id": 42286,
+      "name": "Indigo Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png",
+      "baseType": "Indigo Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          1.01,
+          1.01,
+          1.01,
+          1.01,
+          1.01,
+          1.01
+        ],
+        "totalChange": 1.01
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          1.01,
+          1.01,
+          1.01,
+          1.01,
+          1.01,
+          1.01
+        ],
+        "totalChange": 1.01
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 1.0,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "indigo-oil",
+      "listingCount": 3082
+    },
+    {
+      "id": 22528,
+      "name": "Azure Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BenVyZU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/926343421b/AzureOil.png",
+      "baseType": "Azure Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          4.3,
+          -20.43,
+          -27.95,
+          -38.71,
+          -25.8,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          4.3,
+          -20.43,
+          -27.95,
+          -38.71,
+          -25.8,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.93,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "azure-oil",
+      "listingCount": 3186
+    },
+    {
+      "id": 22526,
+      "name": "Teal Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b6712a15cf/TealOil.png",
+      "baseType": "Teal Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          12
+        ],
+        "totalChange": 12
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          12
+        ],
+        "totalChange": 12
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.56,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "teal-oil",
+      "listingCount": 4005
+    },
+    {
+      "id": 22523,
+      "name": "Sepia Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TZXBpYU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/580407bed5/SepiaOil.png",
+      "baseType": "Sepia Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -13.83,
+          -23.41,
+          -2.14,
+          6.37,
+          112.74,
+          6.37
+        ],
+        "totalChange": 6.37
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -13.83,
+          -23.41,
+          -2.14,
+          6.37,
+          112.74,
+          6.37
+        ],
+        "totalChange": 6.37
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.5,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "sepia-oil",
+      "listingCount": 7429
+    },
+    {
+      "id": 22524,
+      "name": "Verdant Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
+      "baseType": "Verdant Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.5,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "verdant-oil",
+      "listingCount": 5566
+    },
+    {
+      "id": 22527,
+      "name": "Amber Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BbWJlck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/931f4d2fdd/AmberOil.png",
+      "baseType": "Amber Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "totalChange": 25
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          25,
+          25,
+          25,
+          25,
+          25,
+          25
+        ],
+        "totalChange": 25
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.5,
+      "exaltedValue": 0.01,
+      "count": 99,
+      "detailsId": "amber-oil",
+      "listingCount": 6513
+    },
+    {
+      "id": 22525,
+      "name": "Clear Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
+      "baseType": "Clear Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          6.98,
+          -23.23,
+          -6.97,
+          132.56,
+          132.56,
+          4.65
+        ],
+        "totalChange": 4.65
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          6.98,
+          -23.23,
+          -6.97,
+          132.56,
+          132.56,
+          4.65
+        ],
+        "totalChange": 4.65
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 0.45,
+      "exaltedValue": 0.0,
+      "count": 99,
+      "detailsId": "clear-oil",
+      "listingCount": 8612
+    }
+  ],
+  "language": {
+    "name": "en",
+    "translations": {}
+  }
+}

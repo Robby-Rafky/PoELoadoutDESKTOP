@@ -1,0 +1,46 @@
+{
+  "Prime Chaotic Resonator": {
+    "name": "Prime Chaotic Resonator",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/584267701b/Reroll2x2C.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 14.61
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    }
+  },
+  "Powerful Chaotic Resonator": {
+    "name": "Powerful Chaotic Resonator",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQSIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/b5be7d519f/Reroll2x2A.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.77
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Potent Chaotic Resonator": {
+    "name": "Potent Chaotic Resonator",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngxQSIsInciOjEsImgiOjIsInNjYWxlIjoxfV0/1aa8e1c365/Reroll2x1A.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Primitive Chaotic Resonator": {
+    "name": "Primitive Chaotic Resonator",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMXgxQSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/eea57ec0df/Reroll1x1A.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.08
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  }
+}

@@ -1,0 +1,277 @@
+{
+  "Faceted Fossil": {
+    "name": "Faceted Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRmFjZXRlZEZvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/db0aba6238/FacetedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 76.3
+    },
+    "exaltedValue": {
+      "Base": 0.78
+    }
+  },
+  "Fractured Fossil": {
+    "name": "Fractured Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRnJhY3R1cmVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ffb5b47984/FracturedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 32.52
+    },
+    "exaltedValue": {
+      "Base": 0.33
+    }
+  },
+  "Glyphic Fossil": {
+    "name": "Glyphic Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvR2x5cGhpY0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f5b3c6edf7/GlyphicFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 19.0
+    },
+    "exaltedValue": {
+      "Base": 0.19
+    }
+  },
+  "Hollow Fossil": {
+    "name": "Hollow Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQW1iZXJFeWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7579485795/AmberEye.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 13.94
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    }
+  },
+  "Sanctified Fossil": {
+    "name": "Sanctified Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvR2lsZGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8a8b6de108/GildedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Perfect Fossil": {
+    "name": "Perfect Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUGVyZmVjdEZvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7a87694b3c/PerfectFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 3.25
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Shuddering Fossil": {
+    "name": "Shuddering Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvU2h1ZGRlcmluZ0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ea7926999/ShudderingFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Prismatic Fossil": {
+    "name": "Prismatic Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUHJpc21hdGljRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ebaea2a708/PrismaticFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.5
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Corroded Fossil": {
+    "name": "Corroded Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQ29ycm9kZWRGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e934508b43/CorrodedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.38
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bound Fossil": {
+    "name": "Bound Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVzb25hdGluZ0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/836925ced6/ResonatingFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.32
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Gilded Fossil": {
+    "name": "Gilded Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvU2FuY3RpZmllZEZvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3c8e7553b5/SanctifiedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Tangled Fossil": {
+    "name": "Tangled Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvVGFuZ2xlZEZvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3e5e6289c8/TangledFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bloodstained Fossil": {
+    "name": "Bloodstained Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQmxvb2RzdGFpbmVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fe0b3edea8/BloodstainedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fundamental Fossil": {
+    "name": "Fundamental Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRW5jcnVzdGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4f7e7cc55d/EncrustedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Deft Fossil": {
+    "name": "Deft Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRW5jaGFudGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/314cfdc367/EnchantedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.54
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Aetheric Fossil": {
+    "name": "Aetheric Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQWV0aGVyaWNGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb38994bc8/AethericFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Dense Fossil": {
+    "name": "Dense Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRGVuc2VGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e51b8071e7/DenseFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Serrated Fossil": {
+    "name": "Serrated Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvU2VycmF0ZWRGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/42d7279694/SerratedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Lucent Fossil": {
+    "name": "Lucent Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvTHVjZW50Rm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/633b40a6b0/LucentFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Pristine Fossil": {
+    "name": "Pristine Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUHJpc3RpbmVGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e9dda92a19/PristineFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.42
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Jagged Fossil": {
+    "name": "Jagged Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvSmFnZ2VkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/054b08865e/JaggedFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.37
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Frigid Fossil": {
+    "name": "Frigid Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQW1iZXJGYW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/559d8ae855/AmberFang.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.32
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Scorched Fossil": {
+    "name": "Scorched Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQW1iZXJGaXJlRmx5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf1a077c8d/AmberFireFly.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.31
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Aberrant Fossil": {
+    "name": "Aberrant Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvQWJiZXJhbnRGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/426882fe76/AbberantFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.21
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Metallic Fossil": {
+    "name": "Metallic Fossil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvTWV0YWxsaWNGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c26857827c/MetallicFossil.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 0.21
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  }
+}

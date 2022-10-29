@@ -1,0 +1,1658 @@
+{
+  "Voices": {
+    "name": "Voices",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/314c9905c8/UniqueJewelBase3.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 35338.97,
+      "Base 3 passives": 2855.8,
+      "Base 5 passives": 15.0,
+      "Base 7 passives": 5.27
+    },
+    "exaltedValue": {
+      "Base": 295.77,
+      "Base 3 passives": 23.9,
+      "Base 5 passives": 0.13,
+      "Base 7 passives": 0.04
+    }
+  },
+  "Emperor's Mastery": {
+    "name": "Emperor's Mastery",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01hc3RlcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eb1cf5699e/Mastery.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 15066.55
+    },
+    "exaltedValue": {
+      "Base": 126.1
+    }
+  },
+  "Emperor's Wit": {
+    "name": "Emperor's Wit",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1dpdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bc537c241b/Wit.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 7246.04
+    },
+    "exaltedValue": {
+      "Base": 60.65
+    }
+  },
+  "Melding of the Flesh": {
+    "name": "Melding of the Flesh",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VudGFuZ2xlZEVsZW1lbnRzSmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/781ab651c4/EntangledElementsJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3875.33
+    },
+    "exaltedValue": {
+      "Base": 32.43
+    }
+  },
+  "Emperor's Might": {
+    "name": "Emperor's Might",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d1507b1ec4/Might.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2987.0
+    },
+    "exaltedValue": {
+      "Base": 25.0
+    }
+  },
+  "Emperor's Cunning": {
+    "name": "Emperor's Cunning",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0N1bm5pbmciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/4b5d857ef3/Cunning.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1733.89
+    },
+    "exaltedValue": {
+      "Base": 14.51
+    }
+  },
+  "Unnatural Instinct": {
+    "name": "Unnatural Instinct",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VubmF0dXJhbEluc3RpbmN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c37fa5c2b6/UnnaturalInstinct.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 900.0
+    },
+    "exaltedValue": {
+      "Base": 7.53
+    }
+  },
+  "Transcendent Mind": {
+    "name": "Transcendent Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudEJsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d02c69b7dc/TranscendentBlue.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 122.89
+    },
+    "exaltedValue": {
+      "Base": 1.03
+    }
+  },
+  "Transcendent Spirit": {
+    "name": "Transcendent Spirit",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudEdyZWVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6eb091ee7a/TranscendentGreen.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 119.48
+    },
+    "exaltedValue": {
+      "Base": 1.0
+    }
+  },
+  "Transcendent Flesh": {
+    "name": "Transcendent Flesh",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RyYW5zY2VuZGVudFJlZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7dcf8933ad/TranscendentRed.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 119.48
+    },
+    "exaltedValue": {
+      "Base": 1.0
+    }
+  },
+  "Amanamu's Gaze": {
+    "name": "Amanamu's Gaze",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0doYXN0bHlFeWVVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/301d98e6cb/GhastlyEyeUnique.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 119.48
+    },
+    "exaltedValue": {
+      "Base": 1.0
+    }
+  },
+  "Sublime Vision": {
+    "name": "Sublime Vision",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1N1YmxpbWVWaXNpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ecd19a7f80/SublimeVision.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 119.48
+    },
+    "exaltedValue": {
+      "Base": 1.0
+    }
+  },
+  "Inspired Learning": {
+    "name": "Inspired Learning",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/05e61f124f/unique7.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 116.83
+    },
+    "exaltedValue": {
+      "Base": 0.98
+    }
+  },
+  "Forbidden Flame": {
+    "name": "Forbidden Flame",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1enpsZVBpZWNlSmV3ZWxfQ2xlYW5zaW5nRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ddfe57ac90/PuzzlePieceJewel_CleansingFire.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 76.98
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    }
+  },
+  "The Interrogation": {
+    "name": "The Interrogation",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NlY3JldHNPZkFnb255SmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fbc829657e/SecretsOfAgonyJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 71.61
+    },
+    "exaltedValue": {
+      "Base": 0.6
+    }
+  },
+  "Forbidden Flesh": {
+    "name": "Forbidden Flesh",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1enpsZVBpZWNlSmV3ZWxfR3JlYXRUYW5nbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/9035b9ffd4/PuzzlePieceJewel_GreatTangle.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 60.0
+    },
+    "exaltedValue": {
+      "Base": 0.5
+    }
+  },
+  "The Anima Stone": {
+    "name": "The Anima Stone",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2daa0c1149/GolemChaos.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 59.47
+    },
+    "exaltedValue": {
+      "Base": 0.5
+    }
+  },
+  "Impossible Escape": {
+    "name": "Impossible Escape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pbmRib3JlUGVhcmwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/367683a1bb/MindborePearl.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 55.82
+    },
+    "exaltedValue": {
+      "Base": 0.47
+    }
+  },
+  "Replica Conqueror's Efficiency": {
+    "name": "Replica Conqueror's Efficiency",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0hpZ2hRdWVzdFJld2FyZFJlZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9dfceaff06/HighQuestRewardRed.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 50.0
+    },
+    "exaltedValue": {
+      "Base": 0.42
+    }
+  },
+  "Replica Pure Talent": {
+    "name": "Replica Pure Talent",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1cmVUYWxlbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64b53e536e/PureTalent.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 40.0
+    },
+    "exaltedValue": {
+      "Base": 0.33
+    }
+  },
+  "Watcher's Eye": {
+    "name": "Watcher's Eye",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZGVySmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/278c673716/ElderJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 37.17
+    },
+    "exaltedValue": {
+      "Base": 0.31
+    }
+  },
+  "The Red Nightmare": {
+    "name": "The Red Nightmare",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZVJlZERyZWFtVXBncmFkZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/69a20aa6e0/TheRedDreamUpgrade.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 36.56
+    },
+    "exaltedValue": {
+      "Base": 0.31
+    }
+  },
+  "Replica Hotheaded": {
+    "name": "Replica Hotheaded",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTE0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b74f27efec/unique14.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 35.0
+    },
+    "exaltedValue": {
+      "Base": 0.29
+    }
+  },
+  "The Green Nightmare": {
+    "name": "The Green Nightmare",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW1VcGdyYWRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2a2234606a/TheGreenDreamUpgrade.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 30.53
+    },
+    "exaltedValue": {
+      "Base": 0.26
+    }
+  },
+  "Intuitive Leap": {
+    "name": "Intuitive Leap",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f2dc5c37a5/unique6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 30.0
+    },
+    "exaltedValue": {
+      "Base": 0.25
+    }
+  },
+  "Fortress Covenant": {
+    "name": "Fortress Covenant",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5801f4441d/BlueJewel4.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 29.68
+    },
+    "exaltedValue": {
+      "Base": 0.25
+    }
+  },
+  "To Dust": {
+    "name": "To Dust",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/50417e8914/unique8.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 29.47
+    },
+    "exaltedValue": {
+      "Base": 0.25
+    }
+  },
+  "The Blue Nightmare": {
+    "name": "The Blue Nightmare",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUJsdWVEcmVhbVVwZ3JhZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e2474acca0/TheBlueDreamUpgrade.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 28.96
+    },
+    "exaltedValue": {
+      "Base": 0.24
+    }
+  },
+  "Thread of Hope": {
+    "name": "Thread of Hope",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0Nvbm5lY3RlZEpld2VsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1d2c1f698a/ConnectedJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 28.38
+    },
+    "exaltedValue": {
+      "Base": 0.24
+    }
+  },
+  "Brutal Restraint": {
+    "name": "Brutal Restraint",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01hcmFrZXRoQ2l2aWxpemF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8e18d378b4/MarakethCivilization.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 28.01
+    },
+    "exaltedValue": {
+      "Base": 0.23
+    }
+  },
+  "Glorious Vanity": {
+    "name": "Glorious Vanity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1ZhYWxDaXZpbGl6YXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/568c0e7c98/VaalCivilization.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 27.05
+    },
+    "exaltedValue": {
+      "Base": 0.23
+    }
+  },
+  "Replica Cheap Construction": {
+    "name": "Replica Cheap Construction",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWwxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/70fe3ebc30/GreenJewel1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 25.53
+    },
+    "exaltedValue": {
+      "Base": 0.21
+    }
+  },
+  "One With Nothing": {
+    "name": "One With Nothing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0RyYWdvblN0eWxlSmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fa9a94b12e/DragonStyleJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 22.81
+    },
+    "exaltedValue": {
+      "Base": 0.19
+    }
+  },
+  "Megalomaniac": {
+    "name": "Megalomaniac",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/659b3e6b90/UniqueJewelBase2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 21.81
+    },
+    "exaltedValue": {
+      "Base": 0.18
+    }
+  },
+  "Elegant Hubris": {
+    "name": "Elegant Hubris",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0V0ZXJuYWxFbXBpcmVDaXZpbGl6YXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8d1d098584/EternalEmpireCivilization.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 21.3
+    },
+    "exaltedValue": {
+      "Base": 0.18
+    }
+  },
+  "Militant Faith": {
+    "name": "Militant Faith",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RlbXBsYXJDaXZpbGl6YXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/09ecf8ac86/TemplarCivilization.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 0.17
+    }
+  },
+  "Replica Fragile Bloom": {
+    "name": "Replica Fragile Bloom",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTIwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f9fae47680/unique20.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 19.5
+    },
+    "exaltedValue": {
+      "Base": 0.16
+    }
+  },
+  "Lethal Pride": {
+    "name": "Lethal Pride",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0thcnVpQ2l2aWxpemF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/04aefd20e6/KaruiCivilization.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 17.83
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    }
+  },
+  "Primordial Might": {
+    "name": "Primordial Might",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtSW5mZXJuYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a50b1917f5/GolemInfernal.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 15.97
+    },
+    "exaltedValue": {
+      "Base": 0.13
+    }
+  },
+  "Unending Hunger": {
+    "name": "Unending Hunger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NwZWN0cmVKZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4e2d72df55/SpectreJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 14.42
+    },
+    "exaltedValue": {
+      "Base": 0.12
+    }
+  },
+  "Energy From Within": {
+    "name": "Energy From Within",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/43c313a2c4/BlueJewel6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 13.65
+    },
+    "exaltedValue": {
+      "Base": 0.11
+    }
+  },
+  "Dead Reckoning": {
+    "name": "Dead Reckoning",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0FkZGl0aW9uYWxTa2VsZXRvbk1hZ2VzTW9kaWZpZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64b5aa8a03/AdditionalSkeletonMagesModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Lioneye's Fall": {
+    "name": "Lioneye's Fall",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0xpb25leWVzRmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/164c5c1080/LioneyesFall.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Mantra of Flames": {
+    "name": "Mantra of Flames",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTE2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6b74fcb185/unique16.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Might of the Meek": {
+    "name": "Might of the Meek",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1BvdGVuY3lPZlRoZVVucmVtYXJrYWJsZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/10117c9173/PotencyOfTheUnremarkable.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Calamitous Visions": {
+    "name": "Calamitous Visions",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0xvbmVNZXNzZW5nZXJKZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46f8de709e/LoneMessengerJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Natural Affinity": {
+    "name": "Natural Affinity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL05hdHVyZXNQYXRpZW5jZUpld2VsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1f4e80dd70/NaturesPatienceJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Replica Primordial Might": {
+    "name": "Replica Primordial Might",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtSW5mZXJuYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a50b1917f5/GolemInfernal.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Replica Blood Sacrifice": {
+    "name": "Replica Blood Sacrifice",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQ1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e7dd1314c2/RedCorrupt5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Quickening Covenant": {
+    "name": "Quickening Covenant",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTEwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/46d92a634d/unique10.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 9.78
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Dissolution of the Flesh": {
+    "name": "Dissolution of the Flesh",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1Jlc2VydmVkQmxvb2RKZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1a4688f335/ReservedBloodJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 9.73
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "The Blue Dream": {
+    "name": "The Blue Dream",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUJsdWVEcmVhbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1cb1c74958/TheBlueDream.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 9.32
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Grand Spectrum": {
+    "name": "Grand Spectrum",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVHcmFuZFNwZWN0cnVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1282ca004/BlueGrandSpectrum.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 7.88
+    },
+    "exaltedValue": {
+      "Base": 0.07
+    }
+  },
+  "Izaro's Turmoil": {
+    "name": "Izaro's Turmoil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTIxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c242f62c33/unique21.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 8.1
+    },
+    "exaltedValue": {
+      "Base": 0.07
+    }
+  },
+  "Kitava's Teachings": {
+    "name": "Kitava's Teachings",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0Rpc2NpcGxlT2ZLaXRhdmFKZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/43d818445c/DiscipleOfKitavaJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 7.71
+    },
+    "exaltedValue": {
+      "Base": 0.06
+    }
+  },
+  "Replica Reckless Defence": {
+    "name": "Replica Reckless Defence",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlY2tsZXNzRGVmZW5zZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/923e6cb6b5/RecklessDefense.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 7.16
+    },
+    "exaltedValue": {
+      "Base": 0.06
+    }
+  },
+  "Split Personality": {
+    "name": "Split Personality",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1VuaXF1ZUpld2VsQmFzZTEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/166fecc863/UniqueJewelBase1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 6.57
+    },
+    "exaltedValue": {
+      "Base": 0.05
+    }
+  },
+  "Atziri's Reign": {
+    "name": "Atziri's Reign",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b14eb2eeb7/RedCorrupt1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Healthy Mind": {
+    "name": "Healthy Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/73584bc29e/BlueJewel7.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Hidden Potential": {
+    "name": "Hidden Potential",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTE3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c445828c50/unique17.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Mutated Growth": {
+    "name": "Mutated Growth",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0MiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/001b133612/BlueCorrupt2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Powerlessness": {
+    "name": "Powerlessness",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0NiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/281293a0c5/BlueCorrupt6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Vaal Sentencing": {
+    "name": "Vaal Sentencing",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0MSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/add0d5c539/BlueCorrupt1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Primordial Eminence": {
+    "name": "Primordial Eminence",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtQXJjdGljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8461900064/GolemArctic.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "The Green Dream": {
+    "name": "The Green Dream",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdyZWVuRHJlYW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1a25683711/TheGreenDream.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Pure Talent": {
+    "name": "Pure Talent",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1B1cmVUYWxlbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64b53e536e/PureTalent.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "The Front Line": {
+    "name": "The Front Line",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1ZldGVyYW4nc0F3YXJlbmVzc0pld2VsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7912a0c702/Veteran%27sAwarenessJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "The Siege": {
+    "name": "The Siege",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0tpbmV0aWNpc21KZXdlbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/d748a39b2e/KineticismJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Replica Unstable Payload": {
+    "name": "Replica Unstable Payload",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad145cc657/BlueJewel1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Nadir Mode": {
+    "name": "Nadir Mode",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0ludGVuc2l0eUpld2VsMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dd6952365a/IntensityJewel2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "The Red Dream": {
+    "name": "The Red Dream",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZVJlZERyZWFtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5fc736ec75/TheRedDream.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.8
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Primordial Harmony": {
+    "name": "Primordial Harmony",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dvbGVtVGVtcGVzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/aac7579ae7/GolemTempest.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.64
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Chill of Corruption": {
+    "name": "Chill of Corruption",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/567ed38e5d/GreenCorrupt2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.58
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Hair Trigger": {
+    "name": "Hair Trigger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWwyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/75f171fff6/GreenJewel2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.18
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Rain of Splinters": {
+    "name": "Rain of Splinters",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEthcnVpIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/283aad3d25/RedKarui.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.17
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Corrupted Energy": {
+    "name": "Corrupted Energy",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0MyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b8e3946e2/BlueCorrupt3.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.06
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Survival Instincts": {
+    "name": "Survival Instincts",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/82c9d48beb/unique2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.01
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Cheap Construction": {
+    "name": "Cheap Construction",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWwxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/70fe3ebc30/GreenJewel1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Clear Mind": {
+    "name": "Clear Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTEzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9cc73bdf26/unique13.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Cold Steel": {
+    "name": "Cold Steel",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWw1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/688f83fc40/GreenJewel5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Efficient Training": {
+    "name": "Efficient Training",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0lOVHRvU1RSIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3631faae6d/INTtoSTR.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "From Dust": {
+    "name": "From Dust",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTExIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3859ae0cab/unique11.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Combat Focus": {
+    "name": "Combat Focus",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0VsZW1lbnRhbEhpdExpZ2h0ZW5pbmciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e913bb8301/ElementalHitLightening.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.87
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Hotheaded": {
+    "name": "Hotheaded",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTE0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b74f27efec/unique14.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.85
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Brawn": {
+    "name": "Brawn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEpld2VsMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/87ba4f5e53/RedJewel2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.72
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "The Golden Rule": {
+    "name": "The Golden Rule",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RoZUdvbGRlblJ1bGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3c5f6382fc/TheGoldenRule.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.34
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Careful Planning": {
+    "name": "Careful Planning",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0lOVHRvREVYIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e30df474e0/INTtoDEX.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Fevered Mind": {
+    "name": "Fevered Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0NCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ad8d514185/BlueCorrupt4.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Fluid Motion": {
+    "name": "Fluid Motion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NUUnRvREVYIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5a4ea844d/STRtoDEX.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Hungry Abyss": {
+    "name": "Hungry Abyss",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7189c154c/GreenCorrupt3.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Tempered Flesh": {
+    "name": "Tempered Flesh",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RlbXBlcmVkUmVkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/66e750a720/TemperedRed.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Tempered Mind": {
+    "name": "Tempered Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RlbXBlcmVkQmx1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/995f6d4810/TemperedBlue.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Apex Mode": {
+    "name": "Apex Mode",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0ludGVuc2l0eUpld2VsMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2b116c20d2/IntensityJewel1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Kurgal's Gaze": {
+    "name": "Kurgal's Gaze",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0h5cG5vdGljRXllVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f909ca8b69/HypnoticEyeUnique.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Tecrod's Gaze": {
+    "name": "Tecrod's Gaze",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL011cmRlcm91c0V5ZVVuaXF1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f54f211029/MurderousEyeUnique.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Combustibles": {
+    "name": "Combustibles",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQ0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/84354c3ca3/RedCorrupt4.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.96
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fireborn": {
+    "name": "Fireborn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEpld2VsNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2c6bb95949/RedJewel6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.88
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Inertia": {
+    "name": "Inertia",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0RFWHRvU1RSIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2fc9d85725/DEXtoSTR.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.73
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Conqueror's Efficiency": {
+    "name": "Conqueror's Efficiency",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0hpZ2hRdWVzdFJld2FyZFJlZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9dfceaff06/HighQuestRewardRed.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.72
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Lord of Steel": {
+    "name": "Lord of Steel",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0NhbGxvZlN0ZWVsQXJlYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dba6c19a38/CallofSteelArea.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.62
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Eldritch Knowledge": {
+    "name": "Eldritch Knowledge",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/99a40a15bf/unique9.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.45
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Anatomical Knowledge": {
+    "name": "Anatomical Knowledge",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a7bd808903/BlueJewel5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.42
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Martial Artistry": {
+    "name": "Martial Artistry",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d21c450383/unique5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.37
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Ulaman's Gaze": {
+    "name": "Ulaman's Gaze",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NlYXJjaGluZ0V5ZVVuaXF1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fd2beeb2ad/SearchingEyeUnique.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.29
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Inevitability": {
+    "name": "Inevitability",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01hZ21hT3JiVGhyZXNob2xkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0adc0f922f/MagmaOrbThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.26
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fragile Bloom": {
+    "name": "Fragile Bloom",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTIwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f9fae47680/unique20.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.14
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Spirited Response": {
+    "name": "Spirited Response",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0luc3BpcmluZ0NyeU1vZGlmaWVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/062fa5478f/InspiringCryModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.12
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Static Electricity": {
+    "name": "Static Electricity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWw3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0d56abbd9a/GreenJewel7.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.01
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Ancient Waystones": {
+    "name": "Ancient Waystones",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c41016062a/RedCorrupt2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Blood Sacrifice": {
+    "name": "Blood Sacrifice",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQ1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e7dd1314c2/RedCorrupt5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Brute Force Solution": {
+    "name": "Brute Force Solution",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NUUnRvSU5UIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d8b66f795b/STRtoINT.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Conqueror's Potency": {
+    "name": "Conqueror's Potency",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0hpZ2hRdWVzdFJld2FyZEJsdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5fd874adf1/HighQuestRewardBlue.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Might in All Forms": {
+    "name": "Might in All Forms",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEpld2VsNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dd6b13c77c/RedJewel7.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Sacrificial Harvest": {
+    "name": "Sacrificial Harvest",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8f680f3f5f/GreenCorrupt1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Spirit Guards": {
+    "name": "Spirit Guards",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0FuaW1hdGVXZWFwb25Nb2RpZmllciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/fa57cffc65/AnimateWeaponModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Survival Secrets": {
+    "name": "Survival Secrets",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTEyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/53a93d4ed6/unique12.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Unstable Payload": {
+    "name": "Unstable Payload",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad145cc657/BlueJewel1.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Weight of Sin": {
+    "name": "Weight of Sin",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8c6a37df31/GreenCorrupt4.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Winter's Bounty": {
+    "name": "Winter's Bounty",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0NvbGRTbmFwTW9kaWZpZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2317d5b5a8/ColdSnapModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Omen on the Winds": {
+    "name": "Omen on the Winds",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0ljZVNob3RUaHJlc2hvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ed9a279d5a/IceShotThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Wildfire": {
+    "name": "Wildfire",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01vbHRlblN0cmlrZVRocmVzaG9sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8afc18e10d/MoltenStrikeThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Soul's Wick": {
+    "name": "Soul's Wick",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NvdWxzV2ljayIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b2d5441281/SoulsWick.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Tempered Spirit": {
+    "name": "Tempered Spirit",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1RlbXBlcmVkR3JlZW4iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/29ecf43831/TemperedGreen.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Seething Fury": {
+    "name": "Seething Fury",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NwZWN0cmFsVGhyb3dUaHJlc2hvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6de1cd92c9/SpectralThrowThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Brittle Barrier": {
+    "name": "Brittle Barrier",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVDb3JydXB0NSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a7548a552f/BlueCorrupt5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.96
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Divine Inferno": {
+    "name": "Divine Inferno",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0luZmVybmFsQ3J5VGhyZXNob2xkSmV3ZWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7f9f318aa4/InfernalCryThresholdJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.91
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Energised Armour": {
+    "name": "Energised Armour",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEpld2VsNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5d09a69cbc/RedJewel5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.7
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Ring of Blades": {
+    "name": "Ring of Blades",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0V0aGVyZWFsS25pdmVzVGhyZXNob2xkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/542a20ca80/EtherealKnivesThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.5
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Endless Misery": {
+    "name": "Endless Misery",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0Rpc2NoYXJnZVRocmVzaG9sZEpld2VsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c7885d4264/DischargeThresholdJewel.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.39
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Might and Influence": {
+    "name": "Might and Influence",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0R1YWxTdHJpa2VUaHJlc2hvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5b9cbffbf2/DualStrikeThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.36
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Self-Flagellation": {
+    "name": "Self-Flagellation",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6aa93279b6/GreenCorrupt5.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.35
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Reckless Defence": {
+    "name": "Reckless Defence",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlY2tsZXNzRGVmZW5zZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/923e6cb6b5/RecklessDefense.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.32
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Fight for Survival": {
+    "name": "Fight for Survival",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0Zyb3N0QmxhZGVzVGhyZXNob2xkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/62b32a4ed2/FrostBladesThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.14
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Hazardous Research": {
+    "name": "Hazardous Research",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1NwYXJrVGhyZXNob2xkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/97b32096d9/SparkThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.05
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Assassin's Haste": {
+    "name": "Assassin's Haste",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pZFF1ZXN0UmV3YXJkQmx1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4deca4bcec/MidQuestRewardBlue.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Coated Shrapnel": {
+    "name": "Coated Shrapnel",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEpld2VsMTAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b92beb13aa/RedJewel10.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Conqueror's Longevity": {
+    "name": "Conqueror's Longevity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0hpZ2hRdWVzdFJld2FyZEdyZWVuIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/701a835519/HighQuestRewardGreen.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Fertile Mind": {
+    "name": "Fertile Mind",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0RFWHRvSU5UIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b363fdbd52/DEXtoINT.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Fragility": {
+    "name": "Fragility",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZENvcnJ1cHQ2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/161d0c411c/RedCorrupt6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Malicious Intent": {
+    "name": "Malicious Intent",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsdWVKZXdlbDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/087fd9ba1c/BlueJewel3.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Pacifism": {
+    "name": "Pacifism",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuQ29ycnVwdDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1b1c1912b2/GreenCorrupt6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Poacher's Aim": {
+    "name": "Poacher's Aim",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pZFF1ZXN0UmV3YXJkR3JlZW4iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0e9b78f260/MidQuestRewardGreen.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Pugilist": {
+    "name": "Pugilist",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0dyZWVuSmV3ZWw2IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c069ac1493/GreenJewel6.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Rolling Flames": {
+    "name": "Rolling Flames",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0ZpcmViYWxsTW9kaWZpZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/13fde6a4e0/FireballModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Spire of Stone": {
+    "name": "Spire of Stone",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1JlZEthcnVpMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/69449d4b97/RedKarui2.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Survival Skills": {
+    "name": "Survival Skills",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL3VuaXF1ZTQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/68a2589b98/unique4.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "The Vigil": {
+    "name": "The Vigil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL1ZpZ2lsYW50ZU1vZGlmaWVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/29c8606595/VigilanteModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Volley Fire": {
+    "name": "Volley Fire",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JhcnJhZ2VNb2RpZmllciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/97cd7a8046/BarrageModifier.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Warlord's Reach": {
+    "name": "Warlord's Reach",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL01pZFF1ZXN0UmV3YXJkUmVkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b920f106cf/MidQuestRewardRed.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Spreading Rot": {
+    "name": "Spreading Rot",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvSmV3ZWxzL0JsaWdodFRocmVzaG9sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/046baee7a6/BlightThreshold.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  }
+}

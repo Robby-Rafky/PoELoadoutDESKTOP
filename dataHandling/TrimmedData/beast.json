@@ -1,0 +1,1861 @@
+{
+  "Farrul, First of the Plains": {
+    "name": "Farrul, First of the Plains",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 83.69
+    },
+    "exaltedValue": {
+      "Base": 0.86
+    }
+  },
+  "Craicic Chimeral": {
+    "name": "Craicic Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 81.64
+    },
+    "exaltedValue": {
+      "Base": 0.84
+    }
+  },
+  "Saqawine Vulture": {
+    "name": "Saqawine Vulture",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 65.72
+    },
+    "exaltedValue": {
+      "Base": 0.67
+    }
+  },
+  "Fenumal Plagued Arachnid": {
+    "name": "Fenumal Plagued Arachnid",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 55.04
+    },
+    "exaltedValue": {
+      "Base": 0.56
+    }
+  },
+  "Fetid Maw": {
+    "name": "Fetid Maw",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 50.0
+    },
+    "exaltedValue": {
+      "Base": 0.51
+    }
+  },
+  "Fenumus, First of the Night": {
+    "name": "Fenumus, First of the Night",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 48.06
+    },
+    "exaltedValue": {
+      "Base": 0.49
+    }
+  },
+  "Devourer": {
+    "name": "Devourer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 34.58
+    },
+    "exaltedValue": {
+      "Base": 0.35
+    }
+  },
+  "Mountain Hellion Alpha": {
+    "name": "Mountain Hellion Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 25.0
+    },
+    "exaltedValue": {
+      "Base": 0.26
+    }
+  },
+  "Craicic Maw": {
+    "name": "Craicic Maw",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 0.2
+    }
+  },
+  "Saqawine Cobra": {
+    "name": "Saqawine Cobra",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 0.2
+    }
+  },
+  "Farric Tiger Alpha": {
+    "name": "Farric Tiger Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 19.57
+    },
+    "exaltedValue": {
+      "Base": 0.2
+    }
+  },
+  "Corrupted Rhoa": {
+    "name": "Corrupted Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 14.05
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    }
+  },
+  "Farric Wolf Alpha": {
+    "name": "Farric Wolf Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 13.57
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    }
+  },
+  "Saqawal, First of the Sky": {
+    "name": "Saqawal, First of the Sky",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.1
+    }
+  },
+  "Farric Lynx Alpha": {
+    "name": "Farric Lynx Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 9.04
+    },
+    "exaltedValue": {
+      "Base": 0.09
+    }
+  },
+  "Craiceann, First of the Deep": {
+    "name": "Craiceann, First of the Deep",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 3,
+    "chaosValue": {
+      "Base": 8.41
+    },
+    "exaltedValue": {
+      "Base": 0.09
+    }
+  },
+  "Fenumal Hybrid Arachnid": {
+    "name": "Fenumal Hybrid Arachnid",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 8.04
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Craicic Vassal": {
+    "name": "Craicic Vassal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 7.92
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Craicic Savage Crab": {
+    "name": "Craicic Savage Crab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 7.53
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    }
+  },
+  "Farric Frost Hellion Alpha": {
+    "name": "Farric Frost Hellion Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 6.75
+    },
+    "exaltedValue": {
+      "Base": 0.07
+    }
+  },
+  "Goatman Fire-raiser": {
+    "name": "Goatman Fire-raiser",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 6.1
+    },
+    "exaltedValue": {
+      "Base": 0.06
+    }
+  },
+  "Freezing Wolf": {
+    "name": "Freezing Wolf",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Sewage Crawler": {
+    "name": "Sewage Crawler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Colossus Crusher": {
+    "name": "Colossus Crusher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Infested Skitterer": {
+    "name": "Infested Skitterer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.72
+    },
+    "exaltedValue": {
+      "Base": 0.04
+    }
+  },
+  "Fenumal Devourer": {
+    "name": "Fenumal Devourer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.33
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Infested Crab": {
+    "name": "Infested Crab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.33
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Mountain Lynx": {
+    "name": "Mountain Lynx",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.2
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Elder-Blessed Hellion": {
+    "name": "Elder-Blessed Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.2
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Filth Maw": {
+    "name": "Filth Maw",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.11
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Venomous Spawn": {
+    "name": "Venomous Spawn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.11
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Gravel Eater": {
+    "name": "Gravel Eater",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.11
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Merveil's Favoured": {
+    "name": "Merveil's Favoured",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.11
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Escaped Rhex": {
+    "name": "Escaped Rhex",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Pitbull Demon": {
+    "name": "Pitbull Demon",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Host Chieftain": {
+    "name": "Host Chieftain",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Elder-Blessed Rhoa": {
+    "name": "Elder-Blessed Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Grazing Taurus": {
+    "name": "Grazing Taurus",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Merveil's Daughter": {
+    "name": "Merveil's Daughter",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Elder-Blessed Goatman": {
+    "name": "Elder-Blessed Goatman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Elder-Blessed Retch": {
+    "name": "Elder-Blessed Retch",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.1
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Hybrid Arachnid": {
+    "name": "Hybrid Arachnid",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Maternal Rhex": {
+    "name": "Maternal Rhex",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Carnage Ape": {
+    "name": "Carnage Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Vaulting Croaker": {
+    "name": "Vaulting Croaker",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Singing Siren": {
+    "name": "Singing Siren",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Infested Maw": {
+    "name": "Infested Maw",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Brine Vassal": {
+    "name": "Brine Vassal",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Adolescent Rhex": {
+    "name": "Adolescent Rhex",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Ink Spinner": {
+    "name": "Ink Spinner",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Stygian Ape": {
+    "name": "Stygian Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Mountain Hellion": {
+    "name": "Mountain Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Alpine Devil": {
+    "name": "Alpine Devil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Infested Tunnelfiend": {
+    "name": "Infested Tunnelfiend",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Blood Chieftain": {
+    "name": "Blood Chieftain",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Mindless Scavenger": {
+    "name": "Mindless Scavenger",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Corrupted Arach": {
+    "name": "Corrupted Arach",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Crustacean Sniper": {
+    "name": "Crustacean Sniper",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Forest Beast": {
+    "name": "Forest Beast",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Slimy Nemesis": {
+    "name": "Slimy Nemesis",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Rock Spitter": {
+    "name": "Rock Spitter",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Bleached Crawler": {
+    "name": "Bleached Crawler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Obsidian Eater": {
+    "name": "Obsidian Eater",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Bone Rhoa": {
+    "name": "Bone Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Infested Rhoa": {
+    "name": "Infested Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Thicket Hulk": {
+    "name": "Thicket Hulk",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Infested Crawler": {
+    "name": "Infested Crawler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Savage Crab": {
+    "name": "Savage Crab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Armour Cruncher": {
+    "name": "Armour Cruncher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Shaggy Monstrosity": {
+    "name": "Shaggy Monstrosity",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Elder-Blessed Cobra": {
+    "name": "Elder-Blessed Cobra",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Corrupted Beast": {
+    "name": "Corrupted Beast",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Enraptured Beast": {
+    "name": "Enraptured Beast",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Host Adder": {
+    "name": "Host Adder",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Cave Beast": {
+    "name": "Cave Beast",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Tercel Rhoa": {
+    "name": "Tercel Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Farric Taurus": {
+    "name": "Farric Taurus",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.66
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Craicic Spider Crab": {
+    "name": "Craicic Spider Crab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.66
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Spine Serpent": {
+    "name": "Spine Serpent",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.51
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Bearded Skycaller": {
+    "name": "Bearded Skycaller",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.5
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    }
+  },
+  "Dread Primate": {
+    "name": "Dread Primate",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bearded Shaman": {
+    "name": "Bearded Shaman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Avian Retch": {
+    "name": "Avian Retch",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Goatman Shaman": {
+    "name": "Goatman Shaman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Shackled Hellion": {
+    "name": "Shackled Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Scum Crawler": {
+    "name": "Scum Crawler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.4
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Blood Ape": {
+    "name": "Blood Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.3
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Barrow Ape": {
+    "name": "Barrow Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.3
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Enslaved Hellion": {
+    "name": "Enslaved Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.3
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Carnage Chieftain": {
+    "name": "Carnage Chieftain",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.21
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Alpine Shaman": {
+    "name": "Alpine Shaman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.21
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Talon Archer": {
+    "name": "Talon Archer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.21
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Murk Runner": {
+    "name": "Murk Runner",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.21
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Rhoa Mare": {
+    "name": "Rhoa Mare",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.21
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Wild Rhex": {
+    "name": "Wild Rhex",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.2
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Snow Wolf": {
+    "name": "Snow Wolf",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.2
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Soulless Watcher": {
+    "name": "Soulless Watcher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.2
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Goatman": {
+    "name": "Goatman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.18
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Purge Hound": {
+    "name": "Purge Hound",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Plumed Chimeral": {
+    "name": "Plumed Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Plated Parasite": {
+    "name": "Plated Parasite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Night Adder": {
+    "name": "Night Adder",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Host Cobra": {
+    "name": "Host Cobra",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bramble Cobra": {
+    "name": "Bramble Cobra",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Acid Slitherer": {
+    "name": "Acid Slitherer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Barb Serpent": {
+    "name": "Barb Serpent",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.11
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Spindle Spider": {
+    "name": "Spindle Spider",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.1
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Feral Chimeral": {
+    "name": "Feral Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.04
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Skeletal Beast": {
+    "name": "Skeletal Beast",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.04
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Farric Goliath": {
+    "name": "Farric Goliath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Craicic Watcher": {
+    "name": "Craicic Watcher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Farric Magma Hound": {
+    "name": "Farric Magma Hound",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fenumal Scorpion": {
+    "name": "Fenumal Scorpion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Farric Pit Hound": {
+    "name": "Farric Pit Hound",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Saqawine Blood Viper": {
+    "name": "Saqawine Blood Viper",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Sand Skitterer": {
+    "name": "Sand Skitterer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Vicious Parasite": {
+    "name": "Vicious Parasite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Infested Ape": {
+    "name": "Infested Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Spitting Parasite": {
+    "name": "Spitting Parasite",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Carrion Queen": {
+    "name": "Carrion Queen",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Glade Mamba": {
+    "name": "Glade Mamba",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Saqawine Rhex": {
+    "name": "Saqawine Rhex",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.95
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Sulphurspawn": {
+    "name": "Sulphurspawn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.92
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Porcupine Goliath": {
+    "name": "Porcupine Goliath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.91
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Avalanche Rider": {
+    "name": "Avalanche Rider",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.91
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Rooster Fiend": {
+    "name": "Rooster Fiend",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.91
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bone Cruncher": {
+    "name": "Bone Cruncher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.91
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-touched Croaker": {
+    "name": "Chrome-touched Croaker",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.9
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chimeric Croaker": {
+    "name": "Chimeric Croaker",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.9
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Carrion Burrower": {
+    "name": "Carrion Burrower",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.85
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fenumal Scrabbler": {
+    "name": "Fenumal Scrabbler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.83
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Dune Hellion": {
+    "name": "Dune Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.83
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Bearded Devil": {
+    "name": "Bearded Devil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.82
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Hill Devil": {
+    "name": "Hill Devil",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.82
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-infused Goliath": {
+    "name": "Chrome-infused Goliath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.82
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Carrion Swarmer": {
+    "name": "Carrion Swarmer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.82
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Flame Hellion": {
+    "name": "Flame Hellion",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.81
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fury Hound": {
+    "name": "Fury Hound",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.8
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Sand Leaper": {
+    "name": "Sand Leaper",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.78
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Dust Scrabbler": {
+    "name": "Dust Scrabbler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.78
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-touched Goliath": {
+    "name": "Chrome-touched Goliath",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.78
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Hairy Bonecruncher": {
+    "name": "Hairy Bonecruncher",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.78
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-infused Croaker": {
+    "name": "Chrome-infused Croaker",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Merveil's Attendant": {
+    "name": "Merveil's Attendant",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Gluttonous Gull": {
+    "name": "Gluttonous Gull",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Merveil's Retainer": {
+    "name": "Merveil's Retainer",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Cursed Spawn": {
+    "name": "Cursed Spawn",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Merveil's Chosen": {
+    "name": "Merveil's Chosen",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fenumal Queen": {
+    "name": "Fenumal Queen",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.75
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-infused Chimeral": {
+    "name": "Chrome-infused Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.74
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Granite Eater": {
+    "name": "Granite Eater",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.74
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Chrome-touched Chimeral": {
+    "name": "Chrome-touched Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.74
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Dirt Scrabbler": {
+    "name": "Dirt Scrabbler",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.74
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Plummeting Ursa": {
+    "name": "Plummeting Ursa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.74
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Merveil's Blessed": {
+    "name": "Merveil's Blessed",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.63
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Fighting Bull": {
+    "name": "Fighting Bull",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.63
+    },
+    "exaltedValue": {
+      "Base": 0.02
+    }
+  },
+  "Saqawine Retch": {
+    "name": "Saqawine Retch",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.41
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Saqawine Chimeral": {
+    "name": "Saqawine Chimeral",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.21
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Farric Flame Hellion Alpha": {
+    "name": "Farric Flame Hellion Alpha",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.21
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Farric Ape": {
+    "name": "Farric Ape",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 1.1
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Farric Chieftain": {
+    "name": "Farric Chieftain",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.9
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Farric Goatman": {
+    "name": "Farric Goatman",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.83
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Fenumal Widow": {
+    "name": "Fenumal Widow",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.55
+    },
+    "exaltedValue": {
+      "Base": 0.01
+    }
+  },
+  "Craicic Sand Spitter": {
+    "name": "Craicic Sand Spitter",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.46
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Farric Gargantuan": {
+    "name": "Farric Gargantuan",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.38
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Craicic Shield Crab": {
+    "name": "Craicic Shield Crab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.37
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Saqawine Rhoa": {
+    "name": "Saqawine Rhoa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.36
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Farric Ursa": {
+    "name": "Farric Ursa",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.22
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  },
+  "Craicic Squid": {
+    "name": "Craicic Squid",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 0.21
+    },
+    "exaltedValue": {
+      "Base": 0.0
+    }
+  }
+}

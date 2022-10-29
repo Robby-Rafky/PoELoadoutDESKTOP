@@ -1,0 +1,3464 @@
+{
+  "lines": [
+    {
+      "id": 96510,
+      "name": "Blight-ravaged Bone Crypt Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/7d28622ead/Catacomb.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Bone Crypt Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          22211.17,
+          34629.73,
+          40388.8
+        ],
+        "totalChange": 40388.8
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 12766.12,
+      "exaltedValue": 130.84,
+      "count": 2,
+      "detailsId": "blight-ravaged-bone-crypt-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 95963,
+      "name": "Blight-ravaged Spider Forest Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TcGlkZXJGb3Jlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/f967138288/SpiderForest.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Spider Forest Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -1.47,
+          -17.55,
+          -28.72,
+          -42.83,
+          -30.4,
+          -29.75
+        ],
+        "totalChange": -29.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 390.28,
+      "exaltedValue": 4.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-spider-forest-map-t16-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96589,
+      "name": "Blight-ravaged Desert Spring Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PYXNpcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/ddd1f51772/Oasis.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Desert Spring Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -1.47,
+          -17.55,
+          -28.72,
+          -42.83,
+          -30.4,
+          -29.75
+        ],
+        "totalChange": -29.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 390.28,
+      "exaltedValue": 4.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-desert-spring-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 96333,
+      "name": "Blight-ravaged Lava Chamber Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcmVtYXRvcml1bSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/e6bcd229a2/Crematorium.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Lava Chamber Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.12,
+          136.54,
+          150.52,
+          105.59,
+          150.27,
+          152.61
+        ],
+        "totalChange": 152.61
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 292.71,
+      "exaltedValue": 3.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-lava-chamber-map-t16-gen-14",
+      "listingCount": 10
+    },
+    {
+      "id": 96475,
+      "name": "Blight-ravaged Overgrown Shrine Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PdmVyZ3Jvd25TaHJpbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/48706c32be/OvergrownShrine.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Overgrown Shrine Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          null,
+          null,
+          220.67
+        ],
+        "totalChange": 220.67
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 288.6,
+      "exaltedValue": 2.96,
+      "count": 1,
+      "detailsId": "blight-ravaged-overgrown-shrine-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96385,
+      "name": "Blight-ravaged Reef Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SZWVmIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE0LCJtdWIiOnRydWV9XQ/4dfd394f62/Reef.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Reef Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          13.0,
+          4.4,
+          -1.66,
+          -9.68,
+          205.6,
+          274.64
+        ],
+        "totalChange": 274.64
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 195.14,
+      "exaltedValue": 2.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-reef-map-t14-gen-14",
+      "listingCount": 12
+    },
+    {
+      "id": 96528,
+      "name": "Blight-ravaged Atoll Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BdG9sbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/7f9bdfb18f/Atoll.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Atoll Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -5.06,
+          151.25,
+          54.75,
+          -15.94,
+          58.02,
+          105.25
+        ],
+        "totalChange": 105.25
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 192.4,
+      "exaltedValue": 1.97,
+      "count": 1,
+      "detailsId": "blight-ravaged-atoll-map-t16-gen-14",
+      "listingCount": 1
+    },
+    {
+      "id": 96382,
+      "name": "Blight-ravaged Glacier Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9HbGFjaWVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/c32d118b7b/Glacier.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Glacier Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          42.0,
+          22.28,
+          null,
+          null,
+          null
+        ],
+        "totalChange": 22.28
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          42.0,
+          22.28,
+          8.27,
+          43.9,
+          168.53
+        ],
+        "totalChange": 168.53
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 180.32,
+      "exaltedValue": 1.85,
+      "count": 2,
+      "detailsId": "blight-ravaged-glacier-map-t16-gen-14",
+      "listingCount": 22
+    },
+    {
+      "id": 96527,
+      "name": "Blight-ravaged Crimson Temple Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TYW5jdHVhcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/777dfddb81/Sanctuary.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Crimson Temple Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -9.33,
+          -23.88,
+          0.35,
+          -28.55,
+          -16.84,
+          -14.56
+        ],
+        "totalChange": -14.56
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 128.88,
+      "exaltedValue": 1.32,
+      "count": 4,
+      "detailsId": "blight-ravaged-crimson-temple-map-t15-gen-14",
+      "listingCount": 34
+    },
+    {
+      "id": 96001,
+      "name": "Blight-ravaged Strand Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/0728261697/Strand.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Strand Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -19.73,
+          -11.34,
+          null,
+          18.55,
+          null,
+          null
+        ],
+        "totalChange": 18.55
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -19.73,
+          -11.34,
+          41.54,
+          18.55,
+          85.36,
+          85.36
+        ],
+        "totalChange": 85.36
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 120.0,
+      "exaltedValue": 1.23,
+      "count": 2,
+      "detailsId": "blight-ravaged-strand-map-t16-gen-14",
+      "listingCount": 47
+    },
+    {
+      "id": 96560,
+      "name": "Blight-ravaged Reef Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SZWVmIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/be85c12d1e/Reef.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Reef Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 111.0,
+      "exaltedValue": 1.14,
+      "count": 1,
+      "detailsId": "blight-ravaged-reef-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96217,
+      "name": "Blight-ravaged Tropical Island Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Ucm9waWNhbElzbGFuZCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/05e379cbe8/TropicalIsland.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Tropical Island Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          103.36,
+          99.84,
+          99.84,
+          99.84,
+          99.84,
+          99.84
+        ],
+        "totalChange": 99.84
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 100.0,
+      "exaltedValue": 1.02,
+      "count": 1,
+      "detailsId": "blight-ravaged-tropical-island-map-t16-gen-14",
+      "listingCount": 7
+    },
+    {
+      "id": 96344,
+      "name": "Blight-ravaged Dunes Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5lcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/b983fffe04/Dunes.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Dunes Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          7.96,
+          -2.65,
+          null,
+          null,
+          224.49,
+          224.49
+        ],
+        "totalChange": 224.49
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 100.0,
+      "exaltedValue": 1.02,
+      "count": 1,
+      "detailsId": "blight-ravaged-dunes-map-t16-gen-14",
+      "listingCount": 16
+    },
+    {
+      "id": 96431,
+      "name": "Blight-ravaged Bazaar Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXphYXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/63d6c02cef/Bazaar.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Bazaar Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          0,
+          96.56,
+          151.76,
+          151.76
+        ],
+        "totalChange": 151.76
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 100.0,
+      "exaltedValue": 1.02,
+      "count": 1,
+      "detailsId": "blight-ravaged-bazaar-map-t15-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96519,
+      "name": "Blight-ravaged Necropolis Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9OZWNyb3BvbGlzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE0LCJtdWIiOnRydWV9XQ/83919ae4bb/Necropolis.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Necropolis Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          40,
+          40,
+          40,
+          40,
+          300,
+          300
+        ],
+        "totalChange": 300
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 100.0,
+      "exaltedValue": 1.02,
+      "count": 1,
+      "detailsId": "blight-ravaged-necropolis-map-t14-gen-14",
+      "listingCount": 11
+    },
+    {
+      "id": 96526,
+      "name": "Blight-ravaged Shore Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaG9yZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/ae2c14864f/Shore.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Shore Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          25.83,
+          164.9,
+          164.9,
+          120.75,
+          120.75,
+          120.75
+        ],
+        "totalChange": 120.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 100.0,
+      "exaltedValue": 1.02,
+      "count": 1,
+      "detailsId": "blight-ravaged-shore-map-t16-gen-14",
+      "listingCount": 10
+    },
+    {
+      "id": 96392,
+      "name": "Blight-ravaged Cemetery Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZW1ldGVyeSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/3aa8232a96/Cemetery.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Cemetery Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.29,
+          -16.05,
+          -27.42,
+          -41.79,
+          -29.14,
+          -28.48
+        ],
+        "totalChange": -28.48
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 97.57,
+      "exaltedValue": 1.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-cemetery-map-t15-gen-14",
+      "listingCount": 8
+    },
+    {
+      "id": 97038,
+      "name": "Blight-ravaged Necropolis Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9OZWNyb3BvbGlzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/b625a951f5/Necropolis.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Necropolis Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.33,
+          -16.04,
+          -27.42,
+          -41.78,
+          -29.13,
+          -28.47
+        ],
+        "totalChange": -28.47
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 97.57,
+      "exaltedValue": 1.0,
+      "count": 1,
+      "detailsId": "blight-ravaged-necropolis-map-t15-gen-14",
+      "listingCount": 1
+    },
+    {
+      "id": 96524,
+      "name": "Blight-ravaged Armoury Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Bcm1vcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/c9a1c56fee/Armory.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Armoury Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          0,
+          15.97
+        ],
+        "totalChange": 15.97
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 96.2,
+      "exaltedValue": 0.99,
+      "count": 1,
+      "detailsId": "blight-ravaged-armoury-map-t15-gen-14",
+      "listingCount": 6
+    },
+    {
+      "id": 96295,
+      "name": "Blight-ravaged City Square Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaXR5U3F1YXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE0LCJtdWIiOnRydWV9XQ/c00ee2a5aa/CitySquare.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged City Square Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          null,
+          0,
+          -1.84,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": -1.84
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          2.11,
+          0.23,
+          19.05,
+          19.05,
+          19.05,
+          207.22
+        ],
+        "totalChange": 207.22
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 80.0,
+      "exaltedValue": 0.82,
+      "count": 3,
+      "detailsId": "blight-ravaged-city-square-map-t14-gen-14",
+      "listingCount": 27
+    },
+    {
+      "id": 97219,
+      "name": "Blight-ravaged City Square Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaXR5U3F1YXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/a25519d9ec/CitySquare.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged City Square Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          null,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 80.0,
+      "exaltedValue": 0.82,
+      "count": 1,
+      "detailsId": "blight-ravaged-city-square-map-t15-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96605,
+      "name": "Blight-ravaged Moon Temple Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MdW5hcmlzVGVtcGxlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/b14ff9f21a/LunarisTemple.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Moon Temple Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 75.0,
+      "exaltedValue": 0.77,
+      "count": 1,
+      "detailsId": "blight-ravaged-moon-temple-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 96338,
+      "name": "Blight-ravaged Crimson Temple Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TYW5jdHVhcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/24347194e3/Sanctuary.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Crimson Temple Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          35.05,
+          93.8,
+          33.09,
+          28.83,
+          88.4,
+          47.87
+        ],
+        "totalChange": 47.87
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          35.05,
+          93.8,
+          33.09,
+          28.83,
+          88.4,
+          47.87
+        ],
+        "totalChange": 47.87
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 61.04,
+      "exaltedValue": 0.63,
+      "count": 9,
+      "detailsId": "blight-ravaged-crimson-temple-map-t16-gen-14",
+      "listingCount": 132
+    },
+    {
+      "id": 96427,
+      "name": "Blight-ravaged Laboratory Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWJvcmF0b3J5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/d44ce47cd5/Laboratory.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Laboratory Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -2.56,
+          -2.56,
+          -2.56,
+          -5.15,
+          -5.15,
+          -5.15
+        ],
+        "totalChange": -5.15
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 60.0,
+      "exaltedValue": 0.61,
+      "count": 1,
+      "detailsId": "blight-ravaged-laboratory-map-t16-gen-14",
+      "listingCount": 7
+    },
+    {
+      "id": 96061,
+      "name": "Blight-ravaged Palace Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYWxhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/626d9171cf/Palace.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Palace Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          5.71,
+          19.53,
+          -13.36,
+          -10.39,
+          29.6,
+          31.47
+        ],
+        "totalChange": 31.47
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          5.71,
+          19.53,
+          -13.36,
+          -10.39,
+          29.6,
+          31.47
+        ],
+        "totalChange": 31.47
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 59.16,
+      "exaltedValue": 0.61,
+      "count": 50,
+      "detailsId": "blight-ravaged-palace-map-t15-gen-14",
+      "listingCount": 298
+    },
+    {
+      "id": 96637,
+      "name": "Blight-ravaged Strand Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/0e4cd823ef/Strand.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Strand Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          28.97,
+          17.45,
+          10.96,
+          2.42,
+          10.18,
+          12.05
+        ],
+        "totalChange": 12.05
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 56.61,
+      "exaltedValue": 0.58,
+      "count": 2,
+      "detailsId": "blight-ravaged-strand-map-t15-gen-14",
+      "listingCount": 14
+    },
+    {
+      "id": 96115,
+      "name": "Blight-ravaged Beach Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNCwibXViIjp0cnVlfV0/daa421882d/Beach.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Beach Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0.14,
+          14.97,
+          35.73,
+          86.67
+        ],
+        "totalChange": 86.67
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0.14,
+          14.97,
+          35.73,
+          86.67
+        ],
+        "totalChange": 86.67
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 56.0,
+      "exaltedValue": 0.57,
+      "count": 60,
+      "detailsId": "blight-ravaged-beach-map-t14-gen-14",
+      "listingCount": 303
+    },
+    {
+      "id": 95896,
+      "name": "Blight-ravaged Mesa Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/0d0f222783/Mesa.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Mesa Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          14.95,
+          138.17,
+          80.82,
+          0.39,
+          4.32,
+          4.52
+        ],
+        "totalChange": 4.52
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 50.26,
+      "exaltedValue": 0.52,
+      "count": 2,
+      "detailsId": "blight-ravaged-mesa-map-t16-gen-14",
+      "listingCount": 8
+    },
+    {
+      "id": 96180,
+      "name": "Blight-ravaged Cursed Crypt Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcnlwdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/b94e890563/Crypt.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Cursed Crypt Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -5.06,
+          -8.19,
+          -8.29,
+          -8.29,
+          -9.36,
+          26.74
+        ],
+        "totalChange": 26.74
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -5.06,
+          -8.19,
+          -8.29,
+          -8.29,
+          -9.36,
+          26.74
+        ],
+        "totalChange": 26.74
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 50.0,
+      "exaltedValue": 0.51,
+      "count": 56,
+      "detailsId": "blight-ravaged-cursed-crypt-map-t15-gen-14",
+      "listingCount": 251
+    },
+    {
+      "id": 95926,
+      "name": "Blight-ravaged Lava Lake Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/ee96a93c4e/Corpse.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Lava Lake Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -32.22,
+          -32.22,
+          -34.37,
+          -38.13,
+          -35.36,
+          20.91
+        ],
+        "totalChange": 20.91
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -32.22,
+          -32.22,
+          -34.37,
+          -38.13,
+          -35.36,
+          20.91
+        ],
+        "totalChange": 20.91
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 48.86,
+      "exaltedValue": 0.5,
+      "count": 90,
+      "detailsId": "blight-ravaged-lava-lake-map-t16-gen-14",
+      "listingCount": 331
+    },
+    {
+      "id": 95962,
+      "name": "Blight-ravaged Beach Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/c0682cfcf6/Beach.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Beach Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -3.06,
+          null,
+          null,
+          null,
+          null,
+          8.18
+        ],
+        "totalChange": 8.18
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -3.06,
+          -8.99,
+          -8.99,
+          -13.4,
+          2.18,
+          8.18
+        ],
+        "totalChange": 8.18
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 47.06,
+      "exaltedValue": 0.48,
+      "count": 5,
+      "detailsId": "blight-ravaged-beach-map-t16-gen-14",
+      "listingCount": 23
+    },
+    {
+      "id": 96095,
+      "name": "Blight-ravaged Barrows Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXJyb3dzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/0985e90576/Barrows.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Barrows Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          5.73,
+          -9.54,
+          -11.2,
+          -9.52,
+          -7.22
+        ],
+        "totalChange": -7.22
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          5.73,
+          -9.54,
+          -11.2,
+          -9.52,
+          -7.22
+        ],
+        "totalChange": -7.22
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 46.39,
+      "exaltedValue": 0.48,
+      "count": 43,
+      "detailsId": "blight-ravaged-barrows-map-t15-gen-14",
+      "listingCount": 329
+    },
+    {
+      "id": 96425,
+      "name": "Blight-ravaged Ashen Wood Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlXb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/831d80ed33/DryWoods.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Ashen Wood Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          8.96,
+          -14.16,
+          64.59,
+          -48.62
+        ],
+        "totalChange": -48.62
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 46.24,
+      "exaltedValue": 0.47,
+      "count": 2,
+      "detailsId": "blight-ravaged-ashen-wood-map-t15-gen-14",
+      "listingCount": 7
+    },
+    {
+      "id": 96339,
+      "name": "Blight-ravaged Cells Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZWxscyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/1630fb2dc6/Cells.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Cells Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -0.25,
+          0.05,
+          12.27,
+          12.27
+        ],
+        "totalChange": 12.27
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -0.25,
+          0.05,
+          12.27,
+          12.27
+        ],
+        "totalChange": 12.27
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 44.39,
+      "exaltedValue": 0.45,
+      "count": 5,
+      "detailsId": "blight-ravaged-cells-map-t16-gen-14",
+      "listingCount": 15
+    },
+    {
+      "id": 96631,
+      "name": "Blight-ravaged Armoury Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Bcm1vcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/7eed0f57a0/Armory.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Armoury Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.09,
+          -5.0,
+          -8.6,
+          -13.37,
+          -9.05,
+          -8.84
+        ],
+        "totalChange": -8.84
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 43.6,
+      "exaltedValue": 0.45,
+      "count": 2,
+      "detailsId": "blight-ravaged-armoury-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96753,
+      "name": "Blight-ravaged Temple Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZW1wbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/31ef556e91/Temple.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Temple Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.23,
+          -8.53,
+          -24.0,
+          -27.96,
+          -24.37,
+          -24.2
+        ],
+        "totalChange": -24.2
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 43.6,
+      "exaltedValue": 0.45,
+      "count": 2,
+      "detailsId": "blight-ravaged-temple-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96480,
+      "name": "Blight-ravaged Summit Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdW1taXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/61ceafa9a2/Summit.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Summit Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          4.57,
+          17.43
+        ],
+        "totalChange": 17.43
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 43.45,
+      "exaltedValue": 0.45,
+      "count": 2,
+      "detailsId": "blight-ravaged-summit-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96823,
+      "name": "Blight-ravaged Volcano Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Wb2xjYW5vIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/80aee75f01/Volcano.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Volcano Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.09,
+          -4.69,
+          -8.07,
+          -12.61,
+          -8.47,
+          -8.26
+        ],
+        "totalChange": -8.26
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 43.06,
+      "exaltedValue": 0.44,
+      "count": 3,
+      "detailsId": "blight-ravaged-volcano-map-t16-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96317,
+      "name": "Blight-ravaged Desert Spring Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PYXNpcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/6b27eee86a/Oasis.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Desert Spring Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -6.91,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": -6.91
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -6.91,
+          11.52,
+          11.52,
+          11.52,
+          11.52,
+          -15.88
+        ],
+        "totalChange": -15.88
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 42.5,
+      "exaltedValue": 0.44,
+      "count": 4,
+      "detailsId": "blight-ravaged-desert-spring-map-t15-gen-14",
+      "listingCount": 39
+    },
+    {
+      "id": 96252,
+      "name": "Blight-ravaged Wharf Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XaGFyZiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/aa29824461/Wharf.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Wharf Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -22.45,
+          -22.45,
+          -22.45,
+          -22.45,
+          -6.76,
+          -6.76
+        ],
+        "totalChange": -6.76
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 42.08,
+      "exaltedValue": 0.43,
+      "count": 2,
+      "detailsId": "blight-ravaged-wharf-map-t16-gen-14",
+      "listingCount": 10
+    },
+    {
+      "id": 96413,
+      "name": "Blight-ravaged Cemetery Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZW1ldGVyeSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/4d0f2a584c/Cemetery.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Cemetery Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.03,
+          0.03,
+          0.03,
+          2.51,
+          32.27,
+          32.27
+        ],
+        "totalChange": 32.27
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 41.69,
+      "exaltedValue": 0.43,
+      "count": 2,
+      "detailsId": "blight-ravaged-cemetery-map-t16-gen-14",
+      "listingCount": 13
+    },
+    {
+      "id": 96418,
+      "name": "Blight-ravaged Mineral Pools Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NaW5lcmFsUG9vbHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/5b21183d9e/MineralPools.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Mineral Pools Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.89,
+          -0.89,
+          19.94,
+          8.94,
+          8.94,
+          8.94
+        ],
+        "totalChange": 8.94
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 41.69,
+      "exaltedValue": 0.43,
+      "count": 2,
+      "detailsId": "blight-ravaged-mineral-pools-map-t16-gen-14",
+      "listingCount": 11
+    },
+    {
+      "id": 96419,
+      "name": "Blight-ravaged Toxic Sewer Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXdlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/cc01de93ab/Sewer.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Toxic Sewer Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          null
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          3.51,
+          3.51,
+          0.1
+        ],
+        "totalChange": 0.1
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 41.12,
+      "exaltedValue": 0.42,
+      "count": 4,
+      "detailsId": "blight-ravaged-toxic-sewer-map-t16-gen-14",
+      "listingCount": 18
+    },
+    {
+      "id": 96358,
+      "name": "Blight-ravaged Lookout Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Mb29rb3V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE0LCJtdWIiOnRydWV9XQ/fb11c963ef/Lookout.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Lookout Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -8.69,
+          -7.49,
+          -7.49,
+          -9.33,
+          -9.33,
+          2.64
+        ],
+        "totalChange": 2.64
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -8.69,
+          -7.49,
+          -7.49,
+          -9.33,
+          -9.33,
+          2.64
+        ],
+        "totalChange": 2.64
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 40.31,
+      "exaltedValue": 0.41,
+      "count": 6,
+      "detailsId": "blight-ravaged-lookout-map-t14-gen-14",
+      "listingCount": 36
+    },
+    {
+      "id": 95965,
+      "name": "Blight-ravaged Cells Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZWxscyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/6e745a7726/Cells.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Cells Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -15.8,
+          -14.54,
+          -28.12,
+          -44.06,
+          -43.99,
+          -42.7
+        ],
+        "totalChange": -42.7
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -15.8,
+          -14.54,
+          -28.12,
+          -44.06,
+          -43.99,
+          -42.7
+        ],
+        "totalChange": -42.7
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 39.47,
+      "exaltedValue": 0.4,
+      "count": 68,
+      "detailsId": "blight-ravaged-cells-map-t15-gen-14",
+      "listingCount": 235
+    },
+    {
+      "id": 95904,
+      "name": "Blight-ravaged Strand Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/f4388c7f91/Strand.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Strand Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          2.12,
+          2.85,
+          -0.25,
+          -2.7,
+          -2.9,
+          -2.72
+        ],
+        "totalChange": -2.72
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          2.12,
+          2.85,
+          -0.25,
+          -2.7,
+          -2.9,
+          -2.72
+        ],
+        "totalChange": -2.72
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 38.91,
+      "exaltedValue": 0.4,
+      "count": 77,
+      "detailsId": "blight-ravaged-strand-map-t14-gen-14",
+      "listingCount": 288
+    },
+    {
+      "id": 96028,
+      "name": "Blight-ravaged Fields Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9GaWVsZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/53c2fc2b11/Fields.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Fields Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -0.74,
+          0.22,
+          1.62,
+          1.28,
+          1.81,
+          0.99
+        ],
+        "totalChange": 0.99
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.74,
+          0.22,
+          1.62,
+          1.28,
+          1.81,
+          0.99
+        ],
+        "totalChange": 0.99
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 38.12,
+      "exaltedValue": 0.39,
+      "count": 65,
+      "detailsId": "blight-ravaged-fields-map-t14-gen-14",
+      "listingCount": 298
+    },
+    {
+      "id": 95928,
+      "name": "Blight-ravaged Caldera Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/9ee2df3839/Abyss.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Caldera Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          -5.02,
+          -4.85,
+          -4.92
+        ],
+        "totalChange": -4.92
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          -5.02,
+          -4.85,
+          -4.92
+        ],
+        "totalChange": -4.92
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 38.03,
+      "exaltedValue": 0.39,
+      "count": 99,
+      "detailsId": "blight-ravaged-caldera-map-t16-gen-14",
+      "listingCount": 305
+    },
+    {
+      "id": 96411,
+      "name": "Blight-ravaged Marshes Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXJzaGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/e672f61fa2/Marshes.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Marshes Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -3.31,
+          -3.31,
+          -4.62,
+          null,
+          null,
+          null
+        ],
+        "totalChange": -4.62
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -3.31,
+          -3.31,
+          -4.62,
+          -6.59,
+          -6.59,
+          -6.59
+        ],
+        "totalChange": -6.59
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 4,
+      "detailsId": "blight-ravaged-marshes-map-t16-gen-14",
+      "listingCount": 14
+    },
+    {
+      "id": 96436,
+      "name": "Blight-ravaged Arsenal Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcnNlbmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/785718b2e2/Arsenal.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Arsenal Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-arsenal-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96448,
+      "name": "Blight-ravaged Mausoleum Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXVzb2xldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/226708b42f/Mausoleum.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Mausoleum Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.16,
+          -8.24,
+          -45.1,
+          -45.1,
+          -45.1,
+          -45.1
+        ],
+        "totalChange": -45.1
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-mausoleum-map-t16-gen-14",
+      "listingCount": 7
+    },
+    {
+      "id": 96488,
+      "name": "Blight-ravaged Cage Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/ed30eebb38/Cage.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Cage Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -4.17,
+          -4.17,
+          -4.17,
+          -4.17,
+          -4.17,
+          -4.17
+        ],
+        "totalChange": -4.17
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-cage-map-t16-gen-14",
+      "listingCount": 11
+    },
+    {
+      "id": 96507,
+      "name": "Blight-ravaged Tower Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Ub3dlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/6ff485d7d4/Tower.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Tower Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.19,
+          -6.44,
+          41.14,
+          -9.35,
+          7.18,
+          -33.0
+        ],
+        "totalChange": -33.0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-tower-map-t16-gen-14",
+      "listingCount": 7
+    },
+    {
+      "id": 96538,
+      "name": "Blight-ravaged Infested Valley Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9JbmZlc3RhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/cd65ced8ea/Infestation.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Infested Valley Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-infested-valley-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96543,
+      "name": "Blight-ravaged Acid Caverns Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyVmVudHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/d7e69ac427/SulphurVents.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Acid Caverns Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -21.14,
+          -21.14,
+          -21.14,
+          -21.14,
+          -21.14,
+          -21.14
+        ],
+        "totalChange": -21.14
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-acid-caverns-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 96567,
+      "name": "Blight-ravaged Primordial Pool Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcmltb3JkaWFsUG9vbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/99847d9c96/PrimordialPool.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Primordial Pool Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-primordial-pool-map-t16-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96579,
+      "name": "Blight-ravaged Bog Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Cb2ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/0e55d58724/Bog.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Bog Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          41.22,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-bog-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96633,
+      "name": "Blight-ravaged Crimson Township Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/fad4d72220/CrimsonTownship.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Crimson Township Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -26.43,
+          -26.43,
+          -26.43,
+          -26.43,
+          58.25,
+          58.25
+        ],
+        "totalChange": 58.25
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-crimson-township-map-t16-gen-14",
+      "listingCount": 8
+    },
+    {
+      "id": 96672,
+      "name": "Blight-ravaged Sepulchre Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXB1bGNocmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/83977567b5/Sepulchre.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Sepulchre Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-sepulchre-map-t16-gen-14",
+      "listingCount": 6
+    },
+    {
+      "id": 96676,
+      "name": "Blight-ravaged Peninsula Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlQZW5pbnN1bGEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/5c85401160/DryPeninsula.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Peninsula Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.14,
+          -21.08,
+          -34.83,
+          -28.51,
+          -34.83,
+          -34.83
+        ],
+        "totalChange": -34.83
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 37.0,
+      "exaltedValue": 0.38,
+      "count": 1,
+      "detailsId": "blight-ravaged-peninsula-map-t16-gen-14",
+      "listingCount": 1
+    },
+    {
+      "id": 96409,
+      "name": "Blight-ravaged Canyon Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYW55b24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/9ed3ff2344/Canyon.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Canyon Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -15.84,
+          -15.84,
+          -26.89,
+          -27.85,
+          -27.85,
+          -27.85
+        ],
+        "totalChange": -27.85
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 36.04,
+      "exaltedValue": 0.37,
+      "count": 3,
+      "detailsId": "blight-ravaged-canyon-map-t16-gen-14",
+      "listingCount": 15
+    },
+    {
+      "id": 96311,
+      "name": "Blight-ravaged Gardens Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZXJyYWNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/0b77b4577a/Terrace.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Gardens Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          -3.08,
+          9.36,
+          9.36,
+          9.89,
+          10.42
+        ],
+        "totalChange": 10.42
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          -3.08,
+          9.36,
+          9.36,
+          9.89,
+          10.42
+        ],
+        "totalChange": 10.42
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 35.5,
+      "exaltedValue": 0.36,
+      "count": 7,
+      "detailsId": "blight-ravaged-gardens-map-t15-gen-14",
+      "listingCount": 47
+    },
+    {
+      "id": 96508,
+      "name": "Blight-ravaged City Square Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaXR5U3F1YXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/c4780ba6e5/CitySquare.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged City Square Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -0.56,
+          -0.56,
+          -1.09,
+          -1.09
+        ],
+        "totalChange": -1.09
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -0.56,
+          -0.56,
+          -1.09,
+          -1.09
+        ],
+        "totalChange": -1.09
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 35.4,
+      "exaltedValue": 0.36,
+      "count": 5,
+      "detailsId": "blight-ravaged-city-square-map-t16-gen-14",
+      "listingCount": 31
+    },
+    {
+      "id": 96568,
+      "name": "Blight-ravaged Ramparts Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SYW1wYXJ0cyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/2d8a600aa8/Ramparts.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Ramparts Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 35.0,
+      "exaltedValue": 0.36,
+      "count": 1,
+      "detailsId": "blight-ravaged-ramparts-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96584,
+      "name": "Blight-ravaged Lookout Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Mb29rb3V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/f190011468/Lookout.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Lookout Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 35.0,
+      "exaltedValue": 0.36,
+      "count": 1,
+      "detailsId": "blight-ravaged-lookout-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 96596,
+      "name": "Blight-ravaged Dungeon Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5nZW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/47acdbec21/Dungeon.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Dungeon Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 35.0,
+      "exaltedValue": 0.36,
+      "count": 1,
+      "detailsId": "blight-ravaged-dungeon-map-t16-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 96060,
+      "name": "Blight-ravaged Alleyways Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BbGxleXdheXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/bc986b59bc/Alleyways.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Alleyways Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0.49,
+          0,
+          17.37,
+          19.87,
+          33.36,
+          28.32
+        ],
+        "totalChange": 28.32
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.49,
+          0,
+          17.37,
+          19.87,
+          33.36,
+          28.32
+        ],
+        "totalChange": 28.32
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 32.08,
+      "exaltedValue": 0.33,
+      "count": 81,
+      "detailsId": "blight-ravaged-alleyways-map-t14-gen-14",
+      "listingCount": 305
+    },
+    {
+      "id": 96465,
+      "name": "Blight-ravaged Cursed Crypt Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcnlwdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/da3669ad1c/Crypt.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Cursed Crypt Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -9.45,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": -9.45
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -9.45,
+          -0.64,
+          -24.22,
+          -24.22,
+          -24.22,
+          -18.96
+        ],
+        "totalChange": -18.96
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 31.55,
+      "exaltedValue": 0.32,
+      "count": 4,
+      "detailsId": "blight-ravaged-cursed-crypt-map-t16-gen-14",
+      "listingCount": 16
+    },
+    {
+      "id": 96390,
+      "name": "Blight-ravaged Colonnade Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xvbm5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/a4525ac112/Colonnade.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Colonnade Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -5.02,
+          0.68,
+          6.47,
+          0.68,
+          0.68,
+          6.47
+        ],
+        "totalChange": 6.47
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -5.02,
+          0.68,
+          6.47,
+          0.68,
+          0.68,
+          6.47
+        ],
+        "totalChange": 6.47
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 31.41,
+      "exaltedValue": 0.32,
+      "count": 7,
+      "detailsId": "blight-ravaged-colonnade-map-t15-gen-14",
+      "listingCount": 51
+    },
+    {
+      "id": 95897,
+      "name": "Blight-ravaged Burial Chambers Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CdXJpYWxDaGFtYmVycyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibXViIjp0cnVlfV0/ac777afce1/BurialChambers.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Burial Chambers Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -4.28,
+          -4.28,
+          -7.99,
+          -8.52,
+          -8.4,
+          -8.16
+        ],
+        "totalChange": -8.16
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -4.28,
+          -4.28,
+          -7.99,
+          -8.52,
+          -8.4,
+          -8.16
+        ],
+        "totalChange": -8.16
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 31.26,
+      "exaltedValue": 0.32,
+      "count": 81,
+      "detailsId": "blight-ravaged-burial-chambers-map-t16-gen-14",
+      "listingCount": 311
+    },
+    {
+      "id": 96308,
+      "name": "Blight-ravaged Bone Crypt Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNCwibXViIjp0cnVlfV0/1c14505680/Catacomb.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Bone Crypt Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.16,
+          -8.56,
+          -20.21,
+          -30.31,
+          -13.73,
+          -41.37
+        ],
+        "totalChange": -41.37
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 30.0,
+      "exaltedValue": 0.31,
+      "count": 1,
+      "detailsId": "blight-ravaged-bone-crypt-map-t14-gen-14",
+      "listingCount": 20
+    },
+    {
+      "id": 96429,
+      "name": "Blight-ravaged Arsenal Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcnNlbmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/9cbbf08546/Arsenal.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Arsenal Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -43.26,
+          -47,
+          null,
+          -57.14
+        ],
+        "totalChange": -57.14
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 30.0,
+      "exaltedValue": 0.31,
+      "count": 1,
+      "detailsId": "blight-ravaged-arsenal-map-t15-gen-14",
+      "listingCount": 10
+    },
+    {
+      "id": 96443,
+      "name": "Blight-ravaged Port Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9RdWF5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/07958f9999/Quay.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Port Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          322.2,
+          255.8,
+          756.67,
+          226.43,
+          330.61,
+          -37.86
+        ],
+        "totalChange": -37.86
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 30.0,
+      "exaltedValue": 0.31,
+      "count": 1,
+      "detailsId": "blight-ravaged-port-map-t16-gen-14",
+      "listingCount": 4
+    },
+    {
+      "id": 96485,
+      "name": "Blight-ravaged Dark Forest Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EYXJrRm9yZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/013025f719/DarkForest.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Dark Forest Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0.57,
+          0.57,
+          0.57,
+          0.57,
+          0.57,
+          0.57
+        ],
+        "totalChange": 0.57
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.57,
+          0.57,
+          0.57,
+          0.57,
+          0.57,
+          0.57
+        ],
+        "totalChange": 0.57
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 29.95,
+      "exaltedValue": 0.31,
+      "count": 5,
+      "detailsId": "blight-ravaged-dark-forest-map-t16-gen-14",
+      "listingCount": 17
+    },
+    {
+      "id": 96309,
+      "name": "Blight-ravaged Desert Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/fdfbcd889f/Desert.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Desert Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -6.69,
+          0.97,
+          0.97,
+          -8.87,
+          -20.25,
+          -17.52
+        ],
+        "totalChange": -17.52
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -6.69,
+          0.97,
+          0.97,
+          -8.87,
+          -20.25,
+          -17.52
+        ],
+        "totalChange": -17.52
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 29.0,
+      "exaltedValue": 0.3,
+      "count": 7,
+      "detailsId": "blight-ravaged-desert-map-t15-gen-14",
+      "listingCount": 54
+    },
+    {
+      "id": 96595,
+      "name": "Blight-ravaged Desert Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/397ad9fa1d/Desert.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Desert Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.34,
+          -16.13,
+          -27.72,
+          -49.82,
+          -79.72,
+          -79.65
+        ],
+        "totalChange": -79.65
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 27.76,
+      "exaltedValue": 0.28,
+      "count": 2,
+      "detailsId": "blight-ravaged-desert-map-t16-gen-14",
+      "listingCount": 5
+    },
+    {
+      "id": 96354,
+      "name": "Blight-ravaged Pit Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QaXQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/36781a71b7/Pit1.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Pit Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          5.08,
+          0,
+          0,
+          5.08,
+          5.08,
+          5.08
+        ],
+        "totalChange": 5.08
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 27.53,
+      "exaltedValue": 0.28,
+      "count": 3,
+      "detailsId": "blight-ravaged-pit-map-t16-gen-14",
+      "listingCount": 10
+    },
+    {
+      "id": 96416,
+      "name": "Blight-ravaged Underground River Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFJpdmVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/ad923f6230/UndergroundRiver.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Underground River Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -4.34,
+          0.51,
+          0.51,
+          0.51,
+          0.51,
+          0.51
+        ],
+        "totalChange": 0.51
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 27.53,
+      "exaltedValue": 0.28,
+      "count": 3,
+      "detailsId": "blight-ravaged-underground-river-map-t16-gen-14",
+      "listingCount": 9
+    },
+    {
+      "id": 96462,
+      "name": "Blight-ravaged Jungle Valley Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9KdW5nbGVWYWxsZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/697601ad21/JungleValley.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Jungle Valley Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          8.28,
+          8.28,
+          8.28,
+          8.28,
+          10.12,
+          10.12
+        ],
+        "totalChange": 10.12
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 27.53,
+      "exaltedValue": 0.28,
+      "count": 3,
+      "detailsId": "blight-ravaged-jungle-valley-map-t16-gen-14",
+      "listingCount": 13
+    },
+    {
+      "id": 96768,
+      "name": "Blight-ravaged Beach Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/242e17353b/Beach.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Beach Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.11,
+          -6.09,
+          -10.45,
+          -18.75,
+          -30.82,
+          -63.56
+        ],
+        "totalChange": -63.56
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 26.34,
+      "exaltedValue": 0.27,
+      "count": 3,
+      "detailsId": "blight-ravaged-beach-map-t15-gen-14",
+      "listingCount": 16
+    },
+    {
+      "id": 96403,
+      "name": "Blight-ravaged Barrows Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXJyb3dzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/2978424342/Barrows.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Barrows Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          9.25,
+          3.97,
+          3.97,
+          3.97,
+          3.97,
+          3.97
+        ],
+        "totalChange": 3.97
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 26.2,
+      "exaltedValue": 0.27,
+      "count": 2,
+      "detailsId": "blight-ravaged-barrows-map-t16-gen-14",
+      "listingCount": 25
+    },
+    {
+      "id": 96739,
+      "name": "Blight-ravaged Fields Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9GaWVsZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm11YiI6dHJ1ZX1d/2f32e806fd/Fields.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Fields Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -1.89,
+          0.27
+        ],
+        "totalChange": 0.27
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 26.06,
+      "exaltedValue": 0.27,
+      "count": 3,
+      "detailsId": "blight-ravaged-fields-map-t15-gen-14",
+      "listingCount": 18
+    },
+    {
+      "id": 96615,
+      "name": "Blight-ravaged Colonnade Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xvbm5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/316f89a2d5/Colonnade.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Colonnade Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -1.92,
+          -1.92,
+          -1.92,
+          -1.92,
+          -1.92,
+          -1.92
+        ],
+        "totalChange": -1.92
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 26.01,
+      "exaltedValue": 0.27,
+      "count": 3,
+      "detailsId": "blight-ravaged-colonnade-map-t16-gen-14",
+      "listingCount": 6
+    },
+    {
+      "id": 96383,
+      "name": "Blight-ravaged Park Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/a2fe754a18/Park.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Park Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          null,
+          null,
+          -3.74,
+          null
+        ],
+        "totalChange": -3.74
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -1.89,
+          -3.7,
+          -3.74,
+          -3.74
+        ],
+        "totalChange": -3.74
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 26.0,
+      "exaltedValue": 0.27,
+      "count": 4,
+      "detailsId": "blight-ravaged-park-map-t16-gen-14",
+      "listingCount": 35
+    },
+    {
+      "id": 96117,
+      "name": "Blight-ravaged Mesa Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/3bb91fde66/Mesa.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Mesa Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -23.31,
+          -23.31,
+          -23.31,
+          null,
+          null,
+          null
+        ],
+        "totalChange": -23.31
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -23.31,
+          -23.31,
+          -23.31,
+          -23.31,
+          -23.31,
+          -23.31
+        ],
+        "totalChange": -23.31
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 25.0,
+      "exaltedValue": 0.26,
+      "count": 3,
+      "detailsId": "blight-ravaged-mesa-map-t15-gen-14",
+      "listingCount": 41
+    },
+    {
+      "id": 96334,
+      "name": "Blight-ravaged Ivory Temple Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Jdm9yeVRlbXBsZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNCwibXViIjp0cnVlfV0/d8920328aa/IvoryTemple.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Ivory Temple Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.12,
+          -48.0,
+          -52.96,
+          -61.35,
+          -82.41,
+          -82.41
+        ],
+        "totalChange": -82.41
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 25.0,
+      "exaltedValue": 0.26,
+      "count": 1,
+      "detailsId": "blight-ravaged-ivory-temple-map-t14-gen-14",
+      "listingCount": 17
+    },
+    {
+      "id": 96360,
+      "name": "Blight-ravaged Sepulchre Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXB1bGNocmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/a93ae60979/Sepulchre.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Sepulchre Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0.83,
+          -8.42,
+          -8.42,
+          -8.42,
+          -16.75
+        ],
+        "totalChange": -16.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 25.0,
+      "exaltedValue": 0.26,
+      "count": 2,
+      "detailsId": "blight-ravaged-sepulchre-map-t14-gen-14",
+      "listingCount": 24
+    },
+    {
+      "id": 96956,
+      "name": "Blight-ravaged Thicket Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGlja2V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/bb73e620e6/Thicket.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Thicket Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 25.0,
+      "exaltedValue": 0.26,
+      "count": 1,
+      "detailsId": "blight-ravaged-thicket-map-t15-gen-14",
+      "listingCount": 1
+    },
+    {
+      "id": 96302,
+      "name": "Blight-ravaged Courtyard Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3VydHlhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm11YiI6dHJ1ZX1d/2e49fdcf30/Courtyard.png",
+      "mapTier": 14,
+      "baseType": "Blight-ravaged Courtyard Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -5.55,
+          -5.47,
+          -3.52,
+          -5.26,
+          -14.75,
+          -14.75
+        ],
+        "totalChange": -14.75
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -5.55,
+          -5.47,
+          -3.52,
+          -5.26,
+          -14.75,
+          -14.75
+        ],
+        "totalChange": -14.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 23.98,
+      "exaltedValue": 0.25,
+      "count": 5,
+      "detailsId": "blight-ravaged-courtyard-map-t14-gen-14",
+      "listingCount": 26
+    },
+    {
+      "id": 96084,
+      "name": "Blight-ravaged Park Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/df9c132277/Park.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Park Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          34.97,
+          45.68,
+          -10.95,
+          -12.48,
+          -32.57,
+          -33.84
+        ],
+        "totalChange": -33.84
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          34.97,
+          45.68,
+          -10.95,
+          -12.48,
+          -32.57,
+          -33.84
+        ],
+        "totalChange": -33.84
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 23.97,
+      "exaltedValue": 0.25,
+      "count": 61,
+      "detailsId": "blight-ravaged-park-map-t15-gen-14",
+      "listingCount": 277
+    },
+    {
+      "id": 96478,
+      "name": "Blight-ravaged Gardens Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZXJyYWNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtdWIiOnRydWV9XQ/74a6b716f6/Terrace.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Gardens Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          24.7,
+          93.14,
+          42.34,
+          -36.7,
+          -36.7
+        ],
+        "totalChange": -36.7
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 23.42,
+      "exaltedValue": 0.24,
+      "count": 3,
+      "detailsId": "blight-ravaged-gardens-map-t16-gen-14",
+      "listingCount": 6
+    },
+    {
+      "id": 96406,
+      "name": "Blight-ravaged Promenade Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcm9tZW5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/06aff3e38c/Promenade.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Promenade Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          null,
+          null,
+          0,
+          0,
+          0,
+          null,
+          null
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          20.94,
+          20.94,
+          20.94,
+          20.94,
+          -17.18,
+          -17.18
+        ],
+        "totalChange": -17.18
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 21.99,
+      "exaltedValue": 0.23,
+      "count": 3,
+      "detailsId": "blight-ravaged-promenade-map-t16-gen-14",
+      "listingCount": 13
+    },
+    {
+      "id": 96125,
+      "name": "Blight-ravaged Waste Pool Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XYXN0ZVBvb2wiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/a0fedd99ba/WastePool.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Waste Pool Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -2.38,
+          -2.38,
+          -2.38,
+          -2.38,
+          -2.38,
+          -2.38
+        ],
+        "totalChange": -2.38
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 20.54,
+      "exaltedValue": 0.21,
+      "count": 2,
+      "detailsId": "blight-ravaged-waste-pool-map-t16-gen-14",
+      "listingCount": 6
+    },
+    {
+      "id": 96381,
+      "name": "Blight-ravaged Palace Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYWxhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm11YiI6dHJ1ZX1d/746db7f558/Palace.png",
+      "mapTier": 16,
+      "baseType": "Blight-ravaged Palace Map",
+      "variant": ", Gen-14",
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -4.76,
+          -4.76
+        ],
+        "totalChange": -4.76
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 20.0,
+      "exaltedValue": 0.2,
+      "count": 7,
+      "detailsId": "blight-ravaged-palace-map-t16-gen-14",
+      "listingCount": 26
+    },
+    {
+      "id": 96754,
+      "name": "Blight-ravaged Lookout Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Mb29rb3V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtdWIiOnRydWV9XQ/f23dfd6818/Lookout.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Lookout Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -45,
+          -50
+        ],
+        "totalChange": -50
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 20.0,
+      "exaltedValue": 0.2,
+      "count": 1,
+      "detailsId": "blight-ravaged-lookout-map-t15-gen-14",
+      "listingCount": 3
+    },
+    {
+      "id": 97453,
+      "name": "Blight-ravaged Bone Crypt Map",
+      "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibXViIjp0cnVlfV0/80571cd9c7/Catacomb.png",
+      "mapTier": 15,
+      "baseType": "Blight-ravaged Bone Crypt Map",
+      "variant": ", Gen-14",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          null,
+          null,
+          null,
+          null,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 20.0,
+      "exaltedValue": 0.2,
+      "count": 1,
+      "detailsId": "blight-ravaged-bone-crypt-map-t15-gen-14",
+      "listingCount": 1
+    }
+  ],
+  "language": {
+    "name": "en",
+    "translations": {}
+  }
+}
