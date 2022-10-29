@@ -9,35 +9,36 @@
       "sparkline": {
         "data": [
           0,
-          25,
-          25,
-          -4.25,
-          -19.23,
           0,
-          0
+          0,
+          0,
+          0,
+          -16.67,
+          -1.83
         ],
-        "totalChange": 0
+        "totalChange": -1.83
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          25,
-          25,
-          -4.25,
-          -19.23,
           0,
-          0
+          0,
+          0,
+          0,
+          -16.67,
+          -1.83
         ],
-        "totalChange": 0
+        "totalChange": -1.83
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 4.0,
-      "exaltedValue": 0.04,
+      "chaosValue": 5.89,
+      "exaltedValue": 0.47,
+      "divineValue": 0.04,
       "count": 99,
       "detailsId": "burial-medallion",
-      "listingCount": 6799
+      "listingCount": 3819
     },
     {
       "id": 69146,
@@ -48,35 +49,36 @@
       "sparkline": {
         "data": [
           0,
-          -0.98,
-          -12.27,
-          -30.33,
-          -44.71,
-          -23.56,
-          -29.48
+          0,
+          2.2,
+          3.2,
+          -1.0,
+          0,
+          0
         ],
-        "totalChange": -29.48
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -0.98,
-          -12.27,
-          -30.33,
-          -44.71,
-          -23.56,
-          -29.48
+          0,
+          2.2,
+          3.2,
+          -1.0,
+          0,
+          0
         ],
-        "totalChange": -29.48
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.5,
-      "exaltedValue": 0.03,
+      "chaosValue": 5.0,
+      "exaltedValue": 0.4,
+      "divineValue": 0.03,
       "count": 99,
       "detailsId": "exotic-coinage",
-      "listingCount": 5203
+      "listingCount": 3780
     },
     {
       "id": 69150,
@@ -87,35 +89,36 @@
       "sparkline": {
         "data": [
           0,
-          -6.12,
-          -31.97,
-          -31.97,
-          -42.49,
-          -31.97,
-          -29.25
+          4.35,
+          1.45,
+          -1.45,
+          7.25,
+          2.18,
+          2.9
         ],
-        "totalChange": -29.25
+        "totalChange": 2.9
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -6.12,
-          -31.97,
-          -31.97,
-          -42.49,
-          -31.97,
-          -29.25
+          4.35,
+          1.45,
+          -1.45,
+          7.25,
+          2.18,
+          2.9
         ],
-        "totalChange": -29.25
+        "totalChange": 2.9
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 1.04,
-      "exaltedValue": 0.01,
+      "chaosValue": 0.71,
+      "exaltedValue": 0.06,
+      "divineValue": 0.0,
       "count": 99,
       "detailsId": "astragali",
-      "listingCount": 12514
+      "listingCount": 11861
     },
     {
       "id": 69141,
@@ -126,35 +129,36 @@
       "sparkline": {
         "data": [
           0,
-          7.52,
-          -24.74,
-          -35.45,
-          -45.12,
-          -18.29,
-          -37.64
+          0,
+          0,
+          0,
+          -2.5,
+          -7.5,
+          0
         ],
-        "totalChange": -37.64
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          7.52,
-          -24.74,
-          -35.45,
-          -45.12,
-          -18.29,
-          -37.64
+          0,
+          0,
+          0,
+          -2.5,
+          -7.5,
+          0
         ],
-        "totalChange": -37.64
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 0.29,
-      "exaltedValue": 0.0,
+      "chaosValue": 0.4,
+      "exaltedValue": 0.03,
+      "divineValue": 0.0,
       "count": 99,
       "detailsId": "scrap-metal",
-      "listingCount": 8260
+      "listingCount": 6471
     }
   ],
   "language": {

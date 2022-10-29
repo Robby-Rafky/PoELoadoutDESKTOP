@@ -14,11 +14,14 @@ def trim_data():
             name = item["name"]
             variant = "Base"
 
+            if item["itemClass"] == 9:
+                variant = "Foil"
             if "links" in item:
                 variant = str(item["links"]) + " Link"
             if "variant" in item:
                 if (file != "blighted.json") and (file != "ravaged.json"):
                     variant = variant + " " + item["variant"]
+
             if file == "cluster.json":
                 variant = variant[5:] + " ilvl " + str(item["levelRequired"])
 
@@ -36,9 +39,12 @@ def trim_data():
                 trimmed_data[name]["chaosValue"] = {}
             if "exaltedValue" not in trimmed_data[name]:
                 trimmed_data[name]["exaltedValue"] = {}
+            if "divineValue" not in trimmed_data[name]:
+                trimmed_data[name]["divineValue"] = {}
 
             trimmed_data[name]["chaosValue"][variant] = item["chaosValue"]
             trimmed_data[name]["exaltedValue"][variant] = item["exaltedValue"]
+            trimmed_data[name]["divineValue"][variant] = item["divineValue"]
 
         trimmed_f.write(json.dumps(trimmed_data, indent=2))
         trimmed_f.close()

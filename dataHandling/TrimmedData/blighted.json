@@ -1,948 +1,1150 @@
 {
-  "Blighted Arid Lake Map": {
-    "name": "Blighted Arid Lake Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmlkTGFrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxLCJtYiI6dHJ1ZX1d/fa1814d633/AridLake.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.43
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Spider Forest Map": {
-    "name": "Blighted Spider Forest Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TcGlkZXJGb3Jlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm1iIjp0cnVlfV0/07231e91ab/SpiderForest.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 17.0
-    },
-    "exaltedValue": {
-      "Base": 0.17
-    }
-  },
-  "Blighted Underground Sea Map": {
-    "name": "Blighted Underground Sea Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFNlYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/2ca14f65e6/UndergroundSea.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.0
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Arsenal Map": {
-    "name": "Blighted Arsenal Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcnNlbmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjExLCJtYiI6dHJ1ZX1d/afc731a022/Arsenal.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Desert Spring Map": {
-    "name": "Blighted Desert Spring Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PYXNpcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo4LCJtYiI6dHJ1ZX1d/6477ec61b7/Oasis.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Colonnade Map": {
-    "name": "Blighted Colonnade Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xvbm5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm1iIjp0cnVlfV0/d7a8883580/Colonnade.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.68
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    }
-  },
-  "Blighted Infested Valley Map": {
-    "name": "Blighted Infested Valley Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9JbmZlc3RhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/8e220ceec5/Infestation.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 14.64
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Summit Map": {
-    "name": "Blighted Summit Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdW1taXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6NiwibWIiOnRydWV9XQ/649ad4e001/Summit.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.0
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Dry Sea Map": {
-    "name": "Blighted Dry Sea Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnRTaGlwR3JhdmV5YXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjUsIm1iIjp0cnVlfV0/881b96b8b5/DesertShipGraveyard.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    }
-  },
-  "Blighted Plaza Map": {
-    "name": "Blighted Plaza Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QbGF6YSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoyLCJtYiI6dHJ1ZX1d/8cbe580141/Plaza.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Lookout Map": {
-    "name": "Blighted Lookout Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Mb29rb3V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjcsIm1iIjp0cnVlfV0/5b6a92aa85/Lookout.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Gardens Map": {
-    "name": "Blighted Gardens Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZXJyYWNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjgsIm1iIjp0cnVlfV0/8677f73e0a/Terrace.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 18.91
-    },
-    "exaltedValue": {
-      "Base": 0.19
-    }
-  },
-  "Blighted Alleyways Map": {
-    "name": "Blighted Alleyways Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BbGxleXdheXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm1iIjp0cnVlfV0/c338b567c7/Alleyways.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.0
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Tropical Island Map": {
-    "name": "Blighted Tropical Island Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Ucm9waWNhbElzbGFuZCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/33b306fe28/TropicalIsland.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Atoll Map": {
-    "name": "Blighted Atoll Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BdG9sbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo2LCJtYiI6dHJ1ZX1d/56f22f4b51/Atoll.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.2
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Mud Geyser Map": {
-    "name": "Blighted Mud Geyser Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NdWRHZXlzZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm1iIjp0cnVlfV0/4917b03ca2/MudGeyser.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 50.0
-    },
-    "exaltedValue": {
-      "Base": 0.51
-    }
-  },
-  "Blighted Precinct Map": {
-    "name": "Blighted Precinct Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QcmVjaW5jdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxMSwibWIiOnRydWV9XQ/7e62856a3d/Precinct.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.65
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Toxic Sewer Map": {
-    "name": "Blighted Toxic Sewer Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXdlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/8168ea3b1b/Sewer.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.4
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Temple Map": {
-    "name": "Blighted Temple Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZW1wbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm1iIjp0cnVlfV0/d11a206b46/Temple.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Armoury Map": {
-    "name": "Blighted Armoury Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Bcm1vcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTEsIm1iIjp0cnVlfV0/a3dd9d6d99/Armory.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Marshes Map": {
-    "name": "Blighted Marshes Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXJzaGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtYiI6dHJ1ZX1d/d56ca0d7ec/Marshes.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.83
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Coral Ruins Map": {
-    "name": "Blighted Coral Ruins Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2VUcmVuY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTMsIm1iIjp0cnVlfV0/1943126225/CorpseTrench.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.96
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Pit Map": {
-    "name": "Blighted Pit Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QaXQxIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjEyLCJtYiI6dHJ1ZX1d/088024782e/Pit1.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.0
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Wasteland Map": {
-    "name": "Blighted Wasteland Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XYXN0ZWxhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTMsIm1iIjp0cnVlfV0/5bd6382761/Wasteland.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.74
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Mesa Map": {
-    "name": "Blighted Mesa Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjgsIm1iIjp0cnVlfV0/9812d30442/Mesa.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 8.83
-    },
-    "exaltedValue": {
-      "Base": 0.09
-    }
-  },
-  "Blighted Arcade Map": {
-    "name": "Blighted Arcade Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmNhZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6OCwibWIiOnRydWV9XQ/520ee31c6b/Arcade.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 25.0
-    },
-    "exaltedValue": {
-      "Base": 0.26
-    }
-  },
-  "Blighted Port Map": {
-    "name": "Blighted Port Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9RdWF5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjEyLCJtYiI6dHJ1ZX1d/450c4b4e94/Quay.png",
-    "rarity": 2,
-    "chaosValue": {
-      "Base": 10.43
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Reef Map": {
-    "name": "Blighted Reef Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SZWVmIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjMsIm1iIjp0cnVlfV0/734742a47c/Reef.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Park Map": {
-    "name": "Blighted Park Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtYiI6dHJ1ZX1d/d3cce1fec6/Park.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.49
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Moon Temple Map": {
-    "name": "Blighted Moon Temple Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MdW5hcmlzVGVtcGxlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtYiI6dHJ1ZX1d/dd9b83782e/LunarisTemple.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.4
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Courtyard Map": {
-    "name": "Blighted Courtyard Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3VydHlhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm1iIjp0cnVlfV0/01fb42982a/Courtyard.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.11
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Mineral Pools Map": {
-    "name": "Blighted Mineral Pools Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NaW5lcmFsUG9vbHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTIsIm1iIjp0cnVlfV0/65ef40deb2/MineralPools.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.04
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
   "Blighted Mausoleum Map": {
     "name": "Blighted Mausoleum Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXVzb2xldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTAsIm1iIjp0cnVlfV0/1bb6683a24/Mausoleum.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.65
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Peninsula Map": {
-    "name": "Blighted Peninsula Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlQZW5pbnN1bGEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm1iIjp0cnVlfV0/3fd6d8c5ce/DryPeninsula.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.3
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Foundry Map": {
-    "name": "Blighted Foundry Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGF1bWF0dXJneUR1bmdlb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm1iIjp0cnVlfV0/990ef95e3e/ThaumaturgyDungeon.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    }
-  },
-  "Blighted Thicket Map": {
-    "name": "Blighted Thicket Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGlja2V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE0LCJtYiI6dHJ1ZX1d/1c37f78655/Thicket.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Strand Map": {
-    "name": "Blighted Strand Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm1iIjp0cnVlfV0/46dcda536c/Strand.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.82
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Caldera Map": {
-    "name": "Blighted Caldera Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/caa8c016d9/Abyss.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 27.04
-    },
-    "exaltedValue": {
-      "Base": 0.28
-    }
-  },
-  "Blighted Tower Map": {
-    "name": "Blighted Tower Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Ub3dlciIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoyLCJtYiI6dHJ1ZX1d/0a96311230/Tower.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 8.4
-    },
-    "exaltedValue": {
-      "Base": 0.09
-    }
-  },
-  "Blighted Promenade Map": {
-    "name": "Blighted Promenade Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcm9tZW5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6OSwibWIiOnRydWV9XQ/5e22ab8a84/Promenade.png",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXVzb2xldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NywibWIiOnRydWV9XQ/404d490324/Mausoleum.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Jungle Valley Map": {
-    "name": "Blighted Jungle Valley Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9KdW5nbGVWYWxsZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTAsIm1iIjp0cnVlfV0/dba4222a74/JungleValley.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.61
+      "Base": 0.8
     },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Crimson Temple Map": {
-    "name": "Blighted Crimson Temple Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TYW5jdHVhcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTEsIm1iIjp0cnVlfV0/9ff6c83877/Sanctuary.png",
-    "rarity": 2,
-    "chaosValue": {
-      "Base": 13.48
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Canyon Map": {
-    "name": "Blighted Canyon Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYW55b24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTMsIm1iIjp0cnVlfV0/f03d873595/Canyon.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Wharf Map": {
-    "name": "Blighted Wharf Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XaGFyZiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxMSwibWIiOnRydWV9XQ/1415ccf6a6/Wharf.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.56
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Necropolis Map": {
-    "name": "Blighted Necropolis Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9OZWNyb3BvbGlzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjMsIm1iIjp0cnVlfV0/4f74fb8479/Necropolis.png",
-    "rarity": 2,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Dark Forest Map": {
-    "name": "Blighted Dark Forest Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EYXJrRm9yZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjExLCJtYiI6dHJ1ZX1d/b5c5ef3d5d/DarkForest.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Crimson Township Map": {
-    "name": "Blighted Crimson Township Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTMsIm1iIjp0cnVlfV0/9e84e287e9/CrimsonTownship.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Ashen Wood Map": {
-    "name": "Blighted Ashen Wood Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlXb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo0LCJtYiI6dHJ1ZX1d/686ca3c50d/DryWoods.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 11.09
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Cursed Crypt Map": {
-    "name": "Blighted Cursed Crypt Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcnlwdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibWIiOnRydWV9XQ/a22677ff6c/Crypt.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.0
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Museum Map": {
-    "name": "Blighted Museum Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NdXNldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MiwibWIiOnRydWV9XQ/7421b756f4/Museum.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 3.0
-    },
-    "exaltedValue": {
-      "Base": 0.03
-    }
-  },
-  "Blighted Underground River Map": {
-    "name": "Blighted Underground River Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFJpdmVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjEyLCJtYiI6dHJ1ZX1d/62edca820e/UndergroundRiver.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    }
-  },
-  "Blighted Cells Map": {
-    "name": "Blighted Cells Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZWxscyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNSwibWIiOnRydWV9XQ/3c5c758b8b/Cells.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Dunes Map": {
-    "name": "Blighted Dunes Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5lcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/92b115fe23/Dunes.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 9.75
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Lava Chamber Map": {
-    "name": "Blighted Lava Chamber Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcmVtYXRvcml1bSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo5LCJtYiI6dHJ1ZX1d/c416a223a9/Crematorium.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 7.58
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    }
-  },
-  "Blighted Burial Chambers Map": {
-    "name": "Blighted Burial Chambers Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CdXJpYWxDaGFtYmVycyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/f1c1f147e9/BurialChambers.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    }
-  },
-  "Blighted Cage Map": {
-    "name": "Blighted Cage Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYWdlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjExLCJtYiI6dHJ1ZX1d/b36cd2d976/Cage.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.87
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Waste Pool Map": {
-    "name": "Blighted Waste Pool Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XYXN0ZVBvb2wiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTAsIm1iIjp0cnVlfV0/f65acf7190/WastePool.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 8.66
-    },
-    "exaltedValue": {
-      "Base": 0.09
-    }
-  },
-  "Blighted Lava Lake Map": {
-    "name": "Blighted Lava Lake Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTYsIm1iIjp0cnVlfV0/a21208141b/Corpse.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    }
-  },
-  "Blighted Beach Map": {
-    "name": "Blighted Beach Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNCwibWIiOnRydWV9XQ/19d0cc3eb8/Beach.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.99
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Basilica Map": {
-    "name": "Blighted Basilica Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXNpbGljYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/efcf83db96/Basilica.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 14.05
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Ramparts Map": {
-    "name": "Blighted Ramparts Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SYW1wYXJ0cyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNCwibWIiOnRydWV9XQ/c5588117b3/Ramparts.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 15.0
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Cold River Map": {
-    "name": "Blighted Cold River Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xkUml2ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MSwibWIiOnRydWV9XQ/d6e6729990/ColdRiver.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 4.25
-    },
-    "exaltedValue": {
-      "Base": 0.04
-    }
-  },
-  "Blighted Sepulchre Map": {
-    "name": "Blighted Sepulchre Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TZXB1bGNocmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6NywibWIiOnRydWV9XQ/309f892ba0/Sepulchre.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 12.19
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    }
-  },
-  "Blighted Shore Map": {
-    "name": "Blighted Shore Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaG9yZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxNiwibWIiOnRydWV9XQ/a0c8e61883/Shore.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.28
-    },
-    "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Bazaar Map": {
-    "name": "Blighted Bazaar Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXphYXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTEsIm1iIjp0cnVlfV0/c321cae78b/Bazaar.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 16.5
-    },
-    "exaltedValue": {
-      "Base": 0.17
-    }
-  },
-  "Blighted Palace Map": {
-    "name": "Blighted Palace Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYWxhY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTUsIm1iIjp0cnVlfV0/4b63edba66/Palace.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 14.32
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Bramble Valley Map": {
-    "name": "Blighted Bramble Valley Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CcmFtYmxlZmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxMywibWIiOnRydWV9XQ/9ddadac126/Bramblefall.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.04
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Cemetery Map": {
-    "name": "Blighted Cemetery Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZW1ldGVyeSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxMSwibWIiOnRydWV9XQ/8de38befe2/Cemetery.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted Barrows Map": {
-    "name": "Blighted Barrows Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXJyb3dzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE1LCJtYiI6dHJ1ZX1d/d1a4f009a2/Barrows.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 13.08
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    }
-  },
-  "Blighted Overgrown Shrine Map": {
-    "name": "Blighted Overgrown Shrine Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PdmVyZ3Jvd25TaHJpbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6NCwibWIiOnRydWV9XQ/41d62b3952/OvergrownShrine.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    }
-  },
-  "Blighted City Square Map": {
-    "name": "Blighted City Square Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaXR5U3F1YXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjE2LCJtYiI6dHJ1ZX1d/53ea1aaae5/CitySquare.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 14.55
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    }
-  },
-  "Blighted Villa Map": {
-    "name": "Blighted Villa Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WaWxsYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10IjoxMSwibWIiOnRydWV9XQ/4d1f8c1574/Villa.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 6.58
-    },
-    "exaltedValue": {
+    "divineValue": {
       "Base": 0.07
     }
   },
-  "Blighted Volcano Map": {
-    "name": "Blighted Volcano Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Wb2xjYW5vIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjMsIm1iIjp0cnVlfV0/d4dcceee33/Volcano.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 6.4
-    },
-    "exaltedValue": {
-      "Base": 0.07
-    }
-  },
-  "Blighted Bog Map": {
-    "name": "Blighted Bog Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Cb2ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6OSwibWIiOnRydWV9XQ/6ba63878a9/Bog.png",
+  "Blighted Arachnid Nest Map": {
+    "name": "Blighted Arachnid Nest Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmFjaG5pZE5lc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NywibWIiOnRydWV9XQ/e55718ccf8/ArachnidNest.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 9.0
     },
     "exaltedValue": {
-      "Base": 0.09
-    }
-  },
-  "Blighted Desert Map": {
-    "name": "Blighted Desert Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6OCwibWIiOnRydWV9XQ/aaa69b93e7/Desert.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 6.07
+      "Base": 0.72
     },
-    "exaltedValue": {
+    "divineValue": {
       "Base": 0.06
     }
   },
-  "Blighted Ivory Temple Map": {
-    "name": "Blighted Ivory Temple Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Jdm9yeVRlbXBsZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo3LCJtYiI6dHJ1ZX1d/eedcfd06d1/IvoryTemple.png",
+  "Blighted Summit Map": {
+    "name": "Blighted Summit Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdW1taXQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NywibWIiOnRydWV9XQ/88ba260ae6/Summit.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 11.88
+      "Base": 9.66
     },
     "exaltedValue": {
-      "Base": 0.12
+      "Base": 0.77
+    },
+    "divineValue": {
+      "Base": 0.06
     }
   },
-  "Blighted Acid Caverns Map": {
-    "name": "Blighted Acid Caverns Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyVmVudHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTMsIm1iIjp0cnVlfV0/d36425f978/SulphurVents.png",
-    "rarity": 0,
+  "Blighted Cursed Crypt Map": {
+    "name": "Blighted Cursed Crypt Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcnlwdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMiwibWIiOnRydWV9XQ/bc2b4bc614/Crypt.png",
+    "rarity": 2,
     "chaosValue": {
-      "Base": 13.62
+      "Base": 14.99
     },
     "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Bone Crypt Map": {
-    "name": "Blighted Bone Crypt Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo3LCJtYiI6dHJ1ZX1d/a8dcf9c0d9/Catacomb.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 10.1
+      "Base": 1.2
     },
-    "exaltedValue": {
+    "divineValue": {
       "Base": 0.1
     }
   },
-  "Blighted Glacier Map": {
-    "name": "Blighted Glacier Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9HbGFjaWVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjksIm1iIjp0cnVlfV0/4ff9e7d17c/Glacier.png",
+  "Blighted Lava Chamber Map": {
+    "name": "Blighted Lava Chamber Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DcmVtYXRvcml1bSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10Ijo2LCJtYiI6dHJ1ZX1d/fa2d8c00b8/Crematorium.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 11.23
+      "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.12
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
     }
   },
-  "Blighted Fields Map": {
-    "name": "Blighted Fields Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9GaWVsZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE0LCJtdCI6MTQsIm1iIjp0cnVlfV0/92402b1f34/Fields.png",
+  "Blighted Pen Map": {
+    "name": "Blighted Pen Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QZW4iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTMsIm1iIjp0cnVlfV0/95da1b9e63/Pen.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 13.75
+      "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.14
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
     }
   },
-  "Blighted Lair Map": {
-    "name": "Blighted Lair Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWlyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjYsIm1iIjp0cnVlfV0/495a1ea605/Lair.png",
+  "Blighted Park Map": {
+    "name": "Blighted Park Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QYXJrIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjYsIm1iIjp0cnVlfV0/f03f5c2562/Park.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 8.15
+      "Base": 10.21
     },
     "exaltedValue": {
-      "Base": 0.08
+      "Base": 0.81
+    },
+    "divineValue": {
+      "Base": 0.07
     }
   },
-  "Blighted Laboratory Map": {
-    "name": "Blighted Laboratory Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWJvcmF0b3J5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjEzLCJtYiI6dHJ1ZX1d/5773d4bf9d/Laboratory.png",
+  "Blighted Cells Map": {
+    "name": "Blighted Cells Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZWxscyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjozLCJtYiI6dHJ1ZX1d/b44615558c/Cells.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 11.0
+      "Base": 8.16
     },
     "exaltedValue": {
-      "Base": 0.11
-    }
-  },
-  "Blighted Grave Trough Map": {
-    "name": "Blighted Grave Trough Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CdXJuIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjExLCJtYiI6dHJ1ZX1d/fb6c3aec75/Burn.png",
-    "rarity": 2,
-    "chaosValue": {
-      "Base": 10.54
+      "Base": 0.65
     },
-    "exaltedValue": {
-      "Base": 0.11
+    "divineValue": {
+      "Base": 0.05
     }
   },
-  "Blighted Dungeon Map": {
-    "name": "Blighted Dungeon Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5nZW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjEzLCJtYiI6dHJ1ZX1d/c3eaf8623a/Dungeon.png",
+  "Blighted Promenade Map": {
+    "name": "Blighted Promenade Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcm9tZW5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTIsIm1iIjp0cnVlfV0/6872331777/Promenade.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 13.64
+      "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.14
-    }
-  },
-  "Blighted Orchard Map": {
-    "name": "Blighted Orchard Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PcmNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNCwibXQiOjYsIm1iIjp0cnVlfV0/d2922d917f/Orchard.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 6.48
+      "Base": 0.8
     },
-    "exaltedValue": {
+    "divineValue": {
       "Base": 0.07
     }
   },
   "Blighted Primordial Pool Map": {
     "name": "Blighted Primordial Pool Map",
-    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcmltb3JkaWFsUG9vbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTQsIm10Ijo2LCJtYiI6dHJ1ZX1d/1508cc4bac/PrimordialPool.png",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Qcmltb3JkaWFsUG9vbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10Ijo0LCJtYiI6dHJ1ZX1d/47c2c30bff/PrimordialPool.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 4.39
+      "Base": 7.07
     },
     "exaltedValue": {
+      "Base": 0.56
+    },
+    "divineValue": {
       "Base": 0.05
+    }
+  },
+  "Blighted Overgrown Shrine Map": {
+    "name": "Blighted Overgrown Shrine Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PdmVyZ3Jvd25TaHJpbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTMsIm1iIjp0cnVlfV0/ed951d6f6f/OvergrownShrine.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Ashen Wood Map": {
+    "name": "Blighted Ashen Wood Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlXb29kcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNCwibWIiOnRydWV9XQ/a8259be93c/DryWoods.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 14.0
+    },
+    "exaltedValue": {
+      "Base": 1.12
+    },
+    "divineValue": {
+      "Base": 0.09
+    }
+  },
+  "Blighted Lava Lake Map": {
+    "name": "Blighted Lava Lake Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTMsIm1iIjp0cnVlfV0/54d4ffe527/Corpse.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Temple Map": {
+    "name": "Blighted Temple Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZW1wbGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTIsIm1iIjp0cnVlfV0/061f50a20b/Temple.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.11
+    },
+    "exaltedValue": {
+      "Base": 0.89
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Silo Map": {
+    "name": "Blighted Silo Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Sb2JvdFR1bm5lbFNpbG8iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTIsIm1iIjp0cnVlfV0/c72c18edf2/RobotTunnelSilo.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.55
+    },
+    "exaltedValue": {
+      "Base": 0.92
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Plaza Map": {
+    "name": "Blighted Plaza Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QbGF6YSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNCwibWIiOnRydWV9XQ/6dde303ca7/Plaza.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 14.0
+    },
+    "exaltedValue": {
+      "Base": 1.12
+    },
+    "divineValue": {
+      "Base": 0.09
+    }
+  },
+  "Blighted Moon Temple Map": {
+    "name": "Blighted Moon Temple Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MdW5hcmlzVGVtcGxlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjksIm1iIjp0cnVlfV0/13c2c85c02/LunarisTemple.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 6.0
+    },
+    "exaltedValue": {
+      "Base": 0.48
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "Blighted Spider Forest Map": {
+    "name": "Blighted Spider Forest Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TcGlkZXJGb3Jlc3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NiwibWIiOnRydWV9XQ/27e34f895f/SpiderForest.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Wasteland Map": {
+    "name": "Blighted Wasteland Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XYXN0ZWxhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OCwibWIiOnRydWV9XQ/6d01e90067/Wasteland.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Ramparts Map": {
+    "name": "Blighted Ramparts Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SYW1wYXJ0cyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNiwibWIiOnRydWV9XQ/f47ccf51e3/Ramparts.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 21.28
+    },
+    "exaltedValue": {
+      "Base": 1.7
+    },
+    "divineValue": {
+      "Base": 0.14
+    }
+  },
+  "Blighted Shrine Map": {
+    "name": "Blighted Shrine Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaHJpbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NSwibWIiOnRydWV9XQ/f955f349f9/Shrine.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Bramble Valley Map": {
+    "name": "Blighted Bramble Valley Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CcmFtYmxlZmFsbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoyLCJtYiI6dHJ1ZX1d/339dffb8eb/Bramblefall.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 7.69
+    },
+    "exaltedValue": {
+      "Base": 0.61
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Plateau Map": {
+    "name": "Blighted Plateau Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QbGF0ZWF1IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/8d1f98105b/Plateau.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Acid Caverns Map": {
+    "name": "Blighted Acid Caverns Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyVmVudHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTIsIm1iIjp0cnVlfV0/9968a36f23/SulphurVents.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.5
+    },
+    "exaltedValue": {
+      "Base": 0.84
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Bone Crypt Map": {
+    "name": "Blighted Bone Crypt Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXRhY29tYiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjozLCJtYiI6dHJ1ZX1d/f0ffb26da6/Catacomb.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Underground Sea Map": {
+    "name": "Blighted Underground Sea Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFNlYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNCwibWIiOnRydWV9XQ/bc54e62280/UndergroundSea.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.2
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Belfry Map": {
+    "name": "Blighted Belfry Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CZWxmcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTEsIm1iIjp0cnVlfV0/31c50b778a/Belfry.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Cold River Map": {
+    "name": "Blighted Cold River Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xkUml2ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTAsIm1iIjp0cnVlfV0/52d10a7a78/ColdRiver.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.09
+    },
+    "exaltedValue": {
+      "Base": 0.88
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Laboratory Map": {
+    "name": "Blighted Laboratory Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWJvcmF0b3J5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjExLCJtYiI6dHJ1ZX1d/4286d5cf8c/Laboratory.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.03
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Leyline Map": {
+    "name": "Blighted Leyline Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdWxwaHVyV2FzdGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/919c1aec7d/SulphurWastes.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.18
+    },
+    "exaltedValue": {
+      "Base": 0.81
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Underground River Map": {
+    "name": "Blighted Underground River Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9VbmRlcmdyb3VuZFJpdmVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/f3dd46038d/UndergroundRiver.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 14.77
+    },
+    "exaltedValue": {
+      "Base": 1.18
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Waste Pool Map": {
+    "name": "Blighted Waste Pool Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XYXN0ZVBvb2wiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTYsIm1iIjp0cnVlfV0/f5fa341cfd/WastePool.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 1.59
+    },
+    "divineValue": {
+      "Base": 0.13
+    }
+  },
+  "Blighted Grave Trough Map": {
+    "name": "Blighted Grave Trough Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CdXJuIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjE2LCJtYiI6dHJ1ZX1d/ada16619c9/Burn.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 1.59
+    },
+    "divineValue": {
+      "Base": 0.13
+    }
+  },
+  "Blighted Peninsula Map": {
+    "name": "Blighted Peninsula Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EcnlQZW5pbnN1bGEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTEsIm1iIjp0cnVlfV0/7e98d1f243/DryPeninsula.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 9.0
+    },
+    "exaltedValue": {
+      "Base": 0.72
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Mesa Map": {
+    "name": "Blighted Mesa Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NZXNhIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjE0LCJtYiI6dHJ1ZX1d/ca8809a74a/Mesa.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.2
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Strand Map": {
+    "name": "Blighted Strand Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdHJhbmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MiwibWIiOnRydWV9XQ/14db558fd4/Strand.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.16
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Blighted Dungeon Map": {
+    "name": "Blighted Dungeon Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5nZW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjExLCJtYiI6dHJ1ZX1d/50a35fccfc/Dungeon.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.96
+    },
+    "exaltedValue": {
+      "Base": 0.71
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Precinct Map": {
+    "name": "Blighted Precinct Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9QcmVjaW5jdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMSwibWIiOnRydWV9XQ/05a77f76f2/Precinct.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 9.88
+    },
+    "exaltedValue": {
+      "Base": 0.79
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Castle Ruins Map": {
+    "name": "Blighted Castle Ruins Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYXN0bGVSdWlucyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMSwibWIiOnRydWV9XQ/5a09e1e9a0/CastleRuins.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Dunes Map": {
+    "name": "Blighted Dunes Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EdW5lcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNSwibWIiOnRydWV9XQ/a882c717eb/Dunes.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 14.31
+    },
+    "exaltedValue": {
+      "Base": 1.14
+    },
+    "divineValue": {
+      "Base": 0.09
+    }
+  },
+  "Blighted Desert Map": {
+    "name": "Blighted Desert Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OSwibWIiOnRydWV9XQ/72c3a41354/Desert.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 9.96
+    },
+    "exaltedValue": {
+      "Base": 0.79
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Sulphur Vents Map": {
+    "name": "Blighted Sulphur Vents Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jyb3Npb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTMsIm1iIjp0cnVlfV0/ba6894d7a1/Corrosion.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Villa Map": {
+    "name": "Blighted Villa Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WaWxsYSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMiwibWIiOnRydWV9XQ/ee9f619eb7/Villa.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Crimson Temple Map": {
+    "name": "Blighted Crimson Temple Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TYW5jdHVhcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OSwibWIiOnRydWV9XQ/0e5130cddc/Sanctuary.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 6.56
+    },
+    "exaltedValue": {
+      "Base": 0.52
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "Blighted Crimson Township Map": {
+    "name": "Blighted Crimson Township Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Dcmltc29uVG93bnNoaXAiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTYsIm1iIjp0cnVlfV0/414cc30fa2/CrimsonTownship.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 1.59
+    },
+    "divineValue": {
+      "Base": 0.13
+    }
+  },
+  "Blighted Port Map": {
+    "name": "Blighted Port Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9RdWF5IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEyLCJtYiI6dHJ1ZX1d/94c947cd4e/Quay.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 12.63
+    },
+    "exaltedValue": {
+      "Base": 1.01
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Stagnation Map": {
+    "name": "Blighted Stagnation Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TdGFnbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/6f64207b53/Stagnation.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 12.02
+    },
+    "exaltedValue": {
+      "Base": 0.96
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Foundry Map": {
+    "name": "Blighted Foundry Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGF1bWF0dXJneUR1bmdlb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OSwibWIiOnRydWV9XQ/a777acfc90/ThaumaturgyDungeon.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Vault Map": {
+    "name": "Blighted Vault Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYXVsdCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNSwibWIiOnRydWV9XQ/12b643669d/Vault.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.2
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Ghetto Map": {
+    "name": "Blighted Ghetto Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9HaGV0dG8iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OCwibWIiOnRydWV9XQ/aa8a115dc4/Ghetto.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Chateau Map": {
+    "name": "Blighted Chateau Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DaGF0ZWF1IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjExLCJtYiI6dHJ1ZX1d/e12d118ab4/Chateau.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 6.04
+    },
+    "exaltedValue": {
+      "Base": 0.48
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "Blighted Ancient City Map": {
+    "name": "Blighted Ancient City Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9WYWFsQ2l0eSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10Ijo4LCJtYiI6dHJ1ZX1d/ffa84760b3/VaalCity.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.7
+    },
+    "exaltedValue": {
+      "Base": 0.69
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Thicket Map": {
+    "name": "Blighted Thicket Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UaGlja2V0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjIsIm1iIjp0cnVlfV0/bea6d635c6/Thicket.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Museum Map": {
+    "name": "Blighted Museum Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NdXNldW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MywibWIiOnRydWV9XQ/e3818e14c5/Museum.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.15
+    },
+    "exaltedValue": {
+      "Base": 0.65
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Alleyways Map": {
+    "name": "Blighted Alleyways Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BbGxleXdheXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTEsIm1iIjp0cnVlfV0/1fa784f755/Alleyways.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Orchard Map": {
+    "name": "Blighted Orchard Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9PcmNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/8180da48f7/Orchard.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Dark Forest Map": {
+    "name": "Blighted Dark Forest Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EYXJrRm9yZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjIsIm1iIjp0cnVlfV0/83c3682c78/DarkForest.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Dry Sea Map": {
+    "name": "Blighted Dry Sea Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZXNlcnRTaGlwR3JhdmV5YXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjYsIm1iIjp0cnVlfV0/d5c8493068/DesertShipGraveyard.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 7.28
+    },
+    "exaltedValue": {
+      "Base": 0.58
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Forking River Map": {
+    "name": "Blighted Forking River Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Gb3JraW5nUml2ZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTUsIm1iIjp0cnVlfV0/d4f81b968c/ForkingRiver.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.2
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Atoll Map": {
+    "name": "Blighted Atoll Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BdG9sbCIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMSwibWIiOnRydWV9XQ/f3ea79c741/Atoll.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.0
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Wharf Map": {
+    "name": "Blighted Wharf Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9XaGFyZiIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10Ijo1LCJtYiI6dHJ1ZX1d/dce9476538/Wharf.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Arcade Map": {
+    "name": "Blighted Arcade Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmNhZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTUsIm1iIjp0cnVlfV0/4026623891/Arcade.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.2
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Blighted Bog Map": {
+    "name": "Blighted Bog Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Cb2ciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTEsIm1iIjp0cnVlfV0/13ee94dc9d/Bog.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Caldera Map": {
+    "name": "Blighted Caldera Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjozLCJtYiI6dHJ1ZX1d/1682b24486/Abyss.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Defiled Cathedral Map": {
+    "name": "Blighted Defiled Cathedral Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EZWZpbGVkQ2F0aGVkcmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjMsIm1iIjp0cnVlfV0/683d579e18/DefiledCathedral.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Barrows Map": {
+    "name": "Blighted Barrows Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9CYXJyb3dzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjgsIm1iIjp0cnVlfV0/86a516d54c/Barrows.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.68
+    },
+    "exaltedValue": {
+      "Base": 0.69
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Marshes Map": {
+    "name": "Blighted Marshes Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NYXJzaGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEyLCJtYiI6dHJ1ZX1d/10b7720f0e/Marshes.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.08
+    },
+    "exaltedValue": {
+      "Base": 0.88
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Canyon Map": {
+    "name": "Blighted Canyon Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DYW55b24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OCwibWIiOnRydWV9XQ/e37d67b3d3/Canyon.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 9.18
+    },
+    "exaltedValue": {
+      "Base": 0.73
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Dig Map": {
+    "name": "Blighted Dig Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9EaWciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OSwibWIiOnRydWV9XQ/347c18ea5b/Dig.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.02
+    },
+    "exaltedValue": {
+      "Base": 0.64
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Cemetery Map": {
+    "name": "Blighted Cemetery Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9DZW1ldGVyeSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMiwibWIiOnRydWV9XQ/c255e21461/Cemetery.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.58
+    },
+    "exaltedValue": {
+      "Base": 0.92
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Mud Geyser Map": {
+    "name": "Blighted Mud Geyser Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9NdWRHZXlzZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTYsIm1iIjp0cnVlfV0/3a9397f581/MudGeyser.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 18.63
+    },
+    "exaltedValue": {
+      "Base": 1.49
+    },
+    "divineValue": {
+      "Base": 0.12
+    }
+  },
+  "Blighted Colonnade Map": {
+    "name": "Blighted Colonnade Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db2xvbm5hZGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6NywibWIiOnRydWV9XQ/542226fa98/Colonnade.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 8.92
+    },
+    "exaltedValue": {
+      "Base": 0.71
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "Blighted Armoury Map": {
+    "name": "Blighted Armoury Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Bcm1vcnkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTQsIm1iIjp0cnVlfV0/92e1458dd6/Armory.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 12.0
+    },
+    "exaltedValue": {
+      "Base": 0.96
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Arsenal Map": {
+    "name": "Blighted Arsenal Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcnNlbmFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEzLCJtYiI6dHJ1ZX1d/0f3f9003cd/Arsenal.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Arid Lake Map": {
+    "name": "Blighted Arid Lake Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9BcmlkTGFrZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxNiwibWIiOnRydWV9XQ/062bfd68ab/AridLake.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 17.3
+    },
+    "exaltedValue": {
+      "Base": 1.38
+    },
+    "divineValue": {
+      "Base": 0.11
+    }
+  },
+  "Blighted Necropolis Map": {
+    "name": "Blighted Necropolis Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9OZWNyb3BvbGlzIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjcsIm1iIjp0cnVlfV0/cc940bbd90/Necropolis.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Gardens Map": {
+    "name": "Blighted Gardens Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9UZXJyYWNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEwLCJtYiI6dHJ1ZX1d/c5da4db977/Terrace.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 11.04
+    },
+    "exaltedValue": {
+      "Base": 0.88
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Coral Ruins Map": {
+    "name": "Blighted Coral Ruins Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9Db3Jwc2VUcmVuY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6OCwibWIiOnRydWV9XQ/a3b5bb1013/CorpseTrench.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 13.05
+    },
+    "exaltedValue": {
+      "Base": 1.04
+    },
+    "divineValue": {
+      "Base": 0.09
+    }
+  },
+  "Blighted Racecourse Map": {
+    "name": "Blighted Racecourse Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9SYWNlY291cnNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEwLCJtYiI6dHJ1ZX1d/4b52535546/Racecourse.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 12.1
+    },
+    "exaltedValue": {
+      "Base": 0.96
+    },
+    "divineValue": {
+      "Base": 0.08
+    }
+  },
+  "Blighted Jungle Valley Map": {
+    "name": "Blighted Jungle Valley Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9KdW5nbGVWYWxsZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MSwibW4iOjE1LCJtdCI6MTQsIm1iIjp0cnVlfV0/0cfe45a655/JungleValley.png",
+    "rarity": 2,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Blighted Shore Map": {
+    "name": "Blighted Shore Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9TaG9yZSIsInciOjEsImgiOjEsInNjYWxlIjoxLCJtbiI6MTUsIm10IjoxMSwibWIiOnRydWV9XQ/7f0ef538db/Shore.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 7.63
+    },
+    "exaltedValue": {
+      "Base": 0.61
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "Blighted Lair Map": {
+    "name": "Blighted Lair Map",
+    "icon": "https://web.poecdn.com/gen/image/WzI4LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhczJNYXBzL05ldy9MYWlyIiwidyI6MSwiaCI6MSwic2NhbGUiOjEsIm1uIjoxNSwibXQiOjEwLCJtYiI6dHJ1ZX1d/12c53c8f6b/Lair.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
     }
   }
 }
