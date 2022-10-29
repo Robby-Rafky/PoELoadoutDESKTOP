@@ -2,25 +2,26 @@ import requests
 import json
 
 HEADERS = {"content-type": "PoE_Loadout_Tool/0.1"}
+current_league = "Kalandra"
 api_url = {
-    "curr": "https://poe.ninja/api/data/CurrencyOverview?league=Sentinel&type=Currency",
-    "frag": "https://poe.ninja/api/data/CurrencyOverview?league=Sentinel&type=Fragment&language=en",
-    "arti": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Artifact&language=en",
-    "oil": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Oil&language=en",
-    "wep": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=UniqueWeapon&language=en",
-    "armour": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=UniqueArmour&language=en",
-    "accessory": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=UniqueAccessory&language=en",
-    "jewel": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=UniqueJewel&language=en",
-    "cluster": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=ClusterJewel&language=en",
-    "blighted": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=BlightedMap&language=en",
-    "ravaged": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=BlightRavagedMap&language=en",
-    "deli": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=DeliriumOrb&language=en",
-    "scarab": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Scarab&language=en",
-    "fossil": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Fossil&language=en",
-    "reso": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Resonator&language=en",
-    "essence": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Essence&language=en",
-    "beast": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=Beast&language=en",
-    "card": "https://poe.ninja/api/data/ItemOverview?league=Sentinel&type=DivinationCard&language=en"
+    "curr": "https://poe.ninja/api/data/CurrencyOverview?league="+current_league+"&type=Currency",
+    "frag": "https://poe.ninja/api/data/CurrencyOverview?league="+current_league+"&type=Fragment&language=en",
+    "arti": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Artifact&language=en",
+    "oil": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Oil&language=en",
+    "wep": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=UniqueWeapon&language=en",
+    "armour": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=UniqueArmour&language=en",
+    "accessory": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=UniqueAccessory&language=en",
+    "jewel": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=UniqueJewel&language=en",
+    "cluster": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=ClusterJewel&language=en",
+    "blighted": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=BlightedMap&language=en",
+    "ravaged": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=BlightRavagedMap&language=en",
+    "deli": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=DeliriumOrb&language=en",
+    "scarab": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Scarab&language=en",
+    "fossil": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Fossil&language=en",
+    "reso": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Resonator&language=en",
+    "essence": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Essence&language=en",
+    "beast": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=Beast&language=en",
+    "card": "https://poe.ninja/api/data/ItemOverview?league="+current_league+"&type=DivinationCard&language=en"
 }
 
 
