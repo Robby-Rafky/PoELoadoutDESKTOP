@@ -1,0 +1,1514 @@
+{
+  "Mirror of Kalandra": {
+    "name": "Mirror of Kalandra",
+    "chaosValue": {
+      "buy": 81704.61631082157,
+      "sell": 83543.05739166666
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7111e35254/CurrencyDuplicate.png"
+  },
+  "Mirror Shard": {
+    "name": "Mirror Shard",
+    "chaosValue": {
+      "buy": 4239.93100070182,
+      "sell": 4512.529510941176
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWlycm9yU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6604b7aa32/MirrorShard.png"
+  },
+  "Tempering Orb": {
+    "name": "Tempering Orb",
+    "chaosValue": {
+      "buy": 538.3351277837593,
+      "sell": 728.000016
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudEJvZHlBcm1vdXJDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/41418e201d/DivineEnchantBodyArmourCurrency.png"
+  },
+  "Sacred Crystallised Lifeforce": {
+    "name": "Sacred Crystallised Lifeforce",
+    "chaosValue": {
+      "buy": 465.1162790697674,
+      "sell": 606.65530499975
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9TYWNyZWRMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd4e43e4d0/SacredLifeforce.png"
+  },
+  "Tailoring Orb": {
+    "name": "Tailoring Orb",
+    "chaosValue": {
+      "buy": 339.27056827820184,
+      "sell": 576.333346
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c5f4a79b45/DivineEnchantWeaponCurrency.png"
+  },
+  "Secondary Regrading Lens": {
+    "name": "Secondary Regrading Lens",
+    "chaosValue": {
+      "buy": 335.21051220166265,
+      "sell": 385.7333368
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWx0ZXJuYXRlU3VwcG9ydEdlbUN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4910912e4/AlternateSupportGemCurrency.png"
+  },
+  "Tainted Divine Teardrop": {
+    "name": "Tainted Divine Teardrop",
+    "chaosValue": {
+      "buy": 320.3514713285433,
+      "sell": 354.66666933333335
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3cd0195e1/HellscapeTeardropOrb.png"
+  },
+  "Orb of Dominance": {
+    "name": "Orb of Dominance",
+    "chaosValue": {
+      "buy": 149.8800959232614,
+      "sell": 246.47058823529412
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5PcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8396ed7d8d/MavenOrb.png"
+  },
+  "Divine Orb": {
+    "name": "Divine Orb",
+    "chaosValue": {
+      "buy": 151.15354017501988,
+      "sell": 151.66667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png"
+  },
+  "Hunter's Exalted Orb": {
+    "name": "Hunter's Exalted Orb",
+    "chaosValue": {
+      "buy": 71.55635062611807,
+      "sell": 106.6
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9CYXNpbGlza09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c17ac5e60c/BasiliskOrb.png"
+  },
+  "Tainted Exalted Orb": {
+    "name": "Tainted Exalted Orb",
+    "chaosValue": {
+      "buy": 72.43783129655196,
+      "sell": 94.76470588235294
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUV4YWx0ZWRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7cb146de94/HellscapeExaltedOrb.png"
+  },
+  "Awakener's Orb": {
+    "name": "Awakener's Orb",
+    "chaosValue": {
+      "buy": 67.10137834125392,
+      "sell": 94.53333333333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVHJhbnNmZXJPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6db384ea6e/TransferOrb.png"
+  },
+  "Tainted Chaos Orb": {
+    "name": "Tainted Chaos Orb",
+    "chaosValue": {
+      "buy": 68.25116428456721,
+      "sell": 89.866668
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bd934ad92b/HellscapeChaosOrb.png"
+  },
+  "Prime Regrading Lens": {
+    "name": "Prime Regrading Lens",
+    "chaosValue": {
+      "buy": 48.88939589003145,
+      "sell": 63.421052631578945
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWx0ZXJuYXRlU2tpbGxHZW1DdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/723fd6fbdd/AlternateSkillGemCurrency.png"
+  },
+  "Elevated Sextant": {
+    "name": "Elevated Sextant",
+    "chaosValue": {
+      "buy": 45.116388409362365,
+      "sell": 45.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXNSYWRpdXNUaWVyNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5aa797a16b/AtlasRadiusTier4.png"
+  },
+  "Crusader's Exalted Orb": {
+    "name": "Crusader's Exalted Orb",
+    "chaosValue": {
+      "buy": 32.45699448231094,
+      "sell": 35.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9DcnVzYWRlck9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0449a66634/CrusaderOrb.png"
+  },
+  "Warlord's Exalted Orb": {
+    "name": "Warlord's Exalted Orb",
+    "chaosValue": {
+      "buy": 28.051474455626074,
+      "sell": 35.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/14d882831a/ConquerorOrb.png"
+  },
+  "Redeemer's Exalted Orb": {
+    "name": "Redeemer's Exalted Orb",
+    "chaosValue": {
+      "buy": 28.616445366155833,
+      "sell": 34.95
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6157e9ce59/EyrieOrb.png"
+  },
+  "Exceptional Eldritch Ichor": {
+    "name": "Exceptional Eldritch Ichor",
+    "chaosValue": {
+      "buy": 22.33462523812652,
+      "sell": 30.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1205e2c0a/TangleOrbRank4.png"
+  },
+  "Blessing of Chayula": {
+    "name": "Blessing of Chayula",
+    "chaosValue": {
+      "buy": 20.76067098488623,
+      "sell": 28.105263157894736
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5542f2ce9a/BreachUpgraderChaos.png"
+  },
+  "Orb of Conflict": {
+    "name": "Orb of Conflict",
+    "chaosValue": {
+      "buy": 25.366224871583487,
+      "sell": 28.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e1919976c3/ConflictOrbRank1.png"
+  },
+  "Exceptional Eldritch Ember": {
+    "name": "Exceptional Eldritch Ember",
+    "chaosValue": {
+      "buy": 17.21552477902968,
+      "sell": 23.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbms0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/920113641f/CleansingFireOrbRank4.png"
+  },
+  "Comprehensive Scouting Report": {
+    "name": "Comprehensive Scouting Report",
+    "chaosValue": {
+      "buy": 3.000030000300003,
+      "sell": 22.571428571428573
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Eldritch Orb of Annulment": {
+    "name": "Eldritch Orb of Annulment",
+    "chaosValue": {
+      "buy": 16.42128573975546,
+      "sell": 22.285714285714285
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cd03411d81/EldritchAnnulmentOrb.png"
+  },
+  "Eldritch Chaos Orb": {
+    "name": "Eldritch Chaos Orb",
+    "chaosValue": {
+      "buy": 27.502750275027502,
+      "sell": 20.727272727272727
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/afdc1d40be/EldritchChaosOrb.png"
+  },
+  "Tainted Blessing": {
+    "name": "Tainted Blessing",
+    "chaosValue": {
+      "buy": 9.118333898030151,
+      "sell": 20.20833125
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFpbnRlZEJsZXNzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a712d4cf74/TaintedBlessing.png"
+  },
+  "Ancient Orb": {
+    "name": "Ancient Orb",
+    "chaosValue": {
+      "buy": 15.059434568430072,
+      "sell": 17.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08feb97abf/AncientOrb.png"
+  },
+  "Tainted Mythic Orb": {
+    "name": "Tainted Mythic Orb",
+    "chaosValue": {
+      "buy": 17.782594187602186,
+      "sell": 15.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU15dGhpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3cc4ad8930/HellscapeMythicOrb.png"
+  },
+  "Exalted Orb": {
+    "name": "Exalted Orb",
+    "chaosValue": {
+      "buy": 12.021436118721171,
+      "sell": 13.585675788782353
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b102771c23/CurrencyAddModToRare.png"
+  },
+  "Veiled Chaos Orb": {
+    "name": "Veiled Chaos Orb",
+    "chaosValue": {
+      "buy": 12.000480019200769,
+      "sell": 12.998
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fe00a81cbc/VeiledChaosOrb.png"
+  },
+  "Orb of Annulment": {
+    "name": "Orb of Annulment",
+    "chaosValue": {
+      "buy": 8.9957989618848,
+      "sell": 10.875055059525
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/88cfdbe1e5/AnnullOrb.png"
+  },
+  "Prismatic Catalyst": {
+    "name": "Prismatic Catalyst",
+    "chaosValue": {
+      "buy": 10.0,
+      "sell": 10.222223333333334
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e51d41a0e/PrismaticCatalyst.png"
+  },
+  "Otherworldly Scouting Report": {
+    "name": "Otherworldly Scouting Report",
+    "chaosValue": {
+      "buy": 6.992126865149841,
+      "sell": 9.846153846153847
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Blessing of Uul-Netol": {
+    "name": "Blessing of Uul-Netol",
+    "chaosValue": {
+      "buy": 1.0,
+      "sell": 9.5
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7eab2a8de8/BreachUpgraderPhysical.png"
+  },
+  "Blessing of Esh": {
+    "name": "Blessing of Esh",
+    "chaosValue": {
+      "buy": 1.0,
+      "sell": 9.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d12318c95b/BreachUpgraderLightning.png"
+  },
+  "Unstable Catalyst": {
+    "name": "Unstable Catalyst",
+    "chaosValue": {
+      "buy": 7.812414551715841,
+      "sell": 9.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NyaXRpY2FsTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/18e5522c0e/CriticalModifierCatalyst.png"
+  },
+  "Eldritch Exalted Orb": {
+    "name": "Eldritch Exalted Orb",
+    "chaosValue": {
+      "buy": 10.086863824153047,
+      "sell": 8.363636363636363
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56026bffa3/EldritchExaltedOrb.png"
+  },
+  "Blessing of Tul": {
+    "name": "Blessing of Tul",
+    "chaosValue": {
+      "buy": 1.0,
+      "sell": 8.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3f8a9bbe57/BreachUpgraderCold.png"
+  },
+  "Sacred Orb": {
+    "name": "Sacred Orb",
+    "chaosValue": {
+      "buy": 59.98800239952009,
+      "sell": 0.01667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5a07465c5/SacredOrb.png"
+  },
+  "Oil Extractor": {
+    "name": "Oil Extractor",
+    "chaosValue": {
+      "buy": 4.653030837349633,
+      "sell": 5.888888888888889
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JY2hvckV4dHJhY3RvciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/21d47cfba0/IchorExtractor.png"
+  },
+  "Fertile Catalyst": {
+    "name": "Fertile Catalyst",
+    "chaosValue": {
+      "buy": 4.52147701582517,
+      "sell": 5.839288125
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4b4ca5d929/FertileCatalyst.png"
+  },
+  "Blessing of Xoph": {
+    "name": "Blessing of Xoph",
+    "chaosValue": {
+      "buy": 1.0,
+      "sell": 5.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f9d0f29f08/BreachUpgraderFire.png"
+  },
+  "Influenced Scouting Report": {
+    "name": "Influenced Scouting Report",
+    "chaosValue": {
+      "buy": 3.8245159118984513,
+      "sell": 5.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Charged Compass": {
+    "name": "Charged Compass",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 4.2105263157894735
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hhcmdlZENvbXBhc3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea8fcc3e35/ChargedCompass.png"
+  },
+  "Tainted Chromatic Orb": {
+    "name": "Tainted Chromatic Orb",
+    "chaosValue": {
+      "buy": 2.4234730971526997,
+      "sell": 3.999222222222222
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNocm9tYXRpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0a50953c2/HellscapeChromaticOrb.png"
+  },
+  "Blighted Scouting Report": {
+    "name": "Blighted Scouting Report",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 3.8
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Ritual Vessel": {
+    "name": "Ritual Vessel",
+    "chaosValue": {
+      "buy": 5.9998800023999515,
+      "sell": 3.764705882352941
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUml0dWFsL0VmZmlneSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/445939b722/Effigy.png"
+  },
+  "Grand Eldritch Ichor": {
+    "name": "Grand Eldritch Ichor",
+    "chaosValue": {
+      "buy": 2.2106601189019335,
+      "sell": 3.2140500706384616
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/80772bd510/TangleOrbRank3.png"
+  },
+  "Awakened Sextant": {
+    "name": "Awakened Sextant",
+    "chaosValue": {
+      "buy": 3.3139438548143754,
+      "sell": 3.0992637936058824
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXNSYWRpdXNUaWVyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/07377648d7/AtlasRadiusTier3.png"
+  },
+  "Accelerating Catalyst": {
+    "name": "Accelerating Catalyst",
+    "chaosValue": {
+      "buy": 3.508789165981868,
+      "sell": 3.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1NwZWVkTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/592075333a/SpeedModifierCatalyst.png"
+  },
+  "Tainted Orb of Fusing": {
+    "name": "Tainted Orb of Fusing",
+    "chaosValue": {
+      "buy": 3.052515110847597,
+      "sell": 3.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a97eb273c3/HellscapeOrbOfFusing.png"
+  },
+  "Singular Scouting Report": {
+    "name": "Singular Scouting Report",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 3.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Operative's Scouting Report": {
+    "name": "Operative's Scouting Report",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 3.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Delirious Scouting Report": {
+    "name": "Delirious Scouting Report",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 2.8421052631578947
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Grand Eldritch Ember": {
+    "name": "Grand Eldritch Ember",
+    "chaosValue": {
+      "buy": 2.033760423022168,
+      "sell": 2.1354667136
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65093ad252/CleansingFireOrbRank3.png"
+  },
+  "Stacked Deck": {
+    "name": "Stacked Deck",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 1.9959333772
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/962aa0e620/Deck.png"
+  },
+  "Surveyor's Compass": {
+    "name": "Surveyor's Compass",
+    "chaosValue": {
+      "buy": 0.9107468123861566,
+      "sell": 1.6424233333333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU3VydmV5b3JzQ29tcGFzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e8443c2996/SurveyorsCompass.png"
+  },
+  "Greater Eldritch Ember": {
+    "name": "Greater Eldritch Ember",
+    "chaosValue": {
+      "buy": 1.4099470938087564,
+      "sell": 1.36364
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/33fd210c40/CleansingFireOrbRank2.png"
+  },
+  "Harbinger's Orb": {
+    "name": "Harbinger's Orb",
+    "chaosValue": {
+      "buy": 1.3300471316979419,
+      "sell": 1.317542105263158
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFyYmluZ2VyT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3e31090ea7/HarbingerOrb.png"
+  },
+  "Gemcutter's Prism": {
+    "name": "Gemcutter's Prism",
+    "chaosValue": {
+      "buy": 1.1045487918185422,
+      "sell": 1.23517336048
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1be1273b91/CurrencyGemQuality.png"
+  },
+  "Annulment Shard": {
+    "name": "Annulment Shard",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 1.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7a8a838a6/AnnullShard.png"
+  },
+  "Tempering Catalyst": {
+    "name": "Tempering Catalyst",
+    "chaosValue": {
+      "buy": 1.2424940159935072,
+      "sell": 1.0042857142857142
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b6277022e/TemperingCatalyst.png"
+  },
+  "Greater Eldritch Ichor": {
+    "name": "Greater Eldritch Ichor",
+    "chaosValue": {
+      "buy": 0.9814757423074242,
+      "sell": 0.99604
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37b581d6b1/TangleOrbRank2.png"
+  },
+  "Orb of Unmaking": {
+    "name": "Orb of Unmaking",
+    "chaosValue": {
+      "buy": 0.9061165814124228,
+      "sell": 1.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2ebb4b5a3/RegretOrb.png"
+  },
+  "Tainted Jeweller's Orb": {
+    "name": "Tainted Jeweller's Orb",
+    "chaosValue": {
+      "buy": 0.20202020202020202,
+      "sell": 0.9532016666666666
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUpld2VsbGVyc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ade99596b/HellscapeJewellersOrb.png"
+  },
+  "Noxious Catalyst": {
+    "name": "Noxious Catalyst",
+    "chaosValue": {
+      "buy": 0.630715862503942,
+      "sell": 0.90606
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bbdf8917e4/ChaosPhysicalCatalyst.png"
+  },
+  "Tainted Armourer's Scrap": {
+    "name": "Tainted Armourer's Scrap",
+    "chaosValue": {
+      "buy": 0.7007231427797329,
+      "sell": 0.886314
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/05e0065a80/HellscapeArmourersScrap.png"
+  },
+  "Exalted Shard": {
+    "name": "Exalted Shard",
+    "chaosValue": {
+      "buy": 0.5999988000023999,
+      "sell": 0.81313
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhhbHRlZFNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a919870741/ExaltedShard.png"
+  },
+  "Vaal Orb": {
+    "name": "Vaal Orb",
+    "chaosValue": {
+      "buy": 0.5747126436781609,
+      "sell": 0.81110375
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/304f775089/CurrencyVaal.png"
+  },
+  "Intrinsic Catalyst": {
+    "name": "Intrinsic Catalyst",
+    "chaosValue": {
+      "buy": 0.5561988536046378,
+      "sell": 0.71429
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/107ffb799e/IntrinsicCatalyst.png"
+  },
+  "Turbulent Catalyst": {
+    "name": "Turbulent Catalyst",
+    "chaosValue": {
+      "buy": 0.5,
+      "sell": 0.66667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fc41fe8950/TurbulentCatalyst.png"
+  },
+  "Enkindling Orb": {
+    "name": "Enkindling Orb",
+    "chaosValue": {
+      "buy": 0.6956521739130435,
+      "sell": 0.6513178947368421
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c03aace282/FlaskPlate.png"
+  },
+  "Regal Orb": {
+    "name": "Regal Orb",
+    "chaosValue": {
+      "buy": 0.5029781601588352,
+      "sell": 0.5966075
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/898378b439/CurrencyUpgradeMagicToRare.png"
+  },
+  "Orb of Regret": {
+    "name": "Orb of Regret",
+    "chaosValue": {
+      "buy": 0.4,
+      "sell": 0.61111
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6b8ab3ff07/CurrencyPassiveSkillRefund.png"
+  },
+  "Vaal Scouting Report": {
+    "name": "Vaal Scouting Report",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.522316875
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Lesser Eldritch Ember": {
+    "name": "Lesser Eldritch Ember",
+    "chaosValue": {
+      "buy": 0.24605276010913918,
+      "sell": 0.5
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/62c98f8357/CleansingFireOrbRank1.png"
+  },
+  "Explorer's Scouting Report": {
+    "name": "Explorer's Scouting Report",
+    "chaosValue": {
+      "buy": 0.5,
+      "sell": 0.463655
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Blessed Orb": {
+    "name": "Blessed Orb",
+    "chaosValue": {
+      "buy": 0.2999199933425759,
+      "sell": 0.416425
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3cbf3e5ab/CurrencyImplicitMod.png"
+  },
+  "Orb of Scouring": {
+    "name": "Orb of Scouring",
+    "chaosValue": {
+      "buy": 0.3225807492195965,
+      "sell": 0.35972576548181817
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6953e90545/CurrencyConvertToNormal.png"
+  },
+  "Imbued Catalyst": {
+    "name": "Imbued Catalyst",
+    "chaosValue": {
+      "buy": 0.35714285714285715,
+      "sell": 0.33333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ltYnVlZENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9053293cf6/ImbuedCatalyst.png"
+  },
+  "Abrasive Catalyst": {
+    "name": "Abrasive Catalyst",
+    "chaosValue": {
+      "buy": 0.1,
+      "sell": 0.33333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0FicmFzaXZlQ2F0YWx5c3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c4e7f7f379/AbrasiveCatalyst.png"
+  },
+  "Lesser Eldritch Ichor": {
+    "name": "Lesser Eldritch Ichor",
+    "chaosValue": {
+      "buy": 0.1797752808988764,
+      "sell": 0.33199842105263155
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3135dab202/TangleOrbRank1.png"
+  },
+  "Instilling Orb": {
+    "name": "Instilling Orb",
+    "chaosValue": {
+      "buy": 0.1711026615969582,
+      "sell": 0.31333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/08e3793591/FlaskInjector.png"
+  },
+  "Tainted Blacksmith's Whetstone": {
+    "name": "Tainted Blacksmith's Whetstone",
+    "chaosValue": {
+      "buy": 0.05025125628140704,
+      "sell": 0.24888888888888888
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUJsYWNrc21pdGhXaGV0c3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1551a2a62/HellscapeBlacksmithWhetstone.png"
+  },
+  "Orb of Horizons": {
+    "name": "Orb of Horizons",
+    "chaosValue": {
+      "buy": 0.22094869847407303,
+      "sell": 0.19817
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSG9yaXpvbk9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a48e326c68/HorizonOrb.png"
+  },
+  "Orb of Alteration": {
+    "name": "Orb of Alteration",
+    "chaosValue": {
+      "buy": 0.17094017094017094,
+      "sell": 0.16814466765333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/28212545fd/CurrencyRerollMagic.png"
+  },
+  "Engineer's Orb": {
+    "name": "Engineer's Orb",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.1403177777777778
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRW5naW5lZXJzT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56b41a5ee5/EngineersOrb.png"
+  },
+  "Orb of Fusing": {
+    "name": "Orb of Fusing",
+    "chaosValue": {
+      "buy": 0.1234567901234568,
+      "sell": 0.1258833361
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f38529edfc/CurrencyRerollSocketLinks.png"
+  },
+  "Chromatic Orb": {
+    "name": "Chromatic Orb",
+    "chaosValue": {
+      "buy": 0.1,
+      "sell": 0.131555
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/136314c10a/CurrencyRerollSocketColours.png"
+  },
+  "Cartographer's Chisel": {
+    "name": "Cartographer's Chisel",
+    "chaosValue": {
+      "buy": 0.07387508394895903,
+      "sell": 0.11111
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNYXBRdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c83c35bed5/CurrencyMapQuality.png"
+  },
+  "Glassblower's Bauble": {
+    "name": "Glassblower's Bauble",
+    "chaosValue": {
+      "buy": 0.05940748847025717,
+      "sell": 0.09872
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8a36dffe11/CurrencyFlaskQuality.png"
+  },
+  "Orb of Alchemy": {
+    "name": "Orb of Alchemy",
+    "chaosValue": {
+      "buy": 0.07142857142857142,
+      "sell": 0.096515
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f0dc27cd7c/CurrencyUpgradeToRare.png"
+  },
+  "Vivid Crystallised Lifeforce": {
+    "name": "Vivid Crystallised Lifeforce",
+    "chaosValue": {
+      "buy": 0.06716417409222582,
+      "sell": 0.09063647058823529
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9e3d712362/VividLifeforce.png"
+  },
+  "Orb of Chance": {
+    "name": "Orb of Chance",
+    "chaosValue": {
+      "buy": 0.06004423332259963,
+      "sell": 0.06667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlUmFuZG9tbHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eaeece27be/CurrencyUpgradeRandomly.png"
+  },
+  "Orb of Binding": {
+    "name": "Orb of Binding",
+    "chaosValue": {
+      "buy": 0.10356787806439532,
+      "sell": 0.07143
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmluZGluZ09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/66ef64410c/BindingOrb.png"
+  },
+  "Jeweller's Orb": {
+    "name": "Jeweller's Orb",
+    "chaosValue": {
+      "buy": 0.02879929109437306,
+      "sell": 0.058612222222222225
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/685633cb14/CurrencyRerollSocketNumbers.png"
+  },
+  "Orb of Augmentation": {
+    "name": "Orb of Augmentation",
+    "chaosValue": {
+      "buy": 0.041666666666666664,
+      "sell": 0.05860526315789474
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a6cb2ad17/CurrencyAddModToMagic.png"
+  },
+  "Wild Crystallised Lifeforce": {
+    "name": "Wild Crystallised Lifeforce",
+    "chaosValue": {
+      "buy": 0.030001915622312487,
+      "sell": 0.03335566718
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/facb3683d5/WildLifeforce.png"
+  },
+  "Portal Scroll": {
+    "name": "Portal Scroll",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.01667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQb3J0YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a55c72f398/CurrencyPortal.png"
+  },
+  "Primal Crystallised Lifeforce": {
+    "name": "Primal Crystallised Lifeforce",
+    "chaosValue": {
+      "buy": 0.025,
+      "sell": 0.0242666672
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d5d53c61c3/PrimalLifeforce.png"
+  },
+  "Orb of Transmutation": {
+    "name": "Orb of Transmutation",
+    "chaosValue": {
+      "buy": 0.0058823529411764705,
+      "sell": 0.008258888888888889
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/130762c82d/CurrencyUpgradeToMagic.png"
+  },
+  "Scroll of Wisdom": {
+    "name": "Scroll of Wisdom",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.00556
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJZGVudGlmaWNhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3a1e615322/CurrencyIdentification.png"
+  },
+  "Blacksmith's Whetstone": {
+    "name": "Blacksmith's Whetstone",
+    "chaosValue": {
+      "buy": 0.00125,
+      "sell": 0.006583333333333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c874e03eb7/CurrencyWeaponQuality.png"
+  },
+  "Archive Reliquary Key": {
+    "name": "Archive Reliquary Key",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 985.833355
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TZWFyaW5nRXhhcmNoRm9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bb895c1f5d/SearingExarchFoil.png"
+  },
+  "Oubliette Reliquary Key": {
+    "name": "Oubliette Reliquary Key",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 976.9117861764706
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaXJ1c0ZvaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7e611a9eb0/SirusFoil.png"
+  },
+  "Visceral Reliquary Key": {
+    "name": "Visceral Reliquary Key",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 910.00002
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FYXRlck9mV29ybGRzRm9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b57140936b/EaterOfWorldsFoil.png"
+  },
+  "Cosmic Reliquary Key": {
+    "name": "Cosmic Reliquary Key",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 530.833345
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaGFwZXJGb2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/71325272ad/ShaperFoil.png"
+  },
+  "Chayula's Flawless Breachstone": {
+    "name": "Chayula's Flawless Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 267.14285714285717
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzRmxhd2xlc3NCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0d6f8da0ec/ChayulasFlawlessBreachstone.png"
+  },
+  "Gift to the Goddess": {
+    "name": "Gift to the Goddess",
+    "chaosValue": {
+      "buy": 181.07741059302853,
+      "sell": 253.1333356
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/95aadb1d9f/LabyrinthHarvestInfused1.png"
+  },
+  "Shiny Reliquary Key": {
+    "name": "Shiny Reliquary Key",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 206.43518972222222
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXZlbkZvaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/114c341a3c/MavenFoil.png"
+  },
+  "Esh's Flawless Breachstone": {
+    "name": "Esh's Flawless Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 150.166667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNGbGF3bGVzc0JyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b2fe284562/EshsFlawlessBreachstone.png"
+  },
+  "Tul's Flawless Breachstone": {
+    "name": "Tul's Flawless Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 139.78947589473685
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNGbGF3bGVzc0JyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3a646b7375/TulsFlawlessBreachstone.png"
+  },
+  "Einhar's Memory": {
+    "name": "Einhar's Memory",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 136.37255
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9FaW5oYXJNZW1vcnlJdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e4c7a8f89/EinharMemoryItem.png"
+  },
+  "The Maven's Writ": {
+    "name": "The Maven's Writ",
+    "chaosValue": {
+      "buy": 120.04801920768307,
+      "sell": 110.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad4c12144c/MavenKey.png"
+  },
+  "Chayula's Pure Breachstone": {
+    "name": "Chayula's Pure Breachstone",
+    "chaosValue": {
+      "buy": 82.44057065363006,
+      "sell": 109.2
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzUHVyZUJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/990514c659/ChayulasPureBreachstone.png"
+  },
+  "Xoph's Flawless Breachstone": {
+    "name": "Xoph's Flawless Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 99.085
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzRmxhd2xlc3NCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ed1fa03ff6/XophsFlawlessBreachstone.png"
+  },
+  "Chayula's Enriched Breachstone": {
+    "name": "Chayula's Enriched Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 90.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzRW5yaWNoZWRCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/84053be861/ChayulasEnrichedBreachstone.png"
+  },
+  "Chayula's Charged Breachstone": {
+    "name": "Chayula's Charged Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 88.61176470588235
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzQ2hhcmdlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df8ac77370/ChayulasChargedBreachstone.png"
+  },
+  "Chayula's Breachstone": {
+    "name": "Chayula's Breachstone",
+    "chaosValue": {
+      "buy": 58.54079368991866,
+      "sell": 74.6470588235294
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/04b5c032f4/BreachFragmentsChaos.png"
+  },
+  "Fragment of Shape": {
+    "name": "Fragment of Shape",
+    "chaosValue": {
+      "buy": 57.56857433118862,
+      "sell": 74.45
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dd71531c9f/UberElder03.png"
+  },
+  "Fragment of Knowledge": {
+    "name": "Fragment of Knowledge",
+    "chaosValue": {
+      "buy": 57.56857433118862,
+      "sell": 70.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a2bab8955/UberElder04.png"
+  },
+  "Dedication to the Goddess": {
+    "name": "Dedication to the Goddess",
+    "chaosValue": {
+      "buy": 55.92657170115472,
+      "sell": 70.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e8b597bd1/LabyrinthHarvestInfused2.png"
+  },
+  "Uul-Netol's Pure Breachstone": {
+    "name": "Uul-Netol's Pure Breachstone",
+    "chaosValue": {
+      "buy": 30.003000300030003,
+      "sell": 65.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc1B1cmVCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e90400edd6/UulNetolsPureBreachstone.png"
+  },
+  "Timeless Maraketh Emblem": {
+    "name": "Timeless Maraketh Emblem",
+    "chaosValue": {
+      "buy": 48.88461601134123,
+      "sell": 64.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aEZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7c42d58a5e/MarakethFragment.png"
+  },
+  "Simulacrum": {
+    "name": "Simulacrum",
+    "chaosValue": {
+      "buy": 46.74644727000748,
+      "sell": 60.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/92fba984ee/DeliriumFragment.png"
+  },
+  "Xoph's Pure Breachstone": {
+    "name": "Xoph's Pure Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 40.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzUHVyZUJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/901eb67c3b/XophsPureBreachstone.png"
+  },
+  "Unrelenting Timeless Maraketh Emblem": {
+    "name": "Unrelenting Timeless Maraketh Emblem",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 40.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0TWFyYWtldGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/31d3f4f939/TimelessConflictMaraketh.png"
+  },
+  "Uul-Netol's Enriched Breachstone": {
+    "name": "Uul-Netol's Enriched Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 39.73684210526316
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc0VucmljaGVkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7aca605592/UulNetolsEnrichedBreachstone.png"
+  },
+  "Uul-Netol's Charged Breachstone": {
+    "name": "Uul-Netol's Charged Breachstone",
+    "chaosValue": {
+      "buy": 14.47477553241843,
+      "sell": 35.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc0NoYXJnZWRCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/15e85c9e85/UulNetolsChargedBreachstone.png"
+  },
+  "Tul's Pure Breachstone": {
+    "name": "Tul's Pure Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 35.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNQdXJlQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3a2c181736/TulsPureBreachstone.png"
+  },
+  "Esh's Pure Breachstone": {
+    "name": "Esh's Pure Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 35.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNQdXJlQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/67717e35a3/EshsPureBreachstone.png"
+  },
+  "Tul's Enriched Breachstone": {
+    "name": "Tul's Enriched Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 34.345
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNFbnJpY2hlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3f127ab77/TulsEnrichedBreachstone.png"
+  },
+  "Xoph's Enriched Breachstone": {
+    "name": "Xoph's Enriched Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 30.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzRW5yaWNoZWRCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/cc980d1aa4/XophsEnrichedBreachstone.png"
+  },
+  "Esh's Enriched Breachstone": {
+    "name": "Esh's Enriched Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 29.266666666666666
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNFbnJpY2hlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fbc839157e/EshsEnrichedBreachstone.png"
+  },
+  "Unrelenting Timeless Eternal Emblem": {
+    "name": "Unrelenting Timeless Eternal Emblem",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 28.285714285714285
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0S2FydWkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d7f863e549/TimelessConflictKarui.png"
+  },
+  "Uul-Netol's Breachstone": {
+    "name": "Uul-Netol's Breachstone",
+    "chaosValue": {
+      "buy": 18.882175226586103,
+      "sell": 26.318181818181817
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c1BoeXNpY2FsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2ab646ae46/BreachFragmentsPhysical.png"
+  },
+  "Tribute to the Goddess": {
+    "name": "Tribute to the Goddess",
+    "chaosValue": {
+      "buy": 11.892303301303397,
+      "sell": 25.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cfaffbce/LabyrinthHarvest.png"
+  },
+  "Xoph's Charged Breachstone": {
+    "name": "Xoph's Charged Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 23.555555555555557
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzQ2hhcmdlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f7a05e5bb1/XophsChargedBreachstone.png"
+  },
+  "Fragment of Terror": {
+    "name": "Fragment of Terror",
+    "chaosValue": {
+      "buy": 18.053800324968407,
+      "sell": 21.6
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/061cd63c5e/UberElder01.png"
+  },
+  "Fragment of Emptiness": {
+    "name": "Fragment of Emptiness",
+    "chaosValue": {
+      "buy": 18.053800324968407,
+      "sell": 20.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ced2590995/UberElder02.png"
+  },
+  "Timeless Templar Emblem": {
+    "name": "Timeless Templar Emblem",
+    "chaosValue": {
+      "buy": 12.554745297256723,
+      "sell": 19.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e31c7a2a1e/TemplarFragment.png"
+  },
+  "Tul's Charged Breachstone": {
+    "name": "Tul's Charged Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 17.835
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNDaGFyZ2VkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/63ee33df22/TulsChargedBreachstone.png"
+  },
+  "Unrelenting Timeless Vaal Emblem": {
+    "name": "Unrelenting Timeless Vaal Emblem",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 17.15
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0VmFhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2245d648ba/TimelessConflictVaal.png"
+  },
+  "Alva's Memory": {
+    "name": "Alva's Memory",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 16.833333333333332
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9BbHZhTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5adc01981d/AlvaMemoryItem.png"
+  },
+  "Esh's Charged Breachstone": {
+    "name": "Esh's Charged Breachstone",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 15.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNDaGFyZ2VkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/19eeb5a053/EshsChargedBreachstone.png"
+  },
+  "Niko's Memory": {
+    "name": "Niko's Memory",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 15.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9OaWtvTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5c560ea8fd/NikoMemoryItem.png"
+  },
+  "Fragment of Eradication": {
+    "name": "Fragment of Eradication",
+    "chaosValue": {
+      "buy": 4.106776180698152,
+      "sell": 14.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/22a9d1257c/AtlasMapGuardianLightning.png"
+  },
+  "Fragment of Enslavement": {
+    "name": "Fragment of Enslavement",
+    "chaosValue": {
+      "buy": 8.375587396229962,
+      "sell": 13.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6327dee00e/AtlasMapGuardianFire.png"
+  },
+  "Kirac's Memory": {
+    "name": "Kirac's Memory",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 13.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9LaXJhY01lbW9yeUl0ZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/def36e7b78/KiracMemoryItem.png"
+  },
+  "Fragment of Constriction": {
+    "name": "Fragment of Constriction",
+    "chaosValue": {
+      "buy": 7.729060365249629,
+      "sell": 12.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuSG9seSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ade615a113/AtlasMapGuardianHoly.png"
+  },
+  "Fragment of Purification": {
+    "name": "Fragment of Purification",
+    "chaosValue": {
+      "buy": 7.729060365249629,
+      "sell": 11.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/767832e457/AtlasMapGuardianChaos.png"
+  },
+  "Crescent Splinter": {
+    "name": "Crescent Splinter",
+    "chaosValue": {
+      "buy": 9.352152982518488,
+      "sell": 10.473684210526315
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXlGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1782453393/MavenKeyFragment.png"
+  },
+  "Drox's Crest": {
+    "name": "Drox's Crest",
+    "chaosValue": {
+      "buy": 9.529456609207573,
+      "sell": 10.0529425
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9XYXJsb3JkRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/863882aba2/WarlordFragment.png"
+  },
+  "Fragment of the Phoenix": {
+    "name": "Fragment of the Phoenix",
+    "chaosValue": {
+      "buy": 5.865854363154457,
+      "sell": 10.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRQaG9lbml4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bf64bb03f8/FragmentPhoenix.png"
+  },
+  "Fragment of the Minotaur": {
+    "name": "Fragment of the Minotaur",
+    "chaosValue": {
+      "buy": 5.865854363154457,
+      "sell": 10.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRNaW5vdGF1ciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a6307f6cc9/FragmentMinotaur.png"
+  },
+  "Fragment of the Chimera": {
+    "name": "Fragment of the Chimera",
+    "chaosValue": {
+      "buy": 7.671182436060694,
+      "sell": 10.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRDaGltZXJhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df51d0bd7a/FragmentChimera.png"
+  },
+  "Unrelenting Timeless Templar Emblem": {
+    "name": "Unrelenting Timeless Templar Emblem",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 10.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0VGVtcGxhciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4e0d302db8/TimelessConflictTemplar.png"
+  },
+  "Fragment of the Hydra": {
+    "name": "Fragment of the Hydra",
+    "chaosValue": {
+      "buy": 5.865854363154457,
+      "sell": 9.644444444444444
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRIeWRyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/16cec8bced/FragmentHydra.png"
+  },
+  "Veritania's Crest": {
+    "name": "Veritania's Crest",
+    "chaosValue": {
+      "buy": 9.529456609207573,
+      "sell": 9.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9SZWRlZW1lckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5416c38a70/RedeemerFragment.png"
+  },
+  "Mortal Rage": {
+    "name": "Mortal Rage",
+    "chaosValue": {
+      "buy": 3.3999728002175984,
+      "sell": 8.797368421052632
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e9822853c/UberVaal01.png"
+  },
+  "Baran's Crest": {
+    "name": "Baran's Crest",
+    "chaosValue": {
+      "buy": 9.529456609207573,
+      "sell": 8.705882352941176
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVzYWRlckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83e0f167f2/CrusaderFragment.png"
+  },
+  "Xoph's Breachstone": {
+    "name": "Xoph's Breachstone",
+    "chaosValue": {
+      "buy": 3.000030000300003,
+      "sell": 7.894737894736842
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0ZpcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/071c4ccc28/BreachFragmentsFire.png"
+  },
+  "Mortal Ignorance": {
+    "name": "Mortal Ignorance",
+    "chaosValue": {
+      "buy": 20.999580008399832,
+      "sell": 7.773333333333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e5a689eea8/UberVaal03.png"
+  },
+  "Unrelenting Timeless Karui Emblem": {
+    "name": "Unrelenting Timeless Karui Emblem",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 7.25
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0RXRlcm5hbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6a6e66a71c/TimelessConflictEternal.png"
+  },
+  "Tul's Breachstone": {
+    "name": "Tul's Breachstone",
+    "chaosValue": {
+      "buy": 3.000030000300003,
+      "sell": 7.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/210fc3b508/BreachFragmentsCold.png"
+  },
+  "Esh's Breachstone": {
+    "name": "Esh's Breachstone",
+    "chaosValue": {
+      "buy": 5.519533783379764,
+      "sell": 6.879696842105263
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0xpZ2h0bmluZyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e66ff540ed/BreachFragmentsLightning.png"
+  },
+  "Al-Hezmin's Crest": {
+    "name": "Al-Hezmin's Crest",
+    "chaosValue": {
+      "buy": 9.529456609207573,
+      "sell": 5.147058823529412
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9IdW50ZXJGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a1c79a0f7/HunterFragment.png"
+  },
+  "Timeless Vaal Emblem": {
+    "name": "Timeless Vaal Emblem",
+    "chaosValue": {
+      "buy": 4.2373204541390574,
+      "sell": 4.176135
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7b02499e4e/VaalFragment.png"
+  },
+  "Mortal Grief": {
+    "name": "Mortal Grief",
+    "chaosValue": {
+      "buy": 2.5999688003743953,
+      "sell": 3.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDA0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa109d2841/UberVaal04.png"
+  },
+  "Timeless Eternal Emblem": {
+    "name": "Timeless Eternal Emblem",
+    "chaosValue": {
+      "buy": 1.3333333333333333,
+      "sell": 2.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1776eeb6b/EternalEmpireFragment.png"
+  },
+  "Divine Vessel": {
+    "name": "Divine Vessel",
+    "chaosValue": {
+      "buy": 1.0,
+      "sell": 1.481481111111111
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaW5GbGFza0VtcHR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65ed329fe5/SinFlaskEmpty.png"
+  },
+  "Mortal Hope": {
+    "name": "Mortal Hope",
+    "chaosValue": {
+      "buy": 3.5966048050640196,
+      "sell": 1.0
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c2c9f83dcd/UberVaal02.png"
+  },
+  "Timeless Karui Emblem": {
+    "name": "Timeless Karui Emblem",
+    "chaosValue": {
+      "buy": 0.9090909090909091,
+      "sell": 0.828572
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f05377f6c7/KaruiFragment.png"
+  },
+  "Timeless Maraketh Splinter": {
+    "name": "Timeless Maraketh Splinter",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.7299871428571428
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aFNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/06ccc00c64/MarakethShard.png"
+  },
+  "Sacrifice at Midnight": {
+    "name": "Sacrifice at Midnight",
+    "chaosValue": {
+      "buy": 0.2,
+      "sell": 0.6740563636363637
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/005d9c56bb/Vaal01.png"
+  },
+  "Splinter of Chayula": {
+    "name": "Splinter of Chayula",
+    "chaosValue": {
+      "buy": 0.5,
+      "sell": 0.66667
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/873da59e9c/BreachShardChaos.png"
+  },
+  "Offering to the Goddess": {
+    "name": "Offering to the Goddess",
+    "chaosValue": {
+      "buy": 0.4366812227074236,
+      "sell": 0.6599344444444445
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb891dc265/Labyrinth.png"
+  },
+  "Timeless Templar Splinter": {
+    "name": "Timeless Templar Splinter",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.6611133333333333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c070c1aa4/TemplarShard.png"
+  },
+  "Splinter of Uul-Netol": {
+    "name": "Splinter of Uul-Netol",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.5
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/310aff1de6/BreachShardPhysical.png"
+  },
+  "Sacrifice at Dawn": {
+    "name": "Sacrifice at Dawn",
+    "chaosValue": {
+      "buy": 0.11594202898550725,
+      "sell": 0.3333225
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e0739455f/Vaal02.png"
+  },
+  "Sacrifice at Noon": {
+    "name": "Sacrifice at Noon",
+    "chaosValue": {
+      "buy": 0.11594202898550725,
+      "sell": 0.33333
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85d03a6bbf/Vaal03.png"
+  },
+  "Simulacrum Splinter": {
+    "name": "Simulacrum Splinter",
+    "chaosValue": {
+      "buy": 0.1627339300244101,
+      "sell": 0.2584181818181818
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ae73b9445e/DeliriumSplinter.png"
+  },
+  "Sacrifice at Dusk": {
+    "name": "Sacrifice at Dusk",
+    "chaosValue": {
+      "buy": 0.03333333333333333,
+      "sell": 0.14143
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6c797c0f93/Vaal04.png"
+  },
+  "Splinter of Xoph": {
+    "name": "Splinter of Xoph",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.13813076923076922
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0deb5799d/BreachShardFire.png"
+  },
+  "Splinter of Tul": {
+    "name": "Splinter of Tul",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.14127315789473685
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ef894cc215/BreachShardCold.png"
+  },
+  "Timeless Karui Splinter": {
+    "name": "Timeless Karui Splinter",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.14286
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aVNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9c55ce439/KaruiShard.png"
+  },
+  "Timeless Eternal Empire Splinter": {
+    "name": "Timeless Eternal Empire Splinter",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.14286
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ee92812083/EternalEmpireShard.png"
+  },
+  "Timeless Vaal Splinter": {
+    "name": "Timeless Vaal Splinter",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.1412711111111111
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/02b4b4473c/VaalShard.png"
+  },
+  "Splinter of Esh": {
+    "name": "Splinter of Esh",
+    "chaosValue": {
+      "buy": 0,
+      "sell": 0.12126176470588235
+    },
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/de619878b0/BreachShardLightning.png"
+  }
+}
