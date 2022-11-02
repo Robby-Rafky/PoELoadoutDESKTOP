@@ -10,33 +10,33 @@
       "sparkline": {
         "data": [
           0,
-          -2.56,
+          2.63,
+          5.26,
+          2.63,
           0,
-          2.56,
-          0,
-          -2.56,
-          -10.26
+          -5.35,
+          -2.63
         ],
-        "totalChange": -10.26
+        "totalChange": -2.63
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.56,
+          2.63,
+          5.26,
+          2.63,
           0,
-          2.56,
-          0,
-          -2.56,
-          -10.26
+          -5.35,
+          -2.63
         ],
-        "totalChange": -10.26
+        "totalChange": -2.63
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 35.0,
-      "exaltedValue": 2.8,
-      "divineValue": 0.23,
+      "chaosValue": 37.0,
+      "exaltedValue": 2.85,
+      "divineValue": 0.25,
       "count": 99,
       "detailsId": "golden-oil",
       "listingCount": 1794
@@ -51,36 +51,36 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -1.16,
           0,
           1.64,
           7.16,
-          7
+          7.04,
+          20
         ],
-        "totalChange": 7
+        "totalChange": 20
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -1.16,
           0,
           1.64,
           7.16,
-          7
+          7.04,
+          20
         ],
-        "totalChange": 7
+        "totalChange": 20
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 26.75,
-      "exaltedValue": 2.14,
-      "divineValue": 0.18,
+      "chaosValue": 30.0,
+      "exaltedValue": 2.31,
+      "divineValue": 0.2,
       "count": 99,
       "detailsId": "tainted-oil",
-      "listingCount": 528
+      "listingCount": 535
     },
     {
       "id": 22533,
@@ -92,36 +92,36 @@
       "sparkline": {
         "data": [
           0,
-          -2.06,
-          0,
-          0,
-          0,
-          0,
-          -5.27
+          2.1,
+          2.1,
+          2.1,
+          2.1,
+          -14.94,
+          -4.7
         ],
-        "totalChange": -5.27
+        "totalChange": -4.7
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.06,
-          0,
-          0,
-          0,
-          0,
-          -5.27
+          2.1,
+          2.1,
+          2.1,
+          2.1,
+          -14.94,
+          -4.7
         ],
-        "totalChange": -5.27
+        "totalChange": -4.7
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 14.21,
-      "exaltedValue": 1.14,
+      "chaosValue": 14.0,
+      "exaltedValue": 1.08,
       "divineValue": 0.09,
       "count": 99,
       "detailsId": "silver-oil",
-      "listingCount": 1395
+      "listingCount": 1400
     },
     {
       "id": 98283,
@@ -133,36 +133,36 @@
       "sparkline": {
         "data": [
           0,
-          0.45,
-          0.45,
-          0.45,
-          5.58,
-          15.53,
-          26.34
+          0,
+          0,
+          5.12,
+          15.01,
+          33.33,
+          18
         ],
-        "totalChange": 26.34
+        "totalChange": 18
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0.45,
-          0.45,
-          0.45,
-          5.58,
-          15.53,
-          26.34
+          0,
+          0,
+          5.12,
+          15.01,
+          33.33,
+          18
         ],
-        "totalChange": 26.34
+        "totalChange": 18
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 11.32,
-      "exaltedValue": 0.9,
+      "chaosValue": 10.62,
+      "exaltedValue": 0.82,
       "divineValue": 0.07,
       "count": 99,
       "detailsId": "reflective-oil",
-      "listingCount": 695
+      "listingCount": 703
     },
     {
       "id": 22535,
@@ -174,77 +174,36 @@
       "sparkline": {
         "data": [
           0,
-          3.46,
-          -1.35,
-          -3.46,
-          14.42,
-          1.54,
-          15.38
+          -4.65,
+          -6.69,
+          10.59,
+          -1.86,
+          7.16,
+          11.52
         ],
-        "totalChange": 15.38
+        "totalChange": 11.52
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.46,
-          -1.35,
-          -3.46,
-          14.42,
-          1.54,
-          15.38
+          -4.65,
+          -6.69,
+          10.59,
+          -1.86,
+          7.16,
+          11.52
         ],
-        "totalChange": 15.38
+        "totalChange": 11.52
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 6.0,
-      "exaltedValue": 0.48,
+      "exaltedValue": 0.46,
       "divineValue": 0.04,
       "count": 99,
       "detailsId": "opalescent-oil",
-      "listingCount": 2149
-    },
-    {
-      "id": 22531,
-      "name": "Black Oil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/763ed79fad/BlackOil.png",
-      "baseType": "Black Oil",
-      "stackSize": 10,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          1.52,
-          1.52,
-          1.52,
-          2.03,
-          1.52,
-          1.52
-        ],
-        "totalChange": 1.52
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          1.52,
-          1.52,
-          1.52,
-          2.03,
-          1.52,
-          1.52
-        ],
-        "totalChange": 1.52
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 2.0,
-      "exaltedValue": 0.16,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "black-oil",
-      "listingCount": 2554
+      "listingCount": 2160
     },
     {
       "id": 22530,
@@ -256,36 +215,77 @@
       "sparkline": {
         "data": [
           0,
-          7.19,
-          0.3,
-          8.98,
-          7.78,
-          8.69,
-          19.16
+          -6.42,
+          1.68,
+          0.56,
+          1.4,
+          4.19,
+          11.73
         ],
-        "totalChange": 19.16
+        "totalChange": 11.73
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          7.19,
-          0.3,
-          8.98,
-          7.78,
-          8.69,
-          19.16
+          -6.42,
+          1.68,
+          0.56,
+          1.4,
+          4.19,
+          11.73
         ],
-        "totalChange": 19.16
+        "totalChange": 11.73
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 1.99,
-      "exaltedValue": 0.16,
+      "chaosValue": 2.0,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "crimson-oil",
-      "listingCount": 2830
+      "listingCount": 2829
+    },
+    {
+      "id": 22531,
+      "name": "Black Oil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9CbGFja09pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/763ed79fad/BlackOil.png",
+      "baseType": "Black Oil",
+      "stackSize": 10,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0.5,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.15,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "black-oil",
+      "listingCount": 2561
     },
     {
       "id": 22529,
@@ -297,26 +297,26 @@
       "sparkline": {
         "data": [
           0,
-          -3.85,
-          -2.57,
-          5.12,
-          2.56,
-          -2.57,
-          3.84
+          1.33,
+          9.33,
+          6.67,
+          1.33,
+          1.33,
+          8
         ],
-        "totalChange": 3.84
+        "totalChange": 8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -3.85,
-          -2.57,
-          5.12,
-          2.56,
-          -2.57,
-          3.84
+          1.33,
+          9.33,
+          6.67,
+          1.33,
+          1.33,
+          8
         ],
-        "totalChange": 3.84
+        "totalChange": 8
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -326,7 +326,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "violet-oil",
-      "listingCount": 2951
+      "listingCount": 2957
     },
     {
       "id": 22528,
@@ -338,26 +338,26 @@
       "sparkline": {
         "data": [
           0,
-          -12,
-          -10,
-          -2,
-          0,
-          0,
-          0
+          2.27,
+          11.36,
+          13.64,
+          13.64,
+          13.64,
+          13.64
         ],
-        "totalChange": 0
+        "totalChange": 13.64
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -12,
-          -10,
-          -2,
-          0,
-          0,
-          0
+          2.27,
+          11.36,
+          13.64,
+          13.64,
+          13.64,
+          13.64
         ],
-        "totalChange": 0
+        "totalChange": 13.64
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -367,7 +367,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "azure-oil",
-      "listingCount": 2783
+      "listingCount": 2786
     },
     {
       "id": 42286,
@@ -379,10 +379,10 @@
       "sparkline": {
         "data": [
           0,
-          0,
           9.09,
           15.15,
           15.15,
+          0,
           0,
           0
         ],
@@ -391,10 +391,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           9.09,
           15.15,
           15.15,
+          0,
           0,
           0
         ],
@@ -408,7 +408,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "indigo-oil",
-      "listingCount": 2886
+      "listingCount": 2889
     },
     {
       "id": 22526,
@@ -420,36 +420,36 @@
       "sparkline": {
         "data": [
           0,
-          -21.88,
-          -3.12,
-          3.12,
-          3.12,
-          -6.25,
-          -12.5
+          24,
+          32,
+          32,
+          20,
+          8,
+          -8
         ],
-        "totalChange": -12.5
+        "totalChange": -8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -21.88,
-          -3.12,
-          3.12,
-          3.12,
-          -6.25,
-          -12.5
+          24,
+          32,
+          32,
+          20,
+          8,
+          -8
         ],
-        "totalChange": -12.5
+        "totalChange": -8
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 0.28,
+      "chaosValue": 0.23,
       "exaltedValue": 0.02,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "teal-oil",
-      "listingCount": 3763
+      "listingCount": 3759
     },
     {
       "id": 22524,
@@ -461,26 +461,26 @@
       "sparkline": {
         "data": [
           0,
-          -7.69,
-          7.69,
-          7.69,
-          0,
-          0,
-          0
+          16.67,
+          16.67,
+          8.33,
+          8.33,
+          8.33,
+          8.33
         ],
-        "totalChange": 0
+        "totalChange": 8.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.69,
-          7.69,
-          7.69,
-          0,
-          0,
-          0
+          16.67,
+          16.67,
+          8.33,
+          8.33,
+          8.33,
+          8.33
         ],
-        "totalChange": 0
+        "totalChange": 8.33
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -490,7 +490,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "verdant-oil",
-      "listingCount": 5239
+      "listingCount": 5243
     },
     {
       "id": 22527,
@@ -503,35 +503,35 @@
         "data": [
           0,
           0,
-          0,
           10,
           0,
           -10,
-          0
+          0,
+          -10
         ],
-        "totalChange": 0
+        "totalChange": -10
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
-          0,
           10,
           0,
           -10,
-          0
+          0,
+          -10
         ],
-        "totalChange": 0
+        "totalChange": -10
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 0.1,
+      "chaosValue": 0.09,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "amber-oil",
-      "listingCount": 6044
+      "listingCount": 6048
     },
     {
       "id": 22523,
@@ -572,7 +572,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "sepia-oil",
-      "listingCount": 6878
+      "listingCount": 6884
     },
     {
       "id": 22525,
@@ -584,7 +584,7 @@
       "sparkline": {
         "data": [
           0,
-          0,
+          16.67,
           16.67,
           16.67,
           16.67,
@@ -596,7 +596,7 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
+          16.67,
           16.67,
           16.67,
           16.67,
@@ -613,7 +613,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "clear-oil",
-      "listingCount": 8112
+      "listingCount": 8125
     }
   ],
   "language": {

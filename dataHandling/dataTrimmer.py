@@ -3,10 +3,13 @@ import json
 
 card_url = "https://web.poecdn.com/image/divination-card/"
 
+
 def trim_data():
     all_files = [e for e in os.listdir("RawData") if e not in ("curr.json", "frag.json")]
     trimmed_data = {}
+    variant_data = {}
     trimmed_f = open("TrimmedData/trimmedItems.json", "w")
+    variant_f = open("TrimmedData/trimmedVariants.json", "w")
     for file in all_files:
         f = open("RawData/"+file)
         data = json.load(f)
@@ -14,42 +17,56 @@ def trim_data():
             name = item["name"]
             variant = "Base"
 
-            if item["itemClass"] == 9:
-                variant = "Foil"
             if "links" in item:
-                variant = str(item["links"]) + " Link"
+                variant = str(item["links"]) + " Link "
             if "variant" in item:
                 if (file != "blighted.json") and (file != "ravaged.json"):
-                    variant = variant + " " + item["variant"]
+                    variant = variant + item["variant"]
+
+            if item["itemClass"] == 9:
+                if variant == "Base":
+                    variant = "Foil"
+                else:
+                    variant = "Foil " + variant
 
             if file == "cluster.json":
-                variant = variant[5:] + " ilvl " + str(item["levelRequired"])
+                variant = variant[4:] + ", item level (" + str(item["levelRequired"])+")"
 
             if name not in trimmed_data:
                 trimmed_data[name] = {}
 
-            trimmed_data[name]["name"] = name
             trimmed_data[name]["icon"] = item["icon"]
             trimmed_data[name]["rarity"] = item["itemClass"]
 
             if file == "card.json":
                 trimmed_data[name]["icon"] = card_url + item["artFilename"] + ".png"
 
-            if "chaosValue" not in trimmed_data[name]:
-                trimmed_data[name]["chaosValue"] = {}
-            if "exaltedValue" not in trimmed_data[name]:
-                trimmed_data[name]["exaltedValue"] = {}
-            if "divineValue" not in trimmed_data[name]:
-                trimmed_data[name]["divineValue"] = {}
+            if name not in variant_data:
+                variant_data[name] = {}
+                trimmed_data[name]["chaosValue"] = item["chaosValue"]
+                trimmed_data[name]["exaltedValue"] = item["exaltedValue"]
+                trimmed_data[name]["divineValue"] = item["divineValue"]
+            elif trimmed_data[name]["chaosValue"] > item["chaosValue"]:
+                trimmed_data[name]["chaosValue"] = item["chaosValue"]
+                trimmed_data[name]["exaltedValue"] = item["exaltedValue"]
+                trimmed_data[name]["divineValue"] = item["divineValue"]
 
-            trimmed_data[name]["chaosValue"][variant] = item["chaosValue"]
-            trimmed_data[name]["exaltedValue"][variant] = item["exaltedValue"]
-            trimmed_data[name]["divineValue"][variant] = item["divineValue"]
+            if "chaosValue" not in variant_data[name]:
+                variant_data[name]["chaosValue"] = {}
+            if "exaltedValue" not in variant_data[name]:
+                variant_data[name]["exaltedValue"] = {}
+            if "divineValue" not in variant_data[name]:
+                variant_data[name]["divineValue"] = {}
+
+            variant_data[name]["chaosValue"][variant] = item["chaosValue"]
+            variant_data[name]["exaltedValue"][variant] = item["exaltedValue"]
+            variant_data[name]["divineValue"][variant] = item["divineValue"]
 
         f.close()
     trimmed_f.write(json.dumps(trimmed_data, indent=2))
     trimmed_f.close()
-
+    variant_f.write(json.dumps(variant_data, indent=2))
+    variant_f.close()
 
 
 def trim_currency():
@@ -64,17 +81,14 @@ def trim_currency():
             name = currency["currencyTypeName"]
             if name not in trimmed_currency:
                 trimmed_currency[name] = {}
-            trimmed_currency[name]["name"] = name
-            if "chaosValue" not in trimmed_currency[name]:
-                trimmed_currency[name]["chaosValue"] = {}
             if "pay" not in currency:
-                trimmed_currency[name]["chaosValue"]["buy"] = 0
+                trimmed_currency[name]["chaosPay"] = 0
             else:
-                trimmed_currency[name]["chaosValue"]["buy"] = 1/currency["pay"]["value"]
+                trimmed_currency[name]["chaosPay"] = 1/currency["pay"]["value"]
             if "receive" not in currency:
-                trimmed_currency[name]["chaosValue"]["sell"] = 0
+                trimmed_currency[name]["chaosReceive"] = 0
             else:
-                trimmed_currency[name]["chaosValue"]["sell"] = currency["receive"]["value"]
+                trimmed_currency[name]["chaosReceive"] = currency["receive"]["value"]
 
         for currency_icon in data["currencyDetails"]:
             name = currency_icon["name"]

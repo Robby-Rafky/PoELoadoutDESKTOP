@@ -11,10 +11,10 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -0.12,
           0,
           -5,
+          0,
           0,
           0
         ],
@@ -23,10 +23,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -0.12,
           0,
           -5,
+          0,
           0,
           0
         ],
@@ -85,11 +85,11 @@
       ],
       "flavourText": "",
       "chaosValue": 20.0,
-      "exaltedValue": 1.51,
+      "exaltedValue": 1.54,
       "divineValue": 0.13,
       "count": 99,
       "detailsId": "essence-of-horror",
-      "listingCount": 3832
+      "listingCount": 3864
     },
     {
       "id": 493,
@@ -103,8 +103,8 @@
         "data": [
           0,
           0,
-          0,
           -8.33,
+          0,
           0,
           0,
           0
@@ -115,8 +115,8 @@
         "data": [
           0,
           0,
-          0,
           -8.33,
+          0,
           0,
           0,
           0
@@ -176,11 +176,11 @@
       ],
       "flavourText": "",
       "chaosValue": 12.0,
-      "exaltedValue": 0.91,
+      "exaltedValue": 0.92,
       "divineValue": 0.08,
       "count": 99,
       "detailsId": "essence-of-delirium",
-      "listingCount": 2539
+      "listingCount": 2560
     },
     {
       "id": 495,
@@ -193,26 +193,26 @@
       "sparkline": {
         "data": [
           0,
-          5.55,
-          0,
-          0,
-          -9.09,
-          -9.09,
-          9.09
+          -5.26,
+          -5.26,
+          -13.87,
+          -13.87,
+          3.35,
+          3.35
         ],
-        "totalChange": 9.09
+        "totalChange": 3.35
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          5.55,
-          0,
-          0,
-          -9.09,
-          -9.09,
-          9.09
+          -5.26,
+          -5.26,
+          -13.87,
+          -13.87,
+          3.35,
+          3.35
         ],
-        "totalChange": 9.09
+        "totalChange": 3.35
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -267,11 +267,11 @@
       ],
       "flavourText": "",
       "chaosValue": 12.0,
-      "exaltedValue": 0.91,
+      "exaltedValue": 0.92,
       "divineValue": 0.08,
       "count": 99,
       "detailsId": "essence-of-hysteria",
-      "listingCount": 2798
+      "listingCount": 2826
     },
     {
       "id": 496,
@@ -284,26 +284,26 @@
       "sparkline": {
         "data": [
           0,
-          8.33,
-          8.33,
-          8.33,
-          0.0,
-          0.0,
-          0.0
+          0,
+          0,
+          -7.69,
+          -7.69,
+          -7.69,
+          -7.69
         ],
-        "totalChange": 0.0
+        "totalChange": -7.69
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          8.33,
-          8.33,
-          8.33,
-          0.0,
-          0.0,
-          0.0
+          0,
+          0,
+          -7.69,
+          -7.69,
+          -7.69,
+          -7.69
         ],
-        "totalChange": 0.0
+        "totalChange": -7.69
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -358,11 +358,11 @@
       ],
       "flavourText": "",
       "chaosValue": 12.0,
-      "exaltedValue": 0.91,
+      "exaltedValue": 0.92,
       "divineValue": 0.08,
       "count": 99,
       "detailsId": "essence-of-insanity",
-      "listingCount": 2895
+      "listingCount": 2902
     },
     {
       "id": 378,
@@ -445,11 +445,11 @@
       ],
       "flavourText": "",
       "chaosValue": 8.0,
-      "exaltedValue": 0.6,
+      "exaltedValue": 0.62,
       "divineValue": 0.05,
       "count": 99,
       "detailsId": "deafening-essence-of-loathing",
-      "listingCount": 5942
+      "listingCount": 5928
     },
     {
       "id": 371,
@@ -462,26 +462,26 @@
       "sparkline": {
         "data": [
           0,
-          16.58,
-          0,
-          -16.67,
-          -16.67,
-          -16.67,
-          0
+          -14.23,
+          -28.52,
+          -28.52,
+          -28.52,
+          -26.79,
+          -27.66
         ],
-        "totalChange": 0
+        "totalChange": -27.66
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          16.58,
-          0,
-          -16.67,
-          -16.67,
-          -16.67,
-          0
+          -14.23,
+          -28.52,
+          -28.52,
+          -28.52,
+          -26.79,
+          -27.66
         ],
-        "totalChange": 0
+        "totalChange": -27.66
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -527,12 +527,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 6.0,
-      "exaltedValue": 0.45,
-      "divineValue": 0.04,
+      "chaosValue": 5.06,
+      "exaltedValue": 0.39,
+      "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-contempt",
-      "listingCount": 4462
+      "listingCount": 4486
     },
     {
       "id": 374,
@@ -603,11 +603,11 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-envy",
-      "listingCount": 3798
+      "listingCount": 3783
     },
     {
       "id": 380,
@@ -621,10 +621,10 @@
         "data": [
           0,
           0,
-          0,
           -25,
           -25,
           -23.36,
+          0,
           0
         ],
         "totalChange": 0
@@ -633,10 +633,10 @@
         "data": [
           0,
           0,
-          0,
           -25,
           -25,
           -23.36,
+          0,
           0
         ],
         "totalChange": 0
@@ -666,11 +666,11 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-rage",
-      "listingCount": 4555
+      "listingCount": 4575
     },
     {
       "id": 381,
@@ -749,11 +749,11 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
-      "count": 99,
+      "count": 98,
       "detailsId": "deafening-essence-of-scorn",
-      "listingCount": 3536
+      "listingCount": 3493
     },
     {
       "id": 382,
@@ -767,10 +767,10 @@
         "data": [
           0,
           0,
-          0,
           -12.5,
           0,
           0,
+          -0.5,
           0
         ],
         "totalChange": 0
@@ -779,10 +779,10 @@
         "data": [
           0,
           0,
-          0,
           -12.5,
           0,
           0,
+          -0.5,
           0
         ],
         "totalChange": 0
@@ -812,7 +812,7 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-sorrow",
@@ -875,11 +875,11 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-spite",
-      "listingCount": 4415
+      "listingCount": 4414
     },
     {
       "id": 388,
@@ -974,11 +974,11 @@
       ],
       "flavourText": "",
       "chaosValue": 4.0,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.31,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "deafening-essence-of-zeal",
-      "listingCount": 4111
+      "listingCount": 4115
     },
     {
       "id": 386,
@@ -1069,7 +1069,7 @@
       "divineValue": 0.02,
       "count": 99,
       "detailsId": "deafening-essence-of-woe",
-      "listingCount": 5188
+      "listingCount": 5218
     },
     {
       "id": 387,
@@ -1082,26 +1082,26 @@
       "sparkline": {
         "data": [
           0,
-          3.99,
-          4.17,
-          4.17,
-          4.17,
-          4.17,
-          4.17
+          0.17,
+          0.17,
+          0.17,
+          0.17,
+          0.17,
+          0.17
         ],
-        "totalChange": 4.17
+        "totalChange": 0.17
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.99,
-          4.17,
-          4.17,
-          4.17,
-          4.17,
-          4.17
+          0.17,
+          0.17,
+          0.17,
+          0.17,
+          0.17,
+          0.17
         ],
-        "totalChange": 4.17
+        "totalChange": 0.17
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1148,7 +1148,7 @@
       "divineValue": 0.02,
       "count": 99,
       "detailsId": "deafening-essence-of-wrath",
-      "listingCount": 6334
+      "listingCount": 6354
     },
     {
       "id": 369,
@@ -1227,7 +1227,90 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-anger",
-      "listingCount": 6745
+      "listingCount": 6737
+    },
+    {
+      "id": 375,
+      "name": "Deafening Essence of Fear",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png",
+      "mapTier": 7,
+      "baseType": "Essence of Fear",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -6.75,
+          0,
+          0,
+          0,
+          -5.5,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -6.75,
+          0,
+          0,
+          0,
+          -5.5,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: Minions deal (83-94)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: Minions deal (123-144)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Gloves: Minions deal (28-30)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (28-30)% increased Minion Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: Minions have (28-30)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Quiver: Minions have (28-30)% increased Movement Speed",
+          "optional": false
+        },
+        {
+          "text": "Belt: Minions have (28-30)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: Minions have (28-30)% increased Movement Speed",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.15,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "deafening-essence-of-fear",
+      "listingCount": 7312
     },
     {
       "id": 376,
@@ -1310,7 +1393,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-greed",
-      "listingCount": 6960
+      "listingCount": 6950
     },
     {
       "id": 377,
@@ -1389,7 +1472,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-hatred",
-      "listingCount": 7240
+      "listingCount": 7238
     },
     {
       "id": 385,
@@ -1476,173 +1559,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-torment",
-      "listingCount": 6000
-    },
-    {
-      "id": 375,
-      "name": "Deafening Essence of Fear",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/497aea3b75/Fear7.png",
-      "mapTier": 7,
-      "baseType": "Essence of Fear",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          6.95,
-          -0.27,
-          6.95,
-          6.95,
-          6.95,
-          1.06
-        ],
-        "totalChange": 1.06
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          6.95,
-          -0.27,
-          6.95,
-          6.95,
-          6.95,
-          1.06
-        ],
-        "totalChange": 1.06
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: Minions deal (83-94)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: Minions deal (123-144)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Gloves: Minions deal (28-30)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (28-30)% increased Minion Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: Minions have (28-30)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Quiver: Minions have (28-30)% increased Movement Speed",
-          "optional": false
-        },
-        {
-          "text": "Belt: Minions have (28-30)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: Minions have (28-30)% increased Movement Speed",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 1.89,
-      "exaltedValue": 0.14,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "deafening-essence-of-fear",
-      "listingCount": 7284
-    },
-    {
-      "id": 372,
-      "name": "Deafening Essence of Doubt",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
-      "mapTier": 7,
-      "baseType": "Essence of Doubt",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          51,
-          50,
-          50,
-          45.5,
-          60
-        ],
-        "totalChange": 60
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          51,
-          50,
-          50,
-          45.5,
-          60
-        ],
-        "totalChange": 60
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "Weapon: (625-780) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Body Armour: (390-475) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (161-180) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Shield: (301-375) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: (121-135) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Quiver: (481-600) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Amulet: (32-33)% increased Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: (151-180) to Evasion Rating",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 1.6,
-      "exaltedValue": 0.12,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "deafening-essence-of-doubt",
-      "listingCount": 7292
+      "listingCount": 5998
     },
     {
       "id": 384,
@@ -1655,26 +1572,26 @@
       "sparkline": {
         "data": [
           0,
-          -9.93,
-          7.53,
-          2.74,
-          8.22,
-          8.9,
-          6.85
+          19.39,
+          14.06,
+          20.15,
+          20.91,
+          14.06,
+          26.23
         ],
-        "totalChange": 6.85
+        "totalChange": 26.23
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -9.93,
-          7.53,
-          2.74,
-          8.22,
-          8.9,
-          6.85
+          19.39,
+          14.06,
+          20.15,
+          20.91,
+          14.06,
+          26.23
         ],
-        "totalChange": 6.85
+        "totalChange": 26.23
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1724,12 +1641,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 1.56,
-      "exaltedValue": 0.12,
+      "chaosValue": 1.66,
+      "exaltedValue": 0.13,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-suffering",
-      "listingCount": 7334
+      "listingCount": 7350
     },
     {
       "id": 370,
@@ -1742,26 +1659,26 @@
       "sparkline": {
         "data": [
           0,
-          -0.03,
-          51.95,
-          56.95,
-          49.96,
-          49.96,
-          49.96
+          52,
+          57,
+          50,
+          50,
+          50,
+          50
         ],
-        "totalChange": 49.96
+        "totalChange": 50
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -0.03,
-          51.95,
-          56.95,
-          49.96,
-          49.96,
-          49.96
+          52,
+          57,
+          50,
+          50,
+          50,
+          50
         ],
-        "totalChange": 49.96
+        "totalChange": 50
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1812,43 +1729,43 @@
       ],
       "flavourText": "",
       "chaosValue": 1.5,
-      "exaltedValue": 0.11,
+      "exaltedValue": 0.12,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "deafening-essence-of-anguish",
-      "listingCount": 7085
+      "listingCount": 7107
     },
     {
-      "id": 379,
-      "name": "Deafening Essence of Misery",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/98a9373284/Misery7.png",
+      "id": 372,
+      "name": "Deafening Essence of Doubt",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDciLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/49e11518a1/Doubt7.png",
       "mapTier": 7,
-      "baseType": "Essence of Misery",
+      "baseType": "Essence of Doubt",
       "stackSize": 9,
       "itemClass": 5,
       "sparkline": {
         "data": [
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13
+          51,
+          50,
+          50,
+          45.5,
+          51,
+          42
         ],
-        "totalChange": 13
+        "totalChange": 42
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13
+          51,
+          50,
+          50,
+          45.5,
+          51,
+          42
         ],
-        "totalChange": 13
+        "totalChange": 42
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1861,41 +1778,45 @@
           "optional": false
         },
         {
-          "text": "One Handed Weapon: (29-32)% increased Cast Speed",
+          "text": "Weapon: (625-780) to Accuracy Rating",
           "optional": false
         },
         {
-          "text": "Two Handed Weapon: (44-49)% increased Cast Speed",
+          "text": "Body Armour: (390-475) to Evasion Rating",
           "optional": false
         },
         {
-          "text": "Shield: (70-76)% increased Mana Regeneration Rate",
+          "text": "Helmet: (161-180) to Evasion Rating",
           "optional": false
         },
         {
-          "text": "Other Armour: (69-77) to maximum Mana",
+          "text": "Shield: (301-375) to Evasion Rating",
           "optional": false
         },
         {
-          "text": "Quiver: (0.9-1)% of Physical Attack Damage Leeched as Mana",
+          "text": "Other Armour: (121-135) to Evasion Rating",
           "optional": false
         },
         {
-          "text": "Belt: (21-25)% increased Flask Mana Recovery rate",
+          "text": "Quiver: (481-600) to Accuracy Rating",
           "optional": false
         },
         {
-          "text": "Other Jewellery: (70-76)% increased Mana Regeneration Rate",
+          "text": "Amulet: (32-33)% increased Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: (151-180) to Evasion Rating",
           "optional": false
         }
       ],
       "flavourText": "",
-      "chaosValue": 1.13,
-      "exaltedValue": 0.09,
+      "chaosValue": 1.42,
+      "exaltedValue": 0.11,
       "divineValue": 0.01,
       "count": 99,
-      "detailsId": "deafening-essence-of-misery",
-      "listingCount": 6209
+      "detailsId": "deafening-essence-of-doubt",
+      "listingCount": 7306
     },
     {
       "id": 373,
@@ -1910,8 +1831,8 @@
           0,
           0,
           0,
-          0,
           0.05,
+          0,
           0,
           0
         ],
@@ -1922,8 +1843,8 @@
           0,
           0,
           0,
-          0,
           0.05,
+          0,
           0,
           0
         ],
@@ -1992,9 +1913,88 @@
       "chaosValue": 1.0,
       "exaltedValue": 0.08,
       "divineValue": 0.01,
-      "count": 99,
+      "count": 98,
       "detailsId": "deafening-essence-of-dread",
-      "listingCount": 6824
+      "listingCount": 6815
+    },
+    {
+      "id": 379,
+      "name": "Deafening Essence of Misery",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9NaXNlcnk3IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/98a9373284/Misery7.png",
+      "mapTier": 7,
+      "baseType": "Essence of Misery",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: (29-32)% increased Cast Speed",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: (44-49)% increased Cast Speed",
+          "optional": false
+        },
+        {
+          "text": "Shield: (70-76)% increased Mana Regeneration Rate",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: (69-77) to maximum Mana",
+          "optional": false
+        },
+        {
+          "text": "Quiver: (0.9-1)% of Physical Attack Damage Leeched as Mana",
+          "optional": false
+        },
+        {
+          "text": "Belt: (21-25)% increased Flask Mana Recovery rate",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: (70-76)% increased Mana Regeneration Rate",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 1.0,
+      "exaltedValue": 0.08,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "deafening-essence-of-misery",
+      "listingCount": 6214
     },
     {
       "id": 847,
@@ -2160,7 +2160,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-contempt",
-      "listingCount": 2385
+      "listingCount": 2390
     },
     {
       "id": 849,
@@ -2247,7 +2247,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-fear",
-      "listingCount": 2358
+      "listingCount": 2361
     },
     {
       "id": 850,
@@ -2322,7 +2322,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-greed",
-      "listingCount": 2297
+      "listingCount": 2298
     },
     {
       "id": 851,
@@ -2405,7 +2405,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-hatred",
-      "listingCount": 2301
+      "listingCount": 2302
     },
     {
       "id": 852,
@@ -2472,7 +2472,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-sorrow",
-      "listingCount": 2231
+      "listingCount": 2232
     },
     {
       "id": 853,
@@ -2563,7 +2563,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-torment",
-      "listingCount": 2333
+      "listingCount": 2336
     },
     {
       "id": 854,
@@ -2646,7 +2646,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "muttering-essence-of-woe",
-      "listingCount": 2348
+      "listingCount": 2346
     },
     {
       "id": 1046,
@@ -2692,7 +2692,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "remnant-of-corruption",
-      "listingCount": 7439
+      "listingCount": 7433
     },
     {
       "id": 1090,
@@ -2767,7 +2767,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "screaming-essence-of-envy",
-      "listingCount": 3561
+      "listingCount": 3566
     },
     {
       "id": 1092,
@@ -2784,7 +2784,7 @@
           0,
           0,
           0,
-          0,
+          -2.0,
           0
         ],
         "totalChange": 0
@@ -2796,7 +2796,7 @@
           0,
           0,
           0,
-          0,
+          -2.0,
           0
         ],
         "totalChange": 0
@@ -2937,7 +2937,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "screaming-essence-of-loathing",
-      "listingCount": 4052
+      "listingCount": 4043
     },
     {
       "id": 1097,
@@ -3099,7 +3099,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-anger",
-      "listingCount": 5524
+      "listingCount": 5511
     },
     {
       "id": 1281,
@@ -3182,7 +3182,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-contempt",
-      "listingCount": 4457
+      "listingCount": 4460
     },
     {
       "id": 1283,
@@ -3281,7 +3281,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-dread",
-      "listingCount": 5011
+      "listingCount": 5005
     },
     {
       "id": 1284,
@@ -3356,7 +3356,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-envy",
-      "listingCount": 2806
+      "listingCount": 2794
     },
     {
       "id": 1286,
@@ -3439,7 +3439,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-greed",
-      "listingCount": 3957
+      "listingCount": 3967
     },
     {
       "id": 1287,
@@ -3518,7 +3518,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-hatred",
-      "listingCount": 6176
+      "listingCount": 6177
     },
     {
       "id": 1288,
@@ -3533,9 +3533,9 @@
           0,
           0,
           0,
-          0,
           93,
           1,
+          0,
           0
         ],
         "totalChange": 0
@@ -3545,9 +3545,9 @@
           0,
           0,
           0,
-          0,
           93,
           1,
+          0,
           0
         ],
         "totalChange": 0
@@ -3605,7 +3605,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-loathing",
-      "listingCount": 2560
+      "listingCount": 2569
     },
     {
       "id": 1290,
@@ -3668,7 +3668,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-rage",
-      "listingCount": 4193
+      "listingCount": 4197
     },
     {
       "id": 1291,
@@ -3814,7 +3814,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-sorrow",
-      "listingCount": 4347
+      "listingCount": 4353
     },
     {
       "id": 1293,
@@ -3877,7 +3877,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-spite",
-      "listingCount": 4143
+      "listingCount": 4137
     },
     {
       "id": 1296,
@@ -3968,7 +3968,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-woe",
-      "listingCount": 5305
+      "listingCount": 5300
     },
     {
       "id": 1297,
@@ -4047,7 +4047,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-wrath",
-      "listingCount": 4009
+      "listingCount": 3993
     },
     {
       "id": 1298,
@@ -4146,7 +4146,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-zeal",
-      "listingCount": 3605
+      "listingCount": 3583
     },
     {
       "id": 1816,
@@ -4229,7 +4229,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-anger",
-      "listingCount": 3092
+      "listingCount": 3097
     },
     {
       "id": 1817,
@@ -4320,7 +4320,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-anguish",
-      "listingCount": 2698
+      "listingCount": 2699
     },
     {
       "id": 1818,
@@ -4407,7 +4407,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-contempt",
-      "listingCount": 3253
+      "listingCount": 3249
     },
     {
       "id": 1819,
@@ -4494,7 +4494,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-doubt",
-      "listingCount": 3057
+      "listingCount": 3056
     },
     {
       "id": 1820,
@@ -4581,7 +4581,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-fear",
-      "listingCount": 3092
+      "listingCount": 3094
     },
     {
       "id": 1821,
@@ -4594,11 +4594,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -1,
           -2,
           -8,
           -4,
+          0,
           0
         ],
         "totalChange": 0
@@ -4606,11 +4606,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -1,
           -2,
           -8,
           -4,
+          0,
           0
         ],
         "totalChange": 0
@@ -4664,7 +4664,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-greed",
-      "listingCount": 3152
+      "listingCount": 3155
     },
     {
       "id": 1822,
@@ -4747,7 +4747,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-hatred",
-      "listingCount": 3188
+      "listingCount": 3193
     },
     {
       "id": 1823,
@@ -4838,7 +4838,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-loathing",
-      "listingCount": 2654
+      "listingCount": 2652
     },
     {
       "id": 1824,
@@ -4905,7 +4905,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-rage",
-      "listingCount": 2959
+      "listingCount": 2955
     },
     {
       "id": 1825,
@@ -4972,7 +4972,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-sorrow",
-      "listingCount": 3071
+      "listingCount": 3070
     },
     {
       "id": 1826,
@@ -5039,7 +5039,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-spite",
-      "listingCount": 2664
+      "listingCount": 2671
     },
     {
       "id": 1827,
@@ -5130,7 +5130,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-suffering",
-      "listingCount": 2952
+      "listingCount": 2947
     },
     {
       "id": 1828,
@@ -5221,7 +5221,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-torment",
-      "listingCount": 3069
+      "listingCount": 3065
     },
     {
       "id": 1829,
@@ -5316,7 +5316,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-woe",
-      "listingCount": 3166
+      "listingCount": 3167
     },
     {
       "id": 1830,
@@ -5502,7 +5502,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "wailing-essence-of-zeal",
-      "listingCount": 2690
+      "listingCount": 2696
     },
     {
       "id": 1852,
@@ -5585,7 +5585,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-anger",
-      "listingCount": 2527
+      "listingCount": 2528
     },
     {
       "id": 1853,
@@ -5668,7 +5668,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-contempt",
-      "listingCount": 2694
+      "listingCount": 2691
     },
     {
       "id": 1854,
@@ -5743,7 +5743,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-doubt",
-      "listingCount": 2517
+      "listingCount": 2515
     },
     {
       "id": 1855,
@@ -5830,7 +5830,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-fear",
-      "listingCount": 2645
+      "listingCount": 2648
     },
     {
       "id": 1856,
@@ -5905,7 +5905,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-greed",
-      "listingCount": 2642
+      "listingCount": 2644
     },
     {
       "id": 1857,
@@ -5988,7 +5988,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-hatred",
-      "listingCount": 2638
+      "listingCount": 2636
     },
     {
       "id": 1858,
@@ -6055,7 +6055,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-rage",
-      "listingCount": 2474
+      "listingCount": 2479
     },
     {
       "id": 1859,
@@ -6122,7 +6122,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-sorrow",
-      "listingCount": 2569
+      "listingCount": 2576
     },
     {
       "id": 1860,
@@ -6213,7 +6213,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-suffering",
-      "listingCount": 2453
+      "listingCount": 2456
     },
     {
       "id": 1861,
@@ -6304,7 +6304,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-torment",
-      "listingCount": 2656
+      "listingCount": 2653
     },
     {
       "id": 1862,
@@ -6387,7 +6387,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-woe",
-      "listingCount": 2680
+      "listingCount": 2678
     },
     {
       "id": 1863,
@@ -6470,7 +6470,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "weeping-essence-of-wrath",
-      "listingCount": 2374
+      "listingCount": 2373
     },
     {
       "id": 1873,
@@ -6628,7 +6628,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "whispering-essence-of-greed",
-      "listingCount": 2128
+      "listingCount": 2131
     },
     {
       "id": 1875,
@@ -6711,7 +6711,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "whispering-essence-of-hatred",
-      "listingCount": 2167
+      "listingCount": 2171
     },
     {
       "id": 1876,
@@ -6794,7 +6794,98 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "whispering-essence-of-woe",
-      "listingCount": 2204
+      "listingCount": 2206
+    },
+    {
+      "id": 1102,
+      "name": "Screaming Essence of Woe",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ec3cf669a0/Woe5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Woe",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          3.37,
+          0,
+          2.25,
+          9.56,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          3.37,
+          0,
+          2.25,
+          9.56,
+          0,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: (50-66)% increased Spell Damage",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: (85-106)% increased Spell Damage",
+          "optional": false
+        },
+        {
+          "text": "Body Armour: (50-61) to maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (39-45) to maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Shield: (50-59) to maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: (27-32) to maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Quiver: (31-36)% increased Damage with Bow Skills",
+          "optional": false
+        },
+        {
+          "text": "Amulet: (14-16)% increased maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Ring: (27-31) to maximum Energy Shield",
+          "optional": false
+        },
+        {
+          "text": "Belt: (27-31) to maximum Energy Shield",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.89,
+      "exaltedValue": 0.07,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "screaming-essence-of-woe",
+      "listingCount": 4985
     },
     {
       "id": 1104,
@@ -6807,11 +6898,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -9,
           0,
           -1,
           -8,
+          -11,
           -11
         ],
         "totalChange": -11
@@ -6819,11 +6910,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -9,
           0,
           -1,
           -8,
+          -11,
           -11
         ],
         "totalChange": -11
@@ -6893,161 +6984,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "screaming-essence-of-zeal",
-      "listingCount": 4365
-    },
-    {
-      "id": 1098,
-      "name": "Screaming Essence of Sorrow",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/34d568ff94/Sorrow5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Sorrow",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -2.27,
-          1.14,
-          0,
-          1.14,
-          1.14,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -2.27,
-          1.14,
-          0,
-          1.14,
-          1.14,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: Damage Penetrates 6% Cold Resistance",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: Damage Penetrates (11-12)% Cold Resistance",
-          "optional": false
-        },
-        {
-          "text": "Other Item: (33-37) to Dexterity",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.88,
-      "exaltedValue": 0.07,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "screaming-essence-of-sorrow",
-      "listingCount": 4654
-    },
-    {
-      "id": 1102,
-      "name": "Screaming Essence of Woe",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Xb2U1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ec3cf669a0/Woe5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Woe",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          3.37,
-          0,
-          2.25,
-          9.56,
-          -2.25
-        ],
-        "totalChange": -2.25
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          3.37,
-          0,
-          2.25,
-          9.56,
-          -2.25
-        ],
-        "totalChange": -2.25
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: (50-66)% increased Spell Damage",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: (85-106)% increased Spell Damage",
-          "optional": false
-        },
-        {
-          "text": "Body Armour: (50-61) to maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (39-45) to maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Shield: (50-59) to maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: (27-32) to maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Quiver: (31-36)% increased Damage with Bow Skills",
-          "optional": false
-        },
-        {
-          "text": "Amulet: (14-16)% increased maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Ring: (27-31) to maximum Energy Shield",
-          "optional": false
-        },
-        {
-          "text": "Belt: (27-31) to maximum Energy Shield",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.87,
-      "exaltedValue": 0.07,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "screaming-essence-of-woe",
-      "listingCount": 4989
+      "listingCount": 4369
     },
     {
       "id": 1295,
@@ -7060,26 +6997,26 @@
       "sparkline": {
         "data": [
           0,
-          -10.2,
-          -10.2,
-          2.04,
-          59.19,
-          81.63,
-          71.43
+          0,
+          13.64,
+          77.28,
+          102.27,
+          38.64,
+          102.27
         ],
-        "totalChange": 71.43
+        "totalChange": 102.27
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -10.2,
-          -10.2,
-          2.04,
-          59.19,
-          81.63,
-          71.43
+          0,
+          13.64,
+          77.28,
+          102.27,
+          38.64,
+          102.27
         ],
-        "totalChange": 71.43
+        "totalChange": 102.27
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7129,12 +7066,138 @@
         }
       ],
       "flavourText": "",
+      "chaosValue": 0.89,
+      "exaltedValue": 0.07,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "shrieking-essence-of-torment",
+      "listingCount": 5760
+    },
+    {
+      "id": 1098,
+      "name": "Screaming Essence of Sorrow",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Tb3Jyb3c1IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/34d568ff94/Sorrow5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Sorrow",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          3.49,
+          2.33,
+          3.49,
+          3.49,
+          1.16,
+          2.33
+        ],
+        "totalChange": 2.33
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          3.49,
+          2.33,
+          3.49,
+          3.49,
+          1.16,
+          2.33
+        ],
+        "totalChange": 2.33
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: Damage Penetrates 6% Cold Resistance",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: Damage Penetrates (11-12)% Cold Resistance",
+          "optional": false
+        },
+        {
+          "text": "Other Item: (33-37) to Dexterity",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.88,
+      "exaltedValue": 0.07,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "screaming-essence-of-sorrow",
+      "listingCount": 4652
+    },
+    {
+      "id": 1096,
+      "name": "Screaming Essence of Rage",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/89c03ab737/Rage5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Rage",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          4.49,
+          1.12,
+          1.12,
+          2.25,
+          -12.36,
+          -5.62
+        ],
+        "totalChange": -5.62
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          4.49,
+          1.12,
+          1.12,
+          2.25,
+          -12.36,
+          -5.62
+        ],
+        "totalChange": -5.62
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: Damage Penetrates 6% Fire Resistance",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: Damage Penetrates (11-12)% Fire Resistance",
+          "optional": false
+        },
+        {
+          "text": "Other Item: (33-37) to Strength",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
       "chaosValue": 0.84,
       "exaltedValue": 0.06,
       "divineValue": 0.01,
       "count": 99,
-      "detailsId": "shrieking-essence-of-torment",
-      "listingCount": 5751
+      "detailsId": "screaming-essence-of-rage",
+      "listingCount": 4613
     },
     {
       "id": 1099,
@@ -7147,26 +7210,26 @@
       "sparkline": {
         "data": [
           0,
-          4.17,
-          -7.29,
-          -10.41,
-          -10.42,
-          -7.29,
-          -18.75
+          -11,
+          -14.0,
+          -14,
+          -11,
+          -22,
+          -18
         ],
-        "totalChange": -18.75
+        "totalChange": -18
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          4.17,
-          -7.29,
-          -10.41,
-          -10.42,
-          -7.29,
-          -18.75
+          -11,
+          -14.0,
+          -14,
+          -11,
+          -22,
+          -18
         ],
-        "totalChange": -18.75
+        "totalChange": -18
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7192,12 +7255,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.78,
+      "chaosValue": 0.82,
       "exaltedValue": 0.06,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "screaming-essence-of-spite",
-      "listingCount": 4481
+      "listingCount": 4485
     },
     {
       "id": 1289,
@@ -7210,26 +7273,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -26.62,
           1.31,
           10.4,
           4.55,
-          -2.6
+          -16.88,
+          6.49
         ],
-        "totalChange": -2.6
+        "totalChange": 6.49
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -26.62,
           1.31,
           10.4,
           4.55,
-          -2.6
+          -16.88,
+          6.49
         ],
-        "totalChange": -2.6
+        "totalChange": 6.49
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7271,75 +7334,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.75,
+      "chaosValue": 0.82,
       "exaltedValue": 0.06,
-      "divineValue": 0.0,
+      "divineValue": 0.01,
       "count": 99,
       "detailsId": "shrieking-essence-of-misery",
-      "listingCount": 5185
-    },
-    {
-      "id": 1096,
-      "name": "Screaming Essence of Rage",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9SYWdlNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/89c03ab737/Rage5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Rage",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          2.3,
-          6.9,
-          3.45,
-          3.45,
-          4.6,
-          -18.39
-        ],
-        "totalChange": -18.39
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          2.3,
-          6.9,
-          3.45,
-          3.45,
-          4.6,
-          -18.39
-        ],
-        "totalChange": -18.39
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: Damage Penetrates 6% Fire Resistance",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: Damage Penetrates (11-12)% Fire Resistance",
-          "optional": false
-        },
-        {
-          "text": "Other Item: (33-37) to Strength",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.71,
-      "exaltedValue": 0.05,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "screaming-essence-of-rage",
-      "listingCount": 4612
+      "listingCount": 5190
     },
     {
       "id": 1089,
@@ -7438,7 +7438,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-dread",
-      "listingCount": 4227
+      "listingCount": 4240
     },
     {
       "id": 1093,
@@ -7530,26 +7530,26 @@
       "sparkline": {
         "data": [
           0,
-          13.64,
-          1.52,
-          1.52,
-          1.52,
-          -7.58,
-          0
+          -10.67,
+          -10.67,
+          -10.67,
+          -18.67,
+          -10.67,
+          -12
         ],
-        "totalChange": 0
+        "totalChange": -12
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          13.64,
-          1.52,
-          1.52,
-          1.52,
-          -7.58,
-          0
+          -10.67,
+          -10.67,
+          -10.67,
+          -18.67,
+          -10.67,
+          -12
         ],
-        "totalChange": 0
+        "totalChange": -12
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7596,86 +7596,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-anger",
-      "listingCount": 4783
-    },
-    {
-      "id": 1103,
-      "name": "Screaming Essence of Wrath",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/39bfab2d24/Wrath5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Wrath",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          -2.99
-        ],
-        "totalChange": -2.99
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          -2.99
-        ],
-        "totalChange": -2.99
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "Bow: Adds (19-25) to (366-425) Lightning Damage",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Melee Weapon: Adds (19-25) to (366-425) Lightning Damage",
-          "optional": false
-        },
-        {
-          "text": "Other Weapon: Adds (10-14) to (197-229) Lightning Damage",
-          "optional": false
-        },
-        {
-          "text": "Armour: (36-41)% to Lightning Resistance",
-          "optional": false
-        },
-        {
-          "text": "Quiver: (36-41)% to Lightning Resistance",
-          "optional": false
-        },
-        {
-          "text": "Belt: (36-41)% to Lightning Resistance",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: (23-26)% increased Lightning Damage",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.65,
-      "exaltedValue": 0.05,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "screaming-essence-of-wrath",
-      "listingCount": 4514
+      "listingCount": 4784
     },
     {
       "id": 1095,
@@ -7688,26 +7609,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           10,
           32,
           28.01,
           15.01,
-          20
+          14,
+          30
         ],
-        "totalChange": 20
+        "totalChange": 30
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           10,
           32,
           28.01,
           15.01,
-          20
+          14,
+          30
         ],
-        "totalChange": 20
+        "totalChange": 30
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7749,12 +7670,91 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.6,
+      "chaosValue": 0.65,
       "exaltedValue": 0.05,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-misery",
-      "listingCount": 4060
+      "listingCount": 4063
+    },
+    {
+      "id": 1103,
+      "name": "Screaming Essence of Wrath",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9XcmF0aDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/39bfab2d24/Wrath5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Wrath",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.98,
+          -5.97
+        ],
+        "totalChange": -5.97
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -2.98,
+          -5.97
+        ],
+        "totalChange": -5.97
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "Bow: Adds (19-25) to (366-425) Lightning Damage",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Melee Weapon: Adds (19-25) to (366-425) Lightning Damage",
+          "optional": false
+        },
+        {
+          "text": "Other Weapon: Adds (10-14) to (197-229) Lightning Damage",
+          "optional": false
+        },
+        {
+          "text": "Armour: (36-41)% to Lightning Resistance",
+          "optional": false
+        },
+        {
+          "text": "Quiver: (36-41)% to Lightning Resistance",
+          "optional": false
+        },
+        {
+          "text": "Belt: (36-41)% to Lightning Resistance",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: (23-26)% increased Lightning Damage",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.63,
+      "exaltedValue": 0.05,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "screaming-essence-of-wrath",
+      "listingCount": 4513
     },
     {
       "id": 1087,
@@ -7772,9 +7772,9 @@
           0,
           0,
           0,
-          -11.94
+          -8.96
         ],
-        "totalChange": -11.94
+        "totalChange": -8.96
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -7784,9 +7784,9 @@
           0,
           0,
           0,
-          -11.94
+          -8.96
         ],
-        "totalChange": -11.94
+        "totalChange": -8.96
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -7832,178 +7832,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.59,
-      "exaltedValue": 0.04,
+      "chaosValue": 0.61,
+      "exaltedValue": 0.05,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-contempt",
-      "listingCount": 5242
-    },
-    {
-      "id": 1285,
-      "name": "Shrieking Essence of Fear",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3237cb341c/Fear6.png",
-      "mapTier": 6,
-      "baseType": "Essence of Fear",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -10.71,
-          -10.71,
-          -1.79,
-          -1.79,
-          -10.71,
-          -5.36
-        ],
-        "totalChange": -5.36
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -10.71,
-          -10.71,
-          -1.79,
-          -1.79,
-          -10.71,
-          -5.36
-        ],
-        "totalChange": -5.36
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: Minions deal (67-82)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: Minions deal (107-122)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Gloves: Minions deal (25-27)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (25-27)% increased Minion Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: Minions have (25-27)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Quiver: Minions have (25-27)% increased Movement Speed",
-          "optional": false
-        },
-        {
-          "text": "Belt: Minions have (25-27)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: Minions have (25-27)% increased Movement Speed",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.53,
-      "exaltedValue": 0.04,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "shrieking-essence-of-fear",
-      "listingCount": 6437
-    },
-    {
-      "id": 1091,
-      "name": "Screaming Essence of Fear",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1a0f1c6a68/Fear5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Fear",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          11.76,
-          11.76,
-          17.65,
-          15.7,
-          17.65,
-          -1.96
-        ],
-        "totalChange": -1.96
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          11.76,
-          11.76,
-          17.65,
-          15.7,
-          17.65,
-          -1.96
-        ],
-        "totalChange": -1.96
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "One Handed Weapon: Minions deal (50-66)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Two Handed Weapon: Minions deal (85-106)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Gloves: Minions deal (22-24)% increased Damage",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (22-24)% increased Minion Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: Minions have (22-24)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Quiver: Minions have (22-24)% increased Movement Speed",
-          "optional": false
-        },
-        {
-          "text": "Belt: Minions have (22-24)% increased maximum Life",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: Minions have (22-24)% increased Movement Speed",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.5,
-      "exaltedValue": 0.04,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "screaming-essence-of-fear",
-      "listingCount": 5109
+      "listingCount": 5244
     },
     {
       "id": 1086,
@@ -8016,26 +7850,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           19.33,
           25.01,
           43.18,
           18.18,
-          9.09
+          13.64,
+          25
         ],
-        "totalChange": 9.09
+        "totalChange": 25
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           19.33,
           25.01,
           43.18,
           18.18,
-          9.09
+          13.64,
+          25
         ],
-        "totalChange": 9.09
+        "totalChange": 25
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -8085,12 +7919,261 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.48,
+      "chaosValue": 0.55,
       "exaltedValue": 0.04,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-anguish",
-      "listingCount": 4511
+      "listingCount": 4518
+    },
+    {
+      "id": 1285,
+      "name": "Shrieking Essence of Fear",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3237cb341c/Fear6.png",
+      "mapTier": 6,
+      "baseType": "Essence of Fear",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          10,
+          10,
+          0,
+          0,
+          10
+        ],
+        "totalChange": 10
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          10,
+          10,
+          0,
+          0,
+          10
+        ],
+        "totalChange": 10
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: Minions deal (67-82)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: Minions deal (107-122)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Gloves: Minions deal (25-27)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (25-27)% increased Minion Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: Minions have (25-27)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Quiver: Minions have (25-27)% increased Movement Speed",
+          "optional": false
+        },
+        {
+          "text": "Belt: Minions have (25-27)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: Minions have (25-27)% increased Movement Speed",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.55,
+      "exaltedValue": 0.04,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "shrieking-essence-of-fear",
+      "listingCount": 6443
+    },
+    {
+      "id": 1091,
+      "name": "Screaming Essence of Fear",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9GZWFyNSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1a0f1c6a68/Fear5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Fear",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          5.26,
+          3.52,
+          5.26,
+          -12.28,
+          -8.77
+        ],
+        "totalChange": -8.77
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          5.26,
+          3.52,
+          5.26,
+          -12.28,
+          -8.77
+        ],
+        "totalChange": -8.77
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "One Handed Weapon: Minions deal (50-66)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Two Handed Weapon: Minions deal (85-106)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Gloves: Minions deal (22-24)% increased Damage",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (22-24)% increased Minion Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: Minions have (22-24)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Quiver: Minions have (22-24)% increased Movement Speed",
+          "optional": false
+        },
+        {
+          "text": "Belt: Minions have (22-24)% increased maximum Life",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: Minions have (22-24)% increased Movement Speed",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.52,
+      "exaltedValue": 0.04,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "screaming-essence-of-fear",
+      "listingCount": 5104
+    },
+    {
+      "id": 1088,
+      "name": "Screaming Essence of Doubt",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/203952b786/Doubt5.png",
+      "mapTier": 5,
+      "baseType": "Essence of Doubt",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -4.55,
+          6.82,
+          0,
+          13.64
+        ],
+        "totalChange": 13.64
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -4.55,
+          6.82,
+          0,
+          13.64
+        ],
+        "totalChange": 13.64
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "Weapon: (326-455) to Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Body Armour: (151-200) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (121-140) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Shield: (151-225) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: (91-105) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Quiver: (251-350) to Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Amulet: (24-28)% increased Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: (81-120) to Evasion Rating",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.5,
+      "exaltedValue": 0.04,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "screaming-essence-of-doubt",
+      "listingCount": 4694
     },
     {
       "id": 1100,
@@ -8103,26 +8186,26 @@
       "sparkline": {
         "data": [
           0,
-          -10,
-          -8,
-          12,
-          12.01,
-          -10,
-          -10
+          2.22,
+          24.44,
+          24.46,
+          0,
+          -2.22,
+          -2.22
         ],
-        "totalChange": -10
+        "totalChange": -2.22
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -10,
-          -8,
-          12,
-          12.01,
-          -10,
-          -10
+          2.22,
+          24.44,
+          24.46,
+          0,
+          -2.22,
+          -2.22
         ],
-        "totalChange": -10
+        "totalChange": -2.22
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -8172,95 +8255,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.45,
-      "exaltedValue": 0.03,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "screaming-essence-of-suffering",
-      "listingCount": 4793
-    },
-    {
-      "id": 1088,
-      "name": "Screaming Essence of Doubt",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/203952b786/Doubt5.png",
-      "mapTier": 5,
-      "baseType": "Essence of Doubt",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -2.23,
-          -2.23,
-          -2.23,
-          -6.68,
-          4.43,
-          -2.23
-        ],
-        "totalChange": -2.23
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -2.23,
-          -2.23,
-          -2.23,
-          -6.68,
-          4.43,
-          -2.23
-        ],
-        "totalChange": -2.23
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "Weapon: (326-455) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Body Armour: (151-200) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (121-140) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Shield: (151-225) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: (91-105) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Quiver: (251-350) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Amulet: (24-28)% increased Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: (81-120) to Evasion Rating",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
       "chaosValue": 0.44,
       "exaltedValue": 0.03,
       "divineValue": 0.0,
       "count": 99,
-      "detailsId": "screaming-essence-of-doubt",
-      "listingCount": 4687
+      "detailsId": "screaming-essence-of-suffering",
+      "listingCount": 4791
     },
     {
       "id": 1101,
@@ -8273,26 +8273,26 @@
       "sparkline": {
         "data": [
           0,
-          -2.87,
-          -5.73,
-          25.7,
-          25.7,
-          25.7,
-          -2.87
+          -2.94,
+          29.41,
+          29.41,
+          29.41,
+          2.94,
+          0
         ],
-        "totalChange": -2.87
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.87,
-          -5.73,
-          25.7,
-          25.7,
-          25.7,
-          -2.87
+          -2.94,
+          29.41,
+          29.41,
+          29.41,
+          2.94,
+          0
         ],
-        "totalChange": -2.87
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -8347,90 +8347,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "screaming-essence-of-torment",
-      "listingCount": 4937
-    },
-    {
-      "id": 1282,
-      "name": "Shrieking Essence of Doubt",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7c0e08e13f/Doubt6.png",
-      "mapTier": 6,
-      "baseType": "Essence of Doubt",
-      "stackSize": 9,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -5.41,
-          -8.11,
-          -10.81,
-          -10.81,
-          -10.81,
-          -8.11
-        ],
-        "totalChange": -8.11
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -5.41,
-          -8.11,
-          -10.81,
-          -10.81,
-          -10.81,
-          -8.11
-        ],
-        "totalChange": -8.11
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
-          "optional": false
-        },
-        {
-          "text": "",
-          "optional": false
-        },
-        {
-          "text": "Weapon: (456-624) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Body Armour: (301-400) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Helmet: (141-160) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Shield: (226-300) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Armour: (106-120) to Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Quiver: (351-480) to Accuracy Rating",
-          "optional": false
-        },
-        {
-          "text": "Amulet: (29-31)% increased Evasion Rating",
-          "optional": false
-        },
-        {
-          "text": "Other Jewellery: (121-150) to Evasion Rating",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.34,
-      "exaltedValue": 0.03,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "shrieking-essence-of-doubt",
-      "listingCount": 5724
+      "listingCount": 4935
     },
     {
       "id": 1280,
@@ -8517,7 +8434,90 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "shrieking-essence-of-anguish",
-      "listingCount": 5656
+      "listingCount": 5659
+    },
+    {
+      "id": 1282,
+      "name": "Shrieking Essence of Doubt",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXNzZW5jZS9Eb3VidDYiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7c0e08e13f/Doubt6.png",
+      "mapTier": 6,
+      "baseType": "Essence of Doubt",
+      "stackSize": 9,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -2.86,
+          -5.71,
+          -5.71,
+          -5.71,
+          -5.71,
+          -5.71
+        ],
+        "totalChange": -5.71
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -2.86,
+          -5.71,
+          -5.71,
+          -5.71,
+          -5.71,
+          -5.71
+        ],
+        "totalChange": -5.71
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Upgrades a normal item to rare or reforges a rare item, guaranteeing one property",
+          "optional": false
+        },
+        {
+          "text": "",
+          "optional": false
+        },
+        {
+          "text": "Weapon: (456-624) to Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Body Armour: (301-400) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Helmet: (141-160) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Shield: (226-300) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Armour: (106-120) to Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Quiver: (351-480) to Accuracy Rating",
+          "optional": false
+        },
+        {
+          "text": "Amulet: (29-31)% increased Evasion Rating",
+          "optional": false
+        },
+        {
+          "text": "Other Jewellery: (121-150) to Evasion Rating",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.33,
+      "exaltedValue": 0.03,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "shrieking-essence-of-doubt",
+      "listingCount": 5733
     },
     {
       "id": 1294,
@@ -8604,7 +8604,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "shrieking-essence-of-suffering",
-      "listingCount": 5966
+      "listingCount": 5974
     }
   ],
   "language": {

@@ -9,36 +9,36 @@
       "sparkline": {
         "data": [
           0,
-          -3.45,
+          3.57,
           0,
-          -3.45,
-          -3.45,
-          -0.57,
-          5.32
+          0.0,
+          2.99,
+          7.22,
+          7.43
         ],
-        "totalChange": 5.32
+        "totalChange": 7.43
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -3.45,
+          3.57,
           0,
-          -3.45,
-          -3.45,
-          -0.57,
-          5.32
+          0.0,
+          2.99,
+          7.22,
+          7.43
         ],
-        "totalChange": 5.32
+        "totalChange": 7.43
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 152.72,
-      "exaltedValue": 12.21,
-      "divineValue": 1.01,
+      "chaosValue": 150.4,
+      "exaltedValue": 11.58,
+      "divineValue": 1.0,
       "count": 99,
       "detailsId": "craicic-chimeral",
-      "listingCount": 1607
+      "listingCount": 1632
     },
     {
       "id": 20256,
@@ -53,20 +53,20 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.84,
-          -4.76,
-          -52.31,
-          -52.03,
-          -52.22,
-          -52.07
+          0.08,
+          -49.88,
+          -49.59,
+          -49.79,
+          -49.91,
+          -49.81
         ],
-        "totalChange": -52.07
+        "totalChange": -49.81
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 150.94,
-      "exaltedValue": 12.07,
+      "chaosValue": 150.4,
+      "exaltedValue": 11.58,
       "divineValue": 1.0,
       "count": 1,
       "detailsId": "swarthy-mollusc",
@@ -98,7 +98,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 100.0,
-      "exaltedValue": 7.99,
+      "exaltedValue": 7.7,
       "divineValue": 0.66,
       "count": 1,
       "detailsId": "infested-vulture",
@@ -113,36 +113,36 @@
       "sparkline": {
         "data": [
           0,
-          6.5,
-          -3.18,
-          -3.18,
-          -3.18,
-          1.66,
-          -3.18
+          -9.09,
+          -9.09,
+          -9.09,
+          -4.55,
+          -9.09,
+          2.27
         ],
-        "totalChange": -3.18
+        "totalChange": 2.27
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          6.5,
-          -3.18,
-          -3.18,
-          -3.18,
-          1.66,
-          -3.18
+          -9.09,
+          -9.09,
+          -9.09,
+          -4.55,
+          -9.09,
+          2.27
         ],
-        "totalChange": -3.18
+        "totalChange": 2.27
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 40.0,
-      "exaltedValue": 3.2,
-      "divineValue": 0.27,
+      "chaosValue": 45.0,
+      "exaltedValue": 3.46,
+      "divineValue": 0.3,
       "count": 99,
       "detailsId": "fenumal-plagued-arachnid",
-      "listingCount": 2987
+      "listingCount": 2922
     },
     {
       "id": 20292,
@@ -157,10 +157,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           81.82,
           81.82,
           81.82,
+          1490.91,
           1490.91,
           1490.91
         ],
@@ -170,7 +170,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 35.0,
-      "exaltedValue": 2.8,
+      "exaltedValue": 2.69,
       "divineValue": 0.23,
       "count": 4,
       "detailsId": "bleached-crawler",
@@ -185,32 +185,32 @@
       "sparkline": {
         "data": [
           0,
-          -1.07,
-          -1.5,
-          -3.21,
-          1.07,
-          121.07,
+          -0.43,
+          -2.17,
+          2.17,
+          123.47,
+          -21.66,
           null
         ],
-        "totalChange": 121.07
+        "totalChange": -21.66
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.07,
-          -1.5,
-          -3.21,
-          1.07,
-          121.07,
-          1081.79
+          -0.43,
+          -2.17,
+          2.17,
+          123.47,
+          -21.66,
+          1092.78
         ],
-        "totalChange": 1081.79
+        "totalChange": 1092.78
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 33.09,
-      "exaltedValue": 2.65,
+      "chaosValue": 33.04,
+      "exaltedValue": 2.54,
       "divineValue": 0.22,
       "count": 2,
       "detailsId": "merveils-favoured",
@@ -225,36 +225,36 @@
       "sparkline": {
         "data": [
           0,
-          4.88,
-          112.53,
-          162.19,
-          135.97,
-          57.32,
-          53.49
+          102.65,
+          150,
+          125,
+          50,
+          45,
+          38.65
         ],
-        "totalChange": 53.49
+        "totalChange": 38.65
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          4.88,
-          112.53,
-          162.19,
-          135.97,
-          57.32,
-          53.49
+          102.65,
+          150,
+          125,
+          50,
+          45,
+          38.65
         ],
-        "totalChange": 53.49
+        "totalChange": 38.65
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 29.27,
-      "exaltedValue": 2.34,
-      "divineValue": 0.19,
+      "chaosValue": 27.73,
+      "exaltedValue": 2.14,
+      "divineValue": 0.18,
       "count": 99,
       "detailsId": "fenumus-first-of-the-night",
-      "listingCount": 1049
+      "listingCount": 1041
     },
     {
       "id": 5111,
@@ -265,76 +265,36 @@
       "sparkline": {
         "data": [
           0,
-          1.68,
-          3.57,
-          3.57,
-          -4.61,
-          -10.71,
-          -10.71
+          1.86,
+          1.86,
+          -6.18,
+          -12.19,
+          -12.19,
+          -12.47
         ],
-        "totalChange": -10.71
+        "totalChange": -12.47
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          1.68,
-          3.57,
-          3.57,
-          -4.61,
-          -10.71,
-          -10.71
+          1.86,
+          1.86,
+          -6.18,
+          -12.19,
+          -12.19,
+          -12.47
         ],
-        "totalChange": -10.71
+        "totalChange": -12.47
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 25.0,
-      "exaltedValue": 2.0,
+      "chaosValue": 24.92,
+      "exaltedValue": 1.92,
       "divineValue": 0.17,
       "count": 99,
       "detailsId": "farrul-first-of-the-plains",
       "listingCount": 1111
-    },
-    {
-      "id": 20291,
-      "name": "Rock Spitter",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Sand Spitters|Crustaceans|The Deep",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          null,
-          null,
-          null,
-          0,
-          -16.93,
-          -25.24,
-          -48.16
-        ],
-        "totalChange": -48.16
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -31.95,
-          -38.38,
-          -65.85,
-          -71.63,
-          -74.47,
-          -82.3
-        ],
-        "totalChange": -82.3
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 24.96,
-      "exaltedValue": 1.99,
-      "divineValue": 0.17,
-      "count": 99,
-      "detailsId": "rock-spitter",
-      "listingCount": 282
     },
     {
       "id": 5220,
@@ -345,36 +305,36 @@
       "sparkline": {
         "data": [
           0,
-          3.56,
-          3.56,
-          3.56,
-          3.56,
-          -0.58,
-          -11.97
+          0,
+          0,
+          0,
+          -4,
+          -20,
+          -8
         ],
-        "totalChange": -11.97
+        "totalChange": -8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.56,
-          3.56,
-          3.56,
-          3.56,
-          -0.58,
-          -11.97
+          0,
+          0,
+          0,
+          -4,
+          -20,
+          -8
         ],
-        "totalChange": -11.97
+        "totalChange": -8
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 21.25,
-      "exaltedValue": 1.7,
-      "divineValue": 0.14,
+      "chaosValue": 23.0,
+      "exaltedValue": 1.77,
+      "divineValue": 0.15,
       "count": 99,
       "detailsId": "farric-tiger-alpha",
-      "listingCount": 754
+      "listingCount": 735
     },
     {
       "id": 5211,
@@ -385,36 +345,36 @@
       "sparkline": {
         "data": [
           0,
-          8.2,
-          13.89,
-          13.89,
-          13.89,
-          13.89,
-          13.89
+          5.26,
+          5.26,
+          5.26,
+          5.26,
+          5.26,
+          5.26
         ],
-        "totalChange": 13.89
+        "totalChange": 5.26
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          8.2,
-          13.89,
-          13.89,
-          13.89,
-          13.89,
-          13.89
+          5.26,
+          5.26,
+          5.26,
+          5.26,
+          5.26,
+          5.26
         ],
-        "totalChange": 13.89
+        "totalChange": 5.26
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 20.0,
-      "exaltedValue": 1.6,
+      "exaltedValue": 1.54,
       "divineValue": 0.13,
-      "count": 88,
+      "count": 85,
       "detailsId": "farric-frost-hellion-alpha",
-      "listingCount": 393
+      "listingCount": 391
     },
     {
       "id": 5223,
@@ -450,11 +410,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 20.0,
-      "exaltedValue": 1.6,
+      "exaltedValue": 1.54,
       "divineValue": 0.13,
       "count": 99,
       "detailsId": "fenumal-hybrid-arachnid",
-      "listingCount": 444
+      "listingCount": 410
     },
     {
       "id": 5316,
@@ -490,11 +450,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 20.0,
-      "exaltedValue": 1.6,
+      "exaltedValue": 1.54,
       "divineValue": 0.13,
       "count": 99,
       "detailsId": "saqawine-rhex",
-      "listingCount": 592
+      "listingCount": 559
     },
     {
       "id": 5506,
@@ -505,36 +465,76 @@
       "sparkline": {
         "data": [
           0,
-          2.17,
-          2.98,
-          2.98,
-          2.98,
-          6.51,
-          2.98
+          0.8,
+          0.8,
+          0.8,
+          4.25,
+          0.8,
+          6.1
         ],
-        "totalChange": 2.98
+        "totalChange": 6.1
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          2.17,
-          2.98,
-          2.98,
-          2.98,
-          6.51,
-          2.98
+          0.8,
+          0.8,
+          0.8,
+          4.25,
+          0.8,
+          6.1
         ],
-        "totalChange": 2.98
+        "totalChange": 6.1
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 19.0,
-      "exaltedValue": 1.52,
+      "chaosValue": 20.0,
+      "exaltedValue": 1.54,
       "divineValue": 0.13,
       "count": 99,
       "detailsId": "craicic-spider-crab",
-      "listingCount": 508
+      "listingCount": 486
+    },
+    {
+      "id": 20291,
+      "name": "Rock Spitter",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Sand Spitters|Crustaceans|The Deep",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          null,
+          null,
+          0,
+          -16.93,
+          -25.24,
+          -47.46,
+          -58.46
+        ],
+        "totalChange": -58.46
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -9.45,
+          -49.82,
+          -58.31,
+          -62.48,
+          -73.63,
+          -79.16
+        ],
+        "totalChange": -79.16
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 20.0,
+      "exaltedValue": 1.54,
+      "divineValue": 0.13,
+      "count": 99,
+      "detailsId": "rock-spitter",
+      "listingCount": 298
     },
     {
       "id": 20311,
@@ -549,11 +549,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           26.92,
           63.46,
           63.46,
           153.85,
+          1159.62,
           1159.62
         ],
         "totalChange": 1159.62
@@ -562,7 +562,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 13.1,
-      "exaltedValue": 1.05,
+      "exaltedValue": 1.01,
       "divineValue": 0.09,
       "count": 3,
       "detailsId": "merveils-daughter",
@@ -577,7 +577,7 @@
       "sparkline": {
         "data": [
           0,
-          0,
+          null,
           null,
           null,
           null,
@@ -589,11 +589,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           534,
           -40.0,
           -40.0,
           -40.0,
+          534,
           534
         ],
         "totalChange": 534
@@ -602,7 +602,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 12.68,
-      "exaltedValue": 1.01,
+      "exaltedValue": 0.98,
       "divineValue": 0.08,
       "count": 3,
       "detailsId": "enraptured-beast",
@@ -621,11 +621,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -7.18,
           -75.86,
           -75.86,
           -75.86,
+          -26.86,
           -26.86
         ],
         "totalChange": -26.86
@@ -634,11 +634,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 11.3,
-      "exaltedValue": 0.9,
-      "divineValue": 0.07,
+      "exaltedValue": 0.87,
+      "divineValue": 0.08,
       "count": 4,
       "detailsId": "scum-crawler",
       "listingCount": 33
+    },
+    {
+      "id": 5283,
+      "name": "Farric Wolf Alpha",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Wolves|Canines|The Wilds",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -10.95,
+          -10.95,
+          -19.32,
+          -15.23,
+          -12.91,
+          -10.95
+        ],
+        "totalChange": -10.95
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -10.95,
+          -10.95,
+          -19.32,
+          -15.23,
+          -12.91,
+          -10.95
+        ],
+        "totalChange": -10.95
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 10.0,
+      "exaltedValue": 0.77,
+      "divineValue": 0.07,
+      "count": 99,
+      "detailsId": "farric-wolf-alpha",
+      "listingCount": 1984
     },
     {
       "id": 20264,
@@ -649,36 +689,36 @@
       "sparkline": {
         "data": [
           0,
-          -6.13,
-          101.84,
-          -22.39,
-          -22.39,
-          12.58,
-          206.75
+          115.03,
+          -17.32,
+          -17.32,
+          19.93,
+          226.8,
+          226.8
         ],
-        "totalChange": 206.75
+        "totalChange": 226.8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -6.13,
-          101.84,
-          -22.39,
-          -22.39,
-          12.58,
-          206.75
+          115.03,
+          -17.32,
+          -17.32,
+          19.93,
+          226.8,
+          226.8
         ],
-        "totalChange": 206.75
+        "totalChange": 226.8
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 10.0,
-      "exaltedValue": 0.8,
+      "exaltedValue": 0.77,
       "divineValue": 0.07,
-      "count": 22,
+      "count": 34,
       "detailsId": "crustacean-sniper",
-      "listingCount": 75
+      "listingCount": 87
     },
     {
       "id": 20322,
@@ -693,24 +733,64 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.96,
-          -1.96,
-          -1.96,
-          -1.96,
-          -1.96,
-          -1.96
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -1.96
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 10.0,
-      "exaltedValue": 0.8,
+      "exaltedValue": 0.77,
       "divineValue": 0.07,
       "count": 1,
       "detailsId": "scavenging-vulture",
       "listingCount": 25
+    },
+    {
+      "id": 5114,
+      "name": "Saqawal, First of the Sky",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Saqawal, First of the Sky",
+      "itemClass": 3,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          7.57,
+          26.29,
+          28.57
+        ],
+        "totalChange": 28.57
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          7.57,
+          26.29,
+          28.57
+        ],
+        "totalChange": 28.57
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 9.0,
+      "exaltedValue": 0.69,
+      "divineValue": 0.06,
+      "count": 99,
+      "detailsId": "saqawal-first-of-the-sky",
+      "listingCount": 654
     },
     {
       "id": 5116,
@@ -721,76 +801,36 @@
       "sparkline": {
         "data": [
           0,
-          -7.88,
-          -15.15,
-          -15.15,
-          9.09,
-          9.09,
-          9.09
+          -7.89,
+          -7.89,
+          18.42,
+          18.42,
+          18.42,
+          18.42
         ],
-        "totalChange": 9.09
+        "totalChange": 18.42
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.88,
-          -15.15,
-          -15.15,
-          9.09,
-          9.09,
-          9.09
+          -7.89,
+          -7.89,
+          18.42,
+          18.42,
+          18.42,
+          18.42
         ],
-        "totalChange": 9.09
+        "totalChange": 18.42
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 9.0,
-      "exaltedValue": 0.72,
+      "exaltedValue": 0.69,
       "divineValue": 0.06,
       "count": 99,
       "detailsId": "craiceann-first-of-the-deep",
-      "listingCount": 556
-    },
-    {
-      "id": 5283,
-      "name": "Farric Wolf Alpha",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Wolves|Canines|The Wilds",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          12.3,
-          0,
-          0,
-          -9.39,
-          -4.8,
-          -10
-        ],
-        "totalChange": -10
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          12.3,
-          0,
-          0,
-          -9.39,
-          -4.8,
-          -10
-        ],
-        "totalChange": -10
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 9.0,
-      "exaltedValue": 0.72,
-      "divineValue": 0.06,
-      "count": 99,
-      "detailsId": "farric-wolf-alpha",
-      "listingCount": 2007
+      "listingCount": 553
     },
     {
       "id": 20265,
@@ -808,8 +848,8 @@
           0,
           0,
           0,
-          0,
           1.22,
+          0,
           0
         ],
         "totalChange": 0
@@ -818,7 +858,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 9.0,
-      "exaltedValue": 0.72,
+      "exaltedValue": 0.69,
       "divineValue": 0.06,
       "count": 3,
       "detailsId": "feral-chimeral",
@@ -833,76 +873,36 @@
       "sparkline": {
         "data": [
           0,
-          -22.84,
-          -22.84,
-          -22.84,
-          -30.56,
-          -30.56,
-          -30.56
+          0,
+          0,
+          -10,
+          -10,
+          -10,
+          -10
         ],
-        "totalChange": -30.56
+        "totalChange": -10
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -22.84,
-          -22.84,
-          -22.84,
-          -30.56,
-          -30.56,
-          -30.56
+          0,
+          0,
+          -10,
+          -10,
+          -10,
+          -10
         ],
-        "totalChange": -30.56
+        "totalChange": -10
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 9.0,
-      "exaltedValue": 0.72,
+      "exaltedValue": 0.69,
       "divineValue": 0.06,
       "count": 99,
       "detailsId": "slimy-nemesis",
-      "listingCount": 171
-    },
-    {
-      "id": 5114,
-      "name": "Saqawal, First of the Sky",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Saqawal, First of the Sky",
-      "itemClass": 3,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          7.57,
-          25.71
-        ],
-        "totalChange": 25.71
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          7.57,
-          25.71
-        ],
-        "totalChange": 25.71
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 8.8,
-      "exaltedValue": 0.7,
-      "divineValue": 0.06,
-      "count": 99,
-      "detailsId": "saqawal-first-of-the-sky",
-      "listingCount": 660
+      "listingCount": 169
     },
     {
       "id": 5194,
@@ -913,108 +913,36 @@
       "sparkline": {
         "data": [
           0,
-          4.03,
-          4.03,
-          4.03,
-          4.03,
-          4.03,
-          4.03
-        ],
-        "totalChange": 4.03
-      },
-      "lowConfidenceSparkline": {
-        "data": [
           0,
-          4.03,
-          4.03,
-          4.03,
-          4.03,
-          4.03,
-          4.03
+          0,
+          0,
+          0,
+          -3.88,
+          0
         ],
-        "totalChange": 4.03
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 8.0,
-      "exaltedValue": 0.64,
-      "divineValue": 0.05,
-      "count": 70,
-      "detailsId": "craicic-vassal",
-      "listingCount": 517
-    },
-    {
-      "id": 20329,
-      "name": "Goatman Fire-raiser",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Goat Shamans|Primates|The Wilds",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [],
         "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.44,
-          -2.44,
-          -2.44,
-          -2.44,
-          -2.44,
-          -2.44
+          0,
+          0,
+          0,
+          0,
+          -3.88,
+          0
         ],
-        "totalChange": -2.44
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 8.0,
-      "exaltedValue": 0.64,
+      "exaltedValue": 0.62,
       "divineValue": 0.05,
-      "count": 1,
-      "detailsId": "goatman-fire-raiser",
-      "listingCount": 11
-    },
-    {
-      "id": 5286,
-      "name": "Craicic Maw",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Maws|Amphibians|The Deep",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -15.29,
-          -23.29,
-          -10.43,
-          0,
-          0,
-          9.57
-        ],
-        "totalChange": 9.57
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -15.29,
-          -23.29,
-          -10.43,
-          0,
-          0,
-          9.57
-        ],
-        "totalChange": 9.57
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 7.67,
-      "exaltedValue": 0.61,
-      "divineValue": 0.05,
-      "count": 99,
-      "detailsId": "craicic-maw",
-      "listingCount": 746
+      "count": 70,
+      "detailsId": "craicic-vassal",
+      "listingCount": 515
     },
     {
       "id": 20205,
@@ -1025,10 +953,10 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -4.12,
           -4.12,
           9.28,
+          null,
           null,
           null
         ],
@@ -1037,10 +965,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -4.12,
           -4.12,
           9.28,
+          106.19,
           106.19,
           50.52
         ],
@@ -1050,51 +978,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 7.3,
-      "exaltedValue": 0.58,
+      "exaltedValue": 0.56,
       "divineValue": 0.05,
       "count": 4,
       "detailsId": "infested-crab",
       "listingCount": 35
     },
     {
-      "id": 5197,
-      "name": "Farric Lynx Alpha",
+      "id": 5286,
+      "name": "Craicic Maw",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Lynxes|Felines|The Wilds",
+      "baseType": "Maws|Amphibians|The Deep",
       "itemClass": 2,
       "sparkline": {
         "data": [
           0,
-          0,
-          -7.43,
-          -14.29,
-          -14.29,
-          -18,
-          0
+          -9.44,
+          5.73,
+          18.04,
+          18.04,
+          18.04,
+          19.56
         ],
-        "totalChange": 0
+        "totalChange": 19.56
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          -7.43,
-          -14.29,
-          -14.29,
-          -18,
-          0
+          -9.44,
+          5.73,
+          18.04,
+          18.04,
+          18.04,
+          19.56
         ],
-        "totalChange": 0
+        "totalChange": 19.56
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 7.0,
-      "exaltedValue": 0.56,
+      "chaosValue": 7.09,
+      "exaltedValue": 0.55,
       "divineValue": 0.05,
       "count": 99,
-      "detailsId": "farric-lynx-alpha",
-      "listingCount": 3465
+      "detailsId": "craicic-maw",
+      "listingCount": 744
     },
     {
       "id": 20250,
@@ -1105,32 +1033,32 @@
       "sparkline": {
         "data": [
           0,
-          4.05,
-          -13.76,
-          -13.53,
-          -12.72,
-          -14.68,
-          -19.08
+          -17.11,
+          -16.89,
+          -16.11,
+          -18,
+          -22.22,
+          -22.22
         ],
-        "totalChange": -19.08
+        "totalChange": -22.22
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          4.05,
-          -13.76,
-          -13.53,
-          -12.72,
-          -14.68,
-          -19.08
+          -17.11,
+          -16.89,
+          -16.11,
+          -18,
+          -22.22,
+          -22.22
         ],
-        "totalChange": -19.08
+        "totalChange": -22.22
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 7.0,
-      "exaltedValue": 0.56,
+      "exaltedValue": 0.54,
       "divineValue": 0.05,
       "count": 99,
       "detailsId": "arakaalis-daughter",
@@ -1145,11 +1073,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           209.51,
           194.12,
           194.12,
           161.44,
+          138.28,
           128.76
         ],
         "totalChange": 128.76
@@ -1157,11 +1085,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           209.51,
           194.12,
           194.12,
           161.44,
+          138.28,
           128.76
         ],
         "totalChange": 128.76
@@ -1170,11 +1098,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 7.0,
-      "exaltedValue": 0.56,
+      "exaltedValue": 0.54,
       "divineValue": 0.05,
-      "count": 68,
+      "count": 67,
       "detailsId": "noxious-tarantula",
-      "listingCount": 111
+      "listingCount": 110
     },
     {
       "id": 20208,
@@ -1187,9 +1115,9 @@
           0,
           0,
           0,
-          0,
           4.8,
           29.6,
+          37.6,
           37.6
         ],
         "totalChange": 37.6
@@ -1199,9 +1127,9 @@
           0,
           0,
           0,
-          0,
           4.8,
           29.6,
+          37.6,
           37.6
         ],
         "totalChange": 37.6
@@ -1210,11 +1138,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 6.88,
-      "exaltedValue": 0.55,
+      "exaltedValue": 0.53,
       "divineValue": 0.05,
       "count": 12,
       "detailsId": "vaulting-croaker",
       "listingCount": 58
+    },
+    {
+      "id": 5197,
+      "name": "Farric Lynx Alpha",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Lynxes|Felines|The Wilds",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -7.43,
+          -14.29,
+          -14.29,
+          -18,
+          -24,
+          -8.29
+        ],
+        "totalChange": -8.29
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -7.43,
+          -14.29,
+          -14.29,
+          -18,
+          -24,
+          -8.29
+        ],
+        "totalChange": -8.29
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 6.42,
+      "exaltedValue": 0.49,
+      "divineValue": 0.04,
+      "count": 99,
+      "detailsId": "farric-lynx-alpha",
+      "listingCount": 3504
     },
     {
       "id": 20220,
@@ -1225,32 +1193,32 @@
       "sparkline": {
         "data": [
           0,
-          20.16,
-          19.19,
-          4.53,
-          11.56,
-          11.56,
-          -27.65
+          -0.81,
+          -13.01,
+          -7.16,
+          -7.16,
+          -39.79,
+          -39.79
         ],
-        "totalChange": -27.65
+        "totalChange": -39.79
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          20.16,
-          19.19,
-          4.53,
-          11.56,
-          11.56,
-          -27.65
+          -0.81,
+          -13.01,
+          -7.16,
+          -7.16,
+          -39.79,
+          -39.79
         ],
-        "totalChange": -27.65
+        "totalChange": -39.79
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 6.07,
-      "exaltedValue": 0.49,
+      "exaltedValue": 0.47,
       "divineValue": 0.04,
       "count": 11,
       "detailsId": "rotting-vulture",
@@ -1265,11 +1233,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           98.79,
           -3.94,
           -4.55,
           -1.82,
+          81.82,
           81.82
         ],
         "totalChange": 81.82
@@ -1277,11 +1245,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           98.79,
           -3.94,
           -4.55,
           -1.82,
+          81.82,
           81.82
         ],
         "totalChange": 81.82
@@ -1290,9 +1258,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 6.0,
-      "exaltedValue": 0.48,
+      "exaltedValue": 0.46,
       "divineValue": 0.04,
-      "count": 99,
+      "count": 92,
       "detailsId": "corrupted-arach",
       "listingCount": 204
     },
@@ -1305,32 +1273,32 @@
       "sparkline": {
         "data": [
           0,
-          -2.94,
-          -2.94,
-          -2.94,
-          -2.94,
+          0,
+          0,
+          0,
+          null,
           null,
           null
         ],
-        "totalChange": -2.94
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.94,
-          -2.94,
-          -2.94,
-          -2.94,
-          22.64,
-          22.64
+          0,
+          0,
+          0,
+          26.35,
+          26.35,
+          26.35
         ],
-        "totalChange": 22.64
+        "totalChange": 26.35
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.85,
-      "exaltedValue": 0.47,
+      "exaltedValue": 0.45,
       "divineValue": 0.04,
       "count": 4,
       "detailsId": "singing-siren",
@@ -1345,32 +1313,32 @@
       "sparkline": {
         "data": [
           0,
-          -17.09,
-          -47.74,
-          -47.74,
-          -47.74,
+          -36.97,
+          -36.97,
+          -36.97,
+          null,
           null,
           null
         ],
-        "totalChange": -47.74
+        "totalChange": -36.97
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -17.09,
-          -47.74,
-          -47.74,
-          -47.74,
-          -54.77,
-          191.46
+          -36.97,
+          -36.97,
+          -36.97,
+          -45.45,
+          251.52,
+          251.52
         ],
-        "totalChange": 191.46
+        "totalChange": 251.52
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.8,
-      "exaltedValue": 0.46,
+      "exaltedValue": 0.45,
       "divineValue": 0.04,
       "count": 2,
       "detailsId": "venomous-spawn",
@@ -1385,32 +1353,32 @@
       "sparkline": {
         "data": [
           0,
-          -7.3,
-          25.55,
-          116.79,
-          77.37,
-          162.41,
-          97.45
+          35.43,
+          133.86,
+          91.34,
+          183.07,
+          112.99,
+          112.99
         ],
-        "totalChange": 97.45
+        "totalChange": 112.99
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.3,
-          25.55,
-          116.79,
-          77.37,
-          162.41,
-          97.45
+          35.43,
+          133.86,
+          91.34,
+          183.07,
+          112.99,
+          112.99
         ],
-        "totalChange": 97.45
+        "totalChange": 112.99
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.41,
-      "exaltedValue": 0.43,
+      "exaltedValue": 0.42,
       "divineValue": 0.04,
       "count": 7,
       "detailsId": "savage-crab",
@@ -1425,11 +1393,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           null,
           8.27,
           8.27,
           0.77,
+          null,
           null
         ],
         "totalChange": 0.77
@@ -1437,10 +1405,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           0.77,
           8.27,
           8.27,
+          0.77,
           0.77,
           0.77
         ],
@@ -1450,11 +1418,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.24,
-      "exaltedValue": 0.42,
+      "exaltedValue": 0.4,
       "divineValue": 0.03,
       "count": 4,
       "detailsId": "plated-parasite",
       "listingCount": 36
+    },
+    {
+      "id": 5353,
+      "name": "Saqawine Cobra",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Snakes|Reptiles|The Sands",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          8.2,
+          -6.32,
+          -10.76,
+          -29.74,
+          -8.9,
+          17.1
+        ],
+        "totalChange": 17.1
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          8.2,
+          -6.32,
+          -10.76,
+          -29.74,
+          -8.9,
+          17.1
+        ],
+        "totalChange": 17.1
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 5.0,
+      "exaltedValue": 0.38,
+      "divineValue": 0.03,
+      "count": 99,
+      "detailsId": "saqawine-cobra",
+      "listingCount": 975
     },
     {
       "id": 5449,
@@ -1466,8 +1474,8 @@
         "data": [
           0,
           0,
-          0,
           -7.8,
+          0,
           0,
           0,
           0
@@ -1478,8 +1486,8 @@
         "data": [
           0,
           0,
-          0,
           -7.8,
+          0,
           0,
           0,
           0
@@ -1490,7 +1498,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.0,
-      "exaltedValue": 0.4,
+      "exaltedValue": 0.38,
       "divineValue": 0.03,
       "count": 36,
       "detailsId": "farric-ape",
@@ -1505,32 +1513,32 @@
       "sparkline": {
         "data": [
           0,
-          -0.4,
-          -5.2,
-          -10,
-          -10,
-          -26.4,
-          -50
+          -4.82,
+          -9.64,
+          -9.64,
+          -26.1,
+          -49.8,
+          -49.8
         ],
-        "totalChange": -50
+        "totalChange": -49.8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -0.4,
-          -5.2,
-          -10,
-          -10,
-          -26.4,
-          -50
+          -4.82,
+          -9.64,
+          -9.64,
+          -26.1,
+          -49.8,
+          -49.8
         ],
-        "totalChange": -50
+        "totalChange": -49.8
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 5.0,
-      "exaltedValue": 0.4,
+      "exaltedValue": 0.38,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "obsidian-eater",
@@ -1545,76 +1553,36 @@
       "sparkline": {
         "data": [
           0,
-          10.93,
-          66.31,
-          76.37,
-          44.09,
-          16.05,
-          -12.17
+          49.92,
+          58.98,
+          29.89,
+          4.61,
+          -20.83,
+          -25.28
         ],
-        "totalChange": -12.17
+        "totalChange": -25.28
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          10.93,
-          66.31,
-          76.37,
-          44.09,
-          16.05,
-          -12.17
+          49.92,
+          58.98,
+          29.89,
+          4.61,
+          -20.83,
+          -25.28
         ],
-        "totalChange": -12.17
+        "totalChange": -25.28
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 4.98,
-      "exaltedValue": 0.4,
+      "chaosValue": 4.7,
+      "exaltedValue": 0.36,
       "divineValue": 0.03,
-      "count": 35,
+      "count": 33,
       "detailsId": "hybrid-arachnid",
-      "listingCount": 98
-    },
-    {
-      "id": 5353,
-      "name": "Saqawine Cobra",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Snakes|Reptiles|The Sands",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          6.22,
-          14.93,
-          -0.5,
-          -5.21,
-          -25.37,
-          20.65
-        ],
-        "totalChange": 20.65
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          6.22,
-          14.93,
-          -0.5,
-          -5.21,
-          -25.37,
-          20.65
-        ],
-        "totalChange": 20.65
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 4.85,
-      "exaltedValue": 0.39,
-      "divineValue": 0.03,
-      "count": 99,
-      "detailsId": "saqawine-cobra",
-      "listingCount": 1031
+      "listingCount": 96
     },
     {
       "id": 20357,
@@ -1625,76 +1593,36 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -31.13,
           -75.33,
           -75.33,
           -75.33,
-          -31.13
+          -31.13,
+          -37.59
         ],
-        "totalChange": -31.13
+        "totalChange": -37.59
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -31.13,
           -75.33,
           -75.33,
           -75.33,
-          -31.13
+          -31.13,
+          -37.59
         ],
-        "totalChange": -31.13
+        "totalChange": -37.59
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 4.69,
-      "exaltedValue": 0.37,
+      "chaosValue": 4.25,
+      "exaltedValue": 0.33,
       "divineValue": 0.03,
-      "count": 12,
+      "count": 11,
       "detailsId": "host-adder",
       "listingCount": 79
-    },
-    {
-      "id": 20345,
-      "name": "Shaggy Monstrosity",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Gargantuans|Ursae|The Wilds",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          148.5,
-          148.5,
-          120,
-          120,
-          120
-        ],
-        "totalChange": 120
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          148.5,
-          148.5,
-          120,
-          120,
-          120
-        ],
-        "totalChange": 120
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 4.4,
-      "exaltedValue": 0.35,
-      "divineValue": 0.03,
-      "count": 7,
-      "detailsId": "shaggy-monstrosity",
-      "listingCount": 22
     },
     {
       "id": 20203,
@@ -1705,11 +1633,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           19.52,
           19.52,
           19.52,
           28.29,
+          null,
           null
         ],
         "totalChange": 28.29
@@ -1717,11 +1645,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           19.52,
           19.52,
           19.52,
           28.29,
+          68.13,
           68.13
         ],
         "totalChange": 68.13
@@ -1730,7 +1658,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 4.22,
-      "exaltedValue": 0.34,
+      "exaltedValue": 0.32,
       "divineValue": 0.03,
       "count": 3,
       "detailsId": "sulphurspawn",
@@ -1745,11 +1673,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           35.18,
           -21.34,
           -29.25,
           -37.15,
+          65.61,
           65.61
         ],
         "totalChange": 65.61
@@ -1757,11 +1685,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           35.18,
           -21.34,
           -29.25,
           -37.15,
+          65.61,
           65.61
         ],
         "totalChange": 65.61
@@ -1770,51 +1698,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 4.19,
-      "exaltedValue": 0.34,
+      "exaltedValue": 0.32,
       "divineValue": 0.03,
       "count": 8,
       "detailsId": "corrupted-rhoa",
       "listingCount": 313
-    },
-    {
-      "id": 20303,
-      "name": "Spitting Parasite",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Parasites|Insects|The Caverns",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -1.38,
-          -2.59,
-          -13.64,
-          -13.64,
-          -13.64,
-          -30.22
-        ],
-        "totalChange": -30.22
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -1.38,
-          -2.59,
-          -13.64,
-          -13.64,
-          -13.64,
-          -30.22
-        ],
-        "totalChange": -30.22
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 4.04,
-      "exaltedValue": 0.32,
-      "divineValue": 0.03,
-      "count": 8,
-      "detailsId": "spitting-parasite",
-      "listingCount": 119
     },
     {
       "id": 20232,
@@ -1825,9 +1713,9 @@
       "sparkline": {
         "data": [
           0,
-          0,
           179,
           179,
+          null,
           null,
           null,
           null
@@ -1837,9 +1725,9 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           179,
           179,
+          90,
           90,
           90,
           90
@@ -1850,11 +1738,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.8,
-      "exaltedValue": 0.3,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 4,
       "detailsId": "infested-tunnelfiend",
       "listingCount": 71
+    },
+    {
+      "id": 20303,
+      "name": "Spitting Parasite",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Parasites|Insects|The Caverns",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -1.23,
+          -12.43,
+          -12.43,
+          -12.43,
+          -29.25,
+          -34.33
+        ],
+        "totalChange": -34.33
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -1.23,
+          -12.43,
+          -12.43,
+          -12.43,
+          -29.25,
+          -34.33
+        ],
+        "totalChange": -34.33
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 3.75,
+      "exaltedValue": 0.29,
+      "divineValue": 0.02,
+      "count": 7,
+      "detailsId": "spitting-parasite",
+      "listingCount": 119
     },
     {
       "id": 20333,
@@ -1865,11 +1793,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -5.44,
           -15.44,
           -30.22,
           -33.89,
+          -66.44,
           -66.44
         ],
         "totalChange": -66.44
@@ -1877,11 +1805,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -5.44,
           -15.44,
           -30.22,
           -33.89,
+          -66.44,
           -66.44
         ],
         "totalChange": -66.44
@@ -1890,51 +1818,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.02,
-      "exaltedValue": 0.24,
+      "exaltedValue": 0.23,
       "divineValue": 0.02,
       "count": 78,
       "detailsId": "acid-slitherer",
       "listingCount": 235
-    },
-    {
-      "id": 5205,
-      "name": "Craicic Savage Crab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Crabs|Crustaceans|The Deep",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -8.09,
-          -25.07,
-          -22.19,
-          -33.68,
-          -46.21,
-          -21.67
-        ],
-        "totalChange": -21.67
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -8.09,
-          -25.07,
-          -22.19,
-          -33.68,
-          -46.21,
-          -21.67
-        ],
-        "totalChange": -21.67
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 3.0,
-      "exaltedValue": 0.24,
-      "divineValue": 0.02,
-      "count": 99,
-      "detailsId": "craicic-savage-crab",
-      "listingCount": 1973
     },
     {
       "id": 20277,
@@ -1946,10 +1834,10 @@
         "data": [
           0,
           0,
+          -20.33,
+          -20.33,
+          -20.33,
           0,
-          -20.33,
-          -20.33,
-          -20.33,
           0
         ],
         "totalChange": 0
@@ -1958,10 +1846,10 @@
         "data": [
           0,
           0,
+          -20.33,
+          -20.33,
+          -20.33,
           0,
-          -20.33,
-          -20.33,
-          -20.33,
           0
         ],
         "totalChange": 0
@@ -1970,9 +1858,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.0,
-      "exaltedValue": 0.24,
+      "exaltedValue": 0.23,
       "divineValue": 0.02,
-      "count": 35,
+      "count": 29,
       "detailsId": "host-cobra",
       "listingCount": 166
     },
@@ -1983,34 +1871,26 @@
       "baseType": "Gargantuans|Ursae|The Wilds",
       "itemClass": 2,
       "sparkline": {
-        "data": [
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
+        "data": [],
         "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.33,
-          29.87,
-          -48.05,
-          -48.05,
-          -48.05,
-          29.87
+          35.75,
+          -45.7,
+          -45.7,
+          -45.7,
+          35.75,
+          35.75
         ],
-        "totalChange": 29.87
+        "totalChange": 35.75
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.0,
-      "exaltedValue": 0.24,
+      "exaltedValue": 0.23,
       "divineValue": 0.02,
       "count": 2,
       "detailsId": "bone-cruncher",
@@ -2026,10 +1906,10 @@
         "data": [
           0,
           0,
+          -33.67,
+          -33.67,
+          -33.67,
           0,
-          -33.67,
-          -33.67,
-          -33.67,
           0
         ],
         "totalChange": 0
@@ -2038,10 +1918,10 @@
         "data": [
           0,
           0,
+          -33.67,
+          -33.67,
+          -33.67,
           0,
-          -33.67,
-          -33.67,
-          -33.67,
           0
         ],
         "totalChange": 0
@@ -2050,7 +1930,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.0,
-      "exaltedValue": 0.24,
+      "exaltedValue": 0.23,
       "divineValue": 0.02,
       "count": 7,
       "detailsId": "elder-blessed-cobra",
@@ -2069,11 +1949,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -53.85,
           -81.54,
           -81.54,
           -81.54,
+          -53.85,
           -53.85
         ],
         "totalChange": -53.85
@@ -2082,51 +1962,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 3.0,
-      "exaltedValue": 0.24,
+      "exaltedValue": 0.23,
       "divineValue": 0.02,
       "count": 2,
       "detailsId": "barb-serpent",
       "listingCount": 77
     },
     {
-      "id": 20284,
-      "name": "Carrion Swarmer",
+      "id": 5205,
+      "name": "Craicic Savage Crab",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Carrion Insects|Insects|The Caverns",
+      "baseType": "Crabs|Crustaceans|The Deep",
       "itemClass": 2,
       "sparkline": {
         "data": [
           0,
-          -22.8,
-          -22.6,
-          -50,
-          -50,
-          -58.8,
-          -71.8
+          -18.47,
+          -15.34,
+          -27.84,
+          -41.48,
+          -14.77,
+          -18.47
         ],
-        "totalChange": -71.8
+        "totalChange": -18.47
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -22.8,
-          -22.6,
-          -50,
-          -50,
-          -58.8,
-          -71.8
+          -18.47,
+          -15.34,
+          -27.84,
+          -41.48,
+          -14.77,
+          -18.47
         ],
-        "totalChange": -71.8
+        "totalChange": -18.47
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.82,
-      "exaltedValue": 0.23,
+      "chaosValue": 2.87,
+      "exaltedValue": 0.22,
       "divineValue": 0.02,
       "count": 99,
-      "detailsId": "carrion-swarmer",
-      "listingCount": 268
+      "detailsId": "craicic-savage-crab",
+      "listingCount": 1892
     },
     {
       "id": 5422,
@@ -2138,9 +2018,9 @@
         "data": [
           0,
           0,
-          0,
           7.5,
           50.5,
+          40.5,
           40.5,
           40.5
         ],
@@ -2150,9 +2030,9 @@
         "data": [
           0,
           0,
-          0,
           7.5,
           50.5,
+          40.5,
           40.5,
           40.5
         ],
@@ -2164,9 +2044,9 @@
       "chaosValue": 2.81,
       "exaltedValue": 0.22,
       "divineValue": 0.02,
-      "count": 20,
+      "count": 19,
       "detailsId": "farric-pit-hound",
-      "listingCount": 120
+      "listingCount": 119
     },
     {
       "id": 20239,
@@ -2177,11 +2057,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -11.0,
           -51.5,
           -53.0,
           -53.0,
+          40.5,
           40.5
         ],
         "totalChange": 40.5
@@ -2189,11 +2069,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -11.0,
           -51.5,
           -53.0,
           -53.0,
+          40.5,
           40.5
         ],
         "totalChange": 40.5
@@ -2217,11 +2097,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           7.5,
           7.5,
           7.5,
           3,
+          39.5,
           39.5
         ],
         "totalChange": 39.5
@@ -2229,11 +2109,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           7.5,
           7.5,
           7.5,
           3,
+          39.5,
           39.5
         ],
         "totalChange": 39.5
@@ -2242,11 +2122,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.79,
-      "exaltedValue": 0.22,
+      "exaltedValue": 0.21,
       "divineValue": 0.02,
       "count": 22,
       "detailsId": "toxic-crawler",
       "listingCount": 177
+    },
+    {
+      "id": 20284,
+      "name": "Carrion Swarmer",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Carrion Insects|Insects|The Caverns",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          0.26,
+          -35.23,
+          -35.23,
+          -46.63,
+          -63.47,
+          -63.99
+        ],
+        "totalChange": -63.99
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.26,
+          -35.23,
+          -35.23,
+          -46.63,
+          -63.47,
+          -63.99
+        ],
+        "totalChange": -63.99
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.78,
+      "exaltedValue": 0.21,
+      "divineValue": 0.02,
+      "count": 99,
+      "detailsId": "carrion-swarmer",
+      "listingCount": 266
     },
     {
       "id": 20215,
@@ -2257,10 +2177,10 @@
       "sparkline": {
         "data": [
           0,
-          0,
           20,
           20,
           20,
+          35,
           35,
           35
         ],
@@ -2269,10 +2189,10 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           20,
           20,
           20,
+          35,
           35,
           35
         ],
@@ -2282,11 +2202,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.7,
-      "exaltedValue": 0.22,
+      "exaltedValue": 0.21,
       "divineValue": 0.02,
       "count": 6,
       "detailsId": "adolescent-rhex",
       "listingCount": 82
+    },
+    {
+      "id": 20310,
+      "name": "Infested Rhoa",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Rhoas|Avians|The Sands",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          15,
+          15,
+          null,
+          null,
+          null,
+          null
+        ],
+        "totalChange": 15
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          15,
+          15,
+          10,
+          10,
+          10,
+          35
+        ],
+        "totalChange": 35
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.7,
+      "exaltedValue": 0.21,
+      "divineValue": 0.02,
+      "count": 2,
+      "detailsId": "infested-rhoa",
+      "listingCount": 152
     },
     {
       "id": 20366,
@@ -2297,7 +2257,7 @@
       "sparkline": {
         "data": [
           0,
-          0,
+          null,
           null,
           null,
           null,
@@ -2309,7 +2269,7 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
+          69.5,
           69.5,
           69.5,
           69.5,
@@ -2322,91 +2282,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.7,
-      "exaltedValue": 0.22,
+      "exaltedValue": 0.21,
       "divineValue": 0.02,
       "count": 2,
       "detailsId": "cave-beast",
       "listingCount": 41
     },
     {
-      "id": 20283,
-      "name": "Rooster Fiend",
+      "id": 20345,
+      "name": "Shaggy Monstrosity",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Cockerels|Avians|The Sands",
+      "baseType": "Gargantuans|Ursae|The Wilds",
       "itemClass": 2,
       "sparkline": {
         "data": [
           0,
-          -6.25,
-          -9.77,
-          -45.31,
-          -52.34,
-          -61.72,
-          5.08
+          148.5,
+          148.5,
+          120,
+          120,
+          120,
+          null
         ],
-        "totalChange": 5.08
+        "totalChange": 120
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -6.25,
-          -9.77,
-          -45.31,
-          -52.34,
-          -61.72,
-          5.08
+          148.5,
+          148.5,
+          120,
+          120,
+          120,
+          32.5
         ],
-        "totalChange": 5.08
+        "totalChange": 32.5
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.69,
-      "exaltedValue": 0.22,
+      "chaosValue": 2.65,
+      "exaltedValue": 0.2,
       "divineValue": 0.02,
-      "count": 23,
-      "detailsId": "rooster-fiend",
-      "listingCount": 187
-    },
-    {
-      "id": 20260,
-      "name": "Avalanche Rider",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Bulls|Unnaturals|The Wilds",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -3.2,
-          -3.2,
-          -6.76,
-          -6.76,
-          -6.76,
-          -6.76
-        ],
-        "totalChange": -6.76
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -3.2,
-          -3.2,
-          -6.76,
-          -6.76,
-          -6.76,
-          -6.76
-        ],
-        "totalChange": -6.76
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 2.62,
-      "exaltedValue": 0.21,
-      "divineValue": 0.02,
-      "count": 15,
-      "detailsId": "avalanche-rider",
-      "listingCount": 92
+      "count": 2,
+      "detailsId": "shaggy-monstrosity",
+      "listingCount": 22
     },
     {
       "id": 20276,
@@ -2417,36 +2337,76 @@
       "sparkline": {
         "data": [
           0,
-          -4.69,
-          -4.69,
-          30.12,
-          30.12,
-          30.12,
-          -35.31
+          0,
+          36.53,
+          36.53,
+          36.53,
+          -32.12,
+          -32.12
         ],
-        "totalChange": -35.31
+        "totalChange": -32.12
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.69,
-          -4.69,
-          30.12,
-          30.12,
-          30.12,
-          -35.31
+          0,
+          36.53,
+          36.53,
+          36.53,
+          -32.12,
+          -32.12
         ],
-        "totalChange": -35.31
+        "totalChange": -32.12
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.62,
-      "exaltedValue": 0.21,
+      "exaltedValue": 0.2,
       "divineValue": 0.02,
       "count": 15,
       "detailsId": "merveils-retainer",
       "listingCount": 128
+    },
+    {
+      "id": 20283,
+      "name": "Rooster Fiend",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Cockerels|Avians|The Sands",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          -3.75,
+          -41.67,
+          -49.17,
+          -59.17,
+          12.08,
+          8.33
+        ],
+        "totalChange": 8.33
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -3.75,
+          -41.67,
+          -49.17,
+          -59.17,
+          12.08,
+          8.33
+        ],
+        "totalChange": 8.33
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.6,
+      "exaltedValue": 0.2,
+      "divineValue": 0.02,
+      "count": 20,
+      "detailsId": "rooster-fiend",
+      "listingCount": 187
     },
     {
       "id": 20349,
@@ -2457,32 +2417,32 @@
       "sparkline": {
         "data": [
           0,
-          -5.59,
-          -5.59,
-          -37.76,
-          -37.76,
-          -33.92,
-          -9.09
+          0,
+          -34.07,
+          -34.07,
+          -30.0,
+          0,
+          -3.7
         ],
-        "totalChange": -9.09
+        "totalChange": -3.7
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.59,
-          -5.59,
-          -37.76,
-          -37.76,
-          -33.92,
-          -9.09
+          0,
+          -34.07,
+          -34.07,
+          -30.0,
+          0,
+          -3.7
         ],
-        "totalChange": -9.09
+        "totalChange": -3.7
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.6,
-      "exaltedValue": 0.21,
+      "exaltedValue": 0.2,
       "divineValue": 0.02,
       "count": 36,
       "detailsId": "elder-blessed-retch",
@@ -2498,8 +2458,8 @@
         "data": [
           0,
           0,
-          0,
           -3.25,
+          -6.5,
           -6.5,
           -6.5,
           -6.5
@@ -2510,8 +2470,8 @@
         "data": [
           0,
           0,
-          0,
           -3.25,
+          -6.5,
           -6.5,
           -6.5,
           -6.5
@@ -2522,7 +2482,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.59,
-      "exaltedValue": 0.21,
+      "exaltedValue": 0.2,
       "divineValue": 0.02,
       "count": 19,
       "detailsId": "hairy-bonecruncher",
@@ -2537,36 +2497,76 @@
       "sparkline": {
         "data": [
           0,
-          -2.2,
-          -2.2,
-          -28.36,
-          -56.48,
-          -56.48,
-          -36.92
+          0,
+          -26.75,
+          -55.5,
+          -55.5,
+          -35.5,
+          -35.5
         ],
-        "totalChange": -36.92
+        "totalChange": -35.5
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.2,
-          -2.2,
-          -28.36,
-          -56.48,
-          -56.48,
-          -36.92
+          0,
+          -26.75,
+          -55.5,
+          -55.5,
+          -35.5,
+          -35.5
         ],
-        "totalChange": -36.92
+        "totalChange": -35.5
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.58,
-      "exaltedValue": 0.21,
+      "exaltedValue": 0.2,
       "divineValue": 0.02,
       "count": 8,
       "detailsId": "predatory-scorpion",
       "listingCount": 84
+    },
+    {
+      "id": 20260,
+      "name": "Avalanche Rider",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Bulls|Unnaturals|The Wilds",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          -3.68,
+          -3.68,
+          -3.68,
+          -3.68,
+          -6.99
+        ],
+        "totalChange": -6.99
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          -3.68,
+          -3.68,
+          -3.68,
+          -3.68,
+          -6.99
+        ],
+        "totalChange": -6.99
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.53,
+      "exaltedValue": 0.19,
+      "divineValue": 0.02,
+      "count": 13,
+      "detailsId": "avalanche-rider",
+      "listingCount": 92
     },
     {
       "id": 20304,
@@ -2577,32 +2577,32 @@
       "sparkline": {
         "data": [
           0,
-          1.0,
-          -9.36,
-          -43.48,
-          -43.48,
-          -43.48,
-          -15.72
+          -10.26,
+          -44.04,
+          -44.04,
+          -44.04,
+          -13.58,
+          -16.56
         ],
-        "totalChange": -15.72
+        "totalChange": -16.56
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          1.0,
-          -9.36,
-          -43.48,
-          -43.48,
-          -43.48,
-          -15.72
+          -10.26,
+          -44.04,
+          -44.04,
+          -44.04,
+          -13.58,
+          -16.56
         ],
-        "totalChange": -15.72
+        "totalChange": -16.56
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.52,
-      "exaltedValue": 0.2,
+      "exaltedValue": 0.19,
       "divineValue": 0.02,
       "count": 16,
       "detailsId": "elder-blessed-rhoa",
@@ -2618,10 +2618,10 @@
         "data": [
           0,
           0,
-          0,
           -1.67,
           -7.67,
           -13.33,
+          -18.33,
           -17.33
         ],
         "totalChange": -17.33
@@ -2630,10 +2630,10 @@
         "data": [
           0,
           0,
-          0,
           -1.67,
           -7.67,
           -13.33,
+          -18.33,
           -17.33
         ],
         "totalChange": -17.33
@@ -2642,7 +2642,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.48,
-      "exaltedValue": 0.2,
+      "exaltedValue": 0.19,
       "divineValue": 0.02,
       "count": 29,
       "detailsId": "saqawine-vulture",
@@ -2657,26 +2657,26 @@
       "sparkline": {
         "data": [
           0,
-          -11.0,
-          -18.5,
-          -53.5,
-          -55.0,
-          -57.0,
-          20.5
+          -8.43,
+          -47.75,
+          -49.44,
+          -51.69,
+          35.39,
+          35.39
         ],
-        "totalChange": 20.5
+        "totalChange": 35.39
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -11.0,
-          -18.5,
-          -53.5,
-          -55.0,
-          -57.0,
-          20.5
+          -8.43,
+          -47.75,
+          -49.44,
+          -51.69,
+          35.39,
+          35.39
         ],
-        "totalChange": 20.5
+        "totalChange": 35.39
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -2697,26 +2697,26 @@
       "sparkline": {
         "data": [
           0,
-          -1.1,
-          -36.32,
-          -37.06,
-          -37.06,
-          -37.06,
-          -70.55
+          -35.61,
+          -36.35,
+          -36.35,
+          -36.35,
+          -70.22,
+          -70.22
         ],
-        "totalChange": -70.55
+        "totalChange": -70.22
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.1,
-          -36.32,
-          -37.06,
-          -37.06,
-          -37.06,
-          -70.55
+          -35.61,
+          -36.35,
+          -36.35,
+          -36.35,
+          -70.22,
+          -70.22
         ],
-        "totalChange": -70.55
+        "totalChange": -70.22
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -2737,32 +2737,32 @@
       "sparkline": {
         "data": [
           0,
-          -5.76,
-          -5.76,
+          0,
           null,
-          -50.61,
-          -50.61,
-          -27.27
+          -47.59,
+          -47.59,
+          -22.83,
+          -22.83
         ],
-        "totalChange": -27.27
+        "totalChange": -22.83
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.76,
-          -5.76,
-          -60.61,
-          -50.61,
-          -50.61,
-          -27.27
+          0,
+          -58.2,
+          -47.59,
+          -47.59,
+          -22.83,
+          -22.83
         ],
-        "totalChange": -27.27
+        "totalChange": -22.83
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.4,
-      "exaltedValue": 0.19,
+      "exaltedValue": 0.18,
       "divineValue": 0.02,
       "count": 6,
       "detailsId": "black-scorpion",
@@ -2777,11 +2777,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -17.18,
           -47.24,
           -47.24,
           -47.24,
+          46.63,
           46.63
         ],
         "totalChange": 46.63
@@ -2789,11 +2789,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -17.18,
           -47.24,
           -47.24,
           -47.24,
+          46.63,
           46.63
         ],
         "totalChange": 46.63
@@ -2802,7 +2802,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.39,
-      "exaltedValue": 0.19,
+      "exaltedValue": 0.18,
       "divineValue": 0.02,
       "count": 19,
       "detailsId": "bramble-cobra",
@@ -2817,11 +2817,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           121,
           51,
           25.5,
           26,
+          16,
           16
         ],
         "totalChange": 16
@@ -2829,11 +2829,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           121,
           51,
           25.5,
           26,
+          16,
           16
         ],
         "totalChange": 16
@@ -2842,7 +2842,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.32,
-      "exaltedValue": 0.19,
+      "exaltedValue": 0.18,
       "divineValue": 0.02,
       "count": 52,
       "detailsId": "elder-blessed-goatman",
@@ -2857,11 +2857,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           11.11,
           2.96,
           2.59,
           -4.44,
+          -14.81,
           -14.44
         ],
         "totalChange": -14.44
@@ -2869,11 +2869,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           11.11,
           2.96,
           2.59,
           -4.44,
+          -14.81,
           -14.44
         ],
         "totalChange": -14.44
@@ -2897,9 +2897,9 @@
       "sparkline": {
         "data": [
           0,
-          0,
           20.5,
           -25.0,
+          15.5,
           15.5,
           15.5,
           15.5
@@ -2909,9 +2909,9 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           20.5,
           -25.0,
+          15.5,
           15.5,
           15.5,
           15.5
@@ -2937,26 +2937,26 @@
       "sparkline": {
         "data": [
           0,
-          -4.0,
-          -24.5,
-          -24.5,
-          -32.0,
-          -32.0,
-          15
+          -21.35,
+          -21.35,
+          -29.17,
+          -29.17,
+          24.37,
+          19.79
         ],
-        "totalChange": 15
+        "totalChange": 19.79
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.0,
-          -24.5,
-          -24.5,
-          -32.0,
-          -32.0,
-          15
+          -21.35,
+          -21.35,
+          -29.17,
+          -29.17,
+          24.37,
+          19.79
         ],
-        "totalChange": 15
+        "totalChange": 19.79
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -2977,76 +2977,36 @@
       "sparkline": {
         "data": [
           0,
-          -1.64,
-          -29.73,
-          -75.44,
-          -75.33,
-          -75.33,
-          -75.44
+          -28.55,
+          -75.03,
+          -74.92,
+          -74.92,
+          -75.03,
+          -75.03
         ],
-        "totalChange": -75.44
+        "totalChange": -75.03
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.64,
-          -29.73,
-          -75.44,
-          -75.33,
-          -75.33,
-          -75.44
+          -28.55,
+          -75.03,
+          -74.92,
+          -74.92,
+          -75.03,
+          -75.03
         ],
-        "totalChange": -75.44
+        "totalChange": -75.03
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.24,
-      "exaltedValue": 0.18,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
       "count": 42,
       "detailsId": "webbed-spider",
       "listingCount": 77
-    },
-    {
-      "id": 20274,
-      "name": "Night Adder",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Snakes|Reptiles|The Sands",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -2.19,
-          -53.68,
-          -55.47,
-          -55.47,
-          -55.47,
-          -55.47
-        ],
-        "totalChange": -55.47
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -2.19,
-          -53.68,
-          -55.47,
-          -55.47,
-          -55.47,
-          -55.47
-        ],
-        "totalChange": -55.47
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 2.24,
-      "exaltedValue": 0.18,
-      "divineValue": 0.01,
-      "count": 51,
-      "detailsId": "night-adder",
-      "listingCount": 101
     },
     {
       "id": 20308,
@@ -3058,7 +3018,7 @@
         "data": [
           0,
           0,
-          0,
+          -4.17,
           -4.17,
           -4.17,
           -4.17,
@@ -3070,7 +3030,7 @@
         "data": [
           0,
           0,
-          0,
+          -4.17,
           -4.17,
           -4.17,
           -4.17,
@@ -3082,7 +3042,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.21,
-      "exaltedValue": 0.18,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
       "count": 5,
       "detailsId": "grazing-taurus",
@@ -3097,32 +3057,32 @@
       "sparkline": {
         "data": [
           0,
-          -4.17,
-          -7.92,
-          -45.83,
-          -45.83,
-          -45.83,
-          -7.92
+          -3.91,
+          -43.48,
+          -43.48,
+          -43.48,
+          -3.91,
+          -3.91
         ],
-        "totalChange": -7.92
+        "totalChange": -3.91
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.17,
-          -7.92,
-          -45.83,
-          -45.83,
-          -45.83,
-          -7.92
+          -3.91,
+          -43.48,
+          -43.48,
+          -43.48,
+          -3.91,
+          -3.91
         ],
-        "totalChange": -7.92
+        "totalChange": -3.91
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.21,
-      "exaltedValue": 0.18,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
       "count": 17,
       "detailsId": "rhoa-mare",
@@ -3137,23 +3097,23 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -10.98,
           -6.1,
           -6.1,
           -6.1,
+          60.98,
           null
         ],
-        "totalChange": -6.1
+        "totalChange": 60.98
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -10.98,
           -6.1,
           -6.1,
           -6.1,
+          60.98,
           168.29
         ],
         "totalChange": 168.29
@@ -3162,7 +3122,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.2,
-      "exaltedValue": 0.18,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
       "count": 4,
       "detailsId": "devourer",
@@ -3177,76 +3137,76 @@
       "sparkline": {
         "data": [
           0,
-          -4.15,
-          0,
-          0,
-          0,
-          -8.71,
-          -8.71
+          4.33,
+          4.33,
+          4.33,
+          -4.76,
+          -4.76,
+          -4.76
         ],
-        "totalChange": -8.71
+        "totalChange": -4.76
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.15,
-          0,
-          0,
-          0,
-          -8.71,
-          -8.71
+          4.33,
+          4.33,
+          4.33,
+          -4.76,
+          -4.76,
+          -4.76
         ],
-        "totalChange": -8.71
+        "totalChange": -4.76
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.2,
-      "exaltedValue": 0.18,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
       "count": 11,
       "detailsId": "granite-eater",
       "listingCount": 78
     },
     {
-      "id": 20310,
-      "name": "Infested Rhoa",
+      "id": 20274,
+      "name": "Night Adder",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Rhoas|Avians|The Sands",
+      "baseType": "Snakes|Reptiles|The Sands",
       "itemClass": 2,
       "sparkline": {
         "data": [
           0,
-          0,
-          15,
-          15,
-          null,
-          null,
-          null
+          -52.64,
+          -54.47,
+          -54.47,
+          -54.47,
+          -54.47,
+          -56.1
         ],
-        "totalChange": 15
+        "totalChange": -56.1
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          15,
-          15,
-          10,
-          10,
-          10
+          -52.64,
+          -54.47,
+          -54.47,
+          -54.47,
+          -54.47,
+          -56.1
         ],
-        "totalChange": 10
+        "totalChange": -56.1
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.2,
-      "exaltedValue": 0.18,
+      "chaosValue": 2.16,
+      "exaltedValue": 0.17,
       "divineValue": 0.01,
-      "count": 3,
-      "detailsId": "infested-rhoa",
-      "listingCount": 152
+      "count": 43,
+      "detailsId": "night-adder",
+      "listingCount": 101
     },
     {
       "id": 5236,
@@ -3282,7 +3242,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 75,
       "detailsId": "fenumal-queen",
@@ -3297,11 +3257,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           1.23,
           12.88,
           6.75,
           12.88,
+          22.7,
           22.7
         ],
         "totalChange": 22.7
@@ -3309,11 +3269,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           1.23,
           12.88,
           6.75,
           12.88,
+          22.7,
           22.7
         ],
         "totalChange": 22.7
@@ -3322,7 +3282,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 57,
       "detailsId": "farric-gargantuan",
@@ -3362,11 +3322,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 62,
+      "count": 60,
       "detailsId": "fenumal-devourer",
-      "listingCount": 613
+      "listingCount": 612
     },
     {
       "id": 5277,
@@ -3402,11 +3362,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 44,
       "detailsId": "saqawine-chimeral",
-      "listingCount": 251
+      "listingCount": 252
     },
     {
       "id": 5292,
@@ -3419,9 +3379,9 @@
           0,
           0,
           0,
-          0,
           -45.5,
           -43.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -3431,9 +3391,9 @@
           0,
           0,
           0,
-          0,
           -45.5,
           -43.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -3442,9 +3402,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 18,
+      "count": 20,
       "detailsId": "farric-magma-hound",
       "listingCount": 236
     },
@@ -3482,11 +3442,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 16,
       "detailsId": "farric-taurus",
-      "listingCount": 396
+      "listingCount": 395
     },
     {
       "id": 5331,
@@ -3497,32 +3457,32 @@
       "sparkline": {
         "data": [
           0,
-          -8.6,
-          -42.69,
-          -42.69,
-          -42.69,
-          -42.69,
-          -42.69
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3
         ],
-        "totalChange": -42.69
+        "totalChange": -37.3
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -8.6,
-          -42.69,
-          -42.69,
-          -42.69,
-          -42.69,
-          -42.69
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3,
+          -37.3
         ],
-        "totalChange": -42.69
+        "totalChange": -37.3
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "craicic-shield-crab",
@@ -3562,7 +3522,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 69,
       "detailsId": "saqawine-rhoa",
@@ -3577,8 +3537,8 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -36,
+          -50,
           -50,
           -50,
           -50,
@@ -3589,8 +3549,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -36,
+          -50,
           -50,
           -50,
           -50,
@@ -3602,7 +3562,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "fenumal-scorpion",
@@ -3617,32 +3577,32 @@
       "sparkline": {
         "data": [
           0,
-          -28.32,
-          -24.37,
-          -28.32,
-          -28.32,
-          -28.32,
-          -28.32
+          5.5,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -28.32
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -28.32,
-          -24.37,
-          -28.32,
-          -28.32,
-          -28.32,
-          -28.32
+          5.5,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -28.32
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "farric-flame-hellion-alpha",
@@ -3682,11 +3642,11 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 48,
+      "count": 49,
       "detailsId": "saqawine-retch",
-      "listingCount": 402
+      "listingCount": 403
     },
     {
       "id": 5606,
@@ -3722,9 +3682,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 64,
+      "count": 63,
       "detailsId": "fenumal-scrabbler",
       "listingCount": 680
     },
@@ -3737,8 +3697,8 @@
       "sparkline": {
         "data": [
           null,
-          null,
           0,
+          -9.09,
           -9.09,
           -9.09,
           -9.09,
@@ -3749,8 +3709,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -0.45,
+          -9.5,
           -9.5,
           -9.5,
           -9.5,
@@ -3762,11 +3722,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 15,
       "detailsId": "chrome-touched-croaker",
       "listingCount": 63
+    },
+    {
+      "id": 20192,
+      "name": "Chimeric Croaker",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Gem Frogs|Amphibians|The Deep",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          6.94,
+          -30.56,
+          -30.56,
+          -30.56,
+          3.8,
+          38.89
+        ],
+        "totalChange": 38.89
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          6.94,
+          -30.56,
+          -30.56,
+          -30.56,
+          3.8,
+          38.89
+        ],
+        "totalChange": 38.89
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.15,
+      "divineValue": 0.01,
+      "count": 16,
+      "detailsId": "chimeric-croaker",
+      "listingCount": 375
     },
     {
       "id": 20193,
@@ -3777,8 +3777,8 @@
       "sparkline": {
         "data": [
           null,
-          null,
           0,
+          -4.76,
           -4.76,
           -4.76,
           -4.76,
@@ -3789,8 +3789,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -0.47,
+          -5.21,
           -5.21,
           -5.21,
           -5.21,
@@ -3802,7 +3802,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 13,
       "detailsId": "chrome-infused-croaker",
@@ -3815,25 +3815,17 @@
       "baseType": "Arachnoscorpions|Arachnids|The Caverns",
       "itemClass": 2,
       "sparkline": {
-        "data": [
-          0,
-          null,
-          null,
-          null,
-          null,
-          null,
-          null
-        ],
+        "data": [],
         "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
+          -35.0,
+          -35.0,
+          -35.0,
           0,
-          -35.0,
-          -35.0,
-          -35.0,
           0
         ],
         "totalChange": 0
@@ -3842,7 +3834,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 2,
       "detailsId": "scalding-arachnid",
@@ -3882,7 +3874,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 50,
       "detailsId": "mountain-lynx",
@@ -3898,10 +3890,10 @@
         "data": [
           0,
           0,
-          0,
           -25.5,
           -25.5,
           -30.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -3910,10 +3902,10 @@
         "data": [
           0,
           0,
-          0,
           -25.5,
           -25.5,
           -30.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -3922,7 +3914,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 8,
       "detailsId": "maternal-rhex",
@@ -3962,7 +3954,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 29,
       "detailsId": "carnage-ape",
@@ -3977,11 +3969,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -4.0,
           -19.0,
           -25.5,
           -25.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -3989,11 +3981,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -4.0,
           -19.0,
           -25.5,
           -25.5,
+          0,
           0
         ],
         "totalChange": 0
@@ -4002,7 +3994,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 17,
       "detailsId": "carnage-chieftain",
@@ -4017,10 +4009,10 @@
       "sparkline": {
         "data": [
           0,
-          0,
           10,
           0,
           0,
+          null,
           null,
           null
         ],
@@ -4029,8 +4021,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           10,
+          0,
           0,
           0,
           0,
@@ -4042,7 +4034,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 3,
       "detailsId": "escaped-rhex",
@@ -4057,8 +4049,8 @@
       "sparkline": {
         "data": [
           0,
-          0,
           30.5,
+          0,
           0,
           0,
           0,
@@ -4069,8 +4061,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           30.5,
+          0,
           0,
           0,
           0,
@@ -4082,7 +4074,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 11,
       "detailsId": "wild-rhex",
@@ -4101,11 +4093,11 @@
       "lowConfidenceSparkline": {
         "data": [
           null,
-          null,
           0,
           0,
           0,
           0,
+          -80,
           -80
         ],
         "totalChange": -80
@@ -4114,7 +4106,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 2,
       "detailsId": "waste-lurcher",
@@ -4154,9 +4146,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 65,
+      "count": 64,
       "detailsId": "dread-primate",
       "listingCount": 697
     },
@@ -4194,7 +4186,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 34,
       "detailsId": "blood-ape",
@@ -4213,7 +4205,7 @@
           null,
           null,
           null,
-          null,
+          0,
           0
         ],
         "totalChange": 0
@@ -4221,20 +4213,20 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -81.48,
-          -94.81,
-          -95.18,
-          -96.3,
-          -96.3,
-          -96.3
+          -72,
+          -74,
+          -80,
+          -80,
+          -80,
+          -80
         ],
-        "totalChange": -96.3
+        "totalChange": -80
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 8,
       "detailsId": "merveils-blessed",
@@ -4249,7 +4241,7 @@
       "sparkline": {
         "data": [
           0,
-          0,
+          null,
           null,
           null,
           null,
@@ -4261,8 +4253,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           11,
+          0,
           0,
           0,
           0,
@@ -4274,7 +4266,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 3,
       "detailsId": "freezing-wolf",
@@ -4289,32 +4281,32 @@
       "sparkline": {
         "data": [
           0,
-          -7.34,
-          102.32,
+          118.33,
+          null,
           null,
           null,
           null,
           null
         ],
-        "totalChange": 102.32
+        "totalChange": 118.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.34,
-          102.32,
-          79.54,
-          79.54,
-          286.1,
-          -22.78
+          118.33,
+          93.75,
+          93.75,
+          316.67,
+          -16.67,
+          -16.67
         ],
-        "totalChange": -22.78
+        "totalChange": -16.67
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 3,
       "detailsId": "infested-maw",
@@ -4354,7 +4346,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 12,
       "detailsId": "purge-hound",
@@ -4368,33 +4360,33 @@
       "itemClass": 2,
       "sparkline": {
         "data": [
+          null,
+          null,
           0,
-          null,
-          null,
-          -61.76,
-          -61.76,
-          -61.76,
+          0,
+          0,
+          53.85,
           null
         ],
-        "totalChange": -61.76
+        "totalChange": 53.85
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.88,
-          -35.29,
-          -61.76,
-          -61.76,
-          -61.76,
-          -41.18
+          -31.25,
+          -59.38,
+          -59.38,
+          -59.38,
+          -37.5,
+          -37.5
         ],
-        "totalChange": -41.18
+        "totalChange": -37.5
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 4,
       "detailsId": "ink-spinner",
@@ -4434,7 +4426,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 16,
       "detailsId": "stygian-ape",
@@ -4449,11 +4441,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           11.57,
           23.14,
           23.14,
           23.14,
+          65.29,
           65.29
         ],
         "totalChange": 65.29
@@ -4461,11 +4453,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           11.57,
           23.14,
           23.14,
           23.14,
+          65.29,
           65.29
         ],
         "totalChange": 65.29
@@ -4474,7 +4466,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 18,
       "detailsId": "pitbull-demon",
@@ -4514,7 +4506,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 67,
       "detailsId": "flame-hellion",
@@ -4554,7 +4546,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 32,
       "detailsId": "mountain-hellion",
@@ -4594,7 +4586,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 39,
       "detailsId": "alpine-devil",
@@ -4634,7 +4626,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "bearded-devil",
@@ -4674,7 +4666,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 41,
       "detailsId": "hill-devil",
@@ -4690,10 +4682,10 @@
         "data": [
           0,
           0,
+          -35.0,
+          -35.0,
+          -35.0,
           0,
-          -35.0,
-          -35.0,
-          -35.0,
           0
         ],
         "totalChange": 0
@@ -4702,10 +4694,10 @@
         "data": [
           0,
           0,
+          -35.0,
+          -35.0,
+          -35.0,
           0,
-          -35.0,
-          -35.0,
-          -35.0,
           0
         ],
         "totalChange": 0
@@ -4714,7 +4706,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 6,
       "detailsId": "host-chieftain",
@@ -4754,7 +4746,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 37,
       "detailsId": "porcupine-goliath",
@@ -4770,10 +4762,10 @@
         "data": [
           0,
           0,
-          0,
           -2.5,
           -11.0,
           -11.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4782,10 +4774,10 @@
         "data": [
           0,
           0,
-          0,
           -2.5,
           -11.0,
           -11.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4794,7 +4786,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 22,
       "detailsId": "blood-chieftain",
@@ -4834,7 +4826,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 48,
       "detailsId": "goatman",
@@ -4850,10 +4842,10 @@
         "data": [
           0,
           0,
-          0,
           -4.5,
           -11.0,
           -11.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4862,10 +4854,10 @@
         "data": [
           0,
           0,
-          0,
           -4.5,
           -11.0,
           -11.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4874,7 +4866,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 20,
       "detailsId": "bearded-shaman",
@@ -4889,32 +4881,32 @@
       "sparkline": {
         "data": [
           0,
-          -7.98,
-          -8.59,
-          0.61,
-          0.61,
-          0.61,
-          22.7
+          -0.67,
+          9.33,
+          9.33,
+          9.33,
+          33.33,
+          33.33
         ],
-        "totalChange": 22.7
+        "totalChange": 33.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.98,
-          -8.59,
-          0.61,
-          0.61,
-          0.61,
-          22.7
+          -0.67,
+          9.33,
+          9.33,
+          9.33,
+          33.33,
+          33.33
         ],
-        "totalChange": 22.7
+        "totalChange": 33.33
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 36,
       "detailsId": "chrome-infused-goliath",
@@ -4929,8 +4921,8 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -28.67,
+          -33.33,
           -33.33,
           -33.33,
           -33.33,
@@ -4941,8 +4933,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -28.67,
+          -33.33,
           -33.33,
           -33.33,
           -33.33,
@@ -4954,7 +4946,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 48,
       "detailsId": "gluttonous-gull",
@@ -4972,8 +4964,8 @@
           0,
           0,
           0,
-          0,
           -4.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4984,8 +4976,8 @@
           0,
           0,
           0,
-          0,
           -4.0,
+          0,
           0
         ],
         "totalChange": 0
@@ -4994,9 +4986,9 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 83,
+      "count": 77,
       "detailsId": "avian-retch",
       "listingCount": 512
     },
@@ -5009,11 +5001,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -29.3,
           -50.91,
           -50.91,
           -53.33,
+          21.21,
           21.21
         ],
         "totalChange": 21.21
@@ -5021,11 +5013,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -29.3,
           -50.91,
           -50.91,
           -53.33,
+          21.21,
           21.21
         ],
         "totalChange": 21.21
@@ -5034,7 +5026,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 14,
       "detailsId": "chrome-infused-chimeral",
@@ -5050,10 +5042,10 @@
         "data": [
           0,
           0,
+          -30.5,
+          -30.5,
+          -30.5,
           0,
-          -30.5,
-          -30.5,
-          -30.5,
           0
         ],
         "totalChange": 0
@@ -5062,10 +5054,10 @@
         "data": [
           0,
           0,
+          -30.5,
+          -30.5,
+          -30.5,
           0,
-          -30.5,
-          -30.5,
-          -30.5,
           0
         ],
         "totalChange": 0
@@ -5074,7 +5066,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 11,
       "detailsId": "cave-skitterer",
@@ -5114,7 +5106,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 12,
       "detailsId": "sewage-crawler",
@@ -5129,11 +5121,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -1.64,
           7.79,
           7.79,
           7.79,
+          -18.03,
           -18.03
         ],
         "totalChange": -18.03
@@ -5141,11 +5133,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -1.64,
           7.79,
           7.79,
           7.79,
+          -18.03,
           -18.03
         ],
         "totalChange": -18.03
@@ -5154,7 +5146,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 19,
       "detailsId": "virulent-spider",
@@ -5194,7 +5186,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 56,
       "detailsId": "dune-hellion",
@@ -5209,32 +5201,32 @@
       "sparkline": {
         "data": [
           0,
-          -3.38,
-          -5.64,
-          -4.51,
-          50.38,
-          50.38,
-          -24.81
+          -2.33,
+          -1.17,
+          55.64,
+          55.64,
+          -16.78,
+          -22.18
         ],
-        "totalChange": -24.81
+        "totalChange": -22.18
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -3.38,
-          -5.64,
-          -4.51,
-          50.38,
-          50.38,
-          -24.81
+          -2.33,
+          -1.17,
+          55.64,
+          55.64,
+          -16.78,
+          -22.18
         ],
-        "totalChange": -24.81
+        "totalChange": -22.18
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 60,
       "detailsId": "enraptured-arachnid",
@@ -5251,9 +5243,9 @@
           0,
           0,
           0,
+          -4.0,
+          -4.0,
           0,
-          -4.0,
-          -4.0,
           0
         ],
         "totalChange": 0
@@ -5263,9 +5255,9 @@
           0,
           0,
           0,
+          -4.0,
+          -4.0,
           0,
-          -4.0,
-          -4.0,
           0
         ],
         "totalChange": 0
@@ -5274,7 +5266,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 19,
       "detailsId": "barrow-ape",
@@ -5314,11 +5306,51 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 11,
+      "count": 10,
       "detailsId": "goatman-shaman",
       "listingCount": 122
+    },
+    {
+      "id": 20255,
+      "name": "Shackled Hellion",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Hellions|Felines|The Wilds",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          13.17,
+          19.76
+        ],
+        "totalChange": 19.76
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          13.17,
+          19.76
+        ],
+        "totalChange": 19.76
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 2.0,
+      "exaltedValue": 0.15,
+      "divineValue": 0.01,
+      "count": 93,
+      "detailsId": "shackled-hellion",
+      "listingCount": 730
     },
     {
       "id": 20257,
@@ -5329,32 +5361,32 @@
       "sparkline": {
         "data": [
           0,
-          0.67,
-          -3.69,
-          -34.23,
-          -40.27,
-          -43.29,
-          -32.89
+          -4.33,
+          -34.67,
+          -40.67,
+          -43.67,
+          -33.33,
+          -33.33
         ],
-        "totalChange": -32.89
+        "totalChange": -33.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0.67,
-          -3.69,
-          -34.23,
-          -40.27,
-          -43.29,
-          -32.89
+          -4.33,
+          -34.67,
+          -40.67,
+          -43.67,
+          -33.33,
+          -33.33
         ],
-        "totalChange": -32.89
+        "totalChange": -33.33
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 26,
       "detailsId": "gravel-eater",
@@ -5373,8 +5405,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           100,
+          0,
           0,
           0,
           0,
@@ -5386,7 +5418,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 2,
       "detailsId": "vicious-parasite",
@@ -5401,32 +5433,32 @@
       "sparkline": {
         "data": [
           0,
-          -6.37,
-          -22.02,
-          -46.95,
-          -46.95,
-          -46.95,
-          -46.95
+          -16.71,
+          -43.34,
+          -43.34,
+          -43.34,
+          -43.34,
+          -43.34
         ],
-        "totalChange": -46.95
+        "totalChange": -43.34
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -6.37,
-          -22.02,
-          -46.95,
-          -46.95,
-          -46.95,
-          -46.95
+          -16.71,
+          -43.34,
+          -43.34,
+          -43.34,
+          -43.34,
+          -43.34
         ],
-        "totalChange": -46.95
+        "totalChange": -43.34
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 5,
       "detailsId": "mountain-hellion-alpha",
@@ -5441,32 +5473,32 @@
       "sparkline": {
         "data": [
           0,
-          -12.03,
-          -32.2,
-          -70.68,
-          -77.97,
-          -79.49,
-          -66.1
+          -22.93,
+          -66.67,
+          -74.95,
+          -76.69,
+          -61.46,
+          -61.46
         ],
-        "totalChange": -66.1
+        "totalChange": -61.46
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -12.03,
-          -32.2,
-          -70.68,
-          -77.97,
-          -79.49,
-          -66.1
+          -22.93,
+          -66.67,
+          -74.95,
+          -76.69,
+          -61.46,
+          -61.46
         ],
-        "totalChange": -66.1
+        "totalChange": -61.46
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 20,
       "detailsId": "spindle-spider",
@@ -5506,7 +5538,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 68,
       "detailsId": "enslaved-hellion",
@@ -5521,11 +5553,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           1,
           0,
           -28.33,
           -31,
+          -33.33,
           -33.33
         ],
         "totalChange": -33.33
@@ -5533,11 +5565,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           1,
           0,
           -28.33,
           -31,
+          -33.33,
           -33.33
         ],
         "totalChange": -33.33
@@ -5546,7 +5578,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 19,
       "detailsId": "fetid-maw",
@@ -5561,11 +5593,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -23.33,
           -50.33,
           -53.33,
           -53.33,
+          -33.33,
           -33.33
         ],
         "totalChange": -33.33
@@ -5573,11 +5605,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -23.33,
           -50.33,
           -53.33,
           -53.33,
+          -33.33,
           -33.33
         ],
         "totalChange": -33.33
@@ -5586,7 +5618,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 11,
       "detailsId": "plumed-chimeral",
@@ -5601,32 +5633,32 @@
       "sparkline": {
         "data": [
           0,
-          -10.68,
-          -34.95,
-          -56.8,
-          -58.25,
-          -56.31,
-          -2.91
+          -27.17,
+          -51.63,
+          -53.26,
+          -51.09,
+          8.7,
+          8.7
         ],
-        "totalChange": -2.91
+        "totalChange": 8.7
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -10.68,
-          -34.95,
-          -56.8,
-          -58.25,
-          -56.31,
-          -2.91
+          -27.17,
+          -51.63,
+          -53.26,
+          -51.09,
+          8.7,
+          8.7
         ],
-        "totalChange": -2.91
+        "totalChange": 8.7
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 45,
       "detailsId": "chrome-touched-chimeral",
@@ -5666,7 +5698,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 8,
       "detailsId": "infested-ape",
@@ -5685,20 +5717,20 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -74.36,
-          -74.36,
-          -74.36,
-          -74.36,
-          -74.36,
-          -74.36
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -74.36
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 1,
       "detailsId": "forest-beast",
@@ -5713,32 +5745,32 @@
       "sparkline": {
         "data": [
           0,
-          -7.26,
-          -0.56,
-          -0.56,
-          -0.56,
-          -0.56,
-          11.73
+          7.23,
+          7.23,
+          7.23,
+          7.23,
+          20.48,
+          20.48
         ],
-        "totalChange": 11.73
+        "totalChange": 20.48
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.26,
-          -0.56,
-          -0.56,
-          -0.56,
-          -0.56,
-          11.73
+          7.23,
+          7.23,
+          7.23,
+          7.23,
+          20.48,
+          20.48
         ],
-        "totalChange": 11.73
+        "totalChange": 20.48
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 31,
       "detailsId": "fighting-bull",
@@ -5753,32 +5785,32 @@
       "sparkline": {
         "data": [
           0,
-          -0.95,
-          8.02,
-          -32.58,
-          -39.31,
-          -39.31,
-          -61.83
+          9.06,
+          -31.93,
+          -38.73,
+          -38.73,
+          -61.46,
+          -61.46
         ],
-        "totalChange": -61.83
+        "totalChange": -61.46
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -0.95,
-          8.02,
-          -32.58,
-          -39.31,
-          -39.31,
-          -61.83
+          9.06,
+          -31.93,
+          -38.73,
+          -38.73,
+          -61.46,
+          -61.46
         ],
-        "totalChange": -61.83
+        "totalChange": -61.46
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 9,
       "detailsId": "sand-scorpion",
@@ -5793,32 +5825,32 @@
       "sparkline": {
         "data": [
           0,
-          -12.71,
-          -25.41,
-          -34.25,
-          -41.99,
-          -41.99,
-          10.5
+          -14.56,
+          -24.68,
+          -33.54,
+          -33.54,
+          26.58,
+          26.58
         ],
-        "totalChange": 10.5
+        "totalChange": 26.58
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -12.71,
-          -25.41,
-          -34.25,
-          -41.99,
-          -41.99,
-          10.5
+          -14.56,
+          -24.68,
+          -33.54,
+          -33.54,
+          26.58,
+          26.58
         ],
-        "totalChange": 10.5
+        "totalChange": 26.58
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 13,
       "detailsId": "sand-leaper",
@@ -5837,11 +5869,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           16.25,
           16.25,
           16.25,
           150,
+          -50,
           -50
         ],
         "totalChange": -50
@@ -5850,7 +5882,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 2,
       "detailsId": "soulless-watcher",
@@ -5865,32 +5897,32 @@
       "sparkline": {
         "data": [
           0,
-          -1.3,
-          -46.18,
-          -65.37,
-          -65.04,
-          -65.04,
-          -67.48
+          -45.47,
+          -64.91,
+          -64.58,
+          -64.58,
+          -65.8,
+          -67.05
         ],
-        "totalChange": -67.48
+        "totalChange": -67.05
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.3,
-          -46.18,
-          -65.37,
-          -65.04,
-          -65.04,
-          -67.48
+          -45.47,
+          -64.91,
+          -64.58,
+          -64.58,
+          -65.8,
+          -67.05
         ],
-        "totalChange": -67.48
+        "totalChange": -67.05
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "dirt-scrabbler",
@@ -5905,11 +5937,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -20.63,
           -28.04,
           -28.04,
           -28.04,
+          5.82,
           5.82
         ],
         "totalChange": 5.82
@@ -5917,11 +5949,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -20.63,
           -28.04,
           -28.04,
           -28.04,
+          5.82,
           5.82
         ],
         "totalChange": 5.82
@@ -5930,7 +5962,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 7,
       "detailsId": "alpine-shaman",
@@ -5970,7 +6002,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 7,
       "detailsId": "colossus-crusher",
@@ -6010,7 +6042,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 7,
       "detailsId": "bearded-skycaller",
@@ -6025,32 +6057,32 @@
       "sparkline": {
         "data": [
           0,
-          -12.71,
-          -34.25,
-          -25.97,
-          -33.7,
-          -33.7,
-          10.5
+          -24.68,
+          -15.19,
+          -24.05,
+          -24.05,
+          26.58,
+          26.58
         ],
-        "totalChange": 10.5
+        "totalChange": 26.58
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -12.71,
-          -34.25,
-          -25.97,
-          -33.7,
-          -33.7,
-          10.5
+          -24.68,
+          -15.19,
+          -24.05,
+          -24.05,
+          26.58,
+          26.58
         ],
-        "totalChange": 10.5
+        "totalChange": 26.58
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 23,
       "detailsId": "dust-scrabbler",
@@ -6065,32 +6097,32 @@
       "sparkline": {
         "data": [
           0,
-          -5.69,
-          -17.06,
-          -41.0,
-          -43.13,
-          -45.5,
-          -52.61
+          -12.06,
+          -37.44,
+          -39.7,
+          -42.21,
+          -49.75,
+          -49.75
         ],
-        "totalChange": -52.61
+        "totalChange": -49.75
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.69,
-          -17.06,
-          -41.0,
-          -43.13,
-          -45.5,
-          -52.61
+          -12.06,
+          -37.44,
+          -39.7,
+          -42.21,
+          -49.75,
+          -49.75
         ],
-        "totalChange": -52.61
+        "totalChange": -49.75
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 17,
       "detailsId": "infested-skitterer",
@@ -6130,7 +6162,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 31,
       "detailsId": "plummeting-ursa",
@@ -6145,32 +6177,32 @@
       "sparkline": {
         "data": [
           0,
-          -6.72,
-          -25.37,
-          -25.37,
-          -25.37,
-          -25.37,
-          -25.37
+          -20,
+          -20,
+          -20,
+          -20,
+          -20,
+          -20
         ],
-        "totalChange": -25.37
+        "totalChange": -20
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -6.72,
-          -25.37,
-          -25.37,
-          -25.37,
-          -25.37,
-          -25.37
+          -20,
+          -20,
+          -20,
+          -20,
+          -20,
+          -20
         ],
-        "totalChange": -25.37
+        "totalChange": -20
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 12,
       "detailsId": "talon-archer",
@@ -6185,10 +6217,10 @@
       "sparkline": {
         "data": [
           null,
+          0,
+          0,
+          0,
           null,
-          0,
-          0,
-          0,
           null,
           null
         ],
@@ -6197,11 +6229,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -21.21,
           -21.21,
           -21.21,
           -31.82,
+          51.52,
           51.52
         ],
         "totalChange": 51.52
@@ -6210,7 +6242,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 3,
       "detailsId": "cursed-spawn",
@@ -6225,8 +6257,8 @@
       "sparkline": {
         "data": [
           0,
-          0,
           25.5,
+          0,
           0,
           0,
           0,
@@ -6237,8 +6269,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           25.5,
+          0,
           0,
           0,
           0,
@@ -6250,7 +6282,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 42,
       "detailsId": "elder-blessed-hellion",
@@ -6265,32 +6297,32 @@
       "sparkline": {
         "data": [
           0,
-          -7.47,
-          -30.67,
-          -46.67,
-          -46.67,
-          -46.67,
-          -46.67
+          -25.07,
+          -42.36,
+          -42.36,
+          -42.36,
+          -42.36,
+          -42.36
         ],
-        "totalChange": -46.67
+        "totalChange": -42.36
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -7.47,
-          -30.67,
-          -46.67,
-          -46.67,
-          -46.67,
-          -46.67
+          -25.07,
+          -42.36,
+          -42.36,
+          -42.36,
+          -42.36,
+          -42.36
         ],
-        "totalChange": -46.67
+        "totalChange": -42.36
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 9,
       "detailsId": "leaping-spider",
@@ -6330,7 +6362,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 32,
       "detailsId": "chrome-touched-goliath",
@@ -6362,7 +6394,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 1,
       "detailsId": "thicket-hulk",
@@ -6378,10 +6410,10 @@
         "data": [
           0,
           0,
+          -35.0,
+          -35.0,
+          -35.0,
           0,
-          -35.0,
-          -35.0,
-          -35.0,
           0
         ],
         "totalChange": 0
@@ -6390,10 +6422,10 @@
         "data": [
           0,
           0,
+          -35.0,
+          -35.0,
+          -35.0,
           0,
-          -35.0,
-          -35.0,
-          -35.0,
           0
         ],
         "totalChange": 0
@@ -6402,7 +6434,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 10,
       "detailsId": "murk-runner",
@@ -6417,8 +6449,8 @@
       "sparkline": {
         "data": [
           0,
-          0,
           72,
+          0,
           0,
           0,
           0,
@@ -6429,8 +6461,8 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           72,
+          0,
           0,
           0,
           0,
@@ -6442,7 +6474,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 9,
       "detailsId": "skeletal-beast",
@@ -6461,20 +6493,20 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -91.77,
-          -91.77,
-          -97.51,
-          -97.51,
-          -97.72,
-          -95.88
+          0,
+          -69.75,
+          -69.75,
+          -72.25,
+          -50,
+          -50
         ],
-        "totalChange": -95.88
+        "totalChange": -50
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 1,
       "detailsId": "merveils-chosen",
@@ -6489,11 +6521,11 @@
       "sparkline": {
         "data": [
           0,
+          15,
+          15,
+          10.5,
+          10.5,
           0,
-          15,
-          15,
-          10.5,
-          10.5,
           0
         ],
         "totalChange": 0
@@ -6501,11 +6533,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
+          15,
+          15,
+          10.5,
+          10.5,
           0,
-          15,
-          15,
-          10.5,
-          10.5,
           0
         ],
         "totalChange": 0
@@ -6514,7 +6546,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 7,
       "detailsId": "carrion-queen",
@@ -6546,7 +6578,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 2,
       "detailsId": "ruins-hellion",
@@ -6568,7 +6600,7 @@
           0,
           0,
           0,
-          0,
+          -4.76,
           -4.76,
           -4.76
         ],
@@ -6578,7 +6610,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 1,
       "detailsId": "goatman-stomper",
@@ -6593,32 +6625,32 @@
       "sparkline": {
         "data": [
           0,
-          -22.33,
-          -61.17,
-          -61.17,
-          -61.17,
-          -61.17,
-          -61.17
+          -50,
+          -50,
+          -50,
+          -50,
+          -50,
+          -50
         ],
-        "totalChange": -61.17
+        "totalChange": -50
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -22.33,
-          -61.17,
-          -61.17,
-          -61.17,
-          -61.17,
-          -61.17
+          -50,
+          -50,
+          -50,
+          -50,
+          -50,
+          -50
         ],
-        "totalChange": -61.17
+        "totalChange": -50
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 7,
       "detailsId": "armour-cruncher",
@@ -6633,11 +6665,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           -36.97,
           -36.97,
           -36.97,
           -45.45,
+          21.21,
           21.21
         ],
         "totalChange": 21.21
@@ -6645,11 +6677,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -36.97,
           -36.97,
           -36.97,
           -45.45,
+          21.21,
           21.21
         ],
         "totalChange": 21.21
@@ -6658,7 +6690,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 8,
       "detailsId": "spine-serpent",
@@ -6673,34 +6705,34 @@
       "sparkline": {
         "data": [
           0,
-          -5.26,
-          -12.19,
-          -53.46,
-          -53.46,
-          -53.46,
-          -44.6
+          -7.31,
+          -50.88,
+          -50.88,
+          -50.88,
+          -41.52,
+          -41.52
         ],
-        "totalChange": -44.6
+        "totalChange": -41.52
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.26,
-          -12.19,
-          -53.46,
-          -53.46,
-          -53.46,
-          -44.6
+          -7.31,
+          -50.88,
+          -50.88,
+          -50.88,
+          -41.52,
+          -41.52
         ],
-        "totalChange": -44.6
+        "totalChange": -41.52
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
-      "count": 19,
+      "count": 17,
       "detailsId": "carrion-burrower",
       "listingCount": 114
     },
@@ -6713,11 +6745,11 @@
       "sparkline": {
         "data": [
           null,
-          null,
           0,
           -59.5,
           -59.5,
           -59.5,
+          -37.69,
           -37.69
         ],
         "totalChange": -37.69
@@ -6725,11 +6757,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           -10.83,
           -63.89,
           -63.89,
           -63.89,
+          -44.44,
           -44.44
         ],
         "totalChange": -44.44
@@ -6738,7 +6770,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 6,
       "detailsId": "glade-mamba",
@@ -6753,76 +6785,116 @@
       "sparkline": {
         "data": [
           0,
-          -14.94,
-          -15.52,
-          -46.55,
-          -48.28,
-          -50.57,
-          14.94
+          -0.68,
+          -37.16,
+          -39.19,
+          -41.89,
+          35.14,
+          35.14
         ],
-        "totalChange": 14.94
+        "totalChange": 35.14
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -14.94,
-          -15.52,
-          -46.55,
-          -48.28,
-          -50.57,
-          14.94
+          -0.68,
+          -37.16,
+          -39.19,
+          -41.89,
+          35.14,
+          35.14
         ],
-        "totalChange": 14.94
+        "totalChange": 35.14
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 2.0,
-      "exaltedValue": 0.16,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 21,
       "detailsId": "tercel-rhoa",
       "listingCount": 198
     },
     {
-      "id": 20255,
-      "name": "Shackled Hellion",
+      "id": 5302,
+      "name": "Craicic Squid",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Hellions|Felines|The Wilds",
+      "baseType": "Sea Witches|Cephalopods|The Deep",
       "itemClass": 2,
       "sparkline": {
         "data": [
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13.17
+          140,
+          62,
+          151.5,
+          -2.5,
+          -7.0,
+          -6
         ],
-        "totalChange": 13.17
+        "totalChange": -6
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          13.17
+          140,
+          62,
+          151.5,
+          -2.5,
+          -7.0,
+          -6
         ],
-        "totalChange": 13.17
+        "totalChange": -6
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 1.89,
-      "exaltedValue": 0.15,
+      "chaosValue": 1.88,
+      "exaltedValue": 0.14,
       "divineValue": 0.01,
-      "count": 94,
-      "detailsId": "shackled-hellion",
-      "listingCount": 730
+      "count": 17,
+      "detailsId": "craicic-squid",
+      "listingCount": 294
+    },
+    {
+      "id": 5561,
+      "name": "Saqawine Blood Viper",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
+      "baseType": "Snakes|Reptiles|The Sands",
+      "itemClass": 2,
+      "sparkline": {
+        "data": [
+          0,
+          0.55,
+          3.85,
+          2.75,
+          5.49,
+          2.75,
+          2.75
+        ],
+        "totalChange": 2.75
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.55,
+          3.85,
+          2.75,
+          5.49,
+          2.75,
+          2.75
+        ],
+        "totalChange": 2.75
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [],
+      "flavourText": "",
+      "chaosValue": 1.87,
+      "exaltedValue": 0.14,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "saqawine-blood-viper",
+      "listingCount": 434
     },
     {
       "id": 5340,
@@ -6835,114 +6907,34 @@
           0,
           0,
           0,
-          0,
           -6.0,
           -6.0,
-          -6
+          -6.0,
+          -10.5
         ],
-        "totalChange": -6
+        "totalChange": -10.5
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
           0,
-          0,
           -6.0,
           -6.0,
-          -6
+          -6.0,
+          -10.5
         ],
-        "totalChange": -6
+        "totalChange": -10.5
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 1.88,
-      "exaltedValue": 0.15,
-      "divineValue": 0.01,
-      "count": 19,
-      "detailsId": "fenumal-widow",
-      "listingCount": 469
-    },
-    {
-      "id": 5561,
-      "name": "Saqawine Blood Viper",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Snakes|Reptiles|The Sands",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          2.82,
-          3.39,
-          6.78,
-          5.65,
-          8.47,
-          5.65
-        ],
-        "totalChange": 5.65
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          2.82,
-          3.39,
-          6.78,
-          5.65,
-          8.47,
-          5.65
-        ],
-        "totalChange": 5.65
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 1.87,
-      "exaltedValue": 0.15,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "saqawine-blood-viper",
-      "listingCount": 434
-    },
-    {
-      "id": 5302,
-      "name": "Craicic Squid",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Sea Witches|Cephalopods|The Deep",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          140,
-          62,
-          151.5,
-          -2.5,
-          -11.5
-        ],
-        "totalChange": -11.5
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          140,
-          62,
-          151.5,
-          -2.5,
-          -11.5
-        ],
-        "totalChange": -11.5
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 1.77,
+      "chaosValue": 1.79,
       "exaltedValue": 0.14,
       "divineValue": 0.01,
-      "count": 14,
-      "detailsId": "craicic-squid",
-      "listingCount": 289
+      "count": 18,
+      "detailsId": "fenumal-widow",
+      "listingCount": 469
     },
     {
       "id": 5200,
@@ -6957,7 +6949,7 @@
           0,
           0,
           0,
-          0,
+          73,
           73
         ],
         "totalChange": 73
@@ -6969,7 +6961,7 @@
           0,
           0,
           0,
-          0,
+          73,
           73
         ],
         "totalChange": 73
@@ -6978,7 +6970,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 1.73,
-      "exaltedValue": 0.14,
+      "exaltedValue": 0.13,
       "divineValue": 0.01,
       "count": 37,
       "detailsId": "farric-ursa",
@@ -6993,26 +6985,26 @@
       "sparkline": {
         "data": [
           0,
-          -1,
-          -2.02,
-          -17.68,
-          -20.2,
-          -17.17,
-          -17.17
+          -1.03,
+          -16.85,
+          -19.4,
+          -16.34,
+          -16.34,
+          -16.34
         ],
-        "totalChange": -17.17
+        "totalChange": -16.34
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1,
-          -2.02,
-          -17.68,
-          -20.2,
-          -17.17,
-          -17.17
+          -1.03,
+          -16.85,
+          -19.4,
+          -16.34,
+          -16.34,
+          -16.34
         ],
-        "totalChange": -17.17
+        "totalChange": -16.34
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -7033,26 +7025,26 @@
       "sparkline": {
         "data": [
           0,
-          -4.95,
-          -15.38,
-          -9.89,
-          -9.89,
-          -9.89,
-          -9.89
+          -10.98,
+          -5.2,
+          -5.2,
+          -5.2,
+          -5.2,
+          -5.2
         ],
-        "totalChange": -9.89
+        "totalChange": -5.2
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -4.95,
-          -15.38,
-          -9.89,
-          -9.89,
-          -9.89,
-          -9.89
+          -10.98,
+          -5.2,
+          -5.2,
+          -5.2,
+          -5.2,
+          -5.2
         ],
-        "totalChange": -9.89
+        "totalChange": -5.2
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -7065,46 +7057,6 @@
       "listingCount": 59
     },
     {
-      "id": 20192,
-      "name": "Chimeric Croaker",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
-      "baseType": "Gem Frogs|Amphibians|The Deep",
-      "itemClass": 2,
-      "sparkline": {
-        "data": [
-          0,
-          -6.49,
-          0,
-          -35.06,
-          -35.06,
-          -35.06,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -6.49,
-          0,
-          -35.06,
-          -35.06,
-          -35.06,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [],
-      "flavourText": "",
-      "chaosValue": 1.54,
-      "exaltedValue": 0.12,
-      "divineValue": 0.01,
-      "count": 17,
-      "detailsId": "chimeric-croaker",
-      "listingCount": 375
-    },
-    {
       "id": 20200,
       "name": "Plagued Arachnid",
       "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmVzdGlhcnlPcmJGdWxsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3214b44360/BestiaryOrbFull.png",
@@ -7113,26 +7065,26 @@
       "sparkline": {
         "data": [
           0,
-          10.77,
-          47.69,
-          -54.36,
-          -53.85,
-          -55.9,
-          -22.05
+          33.33,
+          -58.8,
+          -58.33,
+          -60.19,
+          -29.63,
+          -29.63
         ],
-        "totalChange": -22.05
+        "totalChange": -29.63
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          10.77,
-          47.69,
-          -54.36,
-          -53.85,
-          -55.9,
-          -22.05
+          33.33,
+          -58.8,
+          -58.33,
+          -60.19,
+          -29.63,
+          -29.63
         ],
-        "totalChange": -22.05
+        "totalChange": -29.63
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -7153,26 +7105,26 @@
       "sparkline": {
         "data": [
           0,
-          -26.2,
-          3.32,
-          -44.28,
-          -63.1,
-          -63.1,
-          -44.65
+          40,
+          -24.5,
+          -50.0,
+          -50.0,
+          -30.0,
+          -25
         ],
-        "totalChange": -44.65
+        "totalChange": -25
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -26.2,
-          3.32,
-          -44.28,
-          -63.1,
-          -63.1,
-          -44.65
+          40,
+          -24.5,
+          -50.0,
+          -50.0,
+          -30.0,
+          -25
         ],
-        "totalChange": -44.65
+        "totalChange": -25
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
@@ -7193,32 +7145,32 @@
       "sparkline": {
         "data": [
           0,
-          156.03,
-          85.11,
-          41.84,
-          -7.8,
-          -7.8,
-          -14.18
+          -27.7,
+          -44.6,
+          -63.99,
+          -63.99,
+          -63.99,
+          -66.48
         ],
-        "totalChange": -14.18
+        "totalChange": -66.48
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          156.03,
-          85.11,
-          41.84,
-          -7.8,
-          -7.8,
-          -14.18
+          -27.7,
+          -44.6,
+          -63.99,
+          -63.99,
+          -63.99,
+          -66.48
         ],
-        "totalChange": -14.18
+        "totalChange": -66.48
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 1.21,
-      "exaltedValue": 0.1,
+      "exaltedValue": 0.09,
       "divineValue": 0.01,
       "count": 10,
       "detailsId": "craicic-sand-spitter",
@@ -7232,12 +7184,12 @@
       "itemClass": 2,
       "sparkline": {
         "data": [
-          0,
           null,
           0,
           -40.0,
           -40.0,
           -40.0,
+          -39.5,
           -39.5
         ],
         "totalChange": -39.5
@@ -7246,10 +7198,10 @@
         "data": [
           0,
           0,
-          0,
           -40.0,
           -40.0,
           -40.0,
+          -39.5,
           -39.5
         ],
         "totalChange": -39.5
@@ -7258,7 +7210,7 @@
       "explicitModifiers": [],
       "flavourText": "",
       "chaosValue": 1.21,
-      "exaltedValue": 0.1,
+      "exaltedValue": 0.09,
       "divineValue": 0.01,
       "count": 10,
       "detailsId": "sulphuric-scorpion",
@@ -7273,11 +7225,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           2,
           16,
           0,
           0,
+          7,
           18
         ],
         "totalChange": 18
@@ -7285,11 +7237,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           2,
           16,
           0,
           0,
+          7,
           18
         ],
         "totalChange": 18
@@ -7314,8 +7266,8 @@
         "data": [
           0,
           0,
-          0,
           -7.0,
+          -50.0,
           -50.0,
           -50.0,
           -50
@@ -7326,8 +7278,8 @@
         "data": [
           0,
           0,
-          0,
           -7.0,
+          -50.0,
           -50.0,
           -50.0,
           -50
