@@ -1,30 +1,30 @@
 {
-  "Winged Divination Scarab": {
-    "name": "Winged Divination Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRpdmluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6539f578d/Tier4ScarabDivination.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 48.0
-    },
-    "exaltedValue": {
-      "Base": 3.82
-    },
-    "divineValue": {
-      "Base": 0.32
-    }
-  },
   "Winged Abyss Scarab": {
     "name": "Winged Abyss Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkFieXNzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c16297c4d3/Tier4ScarabAbyss.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 43.13
+      "Base": 50.0
     },
     "exaltedValue": {
-      "Base": 3.43
+      "Base": 4.0
     },
     "divineValue": {
-      "Base": 0.29
+      "Base": 0.33
+    }
+  },
+  "Winged Divination Scarab": {
+    "name": "Winged Divination Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkRpdmluYXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6539f578d/Tier4ScarabDivination.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 48.12
+    },
+    "exaltedValue": {
+      "Base": 3.85
+    },
+    "divineValue": {
+      "Base": 0.32
     }
   },
   "Winged Reliquary Scarab": {
@@ -32,13 +32,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlVuaXF1ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e234573349/Tier4ScarabUnique.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 43.07
+      "Base": 43.0
     },
     "exaltedValue": {
-      "Base": 3.43
+      "Base": 3.44
     },
     "divineValue": {
-      "Base": 0.29
+      "Base": 0.28
     }
   },
   "Winged Ambush Scarab": {
@@ -46,13 +46,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN0cm9uZ2JveGVzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/dd7b8bd53f/Tier4ScarabStrongboxes.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 41.32
+      "Base": 42.0
     },
     "exaltedValue": {
-      "Base": 3.29
+      "Base": 3.36
     },
     "divineValue": {
-      "Base": 0.27
+      "Base": 0.28
     }
   },
   "Winged Expedition Scarab": {
@@ -60,41 +60,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 36.1
+      "Base": 37.0
     },
     "exaltedValue": {
-      "Base": 2.87
+      "Base": 2.96
     },
     "divineValue": {
-      "Base": 0.24
-    }
-  },
-  "Winged Harbinger Scarab": {
-    "name": "Winged Harbinger Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 35.54
-    },
-    "exaltedValue": {
-      "Base": 2.83
-    },
-    "divineValue": {
-      "Base": 0.24
-    }
-  },
-  "Winged Elder Scarab": {
-    "name": "Winged Elder Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVsZGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1d6efecde2/Tier4ScarabElder.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 35.0
-    },
-    "exaltedValue": {
-      "Base": 2.78
-    },
-    "divineValue": {
-      "Base": 0.23
+      "Base": 0.25
     }
   },
   "Winged Legion Scarab": {
@@ -102,10 +74,24 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkxlZ2lvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/05b623a2a7/Tier4ScarabLegion.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 34.76
+      "Base": 36.0
     },
     "exaltedValue": {
-      "Base": 2.77
+      "Base": 2.88
+    },
+    "divineValue": {
+      "Base": 0.24
+    }
+  },
+  "Winged Bestiary Scarab": {
+    "name": "Winged Bestiary Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 35.4
+    },
+    "exaltedValue": {
+      "Base": 2.83
     },
     "divineValue": {
       "Base": 0.23
@@ -116,13 +102,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlN1bHBoaXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/91ecb97f73/Tier4ScarabSulphite.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 33.0
+      "Base": 35.0
     },
     "exaltedValue": {
-      "Base": 2.63
+      "Base": 2.8
     },
     "divineValue": {
-      "Base": 0.22
+      "Base": 0.23
     }
   },
   "Winged Cartography Scarab": {
@@ -130,27 +116,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1hcHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eec98e626c/Tier4ScarabMaps.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 33.0
+      "Base": 35.0
     },
     "exaltedValue": {
-      "Base": 2.63
+      "Base": 2.8
     },
     "divineValue": {
-      "Base": 0.22
-    }
-  },
-  "Winged Bestiary Scarab": {
-    "name": "Winged Bestiary Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 33.0
-    },
-    "exaltedValue": {
-      "Base": 2.63
-    },
-    "divineValue": {
-      "Base": 0.22
+      "Base": 0.23
     }
   },
   "Winged Breach Scarab": {
@@ -158,13 +130,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJyZWFjaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0b375322d7/Tier4ScarabBreach.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 32.0
+      "Base": 35.0
     },
     "exaltedValue": {
-      "Base": 2.55
+      "Base": 2.8
     },
     "divineValue": {
-      "Base": 0.21
+      "Base": 0.23
     }
   },
   "Winged Shaper Scarab": {
@@ -172,13 +144,41 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlNoYXBlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1c759412df/Tier4ScarabShaper.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 32.0
+      "Base": 35.0
     },
     "exaltedValue": {
-      "Base": 2.55
+      "Base": 2.8
     },
     "divineValue": {
-      "Base": 0.21
+      "Base": 0.23
+    }
+  },
+  "Winged Harbinger Scarab": {
+    "name": "Winged Harbinger Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 35.0
+    },
+    "exaltedValue": {
+      "Base": 2.8
+    },
+    "divineValue": {
+      "Base": 0.23
+    }
+  },
+  "Winged Elder Scarab": {
+    "name": "Winged Elder Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkVsZGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1d6efecde2/Tier4ScarabElder.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 35.0
+    },
+    "exaltedValue": {
+      "Base": 2.8
+    },
+    "divineValue": {
+      "Base": 0.23
     }
   },
   "Winged Metamorph Scarab": {
@@ -186,13 +186,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1ldGFtb3JwaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08a2978215/Tier4ScarabMetamorph.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 31.6
+      "Base": 34.0
     },
     "exaltedValue": {
-      "Base": 2.51
+      "Base": 2.72
     },
     "divineValue": {
-      "Base": 0.21
+      "Base": 0.23
     }
   },
   "Winged Blight Scarab": {
@@ -200,13 +200,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 31.24
+      "Base": 34.0
     },
     "exaltedValue": {
-      "Base": 2.49
+      "Base": 2.72
     },
     "divineValue": {
-      "Base": 0.21
+      "Base": 0.23
     }
   },
   "Winged Torment Scarab": {
@@ -214,13 +214,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYlRvcm1lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b809b07f2b/Tier4ScarabTorment.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 31.17
+      "Base": 33.0
     },
     "exaltedValue": {
-      "Base": 2.48
+      "Base": 2.64
     },
     "divineValue": {
-      "Base": 0.21
+      "Base": 0.22
     }
   },
   "Gilded Reliquary Scarab": {
@@ -228,13 +228,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVW5pcXVlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6ec6815d00/GreaterScarabUnique.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 15.79
+      "Base": 16.77
     },
     "exaltedValue": {
-      "Base": 1.26
+      "Base": 1.34
     },
     "divineValue": {
-      "Base": 0.1
+      "Base": 0.11
     }
   },
   "Gilded Divination Scarab": {
@@ -242,10 +242,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRGl2aW5hdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/8101d1a6e1/GreaterScarabDivination.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 11.0
+      "Base": 10.21
     },
     "exaltedValue": {
-      "Base": 0.88
+      "Base": 0.82
     },
     "divineValue": {
       "Base": 0.07
@@ -256,10 +256,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3Ryb25nYm94ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8b46f6270a/GreaterScarabStrongboxes.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 8.88
+      "Base": 9.0
     },
     "exaltedValue": {
-      "Base": 0.71
+      "Base": 0.72
     },
     "divineValue": {
       "Base": 0.06
@@ -284,10 +284,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQWJ5c3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e6bcf6b93d/GreaterScarabAbyss.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 7.0
+      "Base": 6.88
     },
     "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.55
     },
     "divineValue": {
       "Base": 0.05
@@ -296,20 +296,6 @@
   "Gilded Legion Scarab": {
     "name": "Gilded Legion Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 6.37
-    },
-    "exaltedValue": {
-      "Base": 0.51
-    },
-    "divineValue": {
-      "Base": 0.04
-    }
-  },
-  "Polished Legion Scarab": {
-    "name": "Polished Legion Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 6.0
@@ -363,20 +349,6 @@
       "Base": 0.03
     }
   },
-  "Gilded Torment Scarab": {
-    "name": "Gilded Torment Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVG9ybWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0dcb6987a3/GreaterScarabTorment.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
   "Gilded Bestiary Scarab": {
     "name": "Gilded Bestiary Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmVhc3RzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7225b9e62b/GreaterScarabBeasts.png",
@@ -391,23 +363,9 @@
       "Base": 0.03
     }
   },
-  "Gilded Cartography Scarab": {
-    "name": "Gilded Cartography Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Gilded Metamorph Scarab": {
-    "name": "Gilded Metamorph Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWV0YW1vcnBoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7e8dd3bd31/GreaterScarabMetamorph.png",
+  "Polished Legion Scarab": {
+    "name": "Polished Legion Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 5.0
@@ -433,26 +391,26 @@
       "Base": 0.03
     }
   },
-  "Gilded Elder Scarab": {
-    "name": "Gilded Elder Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
+  "Gilded Cartography Scarab": {
+    "name": "Gilded Cartography Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWFwcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2567494a92/GreaterScarabMaps.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 4.5
+      "Base": 4.83
     },
     "exaltedValue": {
-      "Base": 0.36
+      "Base": 0.39
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "Polished Ambush Scarab": {
-    "name": "Polished Ambush Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46451362bc/NormalScarabStrongboxes.png",
+  "Gilded Torment Scarab": {
+    "name": "Gilded Torment Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiVG9ybWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0dcb6987a3/GreaterScarabTorment.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 4.08
+      "Base": 4.0
     },
     "exaltedValue": {
       "Base": 0.32
@@ -464,6 +422,34 @@
   "Gilded Shaper Scarab": {
     "name": "Gilded Shaper Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU2hhcGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/8c0ef8557c/GreaterScarabShaper.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.32
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Gilded Sulphite Scarab": {
+    "name": "Gilded Sulphite Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3VscGhpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2a3855535e/GreaterScarabSulphite.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.32
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Gilded Elder Scarab": {
+    "name": "Gilded Elder Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiRWxkZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2bd3ed1eca/GreaterScarabElder.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 4.0
@@ -489,18 +475,32 @@
       "Base": 0.03
     }
   },
-  "Gilded Sulphite Scarab": {
-    "name": "Gilded Sulphite Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiU3VscGhpdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2a3855535e/GreaterScarabSulphite.png",
+  "Polished Ambush Scarab": {
+    "name": "Polished Ambush Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/46451362bc/NormalScarabStrongboxes.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 3.31
+      "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.26
+      "Base": 0.32
     },
     "divineValue": {
-      "Base": 0.02
+      "Base": 0.03
+    }
+  },
+  "Gilded Metamorph Scarab": {
+    "name": "Gilded Metamorph Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWV0YW1vcnBoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7e8dd3bd31/GreaterScarabMetamorph.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.32
+    },
+    "divineValue": {
+      "Base": 0.03
     }
   },
   "Rusted Legion Scarab": {
@@ -508,10 +508,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0006525c3c/LesserScarabLegion.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 2.64
+      "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.21
+      "Base": 0.24
     },
     "divineValue": {
       "Base": 0.02
@@ -522,10 +522,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a1f5997c7d/NormalScarabExpedition.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 2.16
+      "Base": 2.2
     },
     "exaltedValue": {
-      "Base": 0.17
+      "Base": 0.18
     },
     "divineValue": {
       "Base": 0.01
@@ -536,10 +536,24 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 2.12
+      "Base": 2.02
     },
     "exaltedValue": {
-      "Base": 0.17
+      "Base": 0.16
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Polished Bestiary Scarab": {
+    "name": "Polished Bestiary Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.16
     },
     "divineValue": {
       "Base": 0.01
@@ -550,7 +564,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72516960f1/LesserScarabUnique.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 2.0
+      "Base": 1.99
     },
     "exaltedValue": {
       "Base": 0.16
@@ -564,10 +578,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJBYnlzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c78d645398/NormalScarabAbyss.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 1.99
+      "Base": 1.86
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -578,24 +592,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0baaf413d0/NormalScarabMaps.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 1.92
+      "Base": 1.74
     },
     "exaltedValue": {
-      "Base": 0.15
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Polished Bestiary Scarab": {
-    "name": "Polished Bestiary Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0f4dc83dc5/NormalScarabBeasts.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 1.5
-    },
-    "exaltedValue": {
-      "Base": 0.12
+      "Base": 0.14
     },
     "divineValue": {
       "Base": 0.01
@@ -604,20 +604,6 @@
   "Rusted Elder Scarab": {
     "name": "Rusted Elder Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFbGRlciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/11cabe4d12/LesserScarabElder.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Polished Sulphite Scarab": {
-    "name": "Polished Sulphite Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 1.0
@@ -671,26 +657,40 @@
       "Base": 0.01
     }
   },
-  "Rusted Divination Scarab": {
-    "name": "Rusted Divination Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 0.98
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "Polished Breach Scarab": {
     "name": "Polished Breach Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/20276236e9/NormalScarabBreach.png",
     "rarity": 0,
     "chaosValue": {
+      "Base": 0.93
+    },
+    "exaltedValue": {
+      "Base": 0.07
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Polished Sulphite Scarab": {
+    "name": "Polished Sulphite Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTdWxwaGl0ZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3b6d388b91/NormalScarabSulphite.png",
+    "rarity": 0,
+    "chaosValue": {
       "Base": 0.91
+    },
+    "exaltedValue": {
+      "Base": 0.07
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Rusted Divination Scarab": {
+    "name": "Rusted Divination Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJEaXZpbmF0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ac84db8246/LesserScarabDivination.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 0.83
     },
     "exaltedValue": {
       "Base": 0.07
@@ -704,13 +704,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJFeHBlZGl0aW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9bb9fa480/LesserScarabExpedition.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.72
+      "Base": 0.76
     },
     "exaltedValue": {
       "Base": 0.06
     },
     "divineValue": {
-      "Base": 0.0
+      "Base": 0.01
     }
   },
   "Polished Torment Scarab": {
@@ -718,7 +718,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b93daed118/NormalScarabTorment.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.67
+      "Base": 0.62
     },
     "exaltedValue": {
       "Base": 0.05
@@ -732,24 +732,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c982c28d52/LesserScarabMaps.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.5
+      "Base": 0.45
     },
     "exaltedValue": {
       "Base": 0.04
-    },
-    "divineValue": {
-      "Base": 0.0
-    }
-  },
-  "Polished Metamorph Scarab": {
-    "name": "Polished Metamorph Scarab",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNZXRhbW9ycGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/86ad4cae39/NormalScarabMetamorph.png",
-    "rarity": 0,
-    "chaosValue": {
-      "Base": 0.44
-    },
-    "exaltedValue": {
-      "Base": 0.03
     },
     "divineValue": {
       "Base": 0.0
@@ -772,6 +758,20 @@
   "Polished Shaper Scarab": {
     "name": "Polished Shaper Scarab",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f92a75e584/NormalScarabShaper.png",
+    "rarity": 0,
+    "chaosValue": {
+      "Base": 0.33
+    },
+    "exaltedValue": {
+      "Base": 0.03
+    },
+    "divineValue": {
+      "Base": 0.0
+    }
+  },
+  "Polished Metamorph Scarab": {
+    "name": "Polished Metamorph Scarab",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJNZXRhbW9ycGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/86ad4cae39/NormalScarabMetamorph.png",
     "rarity": 0,
     "chaosValue": {
       "Base": 0.33
@@ -830,7 +830,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJIYXJiaW5nZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1940157b44/LesserScarabHarbingers.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.17
+      "Base": 0.14
     },
     "exaltedValue": {
       "Base": 0.01
@@ -858,7 +858,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJUb3JtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b4e843a49b/LesserScarabTorment.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.1
+      "Base": 0.08
     },
     "exaltedValue": {
       "Base": 0.01
@@ -872,7 +872,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCcmVhY2giLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37bd40da6c/LesserScarabBreach.png",
     "rarity": 0,
     "chaosValue": {
-      "Base": 0.07
+      "Base": 0.08
     },
     "exaltedValue": {
       "Base": 0.01

@@ -9,26 +9,26 @@
       "sparkline": {
         "data": [
           0,
-          -1.09,
-          -1.11,
-          -1.11,
-          -1.31,
-          -1.12,
-          -0.46
+          -0.2,
+          -0.01,
+          0.12,
+          1.08,
+          0.18,
+          0.02
         ],
-        "totalChange": -0.46
+        "totalChange": 0.02
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.09,
-          -1.11,
-          -1.11,
-          -1.31,
-          -1.12,
-          -0.46
+          -0.2,
+          -0.01,
+          0.12,
+          1.08,
+          0.18,
+          0.02
         ],
-        "totalChange": -0.46
+        "totalChange": 0.02
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -38,12 +38,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 50.32,
+      "chaosValue": 50.0,
       "exaltedValue": 4.0,
       "divineValue": 0.33,
       "count": 99,
       "detailsId": "faceted-fossil",
-      "listingCount": 1137
+      "listingCount": 1193
     },
     {
       "id": 7666,
@@ -54,26 +54,26 @@
       "sparkline": {
         "data": [
           0,
-          -2.04,
-          -8.16,
-          -8.16,
-          -4.7,
-          1.52,
-          -8.16
+          3.77,
+          10.54,
+          0,
+          0,
+          0,
+          -13.33
         ],
-        "totalChange": -8.16
+        "totalChange": -13.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.04,
-          -8.16,
-          -8.16,
-          -4.7,
-          1.52,
-          -8.16
+          3.77,
+          10.54,
+          0,
+          0,
+          0,
+          -13.33
         ],
-        "totalChange": -8.16
+        "totalChange": -13.33
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -83,12 +83,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 45.0,
-      "exaltedValue": 3.58,
-      "divineValue": 0.3,
+      "chaosValue": 39.0,
+      "exaltedValue": 3.12,
+      "divineValue": 0.26,
       "count": 99,
       "detailsId": "glyphic-fossil",
-      "listingCount": 1074
+      "listingCount": 1089
     },
     {
       "id": 20445,
@@ -99,26 +99,26 @@
       "sparkline": {
         "data": [
           0,
-          3.48,
-          2.12,
-          3.67,
-          13.89,
-          8.25,
-          5.82
+          9.87,
+          4.42,
+          6.93,
+          4.99,
+          4.07,
+          -0.95
         ],
-        "totalChange": 5.82
+        "totalChange": -0.95
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.48,
-          2.12,
-          3.67,
-          13.89,
-          8.25,
-          5.82
+          9.87,
+          4.42,
+          6.93,
+          4.99,
+          4.07,
+          -0.95
         ],
-        "totalChange": 5.82
+        "totalChange": -0.95
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -128,12 +128,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 28.0,
-      "exaltedValue": 2.23,
-      "divineValue": 0.19,
+      "chaosValue": 27.17,
+      "exaltedValue": 2.17,
+      "divineValue": 0.18,
       "count": 99,
       "detailsId": "fractured-fossil",
-      "listingCount": 1041
+      "listingCount": 1086
     },
     {
       "id": 7661,
@@ -178,7 +178,7 @@
       "divineValue": 0.07,
       "count": 99,
       "detailsId": "hollow-fossil",
-      "listingCount": 975
+      "listingCount": 1004
     },
     {
       "id": 7634,
@@ -189,26 +189,26 @@
       "sparkline": {
         "data": [
           0,
-          2.57,
-          6.57,
-          2,
-          0,
-          0,
-          0.57
+          -1.96,
+          -1.96,
+          -1.68,
+          -1.96,
+          -1.96,
+          -2.1
         ],
-        "totalChange": 0.57
+        "totalChange": -2.1
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          2.57,
-          6.57,
-          2,
-          0,
-          0,
-          0.57
+          -1.96,
+          -1.96,
+          -1.68,
+          -1.96,
+          -1.96,
+          -2.1
         ],
-        "totalChange": 0.57
+        "totalChange": -2.1
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -218,57 +218,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 7.04,
+      "chaosValue": 6.99,
       "exaltedValue": 0.56,
       "divineValue": 0.05,
       "count": 99,
       "detailsId": "perfect-fossil",
-      "listingCount": 2662
-    },
-    {
-      "id": 7665,
-      "name": "Shuddering Fossil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvU2h1ZGRlcmluZ0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ea7926999/ShudderingFossil.png",
-      "stackSize": 20,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -9.23,
-          -9.23,
-          -8.92,
-          -9.23,
-          -9.23,
-          -9.23
-        ],
-        "totalChange": -9.23
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -9.23,
-          -9.23,
-          -8.92,
-          -9.23,
-          -9.23,
-          -9.23
-        ],
-        "totalChange": -9.23
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "More Speed modifiers\nNo Mana modifiers",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 6.0,
-      "exaltedValue": 0.48,
-      "divineValue": 0.04,
-      "count": 99,
-      "detailsId": "shuddering-fossil",
-      "listingCount": 3014
+      "listingCount": 2672
     },
     {
       "id": 7653,
@@ -280,25 +235,25 @@
         "data": [
           0,
           0,
-          0,
-          0,
-          0,
           -14.29,
-          -28.57
+          -14.29,
+          -14.29,
+          -14.29,
+          -14.29
         ],
-        "totalChange": -28.57
+        "totalChange": -14.29
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
-          0,
-          0,
-          0,
           -14.29,
-          -28.57
+          -14.29,
+          -14.29,
+          -14.29,
+          -14.29
         ],
-        "totalChange": -28.57
+        "totalChange": -14.29
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -308,12 +263,57 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.4,
-      "divineValue": 0.03,
+      "chaosValue": 6.0,
+      "exaltedValue": 0.48,
+      "divineValue": 0.04,
       "count": 99,
       "detailsId": "sanctified-fossil",
-      "listingCount": 2225
+      "listingCount": 2260
+    },
+    {
+      "id": 7665,
+      "name": "Shuddering Fossil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvU2h1ZGRlcmluZ0Zvc3NpbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ea7926999/ShudderingFossil.png",
+      "stackSize": 20,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -0.34,
+          -0.34,
+          -2.99,
+          -0.34,
+          -16.95,
+          -6.65
+        ],
+        "totalChange": -6.65
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.34,
+          -0.34,
+          -2.99,
+          -0.34,
+          -16.95,
+          -6.65
+        ],
+        "totalChange": -6.65
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "More Speed modifiers\nNo Mana modifiers",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 5.62,
+      "exaltedValue": 0.45,
+      "divineValue": 0.04,
+      "count": 99,
+      "detailsId": "shuddering-fossil",
+      "listingCount": 3003
     },
     {
       "id": 7654,
@@ -324,11 +324,11 @@
       "sparkline": {
         "data": [
           0,
-          7.75,
           0,
           0,
           0,
           0,
+          -9.75,
           0
         ],
         "totalChange": 0
@@ -336,11 +336,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          7.75,
           0,
           0,
           0,
           0,
+          -9.75,
           0
         ],
         "totalChange": 0
@@ -358,52 +358,7 @@
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "corroded-fossil",
-      "listingCount": 3339
-    },
-    {
-      "id": 70507,
-      "name": "Deft Fossil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRW5jaGFudGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/314cfdc367/EnchantedFossil.png",
-      "stackSize": 20,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          33.33,
-          33,
-          0,
-          33.33
-        ],
-        "totalChange": 33.33
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          33.33,
-          33,
-          0,
-          33.33
-        ],
-        "totalChange": 33.33
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "More Critical modifiers\nNo Attribute modifiers",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 4.0,
-      "exaltedValue": 0.32,
-      "divineValue": 0.03,
-      "count": 99,
-      "detailsId": "deft-fossil",
-      "listingCount": 2695
+      "listingCount": 3358
     },
     {
       "id": 7658,
@@ -414,26 +369,26 @@
       "sparkline": {
         "data": [
           0,
-          24.5,
           0,
           0,
-          0,
-          0,
-          -20.25
+          -25,
+          -25,
+          -25,
+          0
         ],
-        "totalChange": -20.25
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          24.5,
           0,
           0,
-          0,
-          0,
-          -20.25
+          -25,
+          -25,
+          -25,
+          0
         ],
-        "totalChange": -20.25
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -443,12 +398,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 3.19,
-      "exaltedValue": 0.25,
-      "divineValue": 0.02,
+      "chaosValue": 4.0,
+      "exaltedValue": 0.32,
+      "divineValue": 0.03,
       "count": 99,
       "detailsId": "serrated-fossil",
-      "listingCount": 3091
+      "listingCount": 3006
     },
     {
       "id": 7649,
@@ -459,26 +414,26 @@
       "sparkline": {
         "data": [
           0,
-          31.67,
-          31.67,
-          31.67,
-          18.5,
-          5.67,
-          0
+          -10.0,
+          -19.74,
+          -24.05,
+          -24.05,
+          -24.05,
+          -24.05
         ],
-        "totalChange": 0
+        "totalChange": -24.05
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          31.67,
-          31.67,
-          31.67,
-          18.5,
-          5.67,
-          0
+          -10.0,
+          -19.74,
+          -24.05,
+          -24.05,
+          -24.05,
+          -24.05
         ],
-        "totalChange": 0
+        "totalChange": -24.05
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -493,7 +448,52 @@
       "divineValue": 0.02,
       "count": 99,
       "detailsId": "prismatic-fossil",
-      "listingCount": 3662
+      "listingCount": 3721
+    },
+    {
+      "id": 70507,
+      "name": "Deft Fossil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRW5jaGFudGVkRm9zc2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/314cfdc367/EnchantedFossil.png",
+      "stackSize": 20,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          -0.25,
+          -25,
+          -1.74,
+          0,
+          -25,
+          -25
+        ],
+        "totalChange": -25
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -0.25,
+          -25,
+          -1.74,
+          0,
+          -25,
+          -25
+        ],
+        "totalChange": -25
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "More Critical modifiers\nNo Attribute modifiers",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 3.0,
+      "exaltedValue": 0.24,
+      "divineValue": 0.02,
+      "count": 99,
+      "detailsId": "deft-fossil",
+      "listingCount": 2729
     },
     {
       "id": 7637,
@@ -504,26 +504,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
-          -25.66,
-          -2.67,
-          -33.33,
-          -5,
-          -33.33
+          -31.51,
+          -2.4,
+          -31.51,
+          -31.51,
+          -31.51,
+          -31.51
         ],
-        "totalChange": -33.33
+        "totalChange": -31.51
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          -25.66,
-          -2.67,
-          -33.33,
-          -5,
-          -33.33
+          -31.51,
+          -2.4,
+          -31.51,
+          -31.51,
+          -31.51,
+          -31.51
         ],
-        "totalChange": -33.33
+        "totalChange": -31.51
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -538,7 +538,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "aetheric-fossil",
-      "listingCount": 2943
+      "listingCount": 2934
     },
     {
       "id": 7640,
@@ -549,26 +549,26 @@
       "sparkline": {
         "data": [
           0,
-          8.82,
-          11.34,
-          -4.62,
-          -15.97,
-          -15.97,
-          -15.97
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9
         ],
-        "totalChange": -15.97
+        "totalChange": -11.9
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          8.82,
-          11.34,
-          -4.62,
-          -15.97,
-          -15.97,
-          -15.97
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9,
+          -11.9
         ],
-        "totalChange": -15.97
+        "totalChange": -11.9
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -583,7 +583,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "bound-fossil",
-      "listingCount": 4171
+      "listingCount": 4188
     },
     {
       "id": 7664,
@@ -628,7 +628,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "tangled-fossil",
-      "listingCount": 1169
+      "listingCount": 1184
     },
     {
       "id": 7667,
@@ -673,7 +673,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "bloodstained-fossil",
-      "listingCount": 1179
+      "listingCount": 1194
     },
     {
       "id": 70510,
@@ -684,26 +684,26 @@
       "sparkline": {
         "data": [
           0,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -31.75
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75,
-          -31.75
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -31.75
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -718,7 +718,52 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "fundamental-fossil",
-      "listingCount": 3113
+      "listingCount": 3048
+    },
+    {
+      "id": 7643,
+      "name": "Dense Fossil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRGVuc2VGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e51b8071e7/DenseFossil.png",
+      "stackSize": 20,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0.67,
+          0.67,
+          -13.4,
+          -32.89,
+          -32.89,
+          -20.81
+        ],
+        "totalChange": -20.81
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.67,
+          0.67,
+          -13.4,
+          -32.89,
+          -32.89,
+          -20.81
+        ],
+        "totalChange": -20.81
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "More Defence modifiers\nNo Life Modifiers",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 1.18,
+      "exaltedValue": 0.09,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "dense-fossil",
+      "listingCount": 5322
     },
     {
       "id": 7638,
@@ -763,97 +808,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "gilded-fossil",
-      "listingCount": 2776
-    },
-    {
-      "id": 7643,
-      "name": "Dense Fossil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvRGVuc2VGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e51b8071e7/DenseFossil.png",
-      "stackSize": 20,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          -19.3,
-          -0.67,
-          0,
-          0,
-          -33.33
-        ],
-        "totalChange": -33.33
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          -19.3,
-          -0.67,
-          0,
-          0,
-          -33.33
-        ],
-        "totalChange": -33.33
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "More Defence modifiers\nNo Life Modifiers",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 1.0,
-      "exaltedValue": 0.08,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "dense-fossil",
-      "listingCount": 5330
-    },
-    {
-      "id": 7652,
-      "name": "Pristine Fossil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUHJpc3RpbmVGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e9dda92a19/PristineFossil.png",
-      "stackSize": 20,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          -0.01,
-          -0.01,
-          2.53,
-          5.06,
-          5.06,
-          6.32
-        ],
-        "totalChange": 6.32
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -0.01,
-          -0.01,
-          2.53,
-          5.06,
-          5.06,
-          6.32
-        ],
-        "totalChange": 6.32
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "More Life modifiers\nNo Defence modifiers",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.84,
-      "exaltedValue": 0.07,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "pristine-fossil",
-      "listingCount": 9820
+      "listingCount": 2789
     },
     {
       "id": 7639,
@@ -864,26 +819,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
-          1.19,
-          0,
           -1.19,
           0,
-          -2.38
+          0,
+          5.95,
+          0,
+          0
         ],
-        "totalChange": -2.38
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
-          1.19,
-          0,
           -1.19,
           0,
-          -2.38
+          0,
+          5.95,
+          0,
+          0
         ],
-        "totalChange": -2.38
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -893,12 +848,57 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.82,
+      "chaosValue": 0.84,
       "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "jagged-fossil",
-      "listingCount": 9510
+      "listingCount": 9568
+    },
+    {
+      "id": 7652,
+      "name": "Pristine Fossil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUHJpc3RpbmVGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e9dda92a19/PristineFossil.png",
+      "stackSize": 20,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          2.47,
+          2.47,
+          2.47,
+          2.47,
+          -4.94,
+          -2.47
+        ],
+        "totalChange": -2.47
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          2.47,
+          2.47,
+          2.47,
+          2.47,
+          -4.94,
+          -2.47
+        ],
+        "totalChange": -2.47
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "More Life modifiers\nNo Defence modifiers",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.79,
+      "exaltedValue": 0.06,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "pristine-fossil",
+      "listingCount": 9877
     },
     {
       "id": 7641,
@@ -909,26 +909,26 @@
       "sparkline": {
         "data": [
           0,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -12.29
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29,
-          -12.29
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
         ],
-        "totalChange": -12.29
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -943,7 +943,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "aberrant-fossil",
-      "listingCount": 9984
+      "listingCount": 10028
     },
     {
       "id": 7642,
@@ -988,52 +988,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "scorched-fossil",
-      "listingCount": 9802
-    },
-    {
-      "id": 7645,
-      "name": "Metallic Fossil",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvTWV0YWxsaWNGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c26857827c/MetallicFossil.png",
-      "stackSize": 20,
-      "itemClass": 5,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "More Lightning modifiers\nNo Physical modifiers",
-          "optional": false
-        }
-      ],
-      "flavourText": "",
-      "chaosValue": 0.33,
-      "exaltedValue": 0.03,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "metallic-fossil",
-      "listingCount": 9853
+      "listingCount": 9844
     },
     {
       "id": 7655,
@@ -1078,7 +1033,52 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "lucent-fossil",
-      "listingCount": 4626
+      "listingCount": 4669
+    },
+    {
+      "id": 7645,
+      "name": "Metallic Fossil",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvTWV0YWxsaWNGb3NzaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c26857827c/MetallicFossil.png",
+      "stackSize": 20,
+      "itemClass": 5,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.03
+        ],
+        "totalChange": -3.03
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          -3.03
+        ],
+        "totalChange": -3.03
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "More Lightning modifiers\nNo Physical modifiers",
+          "optional": false
+        }
+      ],
+      "flavourText": "",
+      "chaosValue": 0.32,
+      "exaltedValue": 0.03,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "metallic-fossil",
+      "listingCount": 9931
     },
     {
       "id": 7644,
@@ -1089,26 +1089,26 @@
       "sparkline": {
         "data": [
           0,
-          -17.65,
           0,
-          5.88,
-          5.88,
-          5.88,
-          17.65
+          0,
+          11.11,
+          0,
+          2.81,
+          0
         ],
-        "totalChange": 17.65
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -17.65,
           0,
-          5.88,
-          5.88,
-          5.88,
-          17.65
+          0,
+          11.11,
+          0,
+          2.81,
+          0
         ],
-        "totalChange": 17.65
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1118,12 +1118,12 @@
         }
       ],
       "flavourText": "",
-      "chaosValue": 0.2,
-      "exaltedValue": 0.02,
+      "chaosValue": 0.18,
+      "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "frigid-fossil",
-      "listingCount": 9214
+      "listingCount": 9264
     }
   ],
   "language": {

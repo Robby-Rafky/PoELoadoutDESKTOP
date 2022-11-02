@@ -4,13 +4,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Hb2xkZW5PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/69094a06e9/GoldenOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 40.0
+      "Base": 35.0
     },
     "exaltedValue": {
-      "Base": 3.18
+      "Base": 2.8
     },
     "divineValue": {
-      "Base": 0.26
+      "Base": 0.23
     }
   },
   "Tainted Oil": {
@@ -18,13 +18,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WYWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54c3400bd8/VaalOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 25.0
+      "Base": 26.75
     },
     "exaltedValue": {
-      "Base": 1.99
+      "Base": 2.14
     },
     "divineValue": {
-      "Base": 0.17
+      "Base": 0.18
     }
   },
   "Silver Oil": {
@@ -32,13 +32,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9TaWx2ZXJPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fb57de2d95/SilverOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 15.0
+      "Base": 14.21
     },
     "exaltedValue": {
-      "Base": 1.19
+      "Base": 1.14
     },
     "divineValue": {
-      "Base": 0.1
+      "Base": 0.09
     }
   },
   "Reflective Oil": {
@@ -46,13 +46,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9NaXJyb3JPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c90ed676a/MirrorOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 9.0
+      "Base": 11.32
     },
     "exaltedValue": {
-      "Base": 0.72
+      "Base": 0.9
     },
     "divineValue": {
-      "Base": 0.06
+      "Base": 0.07
     }
   },
   "Opalescent Oil": {
@@ -60,10 +60,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9PcGFsZXNjZW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/11d5d92171/OpalescentOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 5.73
+      "Base": 6.0
     },
     "exaltedValue": {
-      "Base": 0.46
+      "Base": 0.48
     },
     "divineValue": {
       "Base": 0.04
@@ -88,10 +88,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9Dcmltc29uT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/54fb620c7e/CrimsonOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 1.82
+      "Base": 1.99
     },
     "exaltedValue": {
-      "Base": 0.14
+      "Base": 0.16
     },
     "divineValue": {
       "Base": 0.01
@@ -102,7 +102,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WaW9sZXRPaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/64c679a735/VioletOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.8
+      "Base": 0.81
     },
     "exaltedValue": {
       "Base": 0.06
@@ -116,7 +116,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BenVyZU9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/926343421b/AzureOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.47
+      "Base": 0.5
     },
     "exaltedValue": {
       "Base": 0.04
@@ -130,7 +130,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JbmRpZ29PaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f9356f7cb0/IndigoOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.38
+      "Base": 0.33
     },
     "exaltedValue": {
       "Base": 0.03
@@ -144,10 +144,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9UZWFsT2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b6712a15cf/TealOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.33
+      "Base": 0.28
     },
     "exaltedValue": {
-      "Base": 0.03
+      "Base": 0.02
     },
     "divineValue": {
       "Base": 0.0
@@ -158,7 +158,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9WZXJkYW50T2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/55a911a67d/VerdantOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.16
+      "Base": 0.13
     },
     "exaltedValue": {
       "Base": 0.01
@@ -172,7 +172,7 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9BbWJlck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/931f4d2fdd/AmberOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.11
+      "Base": 0.1
     },
     "exaltedValue": {
       "Base": 0.01
@@ -200,10 +200,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9DbGVhck9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/de298bd226/ClearOil.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 0.07
+      "Base": 0.06
     },
     "exaltedValue": {
-      "Base": 0.01
+      "Base": 0.0
     },
     "divineValue": {
       "Base": 0.0

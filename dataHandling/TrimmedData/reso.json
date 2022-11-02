@@ -4,10 +4,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngyQyIsInciOjIsImgiOjIsInNjYWxlIjoxfV0/584267701b/Reroll2x2C.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 20.0
+      "Base": 19.0
     },
     "exaltedValue": {
-      "Base": 1.59
+      "Base": 1.52
     },
     "divineValue": {
       "Base": 0.13
@@ -32,10 +32,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMngxQSIsInciOjEsImgiOjIsInNjYWxlIjoxfV0/1aa8e1c365/Reroll2x1A.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 2.0
+      "Base": 1.8
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.14
     },
     "divineValue": {
       "Base": 0.01
@@ -46,10 +46,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsdmUvUmVyb2xsMXgxQSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/eea57ec0df/Reroll1x1A.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 1.37
+      "Base": 1.02
     },
     "exaltedValue": {
-      "Base": 0.11
+      "Base": 0.08
     },
     "divineValue": {
       "Base": 0.01

@@ -4,13 +4,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/HouseOfMirrors.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 11472.94
+      "Base": 11658.57
     },
     "exaltedValue": {
-      "Base": 912.72
+      "Base": 881.22
     },
     "divineValue": {
-      "Base": 75.99
+      "Base": 77.0
     }
   },
   "The Apothecary": {
@@ -18,27 +18,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheApothecary.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 10416.93
+      "Base": 10295.88
     },
     "exaltedValue": {
-      "Base": 828.71
+      "Base": 778.22
     },
     "divineValue": {
-      "Base": 69.0
-    }
-  },
-  "Unrequited Love": {
-    "name": "Unrequited Love",
-    "icon": "https://web.poecdn.com/image/divination-card/UnrequitedLove.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5360.56
-    },
-    "exaltedValue": {
-      "Base": 426.46
-    },
-    "divineValue": {
-      "Base": 35.51
+      "Base": 68.0
     }
   },
   "The Price of Devotion": {
@@ -46,13 +32,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfDevotion.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 5205.72
+      "Base": 5369.6
     },
     "exaltedValue": {
-      "Base": 414.14
+      "Base": 405.87
     },
     "divineValue": {
-      "Base": 34.48
+      "Base": 35.46
+    }
+  },
+  "Unrequited Love": {
+    "name": "Unrequited Love",
+    "icon": "https://web.poecdn.com/image/divination-card/UnrequitedLove.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 5199.2
+    },
+    "exaltedValue": {
+      "Base": 392.99
+    },
+    "divineValue": {
+      "Base": 34.34
     }
   },
   "The Doctor": {
@@ -60,13 +60,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheDoctor.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 3456.3
+      "Base": 3452.15
     },
     "exaltedValue": {
-      "Base": 274.96
+      "Base": 260.93
     },
     "divineValue": {
-      "Base": 22.89
+      "Base": 22.8
     }
   },
   "The Demon": {
@@ -74,10 +74,10 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheDemon.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 3019.4
+      "Base": 3028.2
     },
     "exaltedValue": {
-      "Base": 240.21
+      "Base": 228.89
     },
     "divineValue": {
       "Base": 20.0
@@ -88,13 +88,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheFiend.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 2151.31
+      "Base": 2119.74
     },
     "exaltedValue": {
-      "Base": 171.15
+      "Base": 160.22
     },
     "divineValue": {
-      "Base": 14.25
+      "Base": 14.0
     }
   },
   "The Immortal": {
@@ -102,13 +102,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheImmortal.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1108.17
+      "Base": 1135.58
     },
     "exaltedValue": {
-      "Base": 88.16
+      "Base": 85.83
     },
     "divineValue": {
-      "Base": 7.34
+      "Base": 7.5
     }
   },
   "Love Through Ice": {
@@ -116,13 +116,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/LoveThroughIce.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 951.11
+      "Base": 918.94
     },
     "exaltedValue": {
-      "Base": 75.67
+      "Base": 69.46
     },
     "divineValue": {
-      "Base": 6.3
+      "Base": 6.07
     }
   },
   "The Shieldbearer": {
@@ -130,13 +130,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheShieldbearer.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 754.85
+      "Base": 778.96
     },
     "exaltedValue": {
-      "Base": 60.05
+      "Base": 58.88
     },
     "divineValue": {
-      "Base": 5.0
+      "Base": 5.14
+    }
+  },
+  "Choking Guilt": {
+    "name": "Choking Guilt",
+    "icon": "https://web.poecdn.com/image/divination-card/ChokingGuilt.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 430.72
+    },
+    "exaltedValue": {
+      "Base": 32.56
+    },
+    "divineValue": {
+      "Base": 2.84
     }
   },
   "The Nurse": {
@@ -144,10 +158,10 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheNurse.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 377.42
+      "Base": 378.52
     },
     "exaltedValue": {
-      "Base": 30.03
+      "Base": 28.61
     },
     "divineValue": {
       "Base": 2.5
@@ -158,27 +172,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/SevenYearsBadLuck.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 301.94
+      "Base": 314.17
     },
     "exaltedValue": {
-      "Base": 24.02
+      "Base": 23.75
     },
     "divineValue": {
-      "Base": 2.0
-    }
-  },
-  "Choking Guilt": {
-    "name": "Choking Guilt",
-    "icon": "https://web.poecdn.com/image/divination-card/ChokingGuilt.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 301.94
-    },
-    "exaltedValue": {
-      "Base": 24.02
-    },
-    "divineValue": {
-      "Base": 2.0
+      "Base": 2.07
     }
   },
   "The Cheater": {
@@ -186,10 +186,10 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheCheater.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 241.55
+      "Base": 242.26
     },
     "exaltedValue": {
-      "Base": 19.22
+      "Base": 18.31
     },
     "divineValue": {
       "Base": 1.6
@@ -200,13 +200,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/WealthAndPower.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 150.97
+      "Base": 166.26
     },
     "exaltedValue": {
-      "Base": 12.01
+      "Base": 12.57
     },
     "divineValue": {
-      "Base": 1.0
+      "Base": 1.1
     }
   },
   "Succor of the Sinless": {
@@ -214,13 +214,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/SuccorOfTheSinless.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 145.0
+      "Base": 150.0
     },
     "exaltedValue": {
-      "Base": 11.54
+      "Base": 11.34
     },
     "divineValue": {
-      "Base": 0.96
+      "Base": 0.99
     }
   },
   "The Sephirot": {
@@ -228,13 +228,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheSephirot.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 125.0
+      "Base": 134.62
     },
     "exaltedValue": {
-      "Base": 9.94
+      "Base": 10.18
     },
     "divineValue": {
-      "Base": 0.83
+      "Base": 0.89
     }
   },
   "Desecrated Virtue": {
@@ -242,13 +242,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/DesecratedVirtue.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 120.0
+      "Base": 115.66
     },
     "exaltedValue": {
-      "Base": 9.55
+      "Base": 8.74
     },
     "divineValue": {
-      "Base": 0.79
+      "Base": 0.76
     }
   },
   "Doryani's Epiphany": {
@@ -256,13 +256,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/DoryanisEpiphany.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 100.0
+      "Base": 95.0
     },
     "exaltedValue": {
-      "Base": 7.96
+      "Base": 7.18
     },
     "divineValue": {
-      "Base": 0.66
+      "Base": 0.63
     }
   },
   "The Price of Loyalty": {
@@ -270,13 +270,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfLoyalty.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 99.0
+      "Base": 90.0
     },
     "exaltedValue": {
-      "Base": 7.88
+      "Base": 6.8
     },
     "divineValue": {
-      "Base": 0.66
+      "Base": 0.59
+    }
+  },
+  "Luminous Trove": {
+    "name": "Luminous Trove",
+    "icon": "https://web.poecdn.com/image/divination-card/LuminousTrove.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 72.96
+    },
+    "exaltedValue": {
+      "Base": 5.51
+    },
+    "divineValue": {
+      "Base": 0.48
     }
   },
   "The Samurai's Eye": {
@@ -284,13 +298,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheSamuraisEye.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 67.0
+      "Base": 65.0
     },
     "exaltedValue": {
-      "Base": 5.33
+      "Base": 4.91
     },
     "divineValue": {
-      "Base": 0.44
+      "Base": 0.43
     }
   },
   "Brother's Stash": {
@@ -301,7 +315,7 @@
       "Base": 65.0
     },
     "exaltedValue": {
-      "Base": 5.17
+      "Base": 4.91
     },
     "divineValue": {
       "Base": 0.43
@@ -312,41 +326,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheDragonsHeart.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 53.93
+      "Base": 55.0
     },
     "exaltedValue": {
-      "Base": 4.29
+      "Base": 4.16
     },
     "divineValue": {
       "Base": 0.36
-    }
-  },
-  "Deadly Joy": {
-    "name": "Deadly Joy",
-    "icon": "https://web.poecdn.com/image/divination-card/DeadlyJoy.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 50.0
-    },
-    "exaltedValue": {
-      "Base": 3.98
-    },
-    "divineValue": {
-      "Base": 0.33
-    }
-  },
-  "A Fate Worse Than Death": {
-    "name": "A Fate Worse Than Death",
-    "icon": "https://web.poecdn.com/image/divination-card/AFateWorseThanDeath.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 50.0
-    },
-    "exaltedValue": {
-      "Base": 3.98
-    },
-    "divineValue": {
-      "Base": 0.33
     }
   },
   "Darker Half": {
@@ -357,24 +343,38 @@
       "Base": 50.0
     },
     "exaltedValue": {
-      "Base": 3.98
+      "Base": 3.78
     },
     "divineValue": {
       "Base": 0.33
     }
   },
-  "Luminous Trove": {
-    "name": "Luminous Trove",
-    "icon": "https://web.poecdn.com/image/divination-card/LuminousTrove.png",
+  "Deadly Joy": {
+    "name": "Deadly Joy",
+    "icon": "https://web.poecdn.com/image/divination-card/DeadlyJoy.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 46.5
+      "Base": 46.27
     },
     "exaltedValue": {
-      "Base": 3.7
+      "Base": 3.5
     },
     "divineValue": {
       "Base": 0.31
+    }
+  },
+  "A Fate Worse Than Death": {
+    "name": "A Fate Worse Than Death",
+    "icon": "https://web.poecdn.com/image/divination-card/AFateWorseThanDeath.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 44.32
+    },
+    "exaltedValue": {
+      "Base": 3.35
+    },
+    "divineValue": {
+      "Base": 0.29
     }
   },
   "The Enlightened": {
@@ -382,13 +382,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheEnlightened.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 40.0
+      "Base": 43.0
     },
     "exaltedValue": {
-      "Base": 3.18
+      "Base": 3.25
     },
     "divineValue": {
-      "Base": 0.26
+      "Base": 0.28
     }
   },
   "Eternal Bonds": {
@@ -399,38 +399,24 @@
       "Base": 40.0
     },
     "exaltedValue": {
-      "Base": 3.18
+      "Base": 3.02
     },
     "divineValue": {
       "Base": 0.26
     }
   },
-  "The Strategist": {
-    "name": "The Strategist",
-    "icon": "https://web.poecdn.com/image/divination-card/TheStrategist.png",
+  "The Patient": {
+    "name": "The Patient",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePatient.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 33.0
+      "Base": 39.6
     },
     "exaltedValue": {
-      "Base": 2.63
+      "Base": 2.99
     },
     "divineValue": {
-      "Base": 0.22
-    }
-  },
-  "The Artist": {
-    "name": "The Artist",
-    "icon": "https://web.poecdn.com/image/divination-card/TheArtist.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 31.0
-    },
-    "exaltedValue": {
-      "Base": 2.47
-    },
-    "divineValue": {
-      "Base": 0.21
+      "Base": 0.26
     }
   },
   "Broken Promises": {
@@ -438,27 +424,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/BrokenPromises.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 30.0
+      "Base": 34.86
     },
     "exaltedValue": {
-      "Base": 2.39
+      "Base": 2.64
     },
     "divineValue": {
-      "Base": 0.2
-    }
-  },
-  "Magnum Opus": {
-    "name": "Magnum Opus",
-    "icon": "https://web.poecdn.com/image/divination-card/MagnumOpus.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 29.0
-    },
-    "exaltedValue": {
-      "Base": 2.31
-    },
-    "divineValue": {
-      "Base": 0.19
+      "Base": 0.23
     }
   },
   "Imperfect Memories": {
@@ -466,10 +438,38 @@
     "icon": "https://web.poecdn.com/image/divination-card/ImperfectMemories.png",
     "rarity": 6,
     "chaosValue": {
+      "Base": 34.0
+    },
+    "exaltedValue": {
+      "Base": 2.57
+    },
+    "divineValue": {
+      "Base": 0.22
+    }
+  },
+  "The Strategist": {
+    "name": "The Strategist",
+    "icon": "https://web.poecdn.com/image/divination-card/TheStrategist.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 30.0
+    },
+    "exaltedValue": {
+      "Base": 2.27
+    },
+    "divineValue": {
+      "Base": 0.2
+    }
+  },
+  "The Artist": {
+    "name": "The Artist",
+    "icon": "https://web.poecdn.com/image/divination-card/TheArtist.png",
+    "rarity": 6,
+    "chaosValue": {
       "Base": 25.0
     },
     "exaltedValue": {
-      "Base": 1.99
+      "Base": 1.89
     },
     "divineValue": {
       "Base": 0.17
@@ -480,27 +480,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheGulf.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 22.48
+      "Base": 25.0
     },
     "exaltedValue": {
-      "Base": 1.79
+      "Base": 1.89
     },
     "divineValue": {
-      "Base": 0.15
+      "Base": 0.17
     }
   },
-  "The Patient": {
-    "name": "The Patient",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePatient.png",
+  "Magnum Opus": {
+    "name": "Magnum Opus",
+    "icon": "https://web.poecdn.com/image/divination-card/MagnumOpus.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 20.67
+      "Base": 25.0
     },
     "exaltedValue": {
-      "Base": 1.64
+      "Base": 1.89
     },
     "divineValue": {
-      "Base": 0.14
+      "Base": 0.17
     }
   },
   "The Sacrifice": {
@@ -511,7 +511,21 @@
       "Base": 20.0
     },
     "exaltedValue": {
-      "Base": 1.59
+      "Base": 1.51
+    },
+    "divineValue": {
+      "Base": 0.13
+    }
+  },
+  "Monochrome": {
+    "name": "Monochrome",
+    "icon": "https://web.poecdn.com/image/divination-card/Monochrome.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 20.0
+    },
+    "exaltedValue": {
+      "Base": 1.51
     },
     "divineValue": {
       "Base": 0.13
@@ -525,21 +539,7 @@
       "Base": 20.0
     },
     "exaltedValue": {
-      "Base": 1.59
-    },
-    "divineValue": {
-      "Base": 0.13
-    }
-  },
-  "Home": {
-    "name": "Home",
-    "icon": "https://web.poecdn.com/image/divination-card/Home.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 20.0
-    },
-    "exaltedValue": {
-      "Base": 1.59
+      "Base": 1.51
     },
     "divineValue": {
       "Base": 0.13
@@ -553,7 +553,21 @@
       "Base": 20.0
     },
     "exaltedValue": {
-      "Base": 1.59
+      "Base": 1.51
+    },
+    "divineValue": {
+      "Base": 0.13
+    }
+  },
+  "Home": {
+    "name": "Home",
+    "icon": "https://web.poecdn.com/image/divination-card/Home.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 19.1
+    },
+    "exaltedValue": {
+      "Base": 1.44
     },
     "divineValue": {
       "Base": 0.13
@@ -564,27 +578,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/GemcuttersMercy.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 19.52
+      "Base": 18.44
     },
     "exaltedValue": {
-      "Base": 1.55
+      "Base": 1.39
     },
     "divineValue": {
-      "Base": 0.13
-    }
-  },
-  "Monochrome": {
-    "name": "Monochrome",
-    "icon": "https://web.poecdn.com/image/divination-card/Monochrome.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 19.32
-    },
-    "exaltedValue": {
-      "Base": 1.54
-    },
-    "divineValue": {
-      "Base": 0.13
+      "Base": 0.12
     }
   },
   "The Academic": {
@@ -592,13 +592,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheAcademic.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 17.0
+      "Base": 17.78
     },
     "exaltedValue": {
-      "Base": 1.35
+      "Base": 1.34
     },
     "divineValue": {
-      "Base": 0.11
+      "Base": 0.12
     }
   },
   "The Astromancer": {
@@ -609,7 +609,21 @@
       "Base": 15.0
     },
     "exaltedValue": {
-      "Base": 1.19
+      "Base": 1.13
+    },
+    "divineValue": {
+      "Base": 0.1
+    }
+  },
+  "Winter's Embrace": {
+    "name": "Winter's Embrace",
+    "icon": "https://web.poecdn.com/image/divination-card/WintersEmbrace.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 15.0
+    },
+    "exaltedValue": {
+      "Base": 1.13
     },
     "divineValue": {
       "Base": 0.1
@@ -620,24 +634,10 @@
     "icon": "https://web.poecdn.com/image/divination-card/Dream.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 13.92
+      "Base": 12.92
     },
     "exaltedValue": {
-      "Base": 1.11
-    },
-    "divineValue": {
-      "Base": 0.09
-    }
-  },
-  "Winter's Embrace": {
-    "name": "Winter's Embrace",
-    "icon": "https://web.poecdn.com/image/divination-card/WintersEmbrace.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 13.88
-    },
-    "exaltedValue": {
-      "Base": 1.1
+      "Base": 0.98
     },
     "divineValue": {
       "Base": 0.09
@@ -648,7 +648,7 @@
     "icon": "https://web.poecdn.com/image/divination-card/AlteredPerception.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 12.0
+      "Base": 12.63
     },
     "exaltedValue": {
       "Base": 0.95
@@ -662,41 +662,13 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheDamned.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 11.89
+      "Base": 12.0
     },
     "exaltedValue": {
-      "Base": 0.95
+      "Base": 0.91
     },
     "divineValue": {
       "Base": 0.08
-    }
-  },
-  "The Vast": {
-    "name": "The Vast",
-    "icon": "https://web.poecdn.com/image/divination-card/TheVast.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 11.36
-    },
-    "exaltedValue": {
-      "Base": 0.9
-    },
-    "divineValue": {
-      "Base": 0.08
-    }
-  },
-  "Gift of Asenath": {
-    "name": "Gift of Asenath",
-    "icon": "https://web.poecdn.com/image/divination-card/GiftOfAsenath.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 11.27
-    },
-    "exaltedValue": {
-      "Base": 0.9
-    },
-    "divineValue": {
-      "Base": 0.07
     }
   },
   "Beauty Through Death": {
@@ -704,10 +676,24 @@
     "icon": "https://web.poecdn.com/image/divination-card/BeautyThroughDeath.png",
     "rarity": 6,
     "chaosValue": {
+      "Base": 11.28
+    },
+    "exaltedValue": {
+      "Base": 0.85
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "The Vast": {
+    "name": "The Vast",
+    "icon": "https://web.poecdn.com/image/divination-card/TheVast.png",
+    "rarity": 6,
+    "chaosValue": {
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
@@ -721,7 +707,7 @@
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
@@ -735,7 +721,7 @@
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
@@ -749,35 +735,21 @@
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
     }
   },
-  "A Modest Request": {
-    "name": "A Modest Request",
-    "icon": "https://web.poecdn.com/image/divination-card/AModestRequest.png",
+  "Gift of Asenath": {
+    "name": "Gift of Asenath",
+    "icon": "https://web.poecdn.com/image/divination-card/GiftOfAsenath.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
-    },
-    "divineValue": {
-      "Base": 0.07
-    }
-  },
-  "The Mind's Eyes": {
-    "name": "The Mind's Eyes",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMindsEyes.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 10.0
-    },
-    "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
@@ -791,35 +763,49 @@
       "Base": 10.0
     },
     "exaltedValue": {
-      "Base": 0.8
+      "Base": 0.76
     },
     "divineValue": {
       "Base": 0.07
     }
   },
-  "Dying Light": {
-    "name": "Dying Light",
-    "icon": "https://web.poecdn.com/image/divination-card/DyingLight.png",
+  "A Modest Request": {
+    "name": "A Modest Request",
+    "icon": "https://web.poecdn.com/image/divination-card/AModestRequest.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 9.64
+      "Base": 9.72
     },
     "exaltedValue": {
-      "Base": 0.77
+      "Base": 0.74
     },
     "divineValue": {
       "Base": 0.06
     }
   },
-  "A Familiar Call": {
-    "name": "A Familiar Call",
-    "icon": "https://web.poecdn.com/image/divination-card/AFamiliarCall.png",
+  "The Mind's Eyes": {
+    "name": "The Mind's Eyes",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMindsEyes.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 9.0
     },
     "exaltedValue": {
-      "Base": 0.72
+      "Base": 0.68
+    },
+    "divineValue": {
+      "Base": 0.06
+    }
+  },
+  "The Leviathan": {
+    "name": "The Leviathan",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLeviathan.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 8.55
+    },
+    "exaltedValue": {
+      "Base": 0.65
     },
     "divineValue": {
       "Base": 0.06
@@ -830,13 +816,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheEternalWar.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 9.0
+      "Base": 8.33
     },
     "exaltedValue": {
-      "Base": 0.72
+      "Base": 0.63
     },
     "divineValue": {
       "Base": 0.06
+    }
+  },
+  "Fateful Meeting": {
+    "name": "Fateful Meeting",
+    "icon": "https://web.poecdn.com/image/divination-card/FatefulMeeting.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 8.31
+    },
+    "exaltedValue": {
+      "Base": 0.63
+    },
+    "divineValue": {
+      "Base": 0.05
     }
   },
   "Pride of the First Ones": {
@@ -847,7 +847,7 @@
       "Base": 8.0
     },
     "exaltedValue": {
-      "Base": 0.64
+      "Base": 0.6
     },
     "divineValue": {
       "Base": 0.05
@@ -861,91 +861,7 @@
       "Base": 8.0
     },
     "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "Fateful Meeting": {
-    "name": "Fateful Meeting",
-    "icon": "https://web.poecdn.com/image/divination-card/FatefulMeeting.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 8.0
-    },
-    "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "The Rabbit's Foot": {
-    "name": "The Rabbit's Foot",
-    "icon": "https://web.poecdn.com/image/divination-card/TheRabbitsFoot.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 8.0
-    },
-    "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "Justified Ambition": {
-    "name": "Justified Ambition",
-    "icon": "https://web.poecdn.com/image/divination-card/JustifiedAmbition.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 8.0
-    },
-    "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "The Leviathan": {
-    "name": "The Leviathan",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLeviathan.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 8.0
-    },
-    "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "The Escape": {
-    "name": "The Escape",
-    "icon": "https://web.poecdn.com/image/divination-card/TheEscape.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 7.71
-    },
-    "exaltedValue": {
-      "Base": 0.61
-    },
-    "divineValue": {
-      "Base": 0.05
-    }
-  },
-  "The Progeny of Lunaris": {
-    "name": "The Progeny of Lunaris",
-    "icon": "https://web.poecdn.com/image/divination-card/TheProgenyofLunaris.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 7.0
-    },
-    "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.6
     },
     "divineValue": {
       "Base": 0.05
@@ -956,24 +872,24 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheScout.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 7.0
+      "Base": 8.0
     },
     "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.6
     },
     "divineValue": {
       "Base": 0.05
     }
   },
-  "Judging Voices": {
-    "name": "Judging Voices",
-    "icon": "https://web.poecdn.com/image/divination-card/JudgingVoices.png",
+  "The Escape": {
+    "name": "The Escape",
+    "icon": "https://web.poecdn.com/image/divination-card/TheEscape.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 7.0
+      "Base": 7.94
     },
     "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.6
     },
     "divineValue": {
       "Base": 0.05
@@ -984,10 +900,38 @@
     "icon": "https://web.poecdn.com/image/divination-card/SomethingDark.png",
     "rarity": 6,
     "chaosValue": {
+      "Base": 7.5
+    },
+    "exaltedValue": {
+      "Base": 0.57
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "A Familiar Call": {
+    "name": "A Familiar Call",
+    "icon": "https://web.poecdn.com/image/divination-card/AFamiliarCall.png",
+    "rarity": 6,
+    "chaosValue": {
       "Base": 7.0
     },
     "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.53
+    },
+    "divineValue": {
+      "Base": 0.05
+    }
+  },
+  "The Rabbit's Foot": {
+    "name": "The Rabbit's Foot",
+    "icon": "https://web.poecdn.com/image/divination-card/TheRabbitsFoot.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 7.0
+    },
+    "exaltedValue": {
+      "Base": 0.53
     },
     "divineValue": {
       "Base": 0.05
@@ -1001,18 +945,46 @@
       "Base": 7.0
     },
     "exaltedValue": {
-      "Base": 0.56
+      "Base": 0.53
     },
     "divineValue": {
       "Base": 0.05
     }
   },
-  "The Polymath": {
-    "name": "The Polymath",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePolymath.png",
+  "Dying Light": {
+    "name": "Dying Light",
+    "icon": "https://web.poecdn.com/image/divination-card/DyingLight.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 6.0
+      "Base": 6.5
+    },
+    "exaltedValue": {
+      "Base": 0.49
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "Judging Voices": {
+    "name": "Judging Voices",
+    "icon": "https://web.poecdn.com/image/divination-card/JudgingVoices.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 6.48
+    },
+    "exaltedValue": {
+      "Base": 0.49
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "The Progeny of Lunaris": {
+    "name": "The Progeny of Lunaris",
+    "icon": "https://web.poecdn.com/image/divination-card/TheProgenyofLunaris.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 6.34
     },
     "exaltedValue": {
       "Base": 0.48
@@ -1021,12 +993,12 @@
       "Base": 0.04
     }
   },
-  "Nook's Crown": {
-    "name": "Nook's Crown",
-    "icon": "https://web.poecdn.com/image/divination-card/NooksCrown.png",
+  "The Undisputed": {
+    "name": "The Undisputed",
+    "icon": "https://web.poecdn.com/image/divination-card/TheUndisputed.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 6.0
+      "Base": 6.33
     },
     "exaltedValue": {
       "Base": 0.48
@@ -1043,21 +1015,7 @@
       "Base": 6.0
     },
     "exaltedValue": {
-      "Base": 0.48
-    },
-    "divineValue": {
-      "Base": 0.04
-    }
-  },
-  "The White Knight": {
-    "name": "The White Knight",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWhiteKnight.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.57
-    },
-    "exaltedValue": {
-      "Base": 0.44
+      "Base": 0.45
     },
     "divineValue": {
       "Base": 0.04
@@ -1068,27 +1026,27 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheLongCon.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 5.23
+      "Base": 6.0
     },
     "exaltedValue": {
-      "Base": 0.42
+      "Base": 0.45
     },
     "divineValue": {
-      "Base": 0.03
+      "Base": 0.04
     }
   },
-  "The Fishmonger": {
-    "name": "The Fishmonger",
-    "icon": "https://web.poecdn.com/image/divination-card/TheFishmonger.png",
+  "Justified Ambition": {
+    "name": "Justified Ambition",
+    "icon": "https://web.poecdn.com/image/divination-card/JustifiedAmbition.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 5.08
+      "Base": 5.92
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.45
     },
     "divineValue": {
-      "Base": 0.03
+      "Base": 0.04
     }
   },
   "The Chosen": {
@@ -1096,10 +1054,24 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheChosen.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 5.07
+      "Base": 5.81
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.44
+    },
+    "divineValue": {
+      "Base": 0.04
+    }
+  },
+  "The Forgotten Treasure": {
+    "name": "The Forgotten Treasure",
+    "icon": "https://web.poecdn.com/image/divination-card/TheForgottenTreasure.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 5.22
+    },
+    "exaltedValue": {
+      "Base": 0.39
     },
     "divineValue": {
       "Base": 0.03
@@ -1113,21 +1085,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Chaotic Disposition": {
-    "name": "Chaotic Disposition",
-    "icon": "https://web.poecdn.com/image/divination-card/ChaoticDisposition.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1141,49 +1099,35 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Thaumaturgist": {
-    "name": "The Thaumaturgist",
-    "icon": "https://web.poecdn.com/image/divination-card/TheThaumaturgist.png",
+  "The Polymath": {
+    "name": "The Polymath",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePolymath.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Throne": {
-    "name": "The Throne",
-    "icon": "https://web.poecdn.com/image/divination-card/TheThrone.png",
+  "Nook's Crown": {
+    "name": "Nook's Crown",
+    "icon": "https://web.poecdn.com/image/divination-card/NooksCrown.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Rebirth": {
-    "name": "Rebirth",
-    "icon": "https://web.poecdn.com/image/divination-card/BirthOfTheThree.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1197,7 +1141,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1211,7 +1155,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1225,7 +1169,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1239,7 +1183,49 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Etched in Blood": {
+    "name": "Etched in Blood",
+    "icon": "https://web.poecdn.com/image/divination-card/EtchedInBlood.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.38
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "The Fishmonger": {
+    "name": "The Fishmonger",
+    "icon": "https://web.poecdn.com/image/divination-card/TheFishmonger.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.38
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "The White Knight": {
+    "name": "The White Knight",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWhiteKnight.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 5.0
+    },
+    "exaltedValue": {
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1253,7 +1239,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1267,7 +1253,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1281,21 +1267,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Brotherhood in Exile": {
-    "name": "Brotherhood in Exile",
-    "icon": "https://web.poecdn.com/image/divination-card/BrotherhoodInExile.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1309,7 +1281,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1323,49 +1295,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Dementophobia": {
-    "name": "Dementophobia",
-    "icon": "https://web.poecdn.com/image/divination-card/Dementophobia.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Ambitious Obsession": {
-    "name": "Ambitious Obsession",
-    "icon": "https://web.poecdn.com/image/divination-card/AmbitiousObsession.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "The Price of Prescience": {
-    "name": "The Price of Prescience",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfPrescience.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 5.0
-    },
-    "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1379,21 +1309,21 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Forgotten Treasure": {
-    "name": "The Forgotten Treasure",
-    "icon": "https://web.poecdn.com/image/divination-card/TheForgottenTreasure.png",
+  "Desperate Crusade": {
+    "name": "Desperate Crusade",
+    "icon": "https://web.poecdn.com/image/divination-card/DesperateCrusade.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1407,7 +1337,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1421,7 +1351,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1435,7 +1365,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1449,7 +1379,7 @@
       "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
@@ -1460,49 +1390,35 @@
     "icon": "https://web.poecdn.com/image/divination-card/LetheanTemptation.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 4.99
+      "Base": 5.0
     },
     "exaltedValue": {
-      "Base": 0.4
+      "Base": 0.38
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Professor": {
-    "name": "The Professor",
-    "icon": "https://web.poecdn.com/image/divination-card/TheProfessor.png",
+  "The Hive of Knowledge": {
+    "name": "The Hive of Knowledge",
+    "icon": "https://web.poecdn.com/image/divination-card/TheHiveOfKnowledge.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 4.58
+      "Base": 4.95
     },
     "exaltedValue": {
-      "Base": 0.36
+      "Base": 0.37
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Forward Gaze": {
-    "name": "The Forward Gaze",
-    "icon": "https://web.poecdn.com/image/divination-card/TheForwardGaze.png",
+  "Ambitious Obsession": {
+    "name": "Ambitious Obsession",
+    "icon": "https://web.poecdn.com/image/divination-card/AmbitiousObsession.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 4.56
-    },
-    "exaltedValue": {
-      "Base": 0.36
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Etched in Blood": {
-    "name": "Etched in Blood",
-    "icon": "https://web.poecdn.com/image/divination-card/EtchedInBlood.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 4.37
+      "Base": 4.57
     },
     "exaltedValue": {
       "Base": 0.35
@@ -1511,12 +1427,12 @@
       "Base": 0.03
     }
   },
-  "The Undisputed": {
-    "name": "The Undisputed",
-    "icon": "https://web.poecdn.com/image/divination-card/TheUndisputed.png",
+  "The Price of Prescience": {
+    "name": "The Price of Prescience",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfPrescience.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 4.33
+      "Base": 4.52
     },
     "exaltedValue": {
       "Base": 0.34
@@ -1525,15 +1441,71 @@
       "Base": 0.03
     }
   },
-  "The Brittle Emperor": {
-    "name": "The Brittle Emperor",
-    "icon": "https://web.poecdn.com/image/divination-card/TheBrittleEmperor.png",
+  "The Thaumaturgist": {
+    "name": "The Thaumaturgist",
+    "icon": "https://web.poecdn.com/image/divination-card/TheThaumaturgist.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 4.18
+      "Base": 4.26
     },
     "exaltedValue": {
-      "Base": 0.33
+      "Base": 0.32
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Chaotic Disposition": {
+    "name": "Chaotic Disposition",
+    "icon": "https://web.poecdn.com/image/divination-card/ChaoticDisposition.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.3
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Death": {
+    "name": "Death",
+    "icon": "https://web.poecdn.com/image/divination-card/Death.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.3
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "The Throne": {
+    "name": "The Throne",
+    "icon": "https://web.poecdn.com/image/divination-card/TheThrone.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.3
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "Rebirth": {
+    "name": "Rebirth",
+    "icon": "https://web.poecdn.com/image/divination-card/BirthOfTheThree.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1547,7 +1519,7 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1561,7 +1533,7 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1575,7 +1547,7 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1589,49 +1561,35 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Eldritch Decay": {
-    "name": "The Eldritch Decay",
-    "icon": "https://web.poecdn.com/image/divination-card/TheEldritchDecay.png",
+  "Brotherhood in Exile": {
+    "name": "Brotherhood in Exile",
+    "icon": "https://web.poecdn.com/image/divination-card/BrotherhoodInExile.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "The Emptiness": {
-    "name": "The Emptiness",
-    "icon": "https://web.poecdn.com/image/divination-card/TheEmptiness.png",
+  "Costly Curio": {
+    "name": "Costly Curio",
+    "icon": "https://web.poecdn.com/image/divination-card/CostlyCurio.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
-    },
-    "divineValue": {
-      "Base": 0.03
-    }
-  },
-  "Desperate Crusade": {
-    "name": "Desperate Crusade",
-    "icon": "https://web.poecdn.com/image/divination-card/DesperateCrusade.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 4.0
-    },
-    "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1645,7 +1603,21 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
+    },
+    "divineValue": {
+      "Base": 0.03
+    }
+  },
+  "The Forward Gaze": {
+    "name": "The Forward Gaze",
+    "icon": "https://web.poecdn.com/image/divination-card/TheForwardGaze.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 4.0
+    },
+    "exaltedValue": {
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1659,7 +1631,7 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1673,7 +1645,7 @@
       "Base": 4.0
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
@@ -1684,66 +1656,38 @@
     "icon": "https://web.poecdn.com/image/divination-card/KeepersCorruption.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 3.99
+      "Base": 3.94
     },
     "exaltedValue": {
-      "Base": 0.32
+      "Base": 0.3
     },
     "divineValue": {
       "Base": 0.03
     }
   },
-  "Council of Cats": {
-    "name": "Council of Cats",
-    "icon": "https://web.poecdn.com/image/divination-card/CounciloOfCats.png",
+  "Dementophobia": {
+    "name": "Dementophobia",
+    "icon": "https://web.poecdn.com/image/divination-card/Dementophobia.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 3.77
+      "Base": 3.82
     },
     "exaltedValue": {
-      "Base": 0.3
+      "Base": 0.29
     },
     "divineValue": {
-      "Base": 0.02
+      "Base": 0.03
     }
   },
-  "The Hive of Knowledge": {
-    "name": "The Hive of Knowledge",
-    "icon": "https://web.poecdn.com/image/divination-card/TheHiveOfKnowledge.png",
+  "The Emptiness": {
+    "name": "The Emptiness",
+    "icon": "https://web.poecdn.com/image/divination-card/TheEmptiness.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 3.77
+      "Base": 3.66
     },
     "exaltedValue": {
-      "Base": 0.3
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The King's Heart": {
-    "name": "The King's Heart",
-    "icon": "https://web.poecdn.com/image/divination-card/TheKingsHeart.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 3.37
-    },
-    "exaltedValue": {
-      "Base": 0.27
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Costly Curio": {
-    "name": "Costly Curio",
-    "icon": "https://web.poecdn.com/image/divination-card/CostlyCurio.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 3.35
-    },
-    "exaltedValue": {
-      "Base": 0.27
+      "Base": 0.28
     },
     "divineValue": {
       "Base": 0.02
@@ -1757,63 +1701,77 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "Bowyer's Dream": {
-    "name": "Bowyer's Dream",
-    "icon": "https://web.poecdn.com/image/divination-card/BowyersDream.png",
+  "The Avenger": {
+    "name": "The Avenger",
+    "icon": "https://web.poecdn.com/image/divination-card/TheAvenger.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "The Road to Power": {
-    "name": "The Road to Power",
-    "icon": "https://web.poecdn.com/image/divination-card/TheRoadToPower.png",
+  "The Brittle Emperor": {
+    "name": "The Brittle Emperor",
+    "icon": "https://web.poecdn.com/image/divination-card/TheBrittleEmperor.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "The Soul": {
-    "name": "The Soul",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSoul.png",
+  "The King's Heart": {
+    "name": "The King's Heart",
+    "icon": "https://web.poecdn.com/image/divination-card/TheKingsHeart.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "The Void": {
-    "name": "The Void",
-    "icon": "https://web.poecdn.com/image/divination-card/TheVoid.png",
+  "The Queen": {
+    "name": "The Queen",
+    "icon": "https://web.poecdn.com/image/divination-card/TheQueen.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "The Risk": {
+    "name": "The Risk",
+    "icon": "https://web.poecdn.com/image/divination-card/TheRisk.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1827,7 +1785,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1841,21 +1799,21 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "The Master": {
-    "name": "The Master",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMaster.png",
+  "The Professor": {
+    "name": "The Professor",
+    "icon": "https://web.poecdn.com/image/divination-card/TheProfessor.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1869,7 +1827,21 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Arrogance of the Vaal": {
+    "name": "Arrogance of the Vaal",
+    "icon": "https://web.poecdn.com/image/divination-card/ArroganceoftheVaal.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1883,7 +1855,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1897,7 +1869,35 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Deathly Designs": {
+    "name": "Deathly Designs",
+    "icon": "https://web.poecdn.com/image/divination-card/DeathlyDesigns.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "The Eldritch Decay": {
+    "name": "The Eldritch Decay",
+    "icon": "https://web.poecdn.com/image/divination-card/TheEldritchDecay.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1911,7 +1911,21 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Council of Cats": {
+    "name": "Council of Cats",
+    "icon": "https://web.poecdn.com/image/divination-card/CounciloOfCats.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1925,7 +1939,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1939,7 +1953,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1953,7 +1967,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1967,7 +1981,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1981,7 +1995,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -1995,7 +2009,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -2009,7 +2023,7 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -2023,189 +2037,21 @@
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
     }
   },
-  "From Bone to Ashes": {
-    "name": "From Bone to Ashes",
-    "icon": "https://web.poecdn.com/image/divination-card/FromBonesToAshes.png",
+  "The Brawny Battle Mage": {
+    "name": "The Brawny Battle Mage",
+    "icon": "https://web.poecdn.com/image/divination-card/TheBrawnyBattleMage.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 3.0
     },
     "exaltedValue": {
-      "Base": 0.24
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Innocent": {
-    "name": "The Innocent",
-    "icon": "https://web.poecdn.com/image/divination-card/TheInnocent.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.82
-    },
-    "exaltedValue": {
-      "Base": 0.22
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Lord in Black": {
-    "name": "The Lord in Black",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLordInBlack.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.78
-    },
-    "exaltedValue": {
-      "Base": 0.22
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Avenger": {
-    "name": "The Avenger",
-    "icon": "https://web.poecdn.com/image/divination-card/TheAvenger.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.77
-    },
-    "exaltedValue": {
-      "Base": 0.22
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Risk": {
-    "name": "The Risk",
-    "icon": "https://web.poecdn.com/image/divination-card/TheRisk.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.73
-    },
-    "exaltedValue": {
-      "Base": 0.22
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Deathly Designs": {
-    "name": "Deathly Designs",
-    "icon": "https://web.poecdn.com/image/divination-card/DeathlyDesigns.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.7
-    },
-    "exaltedValue": {
-      "Base": 0.21
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Prometheus' Armoury": {
-    "name": "Prometheus' Armoury",
-    "icon": "https://web.poecdn.com/image/divination-card/PrometheusArmory.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.69
-    },
-    "exaltedValue": {
-      "Base": 0.21
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Death": {
-    "name": "Death",
-    "icon": "https://web.poecdn.com/image/divination-card/Death.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.59
-    },
-    "exaltedValue": {
-      "Base": 0.21
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Archmage's Right Hand": {
-    "name": "The Archmage's Right Hand",
-    "icon": "https://web.poecdn.com/image/divination-card/TheArchmagesRightHand.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.59
-    },
-    "exaltedValue": {
-      "Base": 0.21
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Jester": {
-    "name": "The Jester",
-    "icon": "https://web.poecdn.com/image/divination-card/TheJester.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.57
-    },
-    "exaltedValue": {
-      "Base": 0.2
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Divine Justice": {
-    "name": "Divine Justice",
-    "icon": "https://web.poecdn.com/image/divination-card/DivineJustice.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.43
-    },
-    "exaltedValue": {
-      "Base": 0.19
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Cartographer": {
-    "name": "The Cartographer",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMapmaker.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.4
-    },
-    "exaltedValue": {
-      "Base": 0.19
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "The Hunger": {
-    "name": "The Hunger",
-    "icon": "https://web.poecdn.com/image/divination-card/TheHunger.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.4
-    },
-    "exaltedValue": {
-      "Base": 0.19
+      "Base": 0.23
     },
     "divineValue": {
       "Base": 0.02
@@ -2216,7 +2062,35 @@
     "icon": "https://web.poecdn.com/image/divination-card/Checkmate.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 2.4
+      "Base": 3.0
+    },
+    "exaltedValue": {
+      "Base": 0.23
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Silence and Frost": {
+    "name": "Silence and Frost",
+    "icon": "https://web.poecdn.com/image/divination-card/SilenceAndFrost.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.66
+    },
+    "exaltedValue": {
+      "Base": 0.2
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "The Dungeon Master": {
+    "name": "The Dungeon Master",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDungeonMaster.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.57
     },
     "exaltedValue": {
       "Base": 0.19
@@ -2225,40 +2099,82 @@
       "Base": 0.02
     }
   },
-  "The Unexpected Prize": {
-    "name": "The Unexpected Prize",
-    "icon": "https://web.poecdn.com/image/divination-card/TheUnexpectedPrize.png",
+  "The Void": {
+    "name": "The Void",
+    "icon": "https://web.poecdn.com/image/divination-card/TheVoid.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 2.38
-    },
-    "exaltedValue": {
-      "Base": 0.19
-    },
-    "divineValue": {
-      "Base": 0.02
-    }
-  },
-  "Misery in Darkness": {
-    "name": "Misery in Darkness",
-    "icon": "https://web.poecdn.com/image/divination-card/MiseryInDarkness.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.24
+      "Base": 2.32
     },
     "exaltedValue": {
       "Base": 0.18
     },
     "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Prometheus' Armoury": {
+    "name": "Prometheus' Armoury",
+    "icon": "https://web.poecdn.com/image/divination-card/PrometheusArmory.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.31
+    },
+    "exaltedValue": {
+      "Base": 0.17
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "Dark Dreams": {
+    "name": "Dark Dreams",
+    "icon": "https://web.poecdn.com/image/divination-card/DarkDreams.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.27
+    },
+    "exaltedValue": {
+      "Base": 0.17
+    },
+    "divineValue": {
+      "Base": 0.02
+    }
+  },
+  "The Offspring": {
+    "name": "The Offspring",
+    "icon": "https://web.poecdn.com/image/divination-card/TheOffspring.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.19
+    },
+    "exaltedValue": {
+      "Base": 0.17
+    },
+    "divineValue": {
       "Base": 0.01
     }
   },
-  "The Life Thief": {
-    "name": "The Life Thief",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLifeThief.png",
+  "Bowyer's Dream": {
+    "name": "Bowyer's Dream",
+    "icon": "https://web.poecdn.com/image/divination-card/BowyersDream.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 2.02
+      "Base": 2.16
+    },
+    "exaltedValue": {
+      "Base": 0.16
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "From Bone to Ashes": {
+    "name": "From Bone to Ashes",
+    "icon": "https://web.poecdn.com/image/divination-card/FromBonesToAshes.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.13
     },
     "exaltedValue": {
       "Base": 0.16
@@ -2275,21 +2191,21 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
     }
   },
-  "Dying Anguish": {
-    "name": "Dying Anguish",
-    "icon": "https://web.poecdn.com/image/divination-card/DyingAnguish.png",
+  "Emperor of Purity": {
+    "name": "Emperor of Purity",
+    "icon": "https://web.poecdn.com/image/divination-card/EmperorOfPurity.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2303,7 +2219,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2317,7 +2233,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2331,21 +2247,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Lost Worlds": {
-    "name": "Lost Worlds",
-    "icon": "https://web.poecdn.com/image/divination-card/LostWorlds.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2359,21 +2261,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Lysah's Respite": {
-    "name": "Lysah's Respite",
-    "icon": "https://web.poecdn.com/image/divination-card/LysahsRespite.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2387,7 +2275,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2401,7 +2289,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2415,7 +2303,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2429,7 +2317,21 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Drunken Aristocrat": {
+    "name": "The Drunken Aristocrat",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDrunkenAristocrat.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2443,21 +2345,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Feast": {
-    "name": "The Feast",
-    "icon": "https://web.poecdn.com/image/divination-card/TheFeast.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2471,7 +2359,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2485,7 +2373,21 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Hunger": {
+    "name": "The Hunger",
+    "icon": "https://web.poecdn.com/image/divination-card/TheHunger.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2499,21 +2401,49 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
     }
   },
-  "The Mercenary": {
-    "name": "The Mercenary",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMercenary.png",
+  "The Jester": {
+    "name": "The Jester",
+    "icon": "https://web.poecdn.com/image/divination-card/TheJester.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Last One Standing": {
+    "name": "The Last One Standing",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLastOneStanding.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Lord in Black": {
+    "name": "The Lord in Black",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLordInBlack.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2527,7 +2457,7 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2541,21 +2471,35 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
     }
   },
-  "The Queen": {
-    "name": "The Queen",
-    "icon": "https://web.poecdn.com/image/divination-card/TheQueen.png",
+  "The Road to Power": {
+    "name": "The Road to Power",
+    "icon": "https://web.poecdn.com/image/divination-card/TheRoadToPower.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Soul": {
+    "name": "The Soul",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSoul.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -2569,704 +2513,18 @@
       "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Valkyrie": {
-    "name": "The Valkyrie",
-    "icon": "https://web.poecdn.com/image/divination-card/TheValkyrie.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Wretched": {
-    "name": "The Wretched",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWretched.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Wolven King's Bite": {
-    "name": "The Wolven King's Bite",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWolvenKingsBite.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Saint's Treasure": {
-    "name": "The Saint's Treasure",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSaintsTreasure.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Porcupine": {
-    "name": "The Porcupine",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePorcupine.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Atziri's Arsenal": {
-    "name": "Atziri's Arsenal",
-    "icon": "https://web.poecdn.com/image/divination-card/AtzirisArmory.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "No Traces": {
-    "name": "No Traces",
-    "icon": "https://web.poecdn.com/image/divination-card/NoTraces.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Obscured": {
-    "name": "The Obscured",
-    "icon": "https://web.poecdn.com/image/divination-card/TheObscured.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Deceiver": {
-    "name": "The Deceiver",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDeceiver.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Breach": {
-    "name": "The Breach",
-    "icon": "https://web.poecdn.com/image/divination-card/TheBreach.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Perfection": {
-    "name": "Perfection",
-    "icon": "https://web.poecdn.com/image/divination-card/Perfection.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Immortal Resolve": {
-    "name": "Immortal Resolve",
-    "icon": "https://web.poecdn.com/image/divination-card/ImmortalResolve.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Darkest Dream": {
-    "name": "The Darkest Dream",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDarkestDream.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Twilight Moon": {
-    "name": "The Twilight Moon",
-    "icon": "https://web.poecdn.com/image/divination-card/TheTwilightMoon.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Wilted Rose": {
-    "name": "The Wilted Rose",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWiltedRose.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Endless Darkness": {
-    "name": "The Endless Darkness",
-    "icon": "https://web.poecdn.com/image/divination-card/TheEndlessDarkness.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Price of Protection": {
-    "name": "The Price of Protection",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePriceofProtection.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Cacophony": {
-    "name": "The Cacophony",
-    "icon": "https://web.poecdn.com/image/divination-card/TheCacophony.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "A Dab of Ink": {
-    "name": "A Dab of Ink",
-    "icon": "https://web.poecdn.com/image/divination-card/ADabOfInk.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Sambodhi's Vow": {
-    "name": "Sambodhi's Vow",
-    "icon": "https://web.poecdn.com/image/divination-card/SambodhisVow.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Arrogance of the Vaal": {
-    "name": "Arrogance of the Vaal",
-    "icon": "https://web.poecdn.com/image/divination-card/ArroganceoftheVaal.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Landing": {
-    "name": "The Landing",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLanding.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Messenger": {
-    "name": "The Messenger",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMessenger.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Golden Era": {
-    "name": "The Golden Era",
-    "icon": "https://web.poecdn.com/image/divination-card/TheGoldenEra.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Deep Ones": {
-    "name": "The Deep Ones",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDeepOnes.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Buried Treasure": {
-    "name": "Buried Treasure",
-    "icon": "https://web.poecdn.com/image/divination-card/BuriedTreasure.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Primordial": {
-    "name": "The Primordial",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePrimordial.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Dark Dreams": {
-    "name": "Dark Dreams",
-    "icon": "https://web.poecdn.com/image/divination-card/DarkDreams.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Heroic Shot": {
-    "name": "The Heroic Shot",
-    "icon": "https://web.poecdn.com/image/divination-card/TheHeroicShot.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Deal": {
-    "name": "The Deal",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDeal.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Craving": {
-    "name": "The Craving",
-    "icon": "https://web.poecdn.com/image/divination-card/TheCraving.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Triskaidekaphobia": {
-    "name": "Triskaidekaphobia",
-    "icon": "https://web.poecdn.com/image/divination-card/Triskaidekaphobia.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Unchained": {
-    "name": "Unchained",
-    "icon": "https://web.poecdn.com/image/divination-card/Unchained.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Society's Remorse": {
-    "name": "Society's Remorse",
-    "icon": "https://web.poecdn.com/image/divination-card/SocietysRemorse.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Whiteout": {
-    "name": "The Whiteout",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWhiteout.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Bear Woman": {
-    "name": "The Bear Woman",
-    "icon": "https://web.poecdn.com/image/divination-card/TheBearWoman.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Sambodhi's Wisdom": {
-    "name": "Sambodhi's Wisdom",
-    "icon": "https://web.poecdn.com/image/divination-card/SambodhisWisdom.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Offspring": {
-    "name": "The Offspring",
-    "icon": "https://web.poecdn.com/image/divination-card/TheOffspring.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Blessing of Moosh": {
-    "name": "The Blessing of Moosh",
-    "icon": "https://web.poecdn.com/image/divination-card/TheBlessingOfMoosh.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Silence and Frost": {
-    "name": "Silence and Frost",
-    "icon": "https://web.poecdn.com/image/divination-card/SilenceAndFrost.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Magma Crab": {
-    "name": "The Magma Crab",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMagmaCrab.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Brawny Battle Mage": {
-    "name": "The Brawny Battle Mage",
-    "icon": "https://web.poecdn.com/image/divination-card/TheBrawnyBattleMage.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Dungeon Master": {
-    "name": "The Dungeon Master",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDungeonMaster.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Astral Protection": {
-    "name": "Astral Protection",
-    "icon": "https://web.poecdn.com/image/divination-card/AstralProtection.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Endless Night": {
-    "name": "Endless Night",
-    "icon": "https://web.poecdn.com/image/divination-card/EndlessNight.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 2.0
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Card Sharp": {
-    "name": "The Card Sharp",
-    "icon": "https://web.poecdn.com/image/divination-card/TheCardSharp.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.97
-    },
-    "exaltedValue": {
-      "Base": 0.16
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Guardian's Challenge": {
-    "name": "Guardian's Challenge",
-    "icon": "https://web.poecdn.com/image/divination-card/GuardiansChallenge.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.94
-    },
-    "exaltedValue": {
       "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
     }
   },
-  "The One With All": {
-    "name": "The One With All",
-    "icon": "https://web.poecdn.com/image/divination-card/TheOneWithAll.png",
+  "The Traitor": {
+    "name": "The Traitor",
+    "icon": "https://web.poecdn.com/image/divination-card/TheTraitor.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.93
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Gentleman": {
-    "name": "The Gentleman",
-    "icon": "https://web.poecdn.com/image/divination-card/TheGentleman.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.88
-    },
-    "exaltedValue": {
-      "Base": 0.15
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Demigod's Wager": {
-    "name": "Demigod's Wager",
-    "icon": "https://web.poecdn.com/image/divination-card/DemigodsWagergives.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.84
+      "Base": 2.0
     },
     "exaltedValue": {
       "Base": 0.15
@@ -3280,7 +2538,49 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheTyrant.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.83
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Union": {
+    "name": "The Union",
+    "icon": "https://web.poecdn.com/image/divination-card/TheUnion.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Valkyrie": {
+    "name": "The Valkyrie",
+    "icon": "https://web.poecdn.com/image/divination-card/TheValkyrie.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Warlord": {
+    "name": "The Warlord",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWarlord.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
     },
     "exaltedValue": {
       "Base": 0.15
@@ -3294,10 +2594,528 @@
     "icon": "https://web.poecdn.com/image/divination-card/TreasureHunter.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.81
+      "Base": 2.0
     },
     "exaltedValue": {
-      "Base": 0.14
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Vinia's Token": {
+    "name": "Vinia's Token",
+    "icon": "https://web.poecdn.com/image/divination-card/ViniasToken.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Call to the First Ones": {
+    "name": "Call to the First Ones",
+    "icon": "https://web.poecdn.com/image/divination-card/CallToTheFirstOnes.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Wretched": {
+    "name": "The Wretched",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWretched.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Wolven King's Bite": {
+    "name": "The Wolven King's Bite",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWolvenKingsBite.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Saint's Treasure": {
+    "name": "The Saint's Treasure",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSaintsTreasure.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Atziri's Arsenal": {
+    "name": "Atziri's Arsenal",
+    "icon": "https://web.poecdn.com/image/divination-card/AtzirisArmory.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "No Traces": {
+    "name": "No Traces",
+    "icon": "https://web.poecdn.com/image/divination-card/NoTraces.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Obscured": {
+    "name": "The Obscured",
+    "icon": "https://web.poecdn.com/image/divination-card/TheObscured.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Deceiver": {
+    "name": "The Deceiver",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDeceiver.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Breach": {
+    "name": "The Breach",
+    "icon": "https://web.poecdn.com/image/divination-card/TheBreach.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Perfection": {
+    "name": "Perfection",
+    "icon": "https://web.poecdn.com/image/divination-card/Perfection.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Dreamland": {
+    "name": "The Dreamland",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDreamland.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Immortal Resolve": {
+    "name": "Immortal Resolve",
+    "icon": "https://web.poecdn.com/image/divination-card/ImmortalResolve.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Darkest Dream": {
+    "name": "The Darkest Dream",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDarkestDream.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Harmony of Souls": {
+    "name": "Harmony of Souls",
+    "icon": "https://web.poecdn.com/image/divination-card/HarmonyOfSouls.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Innocent": {
+    "name": "The Innocent",
+    "icon": "https://web.poecdn.com/image/divination-card/TheInnocent.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Twilight Moon": {
+    "name": "The Twilight Moon",
+    "icon": "https://web.poecdn.com/image/divination-card/TheTwilightMoon.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Wilted Rose": {
+    "name": "The Wilted Rose",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWiltedRose.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Endless Darkness": {
+    "name": "The Endless Darkness",
+    "icon": "https://web.poecdn.com/image/divination-card/TheEndlessDarkness.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Price of Protection": {
+    "name": "The Price of Protection",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePriceofProtection.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Cacophony": {
+    "name": "The Cacophony",
+    "icon": "https://web.poecdn.com/image/divination-card/TheCacophony.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "A Dab of Ink": {
+    "name": "A Dab of Ink",
+    "icon": "https://web.poecdn.com/image/divination-card/ADabOfInk.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Sambodhi's Vow": {
+    "name": "Sambodhi's Vow",
+    "icon": "https://web.poecdn.com/image/divination-card/SambodhisVow.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Landing": {
+    "name": "The Landing",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLanding.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Journey": {
+    "name": "The Journey",
+    "icon": "https://web.poecdn.com/image/divination-card/TheJourney.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Messenger": {
+    "name": "The Messenger",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMessenger.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Golden Era": {
+    "name": "The Golden Era",
+    "icon": "https://web.poecdn.com/image/divination-card/TheGoldenEra.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Life Thief": {
+    "name": "The Life Thief",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLifeThief.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Echoes of Love": {
+    "name": "Echoes of Love",
+    "icon": "https://web.poecdn.com/image/divination-card/EchoesOfLove.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Deep Ones": {
+    "name": "The Deep Ones",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDeepOnes.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Fool": {
+    "name": "The Fool",
+    "icon": "https://web.poecdn.com/image/divination-card/TheFool.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Demigod's Wager": {
+    "name": "Demigod's Wager",
+    "icon": "https://web.poecdn.com/image/divination-card/DemigodsWagergives.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Primordial": {
+    "name": "The Primordial",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePrimordial.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Archmage's Right Hand": {
+    "name": "The Archmage's Right Hand",
+    "icon": "https://web.poecdn.com/image/divination-card/TheArchmagesRightHand.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Heroic Shot": {
+    "name": "The Heroic Shot",
+    "icon": "https://web.poecdn.com/image/divination-card/TheHeroicShot.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Mountain": {
+    "name": "The Mountain",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMountain.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Deal": {
+    "name": "The Deal",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDeal.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
     },
     "divineValue": {
       "Base": 0.01
@@ -3308,7 +3126,287 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheSideQuest.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.8
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Divine Justice": {
+    "name": "Divine Justice",
+    "icon": "https://web.poecdn.com/image/divination-card/DivineJustice.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Craving": {
+    "name": "The Craving",
+    "icon": "https://web.poecdn.com/image/divination-card/TheCraving.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Unexpected Prize": {
+    "name": "The Unexpected Prize",
+    "icon": "https://web.poecdn.com/image/divination-card/TheUnexpectedPrize.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Triskaidekaphobia": {
+    "name": "Triskaidekaphobia",
+    "icon": "https://web.poecdn.com/image/divination-card/Triskaidekaphobia.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Unchained": {
+    "name": "Unchained",
+    "icon": "https://web.poecdn.com/image/divination-card/Unchained.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Society's Remorse": {
+    "name": "Society's Remorse",
+    "icon": "https://web.poecdn.com/image/divination-card/SocietysRemorse.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Whiteout": {
+    "name": "The Whiteout",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWhiteout.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Bear Woman": {
+    "name": "The Bear Woman",
+    "icon": "https://web.poecdn.com/image/divination-card/TheBearWoman.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Prejudice": {
+    "name": "Prejudice",
+    "icon": "https://web.poecdn.com/image/divination-card/Prejudice.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Sambodhi's Wisdom": {
+    "name": "Sambodhi's Wisdom",
+    "icon": "https://web.poecdn.com/image/divination-card/SambodhisWisdom.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Last Supper": {
+    "name": "The Last Supper",
+    "icon": "https://web.poecdn.com/image/divination-card/TheLastSupper.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Guardian's Challenge": {
+    "name": "Guardian's Challenge",
+    "icon": "https://web.poecdn.com/image/divination-card/GuardiansChallenge.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Magma Crab": {
+    "name": "The Magma Crab",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMagmaCrab.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Misery in Darkness": {
+    "name": "Misery in Darkness",
+    "icon": "https://web.poecdn.com/image/divination-card/MiseryInDarkness.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Astral Protection": {
+    "name": "Astral Protection",
+    "icon": "https://web.poecdn.com/image/divination-card/AstralProtection.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Endless Night": {
+    "name": "Endless Night",
+    "icon": "https://web.poecdn.com/image/divination-card/EndlessNight.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 2.0
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Standoff": {
+    "name": "The Standoff",
+    "icon": "https://web.poecdn.com/image/divination-card/TheStandOff.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.98
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Wind": {
+    "name": "The Wind",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWind.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.94
+    },
+    "exaltedValue": {
+      "Base": 0.15
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Dying Anguish": {
+    "name": "Dying Anguish",
+    "icon": "https://web.poecdn.com/image/divination-card/DyingAnguish.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.92
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Card Sharp": {
+    "name": "The Card Sharp",
+    "icon": "https://web.poecdn.com/image/divination-card/TheCardSharp.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.88
     },
     "exaltedValue": {
       "Base": 0.14
@@ -3322,192 +3420,10 @@
     "icon": "https://web.poecdn.com/image/divination-card/Disdain.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.76
+      "Base": 1.88
     },
     "exaltedValue": {
       "Base": 0.14
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Drunken Aristocrat": {
-    "name": "The Drunken Aristocrat",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDrunkenAristocrat.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.67
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Siren": {
-    "name": "The Siren",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSiren.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.67
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Harmony of Souls": {
-    "name": "Harmony of Souls",
-    "icon": "https://web.poecdn.com/image/divination-card/HarmonyOfSouls.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.61
-    },
-    "exaltedValue": {
-      "Base": 0.13
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Mountain": {
-    "name": "The Mountain",
-    "icon": "https://web.poecdn.com/image/divination-card/TheMountain.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.56
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Penitent": {
-    "name": "The Penitent",
-    "icon": "https://web.poecdn.com/image/divination-card/ThePenitent.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.55
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Vinia's Token": {
-    "name": "Vinia's Token",
-    "icon": "https://web.poecdn.com/image/divination-card/ViniasToken.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.55
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Tinkerer's Table": {
-    "name": "The Tinkerer's Table",
-    "icon": "https://web.poecdn.com/image/divination-card/TheTinkerersTable.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.49
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Insatiable": {
-    "name": "The Insatiable",
-    "icon": "https://web.poecdn.com/image/divination-card/TheInsatiable.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.47
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Spark and the Flame": {
-    "name": "The Spark and the Flame",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSparkAndTheFlame.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.45
-    },
-    "exaltedValue": {
-      "Base": 0.12
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Boon of the First Ones": {
-    "name": "Boon of the First Ones",
-    "icon": "https://web.poecdn.com/image/divination-card/BoonoftheFirstOnes.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.42
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Traitor": {
-    "name": "The Traitor",
-    "icon": "https://web.poecdn.com/image/divination-card/TheTraitor.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.41
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "A Sea of Blue": {
-    "name": "A Sea of Blue",
-    "icon": "https://web.poecdn.com/image/divination-card/ASeaOfBlue.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.41
-    },
-    "exaltedValue": {
-      "Base": 0.11
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Union": {
-    "name": "The Union",
-    "icon": "https://web.poecdn.com/image/divination-card/TheUnion.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.38
-    },
-    "exaltedValue": {
-      "Base": 0.11
     },
     "divineValue": {
       "Base": 0.01
@@ -3518,7 +3434,77 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheWolverine.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.38
+      "Base": 1.86
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Dapper Prodigy": {
+    "name": "The Dapper Prodigy",
+    "icon": "https://web.poecdn.com/image/divination-card/TheDapperProdigy.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.8
+    },
+    "exaltedValue": {
+      "Base": 0.14
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Gentleman": {
+    "name": "The Gentleman",
+    "icon": "https://web.poecdn.com/image/divination-card/TheGentleman.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.76
+    },
+    "exaltedValue": {
+      "Base": 0.13
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Survivalist": {
+    "name": "The Survivalist",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSurvivalist.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.72
+    },
+    "exaltedValue": {
+      "Base": 0.13
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Spark and the Flame": {
+    "name": "The Spark and the Flame",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSparkAndTheFlame.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.52
+    },
+    "exaltedValue": {
+      "Base": 0.12
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Wrath": {
+    "name": "The Wrath",
+    "icon": "https://web.poecdn.com/image/divination-card/TheWrath.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.44
     },
     "exaltedValue": {
       "Base": 0.11
@@ -3527,12 +3513,54 @@
       "Base": 0.01
     }
   },
-  "The Journey": {
-    "name": "The Journey",
-    "icon": "https://web.poecdn.com/image/divination-card/TheJourney.png",
+  "The Cartographer": {
+    "name": "The Cartographer",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMapmaker.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.27
+      "Base": 1.4
+    },
+    "exaltedValue": {
+      "Base": 0.11
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Siren": {
+    "name": "The Siren",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSiren.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.4
+    },
+    "exaltedValue": {
+      "Base": 0.11
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Porcupine": {
+    "name": "The Porcupine",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePorcupine.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.35
+    },
+    "exaltedValue": {
+      "Base": 0.1
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Inventor": {
+    "name": "The Inventor",
+    "icon": "https://web.poecdn.com/image/divination-card/TheInventor.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.33
     },
     "exaltedValue": {
       "Base": 0.1
@@ -3546,7 +3574,7 @@
     "icon": "https://web.poecdn.com/image/divination-card/TheDarkMage.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.25
+      "Base": 1.28
     },
     "exaltedValue": {
       "Base": 0.1
@@ -3555,37 +3583,23 @@
       "Base": 0.01
     }
   },
-  "The Skeleton": {
-    "name": "The Skeleton",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSkeleton.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.25
-    },
-    "exaltedValue": {
-      "Base": 0.1
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Admirer": {
-    "name": "The Admirer",
-    "icon": "https://web.poecdn.com/image/divination-card/TheAdmirer.png",
+  "Tranquillity": {
+    "name": "Tranquillity",
+    "icon": "https://web.poecdn.com/image/divination-card/Tranquillity.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.23
     },
     "exaltedValue": {
-      "Base": 0.1
+      "Base": 0.09
     },
     "divineValue": {
       "Base": 0.01
     }
   },
-  "Acclimatisation": {
-    "name": "Acclimatisation",
-    "icon": "https://web.poecdn.com/image/divination-card/Acclimatisation.png",
+  "The Fox in the Brambles": {
+    "name": "The Fox in the Brambles",
+    "icon": "https://web.poecdn.com/image/divination-card/TheFoxInTheBrambles.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.15
@@ -3597,26 +3611,12 @@
       "Base": 0.01
     }
   },
-  "Broken Truce": {
-    "name": "Broken Truce",
-    "icon": "https://web.poecdn.com/image/divination-card/BrokenTruce.png",
+  "The Mercenary": {
+    "name": "The Mercenary",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMercenary.png",
     "rarity": 6,
     "chaosValue": {
-      "Base": 1.07
-    },
-    "exaltedValue": {
-      "Base": 0.09
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Last One Standing": {
-    "name": "The Last One Standing",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLastOneStanding.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.05
+      "Base": 1.09
     },
     "exaltedValue": {
       "Base": 0.08
@@ -3625,26 +3625,40 @@
       "Base": 0.01
     }
   },
-  "Last Hope": {
-    "name": "Last Hope",
-    "icon": "https://web.poecdn.com/image/divination-card/LastHope.png",
+  "The Tinkerer's Table": {
+    "name": "The Tinkerer's Table",
+    "icon": "https://web.poecdn.com/image/divination-card/TheTinkerersTable.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.09
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Blessing of Moosh": {
+    "name": "The Blessing of Moosh",
+    "icon": "https://web.poecdn.com/image/divination-card/TheBlessingOfMoosh.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.08
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Skeleton": {
+    "name": "The Skeleton",
+    "icon": "https://web.poecdn.com/image/divination-card/TheSkeleton.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.04
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Wind": {
-    "name": "The Wind",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWind.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.03
     },
     "exaltedValue": {
       "Base": 0.08
@@ -3782,20 +3796,6 @@
   "Earth Drinker": {
     "name": "Earth Drinker",
     "icon": "https://web.poecdn.com/image/divination-card/EarthDrinker.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Emperor of Purity": {
-    "name": "Emperor of Purity",
-    "icon": "https://web.poecdn.com/image/divination-card/EmperorOfPurity.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -3975,6 +3975,34 @@
       "Base": 0.01
     }
   },
+  "Last Hope": {
+    "name": "Last Hope",
+    "icon": "https://web.poecdn.com/image/divination-card/LastHope.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Lost Worlds": {
+    "name": "Lost Worlds",
+    "icon": "https://web.poecdn.com/image/divination-card/LostWorlds.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
   "Loyalty": {
     "name": "Loyalty",
     "icon": "https://web.poecdn.com/image/divination-card/Loyalty.png",
@@ -3992,6 +4020,20 @@
   "Lucky Connections": {
     "name": "Lucky Connections",
     "icon": "https://web.poecdn.com/image/divination-card/LuckyConnections.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Lysah's Respite": {
+    "name": "Lysah's Respite",
+    "icon": "https://web.poecdn.com/image/divination-card/LysahsRespite.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -4241,20 +4283,6 @@
       "Base": 0.01
     }
   },
-  "The Dapper Prodigy": {
-    "name": "The Dapper Prodigy",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDapperProdigy.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "The Demoness": {
     "name": "The Demoness",
     "icon": "https://web.poecdn.com/image/divination-card/TheDemoness.png",
@@ -4328,6 +4356,20 @@
   "The Explorer": {
     "name": "The Explorer",
     "icon": "https://web.poecdn.com/image/divination-card/TheExplorer.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Feast": {
+    "name": "The Feast",
+    "icon": "https://web.poecdn.com/image/divination-card/TheFeast.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -4465,20 +4507,6 @@
       "Base": 0.01
     }
   },
-  "The Inventor": {
-    "name": "The Inventor",
-    "icon": "https://web.poecdn.com/image/divination-card/TheInventor.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "The King's Blade": {
     "name": "The King's Blade",
     "icon": "https://web.poecdn.com/image/divination-card/TheKingsBlade.png",
@@ -4577,9 +4605,37 @@
       "Base": 0.01
     }
   },
+  "The One With All": {
+    "name": "The One With All",
+    "icon": "https://web.poecdn.com/image/divination-card/TheOneWithAll.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
   "The Pack Leader": {
     "name": "The Pack Leader",
     "icon": "https://web.poecdn.com/image/divination-card/ThePackLeader.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "The Penitent": {
+    "name": "The Penitent",
+    "icon": "https://web.poecdn.com/image/divination-card/ThePenitent.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -4745,20 +4801,6 @@
       "Base": 0.01
     }
   },
-  "The Survivalist": {
-    "name": "The Survivalist",
-    "icon": "https://web.poecdn.com/image/divination-card/TheSurvivalist.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "The Tower": {
     "name": "The Tower",
     "icon": "https://web.poecdn.com/image/divination-card/TheTower.png",
@@ -4829,20 +4871,6 @@
       "Base": 0.01
     }
   },
-  "The Warlord": {
-    "name": "The Warlord",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWarlord.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "The Watcher": {
     "name": "The Watcher",
     "icon": "https://web.poecdn.com/image/divination-card/TheWatcher.png",
@@ -4899,20 +4927,6 @@
       "Base": 0.01
     }
   },
-  "The Wrath": {
-    "name": "The Wrath",
-    "icon": "https://web.poecdn.com/image/divination-card/TheWrath.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "Three Faces in the Dark": {
     "name": "Three Faces in the Dark",
     "icon": "https://web.poecdn.com/image/divination-card/ThreeFacesInTheDark.png",
@@ -4944,20 +4958,6 @@
   "Time-Lost Relic": {
     "name": "Time-Lost Relic",
     "icon": "https://web.poecdn.com/image/divination-card/TimeLostRelic.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "Tranquillity": {
-    "name": "Tranquillity",
-    "icon": "https://web.poecdn.com/image/divination-card/Tranquillity.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5011,20 +5011,6 @@
       "Base": 0.01
     }
   },
-  "Call to the First Ones": {
-    "name": "Call to the First Ones",
-    "icon": "https://web.poecdn.com/image/divination-card/CallToTheFirstOnes.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
   "Lingering Remnants": {
     "name": "Lingering Remnants",
     "icon": "https://web.poecdn.com/image/divination-card/LingeringRemnants.png",
@@ -5056,20 +5042,6 @@
   "The Garish Power": {
     "name": "The Garish Power",
     "icon": "https://web.poecdn.com/image/divination-card/GarishPower.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Standoff": {
-    "name": "The Standoff",
-    "icon": "https://web.poecdn.com/image/divination-card/TheStandOff.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5221,6 +5193,20 @@
       "Base": 0.01
     }
   },
+  "The Insatiable": {
+    "name": "The Insatiable",
+    "icon": "https://web.poecdn.com/image/divination-card/TheInsatiable.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
   "Forbidden Power": {
     "name": "Forbidden Power",
     "icon": "https://web.poecdn.com/image/divination-card/ForbiddenPower.png",
@@ -5305,6 +5291,20 @@
       "Base": 0.01
     }
   },
+  "The Master": {
+    "name": "The Master",
+    "icon": "https://web.poecdn.com/image/divination-card/TheMaster.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
   "The Fathomless Depths": {
     "name": "The Fathomless Depths",
     "icon": "https://web.poecdn.com/image/divination-card/TheFathomlessDepths.png",
@@ -5333,9 +5333,9 @@
       "Base": 0.01
     }
   },
-  "The Dreamland": {
-    "name": "The Dreamland",
-    "icon": "https://web.poecdn.com/image/divination-card/TheDreamland.png",
+  "The Admirer": {
+    "name": "The Admirer",
+    "icon": "https://web.poecdn.com/image/divination-card/TheAdmirer.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5350,6 +5350,20 @@
   "The Witch": {
     "name": "The Witch",
     "icon": "https://web.poecdn.com/image/divination-card/TheWitch.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
+  "Boon of the First Ones": {
+    "name": "Boon of the First Ones",
+    "icon": "https://web.poecdn.com/image/divination-card/BoonoftheFirstOnes.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5445,23 +5459,9 @@
       "Base": 0.01
     }
   },
-  "Echoes of Love": {
-    "name": "Echoes of Love",
-    "icon": "https://web.poecdn.com/image/divination-card/EchoesOfLove.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Fool": {
-    "name": "The Fool",
-    "icon": "https://web.poecdn.com/image/divination-card/TheFool.png",
+  "Buried Treasure": {
+    "name": "Buried Treasure",
+    "icon": "https://web.poecdn.com/image/divination-card/BuriedTreasure.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5599,9 +5599,9 @@
       "Base": 0.01
     }
   },
-  "Reckless Ambition": {
-    "name": "Reckless Ambition",
-    "icon": "https://web.poecdn.com/image/divination-card/RecklessAmbition.png",
+  "Acclimatisation": {
+    "name": "Acclimatisation",
+    "icon": "https://web.poecdn.com/image/divination-card/Acclimatisation.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5613,9 +5613,9 @@
       "Base": 0.01
     }
   },
-  "Prejudice": {
-    "name": "Prejudice",
-    "icon": "https://web.poecdn.com/image/divination-card/Prejudice.png",
+  "Reckless Ambition": {
+    "name": "Reckless Ambition",
+    "icon": "https://web.poecdn.com/image/divination-card/RecklessAmbition.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5641,23 +5641,9 @@
       "Base": 0.01
     }
   },
-  "The Last Supper": {
-    "name": "The Last Supper",
-    "icon": "https://web.poecdn.com/image/divination-card/TheLastSupper.png",
-    "rarity": 6,
-    "chaosValue": {
-      "Base": 1.0
-    },
-    "exaltedValue": {
-      "Base": 0.08
-    },
-    "divineValue": {
-      "Base": 0.01
-    }
-  },
-  "The Fox in the Brambles": {
-    "name": "The Fox in the Brambles",
-    "icon": "https://web.poecdn.com/image/divination-card/TheFoxInTheBrambles.png",
+  "A Sea of Blue": {
+    "name": "A Sea of Blue",
+    "icon": "https://web.poecdn.com/image/divination-card/ASeaOfBlue.png",
     "rarity": 6,
     "chaosValue": {
       "Base": 1.0
@@ -5697,6 +5683,20 @@
       "Base": 0.01
     }
   },
+  "Broken Truce": {
+    "name": "Broken Truce",
+    "icon": "https://web.poecdn.com/image/divination-card/BrokenTruce.png",
+    "rarity": 6,
+    "chaosValue": {
+      "Base": 1.0
+    },
+    "exaltedValue": {
+      "Base": 0.08
+    },
+    "divineValue": {
+      "Base": 0.01
+    }
+  },
   "Imperial Legacy": {
     "name": "Imperial Legacy",
     "icon": "https://web.poecdn.com/image/divination-card/ImperialLegacy.png",
@@ -5705,7 +5705,7 @@
       "Base": 0.45
     },
     "exaltedValue": {
-      "Base": 0.04
+      "Base": 0.03
     },
     "divineValue": {
       "Base": 0.0

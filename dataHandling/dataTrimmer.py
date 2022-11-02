@@ -53,13 +53,42 @@ def trim_data():
 
 def trim_currency():
     currency_data = ("curr.json", "frag.json")
+    trimmed_currency = {}
+    trimmed_currency_f = open("TrimmedData/currency.json", "w")
     for file in currency_data:
         f = open("RawData/"+file)
         data = json.load(f)
 
         for currency in data["lines"]:
-            pass
+            name = currency["currencyTypeName"]
+            if name not in trimmed_currency:
+                trimmed_currency[name] = {}
+            trimmed_currency[name]["name"] = name
+            if "chaosValue" not in trimmed_currency[name]:
+                trimmed_currency[name]["chaosValue"] = {}
+            if "pay" not in currency:
+                trimmed_currency[name]["chaosValue"]["buy"] = 0
+            else:
+                trimmed_currency[name]["chaosValue"]["buy"] = 1/currency["pay"]["value"]
+            if "receive" not in currency:
+                trimmed_currency[name]["chaosValue"]["sell"] = 0
+            else:
+                trimmed_currency[name]["chaosValue"]["sell"] = currency["receive"]["value"]
+
+        for currency_icon in data["currencyDetails"]:
+            name = currency_icon["name"]
+            if name == "Chaos Orb":
+                continue
+            if name not in trimmed_currency:
+                continue
+            if "icon" in currency_icon:
+                trimmed_currency[name]["icon"] = currency_icon["icon"]
+            else:
+                trimmed_currency[name]["icon"] = None
         f.close()
+
+    trimmed_currency_f.write(json.dumps(trimmed_currency, indent=2))
+    trimmed_currency_f.close()
 
 
 trim_data()

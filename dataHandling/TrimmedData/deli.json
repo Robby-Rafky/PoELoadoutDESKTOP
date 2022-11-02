@@ -4,13 +4,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJTY2FyYWJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fa4c5160ca/DeliriumOrbScarabs.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 29.0
+      "Base": 30.0
     },
     "exaltedValue": {
-      "Base": 2.31
+      "Base": 2.4
     },
     "divineValue": {
-      "Base": 0.19
+      "Base": 0.2
     }
   },
   "Diviner's Delirium Orb": {
@@ -18,13 +18,13 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJEaXZpbmF0aW9uQ2FyZHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e47017caab/DeliriumOrbDivinationCards.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 15.26
+      "Base": 16.0
     },
     "exaltedValue": {
-      "Base": 1.22
+      "Base": 1.28
     },
     "divineValue": {
-      "Base": 0.1
+      "Base": 0.11
     }
   },
   "Fine Delirium Orb": {
@@ -32,10 +32,10 @@
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/edac9239bd/DeliriumOrbCurrency.png",
     "rarity": 5,
     "chaosValue": {
-      "Base": 12.0
+      "Base": 11.55
     },
     "exaltedValue": {
-      "Base": 0.96
+      "Base": 0.92
     },
     "divineValue": {
       "Base": 0.08
@@ -58,6 +58,20 @@
   "Cartographer's Delirium Orb": {
     "name": "Cartographer's Delirium Orb",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJNYXBzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ad4a59a2fc/DeliriumOrbMaps.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 10.0
+    },
+    "exaltedValue": {
+      "Base": 0.8
+    },
+    "divineValue": {
+      "Base": 0.07
+    }
+  },
+  "Jeweller's Delirium Orb": {
+    "name": "Jeweller's Delirium Orb",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJUcmlua2V0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/51a3def31b/DeliriumOrbTrinkets.png",
     "rarity": 5,
     "chaosValue": {
       "Base": 10.0
@@ -97,9 +111,9 @@
       "Base": 0.07
     }
   },
-  "Fossilised Delirium Orb": {
-    "name": "Fossilised Delirium Orb",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJGb3NzaWxzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea3a92a762/DeliriumOrbFossils.png",
+  "Blacksmith's Delirium Orb": {
+    "name": "Blacksmith's Delirium Orb",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJXZWFwb25zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a249fbf02/DeliriumOrbWeapons.png",
     "rarity": 5,
     "chaosValue": {
       "Base": 10.0
@@ -137,6 +151,20 @@
     },
     "divineValue": {
       "Base": 0.07
+    }
+  },
+  "Fossilised Delirium Orb": {
+    "name": "Fossilised Delirium Orb",
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJGb3NzaWxzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ea3a92a762/DeliriumOrbFossils.png",
+    "rarity": 5,
+    "chaosValue": {
+      "Base": 9.75
+    },
+    "exaltedValue": {
+      "Base": 0.78
+    },
+    "divineValue": {
+      "Base": 0.06
     }
   },
   "Imperial Delirium Orb": {
@@ -223,20 +251,6 @@
       "Base": 0.06
     }
   },
-  "Blacksmith's Delirium Orb": {
-    "name": "Blacksmith's Delirium Orb",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJXZWFwb25zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a249fbf02/DeliriumOrbWeapons.png",
-    "rarity": 5,
-    "chaosValue": {
-      "Base": 9.0
-    },
-    "exaltedValue": {
-      "Base": 0.72
-    },
-    "divineValue": {
-      "Base": 0.06
-    }
-  },
   "Whispering Delirium Orb": {
     "name": "Whispering Delirium Orb",
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJFc3NlbmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/4c854cba72/DeliriumOrbEssence.png",
@@ -249,20 +263,6 @@
     },
     "divineValue": {
       "Base": 0.06
-    }
-  },
-  "Jeweller's Delirium Orb": {
-    "name": "Jeweller's Delirium Orb",
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGVsaXJpdW0vRGVsaXJpdW1PcmJUcmlua2V0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/51a3def31b/DeliriumOrbTrinkets.png",
-    "rarity": 5,
-    "chaosValue": {
-      "Base": 8.0
-    },
-    "exaltedValue": {
-      "Base": 0.64
-    },
-    "divineValue": {
-      "Base": 0.05
     }
   }
 }
