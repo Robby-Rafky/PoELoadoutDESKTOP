@@ -5,11 +5,11 @@ card_url = "https://web.poecdn.com/image/divination-card/"
 
 def trim_data():
     all_files = [e for e in os.listdir("RawData") if e not in ("curr.json", "frag.json")]
+    trimmed_data = {}
+    trimmed_f = open("TrimmedData/trimmedItems.json", "w")
     for file in all_files:
         f = open("RawData/"+file)
-        trimmed_f = open("TrimmedData/"+file, "w")
         data = json.load(f)
-        trimmed_data = {}
         for item in data["lines"]:
             name = item["name"]
             variant = "Base"
@@ -46,15 +46,16 @@ def trim_data():
             trimmed_data[name]["exaltedValue"][variant] = item["exaltedValue"]
             trimmed_data[name]["divineValue"][variant] = item["divineValue"]
 
-        trimmed_f.write(json.dumps(trimmed_data, indent=2))
-        trimmed_f.close()
         f.close()
+    trimmed_f.write(json.dumps(trimmed_data, indent=2))
+    trimmed_f.close()
+
 
 
 def trim_currency():
     currency_data = ("curr.json", "frag.json")
     trimmed_currency = {}
-    trimmed_currency_f = open("TrimmedData/currency.json", "w")
+    trimmed_currency_f = open("TrimmedData/trimmedCurrency.json", "w")
     for file in currency_data:
         f = open("RawData/"+file)
         data = json.load(f)
