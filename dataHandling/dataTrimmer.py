@@ -24,10 +24,7 @@ def trim_data():
                     variant = variant + item["variant"]
 
             if item["itemClass"] == 9:
-                if variant == "Base":
-                    variant = "Foil"
-                else:
-                    variant = "Foil " + variant
+                variant = "Foil" if variant == "Base" else "Foil " + variant
 
             if file == "cluster.json":
                 variant = variant[4:] + ", item level (" + str(item["levelRequired"])+")"
@@ -41,21 +38,16 @@ def trim_data():
             if file == "card.json":
                 trimmed_data[name]["icon"] = card_url + item["artFilename"] + ".png"
 
-            if name not in variant_data:
-                variant_data[name] = {}
-                trimmed_data[name]["chaosValue"] = item["chaosValue"]
-                trimmed_data[name]["exaltedValue"] = item["exaltedValue"]
-                trimmed_data[name]["divineValue"] = item["divineValue"]
-            elif trimmed_data[name]["chaosValue"] > item["chaosValue"]:
+            variant_data[name] = {} if (not_present := name not in variant_data) else variant_data[name]
+
+            if not_present or trimmed_data[name]["chaosValue"] > item["chaosValue"]:
                 trimmed_data[name]["chaosValue"] = item["chaosValue"]
                 trimmed_data[name]["exaltedValue"] = item["exaltedValue"]
                 trimmed_data[name]["divineValue"] = item["divineValue"]
 
             if "chaosValue" not in variant_data[name]:
                 variant_data[name]["chaosValue"] = {}
-            if "exaltedValue" not in variant_data[name]:
                 variant_data[name]["exaltedValue"] = {}
-            if "divineValue" not in variant_data[name]:
                 variant_data[name]["divineValue"] = {}
 
             variant_data[name]["chaosValue"][variant] = item["chaosValue"]
@@ -81,14 +73,8 @@ def trim_currency():
             name = currency["currencyTypeName"]
             if name not in trimmed_currency:
                 trimmed_currency[name] = {}
-            if "pay" not in currency:
-                trimmed_currency[name]["chaosPay"] = 0
-            else:
-                trimmed_currency[name]["chaosPay"] = 1/currency["pay"]["value"]
-            if "receive" not in currency:
-                trimmed_currency[name]["chaosReceive"] = 0
-            else:
-                trimmed_currency[name]["chaosReceive"] = currency["receive"]["value"]
+            trimmed_currency[name]["chaosPay"] = 0 if "pay" not in currency else 1/currency["pay"]["value"]
+            trimmed_currency[name]["chaosReceive"] = 0 if "receive" not in currency else currency["receive"]["value"]
 
         for currency_icon in data["currencyDetails"]:
             name = currency_icon["name"]
@@ -96,10 +82,7 @@ def trim_currency():
                 continue
             if name not in trimmed_currency:
                 continue
-            if "icon" in currency_icon:
-                trimmed_currency[name]["icon"] = currency_icon["icon"]
-            else:
-                trimmed_currency[name]["icon"] = None
+            trimmed_currency[name]["icon"] = currency_icon["icon"] if "icon" in currency_icon else None
         f.close()
 
     trimmed_currency_f.write(json.dumps(trimmed_currency, indent=2))
