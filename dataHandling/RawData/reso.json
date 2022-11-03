@@ -9,36 +9,36 @@
       "sparkline": {
         "data": [
           0,
-          20.2,
-          0.97,
-          -3.84,
-          -13.45,
-          -6.67,
-          -3.84
+          -16,
+          -20,
+          -28,
+          -22.36,
+          -24.17,
+          -32
         ],
-        "totalChange": -3.84
+        "totalChange": -32
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          20.2,
-          0.97,
-          -3.84,
-          -13.45,
-          -6.67,
-          -3.84
+          -16,
+          -20,
+          -28,
+          -22.36,
+          -24.17,
+          -32
         ],
-        "totalChange": -3.84
+        "totalChange": -32
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 20.0,
-      "exaltedValue": 1.54,
-      "divineValue": 0.13,
+      "chaosValue": 17.0,
+      "exaltedValue": 1.25,
+      "divineValue": 0.11,
       "count": 99,
       "detailsId": "prime-chaotic-resonator",
-      "listingCount": 3006
+      "listingCount": 2986
     },
     {
       "id": 7646,
@@ -49,36 +49,36 @@
       "sparkline": {
         "data": [
           0,
-          -10.75,
-          -17.5,
-          0,
-          -18.0,
-          0,
-          0
+          -7.57,
+          12.04,
+          -8.12,
+          12.04,
+          9.59,
+          7.0
         ],
-        "totalChange": 0
+        "totalChange": 7.0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -10.75,
-          -17.5,
-          0,
-          -18.0,
-          0,
-          0
+          -7.57,
+          12.04,
+          -8.12,
+          12.04,
+          9.59,
+          7.0
         ],
-        "totalChange": 0
+        "totalChange": 7.0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.0,
-      "exaltedValue": 0.15,
+      "chaosValue": 1.91,
+      "exaltedValue": 0.14,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "powerful-chaotic-resonator",
-      "listingCount": 4251
+      "listingCount": 4277
     },
     {
       "id": 7648,
@@ -89,36 +89,36 @@
       "sparkline": {
         "data": [
           0,
-          -1.0,
-          0,
-          0,
-          0,
-          -7.5,
-          0
+          1.01,
+          1.01,
+          1.01,
+          -6.56,
+          0.26,
+          -3.54
         ],
-        "totalChange": 0
+        "totalChange": -3.54
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.0,
-          0,
-          0,
-          0,
-          -7.5,
-          0
+          1.01,
+          1.01,
+          1.01,
+          -6.56,
+          0.26,
+          -3.54
         ],
-        "totalChange": 0
+        "totalChange": -3.54
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 2.0,
-      "exaltedValue": 0.15,
+      "chaosValue": 1.91,
+      "exaltedValue": 0.14,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "potent-chaotic-resonator",
-      "listingCount": 4473
+      "listingCount": 4475
     },
     {
       "id": 7636,
@@ -129,36 +129,36 @@
       "sparkline": {
         "data": [
           0,
-          -25.37,
-          -2.99,
-          -5.97,
-          -8.95,
-          -5.97,
-          -2.99
+          30,
+          26,
+          22.01,
+          26,
+          22.88,
+          0
         ],
-        "totalChange": -2.99
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -25.37,
-          -2.99,
-          -5.97,
-          -8.95,
-          -5.97,
-          -2.99
+          30,
+          26,
+          22.01,
+          26,
+          22.88,
+          0
         ],
-        "totalChange": -2.99
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 1.3,
-      "exaltedValue": 0.1,
+      "chaosValue": 1.0,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "primitive-chaotic-resonator",
-      "listingCount": 11053
+      "listingCount": 10999
     }
   ],
   "language": {

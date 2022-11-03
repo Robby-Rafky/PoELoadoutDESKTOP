@@ -14,9 +14,9 @@
           -16.67,
           9.67,
           12.34,
-          16.67
+          -15.5
         ],
-        "totalChange": 16.67
+        "totalChange": -15.5
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -26,19 +26,19 @@
           -16.67,
           9.67,
           12.34,
-          16.67
+          -15.5
         ],
-        "totalChange": 16.67
+        "totalChange": -15.5
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 7.0,
-      "exaltedValue": 0.53,
-      "divineValue": 0.05,
+      "chaosValue": 5.07,
+      "exaltedValue": 0.37,
+      "divineValue": 0.03,
       "count": 99,
       "detailsId": "burial-medallion",
-      "listingCount": 3855
+      "listingCount": 3846
     },
     {
       "id": 69146,
@@ -54,9 +54,9 @@
           1.01,
           3.23,
           4.46,
-          27.88
+          1.01
         ],
-        "totalChange": 27.88
+        "totalChange": 1.01
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -66,19 +66,19 @@
           1.01,
           3.23,
           4.46,
-          27.88
+          1.01
         ],
-        "totalChange": 27.88
+        "totalChange": 1.01
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 6.33,
-      "exaltedValue": 0.48,
-      "divineValue": 0.04,
+      "chaosValue": 5.0,
+      "exaltedValue": 0.37,
+      "divineValue": 0.03,
       "count": 99,
       "detailsId": "exotic-coinage",
-      "listingCount": 3812
+      "listingCount": 3804
     },
     {
       "id": 69150,
@@ -94,9 +94,9 @@
           -6.76,
           -1.35,
           1.35,
-          0
+          2.7
         ],
-        "totalChange": 0
+        "totalChange": 2.7
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -106,19 +106,19 @@
           -6.76,
           -1.35,
           1.35,
-          0
+          2.7
         ],
-        "totalChange": 0
+        "totalChange": 2.7
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 0.74,
+      "chaosValue": 0.76,
       "exaltedValue": 0.06,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "astragali",
-      "listingCount": 11890
+      "listingCount": 11894
     },
     {
       "id": 69141,
@@ -134,9 +134,9 @@
           5.13,
           7.69,
           15.38,
-          20.51
+          28.21
         ],
-        "totalChange": 20.51
+        "totalChange": 28.21
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -146,19 +146,19 @@
           5.13,
           7.69,
           15.38,
-          20.51
+          28.21
         ],
-        "totalChange": 20.51
+        "totalChange": 28.21
       },
       "implicitModifiers": [],
       "explicitModifiers": [],
       "flavourText": "",
-      "chaosValue": 0.47,
+      "chaosValue": 0.5,
       "exaltedValue": 0.04,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "scrap-metal",
-      "listingCount": 6482
+      "listingCount": 6486
     }
   ],
   "language": {

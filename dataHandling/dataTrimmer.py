@@ -32,12 +32,6 @@ def trim_data():
             if name not in trimmed_data:
                 trimmed_data[name] = {}
 
-            trimmed_data[name]["icon"] = item["icon"]
-            trimmed_data[name]["rarity"] = item["itemClass"]
-
-            if file == "card.json":
-                trimmed_data[name]["icon"] = card_url + item["artFilename"] + ".png"
-
             variant_data[name] = {} if (not_present := name not in variant_data) else variant_data[name]
 
             if not_present or trimmed_data[name]["chaosValue"] > item["chaosValue"]:
@@ -45,14 +39,17 @@ def trim_data():
                 trimmed_data[name]["exaltedValue"] = item["exaltedValue"]
                 trimmed_data[name]["divineValue"] = item["divineValue"]
 
-            if "chaosValue" not in variant_data[name]:
-                variant_data[name]["chaosValue"] = {}
-                variant_data[name]["exaltedValue"] = {}
-                variant_data[name]["divineValue"] = {}
+            if variant not in variant_data[name]:
+                variant_data[name][variant] = {}
 
-            variant_data[name]["chaosValue"][variant] = item["chaosValue"]
-            variant_data[name]["exaltedValue"][variant] = item["exaltedValue"]
-            variant_data[name]["divineValue"][variant] = item["divineValue"]
+            if file == "card.json":
+                variant_data[name][variant]["icon"] = card_url + item["artFilename"] + ".png"
+
+            variant_data[name][variant]["icon"] = item["icon"]
+            variant_data[name][variant]["rarity"] = item["itemClass"]
+            variant_data[name][variant]["chaosValue"] = item["chaosValue"]
+            variant_data[name][variant]["exaltedValue"] = item["exaltedValue"]
+            variant_data[name][variant]["divineValue"] = item["divineValue"]
 
         f.close()
     trimmed_f.write(json.dumps(trimmed_data, indent=2))

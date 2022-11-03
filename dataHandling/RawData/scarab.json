@@ -9,26 +9,26 @@
       "sparkline": {
         "data": [
           0,
-          0.37,
-          3.49,
-          2.34,
-          17.25,
-          17.12,
-          17.43
+          3.1,
+          1.96,
+          16.81,
+          16.69,
+          16.94,
+          16.69
         ],
-        "totalChange": 17.43
+        "totalChange": 16.69
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0.37,
-          3.49,
-          2.34,
-          17.25,
-          17.12,
-          17.43
+          3.1,
+          1.96,
+          16.81,
+          16.69,
+          16.94,
+          16.69
         ],
-        "totalChange": 17.43
+        "totalChange": 16.69
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -38,12 +38,12 @@
         }
       ],
       "flavourText": "The Abyssals creep forth by night and by storm. Their eons underground were not\na respite, but an amassing, and now they number beyond comprehension.",
-      "chaosValue": 50.13,
-      "exaltedValue": 3.86,
+      "chaosValue": 50.0,
+      "exaltedValue": 3.68,
       "divineValue": 0.33,
       "count": 99,
       "detailsId": "winged-abyss-scarab",
-      "listingCount": 1202
+      "listingCount": 1211
     },
     {
       "id": 42606,
@@ -54,26 +54,26 @@
       "sparkline": {
         "data": [
           0,
-          4.16,
-          11.3,
-          12.78,
-          13.92,
-          12.4,
-          11.6
+          6.85,
+          8.28,
+          9.37,
+          7.91,
+          6.62,
+          0.45
         ],
-        "totalChange": 11.6
+        "totalChange": 0.45
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          4.16,
-          11.3,
-          12.78,
-          13.92,
-          12.4,
-          11.6
+          6.85,
+          8.28,
+          9.37,
+          7.91,
+          6.62,
+          0.45
         ],
-        "totalChange": 11.6
+        "totalChange": 0.45
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -83,12 +83,12 @@
         }
       ],
       "flavourText": "Hinekora has sent the world another herald, but this hatungo walks another path.\nWe are left blinded, and subject to the vagaries of Fate.",
-      "chaosValue": 48.0,
-      "exaltedValue": 3.7,
-      "divineValue": 0.32,
+      "chaosValue": 45.0,
+      "exaltedValue": 3.31,
+      "divineValue": 0.3,
       "count": 99,
       "detailsId": "winged-divination-scarab",
-      "listingCount": 1736
+      "listingCount": 1744
     },
     {
       "id": 42748,
@@ -99,26 +99,26 @@
       "sparkline": {
         "data": [
           0,
-          0.02,
-          0.28,
-          -2.2,
-          0.51,
           0.26,
-          0.51
+          -2.22,
+          0.49,
+          0.23,
+          0.75,
+          1.75
         ],
-        "totalChange": 0.51
+        "totalChange": 1.75
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0.02,
-          0.28,
-          -2.2,
-          0.51,
           0.26,
-          0.51
+          -2.22,
+          0.49,
+          0.23,
+          0.75,
+          1.75
         ],
-        "totalChange": 0.51
+        "totalChange": 1.75
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -128,12 +128,12 @@
         }
       ],
       "flavourText": "The books were burned, and the scribes set themselves aflame.\nWhat secret so terrible could they have discovered?\nThough centuries have passed, we must investigate this for ourselves.",
-      "chaosValue": 42.98,
-      "exaltedValue": 3.31,
+      "chaosValue": 43.52,
+      "exaltedValue": 3.2,
       "divineValue": 0.29,
       "count": 99,
       "detailsId": "winged-reliquary-scarab",
-      "listingCount": 1453
+      "listingCount": 1463
     },
     {
       "id": 42659,
@@ -144,26 +144,26 @@
       "sparkline": {
         "data": [
           0,
-          2.56,
-          4.46,
-          2.56,
-          -2.56,
-          7.91,
-          7.67
+          1.85,
+          0,
+          -5,
+          5.21,
+          4.65,
+          5
         ],
-        "totalChange": 7.67
+        "totalChange": 5
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          2.56,
-          4.46,
-          2.56,
-          -2.56,
-          7.91,
-          7.67
+          1.85,
+          0,
+          -5,
+          5.21,
+          4.65,
+          5
         ],
-        "totalChange": 7.67
+        "totalChange": 5
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -173,147 +173,12 @@
         }
       ],
       "flavourText": "In the absence of a strong martial presence, the renegades rise once more.\nTheir poisons threaten to cloud the land.",
-      "chaosValue": 41.99,
-      "exaltedValue": 3.23,
+      "chaosValue": 42.0,
+      "exaltedValue": 3.09,
       "divineValue": 0.28,
       "count": 99,
       "detailsId": "winged-ambush-scarab",
-      "listingCount": 1347
-    },
-    {
-      "id": 42633,
-      "name": "Winged Metamorph Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1ldGFtb3JwaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08a2978215/Tier4ScarabMetamorph.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          3.33,
-          4.9,
-          6.27,
-          6.67,
-          6.67,
-          31
-        ],
-        "totalChange": 31
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          3.33,
-          4.9,
-          6.27,
-          6.67,
-          6.67,
-          31
-        ],
-        "totalChange": 31
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop two additional Itemised Samples\nAll Metamorph Monsters have Rewards",
-          "optional": false
-        }
-      ],
-      "flavourText": "Though the Necromancer of Weeping Black fell in the desert by the hand of Garukhan,\nhis mindless legions remain scattered throughout Wraeclast, with no master to curb their hunger.",
-      "chaosValue": 39.3,
-      "exaltedValue": 3.03,
-      "divineValue": 0.26,
-      "count": 99,
-      "detailsId": "winged-metamorph-scarab",
-      "listingCount": 653
-    },
-    {
-      "id": 70514,
-      "name": "Winged Expedition Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          11.76,
-          8.82,
-          5.88,
-          5.88,
-          6.62,
-          14.71
-        ],
-        "totalChange": 14.71
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          11.76,
-          8.82,
-          5.88,
-          5.88,
-          6.62,
-          14.71
-        ],
-        "totalChange": 14.71
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains an additional Expedition Encounter\nArea contains 50% increased number of Runic Monster Markers\n20% increased number of Explosives\nRemnants in area have an additional Suffix",
-          "optional": false
-        }
-      ],
-      "flavourText": "Darkness surges in the shadows of the past. Ancient evils stir. The stars\nwatch, forever aloof, forever menacing. None remain who know the\nsecret, so we are defenseless in the face of the unknown.",
-      "chaosValue": 39.0,
-      "exaltedValue": 3.0,
-      "divineValue": 0.26,
-      "count": 99,
-      "detailsId": "winged-expedition-scarab",
-      "listingCount": 1194
-    },
-    {
-      "id": 42657,
-      "name": "Winged Bestiary Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          5.66,
-          5.66,
-          5.66,
-          12.04,
-          12.07,
-          24.75
-        ],
-        "totalChange": 24.75
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          5.66,
-          5.66,
-          5.66,
-          12.04,
-          12.07,
-          24.75
-        ],
-        "totalChange": 24.75
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains Einhar\nArea contains 5 additional Red Beasts",
-          "optional": false
-        }
-      ],
-      "flavourText": "Without an experienced Beastmaster to find them new realms,\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast.",
-      "chaosValue": 38.96,
-      "exaltedValue": 3.0,
-      "divineValue": 0.26,
-      "count": 99,
-      "detailsId": "winged-bestiary-scarab",
-      "listingCount": 681
+      "listingCount": 1357
     },
     {
       "id": 42605,
@@ -324,26 +189,26 @@
       "sparkline": {
         "data": [
           0,
-          6.25,
-          6.25,
-          10.0,
-          12.5,
-          12.5,
-          17.09
+          0,
+          3.53,
+          5.88,
+          5.88,
+          11.08,
+          17.65
         ],
-        "totalChange": 17.09
+        "totalChange": 17.65
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          6.25,
-          6.25,
-          10.0,
-          12.5,
-          12.5,
-          17.09
+          0,
+          3.53,
+          5.88,
+          5.88,
+          11.08,
+          17.65
         ],
-        "totalChange": 17.09
+        "totalChange": 17.65
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -353,57 +218,102 @@
         }
       ],
       "flavourText": "As the passage between Wraeclast and the land beyond time's reach is torn open,\nwe stand on the precipice of eternal war.\nAnd no one remains to hold us back.",
-      "chaosValue": 37.47,
-      "exaltedValue": 2.88,
-      "divineValue": 0.25,
+      "chaosValue": 40.0,
+      "exaltedValue": 2.94,
+      "divineValue": 0.26,
       "count": 99,
       "detailsId": "winged-legion-scarab",
       "listingCount": 1136
     },
     {
-      "id": 42683,
-      "name": "Winged Harbinger Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
+      "id": 42633,
+      "name": "Winged Metamorph Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYk1ldGFtb3JwaCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08a2978215/Tier4ScarabMetamorph.png",
       "stackSize": 10,
       "itemClass": 0,
       "sparkline": {
         "data": [
           0,
-          1.72,
-          9.38,
-          13.38,
-          11.25,
-          11.02,
-          12.5
+          1.52,
+          2.84,
+          3.23,
+          3.23,
+          25.4,
+          25.81
         ],
-        "totalChange": 12.5
+        "totalChange": 25.81
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          1.72,
-          9.38,
-          13.38,
-          11.25,
-          11.02,
-          12.5
+          1.52,
+          2.84,
+          3.23,
+          3.23,
+          25.4,
+          25.81
         ],
-        "totalChange": 12.5
+        "totalChange": 25.81
       },
       "implicitModifiers": [],
       "explicitModifiers": [
         {
-          "text": "Area contains 7 additional Harbingers",
+          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop two additional Itemised Samples\nAll Metamorph Monsters have Rewards",
           "optional": false
         }
       ],
-      "flavourText": "The thousand year truce has faltered, for the inscrutable ones have imprisoned their own God.\nShould they invade again, there will be no warning.",
-      "chaosValue": 36.0,
-      "exaltedValue": 2.77,
-      "divineValue": 0.24,
+      "flavourText": "Though the Necromancer of Weeping Black fell in the desert by the hand of Garukhan,\nhis mindless legions remain scattered throughout Wraeclast, with no master to curb their hunger.",
+      "chaosValue": 39.0,
+      "exaltedValue": 2.87,
+      "divineValue": 0.26,
       "count": 99,
-      "detailsId": "winged-harbinger-scarab",
-      "listingCount": 768
+      "detailsId": "winged-metamorph-scarab",
+      "listingCount": 671
+    },
+    {
+      "id": 42657,
+      "name": "Winged Bestiary Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJlYXN0cyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7d79b58e5e/Tier4ScarabBeasts.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          6.03,
+          6.06,
+          14.85,
+          18.18
+        ],
+        "totalChange": 18.18
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          6.03,
+          6.06,
+          14.85,
+          18.18
+        ],
+        "totalChange": 18.18
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains Einhar\nArea contains 5 additional Red Beasts",
+          "optional": false
+        }
+      ],
+      "flavourText": "Without an experienced Beastmaster to find them new realms,\nthe First Ones' ravaging hunt brings them ever closer to Wraeclast.",
+      "chaosValue": 39.0,
+      "exaltedValue": 2.87,
+      "divineValue": 0.26,
+      "count": 99,
+      "detailsId": "winged-bestiary-scarab",
+      "listingCount": 679
     },
     {
       "id": 42639,
@@ -414,26 +324,26 @@
       "sparkline": {
         "data": [
           0,
-          -3.74,
-          3.77,
-          6.53,
-          11.96,
-          11.96,
-          12.12
+          7.81,
+          10.67,
+          16.32,
+          16.32,
+          21.09,
+          27.98
         ],
-        "totalChange": 12.12
+        "totalChange": 27.98
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -3.74,
-          3.77,
-          6.53,
-          11.96,
-          11.96,
-          12.12
+          7.81,
+          10.67,
+          16.32,
+          16.32,
+          21.09,
+          27.98
         ],
-        "totalChange": 12.12
+        "totalChange": 27.98
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -443,12 +353,102 @@
         }
       ],
       "flavourText": "The Master Researcher's final commandment has failed.\nThe High Templar has seen the truth of our situation,\nand the world will be undone by his fear.",
-      "chaosValue": 35.05,
-      "exaltedValue": 2.7,
-      "divineValue": 0.23,
+      "chaosValue": 38.51,
+      "exaltedValue": 2.83,
+      "divineValue": 0.25,
       "count": 99,
       "detailsId": "winged-breach-scarab",
-      "listingCount": 802
+      "listingCount": 811
+    },
+    {
+      "id": 70514,
+      "name": "Winged Expedition Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkV4cGVkaXRpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b4dd63608b/Tier4ScarabExpedition.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -2.63,
+          -5.26,
+          -5.26,
+          -4.61,
+          -2.53,
+          -5.26
+        ],
+        "totalChange": -5.26
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -2.63,
+          -5.26,
+          -5.26,
+          -4.61,
+          -2.53,
+          -5.26
+        ],
+        "totalChange": -5.26
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains an additional Expedition Encounter\nArea contains 50% increased number of Runic Monster Markers\n20% increased number of Explosives\nRemnants in area have an additional Suffix",
+          "optional": false
+        }
+      ],
+      "flavourText": "Darkness surges in the shadows of the past. Ancient evils stir. The stars\nwatch, forever aloof, forever menacing. None remain who know the\nsecret, so we are defenseless in the face of the unknown.",
+      "chaosValue": 36.0,
+      "exaltedValue": 2.65,
+      "divineValue": 0.24,
+      "count": 99,
+      "detailsId": "winged-expedition-scarab",
+      "listingCount": 1192
+    },
+    {
+      "id": 42683,
+      "name": "Winged Harbinger Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkhhcmJpbmdlcnMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/81caefbf3f/Tier4ScarabHarbingers.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          7.53,
+          11.46,
+          9.37,
+          9.14,
+          10.46,
+          10.35
+        ],
+        "totalChange": 10.35
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          7.53,
+          11.46,
+          9.37,
+          9.14,
+          10.46,
+          10.35
+        ],
+        "totalChange": 10.35
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains 7 additional Harbingers",
+          "optional": false
+        }
+      ],
+      "flavourText": "The thousand year truce has faltered, for the inscrutable ones have imprisoned their own God.\nShould they invade again, there will be no warning.",
+      "chaosValue": 35.92,
+      "exaltedValue": 2.64,
+      "divineValue": 0.24,
+      "count": 99,
+      "detailsId": "winged-harbinger-scarab",
+      "listingCount": 761
     },
     {
       "id": 42604,
@@ -459,26 +459,26 @@
       "sparkline": {
         "data": [
           0,
-          3.12,
-          3.12,
-          1.23,
-          6.25,
-          9.3,
-          9.38
+          0,
+          -1.84,
+          3.03,
+          5.98,
+          6.05,
+          6.06
         ],
-        "totalChange": 9.38
+        "totalChange": 6.06
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.12,
-          3.12,
-          1.23,
-          6.25,
-          9.3,
-          9.38
+          0,
+          -1.84,
+          3.03,
+          5.98,
+          6.05,
+          6.06
         ],
-        "totalChange": 9.38
+        "totalChange": 6.06
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -489,7 +489,7 @@
       ],
       "flavourText": "Madness marches in machine form.\nHarnessed lightning, grim faces, and cold ambition abounds.\nCivilisation will be its own undoing.",
       "chaosValue": 35.0,
-      "exaltedValue": 2.69,
+      "exaltedValue": 2.58,
       "divineValue": 0.23,
       "count": 99,
       "detailsId": "winged-sulphite-scarab",
@@ -504,26 +504,26 @@
       "sparkline": {
         "data": [
           0,
-          3.23,
-          6.45,
-          6.81,
-          11.23,
-          12.9,
-          12.9
+          3.12,
+          3.47,
+          7.75,
+          9.38,
+          9.38,
+          9.38
         ],
-        "totalChange": 12.9
+        "totalChange": 9.38
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          3.23,
-          6.45,
-          6.81,
-          11.23,
-          12.9,
-          12.9
+          3.12,
+          3.47,
+          7.75,
+          9.38,
+          9.38,
+          9.38
         ],
-        "totalChange": 12.9
+        "totalChange": 9.38
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -534,11 +534,11 @@
       ],
       "flavourText": "The Sealing Blade has been removed, and the agent of Decay\nshall feed upon this world until nothing remains but dust.",
       "chaosValue": 35.0,
-      "exaltedValue": 2.69,
+      "exaltedValue": 2.58,
       "divineValue": 0.23,
       "count": 99,
       "detailsId": "winged-cartography-scarab",
-      "listingCount": 717
+      "listingCount": 710
     },
     {
       "id": 42678,
@@ -549,26 +549,26 @@
       "sparkline": {
         "data": [
           0,
-          2.11,
-          5.4,
-          15.28,
-          11.99,
-          11.99,
-          15.28
+          3.23,
+          12.9,
+          9.68,
+          9.68,
+          12.9,
+          12.9
         ],
-        "totalChange": 15.28
+        "totalChange": 12.9
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          2.11,
-          5.4,
-          15.28,
-          11.99,
-          11.99,
-          15.28
+          3.23,
+          12.9,
+          9.68,
+          9.68,
+          12.9,
+          12.9
         ],
-        "totalChange": 15.28
+        "totalChange": 12.9
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -579,11 +579,11 @@
       ],
       "flavourText": "The Watchers have gone silent, yet they scream still.\nSomething lurks among the stars of our dreams, knocking at the door,\nwhispering with the voices of long lost friends...",
       "chaosValue": 35.0,
-      "exaltedValue": 2.69,
+      "exaltedValue": 2.58,
       "divineValue": 0.23,
       "count": 99,
       "detailsId": "winged-shaper-scarab",
-      "listingCount": 662
+      "listingCount": 667
     },
     {
       "id": 42692,
@@ -594,11 +594,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           9.68,
           12.9,
           11.06,
           11.73,
+          12.9,
           12.9
         ],
         "totalChange": 12.9
@@ -606,11 +606,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           9.68,
           12.9,
           11.06,
           11.73,
+          12.9,
           12.9
         ],
         "totalChange": 12.9
@@ -624,56 +624,11 @@
       ],
       "flavourText": "We are all equally fools for our childish notions.\nThat dread force Decay cannot be defeated by self-sacrifice.",
       "chaosValue": 35.0,
-      "exaltedValue": 2.69,
+      "exaltedValue": 2.58,
       "divineValue": 0.23,
       "count": 99,
       "detailsId": "winged-elder-scarab",
-      "listingCount": 620
-    },
-    {
-      "id": 60220,
-      "name": "Winged Blight Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          5.11,
-          6.45,
-          3.23,
-          6.6,
-          8.6,
-          12.9
-        ],
-        "totalChange": 12.9
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          5.11,
-          6.45,
-          3.23,
-          6.6,
-          8.6,
-          12.9
-        ],
-        "totalChange": 12.9
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains a Blight Encounter\nBlight Encounters contain an additional Blight Boss\n50% chance for Blight Chests to contain an additional Reward\nLanes of Blight Encounters in Areas have an additional Reward Chest",
-          "optional": false
-        }
-      ],
-      "flavourText": "The fungal plague returns, and its roots have adapted.\nThe undiscovered Blightheart that Dhunan theorised\nmust still exist somewhere, yet none remain\nwith the skill to see to its destruction.",
-      "chaosValue": 35.0,
-      "exaltedValue": 2.69,
-      "divineValue": 0.23,
-      "count": 99,
-      "detailsId": "winged-blight-scarab",
-      "listingCount": 777
+      "listingCount": 615
     },
     {
       "id": 42762,
@@ -684,26 +639,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           6.1,
           10,
           10,
           10,
-          10.93
+          11.99,
+          13.33
         ],
-        "totalChange": 10.93
+        "totalChange": 13.33
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           6.1,
           10,
           10,
           10,
-          10.93
+          11.99,
+          13.33
         ],
-        "totalChange": 10.93
+        "totalChange": 13.33
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -713,12 +668,57 @@
         }
       ],
       "flavourText": "Without a speaker of the dead, the countless anguished spirits only grow in number.\nThey have no voice, and no hope. The sun darkens with each passing year.",
-      "chaosValue": 33.28,
-      "exaltedValue": 2.56,
+      "chaosValue": 34.0,
+      "exaltedValue": 2.5,
       "divineValue": 0.22,
       "count": 99,
       "detailsId": "winged-torment-scarab",
-      "listingCount": 632
+      "listingCount": 637
+    },
+    {
+      "id": 60220,
+      "name": "Winged Blight Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9UaWVyNFNjYXJhYkJsaWdodCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6dde3a6e88/Tier4ScarabBlight.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          1.27,
+          -1.8,
+          1.41,
+          3.31,
+          5.6,
+          4.34
+        ],
+        "totalChange": 4.34
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          1.27,
+          -1.8,
+          1.41,
+          3.31,
+          5.6,
+          4.34
+        ],
+        "totalChange": 4.34
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains a Blight Encounter\nBlight Encounters contain an additional Blight Boss\n50% chance for Blight Chests to contain an additional Reward\nLanes of Blight Encounters in Areas have an additional Reward Chest",
+          "optional": false
+        }
+      ],
+      "flavourText": "The fungal plague returns, and its roots have adapted.\nThe undiscovered Blightheart that Dhunan theorised\nmust still exist somewhere, yet none remain\nwith the skill to see to its destruction.",
+      "chaosValue": 34.0,
+      "exaltedValue": 2.5,
+      "divineValue": 0.22,
+      "count": 99,
+      "detailsId": "winged-blight-scarab",
+      "listingCount": 776
     },
     {
       "id": 19027,
@@ -729,26 +729,26 @@
       "sparkline": {
         "data": [
           0,
-          -1.79,
-          14.29,
-          12.79,
-          19,
-          14.43,
-          32.93
+          16.36,
+          14.84,
+          21.16,
+          16.51,
+          29.49,
+          23.42
         ],
-        "totalChange": 32.93
+        "totalChange": 23.42
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.79,
-          14.29,
-          12.79,
-          19,
-          14.43,
-          32.93
+          16.36,
+          14.84,
+          21.16,
+          16.51,
+          29.49,
+          23.42
         ],
-        "totalChange": 32.93
+        "totalChange": 23.42
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -758,12 +758,12 @@
         }
       ],
       "flavourText": "Go to your rest now, Sumei, Master Lorekeeper. The Order shall keep\ncontained the terrible secret that burdened your final years.",
-      "chaosValue": 18.61,
-      "exaltedValue": 1.43,
-      "divineValue": 0.12,
+      "chaosValue": 16.97,
+      "exaltedValue": 1.25,
+      "divineValue": 0.11,
       "count": 99,
       "detailsId": "gilded-reliquary-scarab",
-      "listingCount": 2760
+      "listingCount": 2768
     },
     {
       "id": 19007,
@@ -774,26 +774,26 @@
       "sparkline": {
         "data": [
           0,
-          -0.23,
-          0,
-          0,
-          3.19,
-          2.1,
-          5.64
+          0.23,
+          0.23,
+          3.42,
+          2.33,
+          4.13,
+          -0.32
         ],
-        "totalChange": 5.64
+        "totalChange": -0.32
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -0.23,
-          0,
-          0,
-          3.19,
-          2.1,
-          5.64
+          0.23,
+          0.23,
+          3.42,
+          2.33,
+          4.13,
+          -0.32
         ],
-        "totalChange": 5.64
+        "totalChange": -0.32
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -803,12 +803,12 @@
         }
       ],
       "flavourText": "Your centuries of service have been invaluable to us, Narumoa. Go now,\nreturn to Hinekora, and join your ancient kin in the halls of the dead.",
-      "chaosValue": 11.62,
-      "exaltedValue": 0.89,
-      "divineValue": 0.08,
+      "chaosValue": 10.94,
+      "exaltedValue": 0.8,
+      "divineValue": 0.07,
       "count": 99,
       "detailsId": "gilded-divination-scarab",
-      "listingCount": 4097
+      "listingCount": 4103
     },
     {
       "id": 19013,
@@ -819,26 +819,26 @@
       "sparkline": {
         "data": [
           0,
-          1.37,
-          2.33,
-          2.33,
-          2.33,
-          7.56,
-          13.81
+          0.95,
+          0.95,
+          0.95,
+          6.11,
+          10.1,
+          7.35
         ],
-        "totalChange": 13.81
+        "totalChange": 7.35
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          1.37,
-          2.33,
-          2.33,
-          2.33,
-          7.56,
-          13.81
+          0.95,
+          0.95,
+          0.95,
+          6.11,
+          10.1,
+          7.35
         ],
-        "totalChange": 13.81
+        "totalChange": 7.35
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -848,12 +848,12 @@
         }
       ],
       "flavourText": "Master Warrior Rindwik fell to one opponent alone: old age.\nOnly the greatest soldiers can say as much.",
-      "chaosValue": 10.01,
-      "exaltedValue": 0.77,
-      "divineValue": 0.07,
+      "chaosValue": 9.57,
+      "exaltedValue": 0.7,
+      "divineValue": 0.06,
       "count": 99,
       "detailsId": "gilded-ambush-scarab",
-      "listingCount": 3503
+      "listingCount": 3500
     },
     {
       "id": 19012,
@@ -864,26 +864,26 @@
       "sparkline": {
         "data": [
           0,
-          4.79,
-          0,
-          0,
-          0,
-          1.43,
-          31.57
+          -4.57,
+          -4.57,
+          -4.57,
+          -3.2,
+          16.14,
+          9.07
         ],
-        "totalChange": 31.57
+        "totalChange": 9.07
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          4.79,
-          0,
-          0,
-          0,
-          1.43,
-          31.57
+          -4.57,
+          -4.57,
+          -4.57,
+          -3.2,
+          16.14,
+          9.07
         ],
-        "totalChange": 31.57
+        "totalChange": 9.07
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -893,57 +893,12 @@
         }
       ],
       "flavourText": "As the best of our lorekeepers, honoured Sumei, it is now your task\nto investigate the mysterious duplication of artefacts of power.",
-      "chaosValue": 9.21,
-      "exaltedValue": 0.71,
-      "divineValue": 0.06,
-      "count": 99,
-      "detailsId": "polished-reliquary-scarab",
-      "listingCount": 2528
-    },
-    {
-      "id": 22342,
-      "name": "Gilded Legion Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          -2.24,
-          1.79,
-          2.54,
-          1.94,
-          -7.1,
-          4.63
-        ],
-        "totalChange": 4.63
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -2.24,
-          1.79,
-          2.54,
-          1.94,
-          -7.1,
-          4.63
-        ],
-        "totalChange": 4.63
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains an additional Legion Encounter\nEach Legion contains a War Hoard\nEach Legion is accompanied by a General",
-          "optional": false
-        }
-      ],
-      "flavourText": "Given the fate of Deacon Eutychus and the men under Cardinal Sanctus Vox,\nlet none dare the Domain, lest they too feed that vile hunger eternal.",
-      "chaosValue": 7.0,
-      "exaltedValue": 0.54,
+      "chaosValue": 8.0,
+      "exaltedValue": 0.59,
       "divineValue": 0.05,
       "count": 99,
-      "detailsId": "gilded-legion-scarab",
-      "listingCount": 4152
+      "detailsId": "polished-reliquary-scarab",
+      "listingCount": 2524
     },
     {
       "id": 60162,
@@ -955,25 +910,25 @@
         "data": [
           0,
           0,
-          0,
           -0.43,
           -2.21,
           -2.93,
-          0
+          1.06,
+          2
         ],
-        "totalChange": 0
+        "totalChange": 2
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
-          0,
           -0.43,
           -2.21,
           -2.93,
-          0
+          1.06,
+          2
         ],
-        "totalChange": 0
+        "totalChange": 2
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -983,12 +938,57 @@
         }
       ],
       "flavourText": "The Winter of the World has ended at the hands of the Three Sisters. We lay this scarab\nupon your ancient grave in thanks for your efforts, Honoured Founder. As you hoped,\nthe fate of your people will never befall another.",
-      "chaosValue": 7.0,
-      "exaltedValue": 0.54,
+      "chaosValue": 7.14,
+      "exaltedValue": 0.53,
       "divineValue": 0.05,
       "count": 99,
       "detailsId": "gilded-abyss-scarab",
-      "listingCount": 3023
+      "listingCount": 2989
+    },
+    {
+      "id": 22342,
+      "name": "Gilded Legion Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTGVnaW9uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4fe4dfd58/GreaterScarabLegion.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          4.13,
+          4.89,
+          4.28,
+          -4.97,
+          3.71,
+          2.6
+        ],
+        "totalChange": 2.6
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          4.13,
+          4.89,
+          4.28,
+          -4.97,
+          3.71,
+          2.6
+        ],
+        "totalChange": 2.6
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains an additional Legion Encounter\nEach Legion contains a War Hoard\nEach Legion is accompanied by a General",
+          "optional": false
+        }
+      ],
+      "flavourText": "Given the fate of Deacon Eutychus and the men under Cardinal Sanctus Vox,\nlet none dare the Domain, lest they too feed that vile hunger eternal.",
+      "chaosValue": 6.71,
+      "exaltedValue": 0.49,
+      "divineValue": 0.04,
+      "count": 99,
+      "detailsId": "gilded-legion-scarab",
+      "listingCount": 4143
     },
     {
       "id": 70512,
@@ -999,26 +999,26 @@
       "sparkline": {
         "data": [
           0,
-          1.4,
-          -1.24,
-          3.54,
-          3.04,
-          -1.24,
-          3.21
+          -2.6,
+          2.11,
+          1.62,
+          -2.6,
+          2.46,
+          -2.6
         ],
-        "totalChange": 3.21
+        "totalChange": -2.6
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          1.4,
-          -1.24,
-          3.54,
-          3.04,
-          -1.24,
-          3.21
+          -2.6,
+          2.11,
+          1.62,
+          -2.6,
+          2.46,
+          -2.6
         ],
-        "totalChange": 3.21
+        "totalChange": -2.6
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1028,57 +1028,12 @@
         }
       ],
       "flavourText": "We lay you to rest in the forest deep, Runesmith Revna, so that you may be\nforever hidden from the stars which so terrified you in your final days.\nMay the secret you took to your grave be lifted from your burdens.",
-      "chaosValue": 6.27,
-      "exaltedValue": 0.48,
+      "chaosValue": 6.0,
+      "exaltedValue": 0.44,
       "divineValue": 0.04,
       "count": 99,
       "detailsId": "gilded-expedition-scarab",
-      "listingCount": 5153
-    },
-    {
-      "id": 18989,
-      "name": "Gilded Breach Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6c012fae5c/GreaterScarabBreach.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains 3 additional Breaches",
-          "optional": false
-        }
-      ],
-      "flavourText": "Omid, Master Researcher, has left a final commandment upon his death:\nthe world must never know.",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.38,
-      "divineValue": 0.03,
-      "count": 99,
-      "detailsId": "gilded-breach-scarab",
-      "listingCount": 2980
+      "listingCount": 5139
     },
     {
       "id": 18991,
@@ -1119,11 +1074,11 @@
       ],
       "flavourText": "For your valour beyond the Gate, Sarina Titucius, we honour you with the first\nGilded Scarab awarded while its recipient still lives. Remain vigilant.",
       "chaosValue": 5.0,
-      "exaltedValue": 0.38,
+      "exaltedValue": 0.37,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-harbinger-scarab",
-      "listingCount": 2929
+      "listingCount": 2941
     },
     {
       "id": 18999,
@@ -1164,11 +1119,101 @@
       ],
       "flavourText": "The Order was your clan in life, Agnar, Beastmaster, but the First Ones call\nback their favoured son. The gift of their Visions will pass to another.",
       "chaosValue": 5.0,
-      "exaltedValue": 0.38,
+      "exaltedValue": 0.37,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-bestiary-scarab",
-      "listingCount": 2702
+      "listingCount": 2698
+    },
+    {
+      "id": 22458,
+      "name": "Polished Legion Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          20,
+          20,
+          0,
+          0,
+          -0.09,
+          0
+        ],
+        "totalChange": 0
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          20,
+          20,
+          0,
+          0,
+          -0.09,
+          0
+        ],
+        "totalChange": 0
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains an additional Legion Encounter\nEach Legion contains a War Hoard",
+          "optional": false
+        }
+      ],
+      "flavourText": "As our hand in the Chamber, we grant you, Deacon Eutychus,\naccess to a domain we lack the resources to explore.",
+      "chaosValue": 5.0,
+      "exaltedValue": 0.37,
+      "divineValue": 0.03,
+      "count": 99,
+      "detailsId": "polished-legion-scarab",
+      "listingCount": 2699
+    },
+    {
+      "id": 60178,
+      "name": "Gilded Blight Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93
+        ],
+        "totalChange": -5.93
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93,
+          -5.93
+        ],
+        "totalChange": -5.93
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains a Blight Encounter\nBlight Encounters contain an additional Blight Boss\n50% chance for Blight Chests to contain an additional Reward",
+          "optional": false
+        }
+      ],
+      "flavourText": "Be at rest, Blightmaster Dhunan, on the distant shores of\nyour home. A dangerous expedition, but one worthy for\nhe who gave his life to cleanse Wraeclast.",
+      "chaosValue": 5.0,
+      "exaltedValue": 0.37,
+      "divineValue": 0.03,
+      "count": 99,
+      "detailsId": "gilded-blight-scarab",
+      "listingCount": 3042
     },
     {
       "id": 19019,
@@ -1183,10 +1228,10 @@
           0,
           0,
           0,
-          0,
-          0
+          -0.21,
+          -2.2
         ],
-        "totalChange": 0
+        "totalChange": -2.2
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -1195,10 +1240,10 @@
           0,
           0,
           0,
-          0,
-          0
+          -0.21,
+          -2.2
         ],
-        "totalChange": 0
+        "totalChange": -2.2
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1208,147 +1253,57 @@
         }
       ],
       "flavourText": "Betucia, Bearer of the Sealing Blade, the Order of the Djinn survives\nbecause of your sacrifice, but will be forever wounded by your loss.",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.38,
+      "chaosValue": 4.89,
+      "exaltedValue": 0.36,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-cartography-scarab",
-      "listingCount": 2387
+      "listingCount": 2389
     },
     {
-      "id": 22458,
-      "name": "Polished Legion Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJMZWdpb24iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/0edb9242f1/NormalScarabLegion.png",
+      "id": 18989,
+      "name": "Gilded Breach Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQnJlYWNoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/6c012fae5c/GreaterScarabBreach.png",
       "stackSize": 10,
       "itemClass": 0,
       "sparkline": {
         "data": [
           0,
-          -16.67,
           0,
           0,
-          -16.67,
-          -16.67,
-          -16.67
+          0,
+          0,
+          -0.79,
+          -10.2
         ],
-        "totalChange": -16.67
+        "totalChange": -10.2
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -16.67,
           0,
           0,
-          -16.67,
-          -16.67,
-          -16.67
+          0,
+          0,
+          -0.79,
+          -10.2
         ],
-        "totalChange": -16.67
+        "totalChange": -10.2
       },
       "implicitModifiers": [],
       "explicitModifiers": [
         {
-          "text": "Area contains an additional Legion Encounter\nEach Legion contains a War Hoard",
+          "text": "Area contains 3 additional Breaches",
           "optional": false
         }
       ],
-      "flavourText": "As our hand in the Chamber, we grant you, Deacon Eutychus,\naccess to a domain we lack the resources to explore.",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.38,
+      "flavourText": "Omid, Master Researcher, has left a final commandment upon his death:\nthe world must never know.",
+      "chaosValue": 4.49,
+      "exaltedValue": 0.33,
       "divineValue": 0.03,
       "count": 99,
-      "detailsId": "polished-legion-scarab",
-      "listingCount": 2695
-    },
-    {
-      "id": 40058,
-      "name": "Gilded Metamorph Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWV0YW1vcnBoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7e8dd3bd31/GreaterScarabMetamorph.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          25,
-          25,
-          25,
-          25,
-          0,
-          25
-        ],
-        "totalChange": 25
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          25,
-          25,
-          25,
-          25,
-          0,
-          25
-        ],
-        "totalChange": 25
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample\nAll Metamorph Monsters have Rewards",
-          "optional": false
-        }
-      ],
-      "flavourText": "There was a man of bone, rotting flesh, and weeping black, but his name, his\nill-gotten knowledge, and his role in the Order shall be stricken from memory.",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.38,
-      "divineValue": 0.03,
-      "count": 99,
-      "detailsId": "gilded-metamorph-scarab",
-      "listingCount": 2568
-    },
-    {
-      "id": 60178,
-      "name": "Gilded Blight Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiQmxpZ2h0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/cf36f28d45/GreaterScarabBlight.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          6.31,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          6.31,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains a Blight Encounter\nBlight Encounters contain an additional Blight Boss\n50% chance for Blight Chests to contain an additional Reward",
-          "optional": false
-        }
-      ],
-      "flavourText": "Be at rest, Blightmaster Dhunan, on the distant shores of\nyour home. A dangerous expedition, but one worthy for\nhe who gave his life to cleanse Wraeclast.",
-      "chaosValue": 5.0,
-      "exaltedValue": 0.38,
-      "divineValue": 0.03,
-      "count": 99,
-      "detailsId": "gilded-blight-scarab",
-      "listingCount": 3032
+      "detailsId": "gilded-breach-scarab",
+      "listingCount": 2975
     },
     {
       "id": 18992,
@@ -1359,11 +1314,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           25,
           15.75,
           0,
           -25,
+          -0.01,
           0
         ],
         "totalChange": 0
@@ -1371,11 +1326,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           25,
           15.75,
           0,
           -25,
+          -0.01,
           0
         ],
         "totalChange": 0
@@ -1389,11 +1344,11 @@
       ],
       "flavourText": "Though you were swallowed by your own darkness, you saved countless others\nfrom eternal misery, young Tsarsk. You were not nothing, as you feared.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-torment-scarab",
-      "listingCount": 2296
+      "listingCount": 2297
     },
     {
       "id": 18993,
@@ -1434,11 +1389,11 @@
       ],
       "flavourText": "Qianga of the Stars, Deliverer of the Sealing Blade to the Watchers, go now, and\nlet your half-dreamt life be troubled by nightmares of achromic hunger no more.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-shaper-scarab",
-      "listingCount": 2376
+      "listingCount": 2368
     },
     {
       "id": 19000,
@@ -1449,26 +1404,26 @@
       "sparkline": {
         "data": [
           0,
-          -20.27,
-          1.39,
-          1.39,
-          1.39,
-          -19.77,
-          1.39
+          27.17,
+          27.17,
+          27.17,
+          0.62,
+          27.17,
+          27.17
         ],
-        "totalChange": 1.39
+        "totalChange": 27.17
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -20.27,
-          1.39,
-          1.39,
-          1.39,
-          -19.77,
-          1.39
+          27.17,
+          27.17,
+          27.17,
+          0.62,
+          27.17,
+          27.17
         ],
-        "totalChange": 1.39
+        "totalChange": 27.17
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1479,7 +1434,7 @@
       ],
       "flavourText": "Let him not be called Raethan the Betrayer. His discovery was too important\nto keep locked away. Now, for good or ill, it is in civilisation's hands.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-sulphite-scarab",
@@ -1495,8 +1450,8 @@
         "data": [
           0,
           0,
-          0,
           13.5,
+          0,
           0,
           0,
           0
@@ -1507,8 +1462,8 @@
         "data": [
           0,
           0,
-          0,
           13.5,
+          0,
           0,
           0,
           0
@@ -1524,11 +1479,11 @@
       ],
       "flavourText": "Egrin of the Dark Between Stars, Forger of the Sealing Blade,\nlet your name be redeemed by your unexpected sacrifice.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "gilded-elder-scarab",
-      "listingCount": 2427
+      "listingCount": 2428
     },
     {
       "id": 19010,
@@ -1543,7 +1498,7 @@
           0,
           0,
           0,
-          0,
+          -0.12,
           0
         ],
         "totalChange": 0
@@ -1555,7 +1510,7 @@
           0,
           0,
           0,
-          0,
+          -0.12,
           0
         ],
         "totalChange": 0
@@ -1569,11 +1524,11 @@
       ],
       "flavourText": "Though your peers fear you, Narumoa, the elders have decided that your\nsecond sight is ideal for handling all artefacts that seek to subvert Fate.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "polished-divination-scarab",
-      "listingCount": 3334
+      "listingCount": 3340
     },
     {
       "id": 19017,
@@ -1584,11 +1539,11 @@
       "sparkline": {
         "data": [
           0,
-          0,
           0.25,
           1.5,
           0,
           0,
+          0.22,
           0
         ],
         "totalChange": 0
@@ -1596,11 +1551,11 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           0.25,
           1.5,
           0,
           0,
+          0.22,
           0
         ],
         "totalChange": 0
@@ -1614,11 +1569,56 @@
       ],
       "flavourText": "Your people were renegades, Rindwik, but you have proven your loyalty.\nYou will lead the martial defence of our expeditions.",
       "chaosValue": 4.0,
-      "exaltedValue": 0.31,
+      "exaltedValue": 0.29,
       "divineValue": 0.03,
       "count": 99,
       "detailsId": "polished-ambush-scarab",
-      "listingCount": 2872
+      "listingCount": 2868
+    },
+    {
+      "id": 40058,
+      "name": "Gilded Metamorph Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9HcmVhdGVyU2NhcmFiTWV0YW1vcnBoIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7e8dd3bd31/GreaterScarabMetamorph.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          -20,
+          -9.05,
+          -20
+        ],
+        "totalChange": -20
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          -20,
+          -9.05,
+          -20
+        ],
+        "totalChange": -20
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample\nAll Metamorph Monsters have Rewards",
+          "optional": false
+        }
+      ],
+      "flavourText": "There was a man of bone, rotting flesh, and weeping black, but his name, his\nill-gotten knowledge, and his role in the Order shall be stricken from memory.",
+      "chaosValue": 4.0,
+      "exaltedValue": 0.29,
+      "divineValue": 0.03,
+      "count": 99,
+      "detailsId": "gilded-metamorph-scarab",
+      "listingCount": 2574
     },
     {
       "id": 22453,
@@ -1629,26 +1629,26 @@
       "sparkline": {
         "data": [
           0,
-          -1.7,
-          18.05,
-          46.34,
-          0.68,
-          46.34,
-          46.34
+          20.1,
+          48.88,
+          2.43,
+          48.88,
+          48.35,
+          48.88
         ],
-        "totalChange": 46.34
+        "totalChange": 48.88
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -1.7,
-          18.05,
-          46.34,
-          0.68,
-          46.34,
-          46.34
+          20.1,
+          48.88,
+          2.43,
+          48.88,
+          48.35,
+          48.88
         ],
-        "totalChange": 46.34
+        "totalChange": 48.88
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1659,56 +1659,11 @@
       ],
       "flavourText": "Your faith and our Order are not in opposition, young Eutychus. \nLet this be the start of a new era of cooperation.",
       "chaosValue": 3.0,
-      "exaltedValue": 0.23,
+      "exaltedValue": 0.22,
       "divineValue": 0.02,
       "count": 99,
       "detailsId": "rusted-legion-scarab",
-      "listingCount": 4029
-    },
-    {
-      "id": 18973,
-      "name": "Rusted Ambush Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          -0.01,
-          3.12,
-          1.67,
-          0.47,
-          1.19,
-          7.94
-        ],
-        "totalChange": 7.94
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          -0.01,
-          3.12,
-          1.67,
-          0.47,
-          1.19,
-          7.94
-        ],
-        "totalChange": 7.94
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains 3 additional Strongboxes",
-          "optional": false
-        }
-      ],
-      "flavourText": "Your outlaw camp abandoned you when their surprise attack failed, young Rindwik.\nNow that you know we exist, we cannot let you go. You have two choices.",
-      "chaosValue": 2.24,
-      "exaltedValue": 0.17,
-      "divineValue": 0.01,
-      "count": 99,
-      "detailsId": "rusted-ambush-scarab",
-      "listingCount": 3599
+      "listingCount": 4028
     },
     {
       "id": 70511,
@@ -1719,26 +1674,26 @@
       "sparkline": {
         "data": [
           0,
-          -5.83,
-          -2.33,
-          0.93,
-          -6.54,
-          1.87,
-          0.47
+          3.72,
+          7.19,
+          -0.75,
+          8.18,
+          7.12,
+          0.24
         ],
-        "totalChange": 0.47
+        "totalChange": 0.24
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -5.83,
-          -2.33,
-          0.93,
-          -6.54,
-          1.87,
-          0.47
+          3.72,
+          7.19,
+          -0.75,
+          8.18,
+          7.12,
+          0.24
         ],
-        "totalChange": 0.47
+        "totalChange": 0.24
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1748,57 +1703,57 @@
         }
       ],
       "flavourText": "As you delve into the mysteries of this world, apprentice Revna,\nremember to learn from the past, not be consumed by it.",
-      "chaosValue": 2.15,
-      "exaltedValue": 0.17,
+      "chaosValue": 2.02,
+      "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-expedition-scarab",
-      "listingCount": 5585
+      "listingCount": 5571
     },
     {
-      "id": 18968,
-      "name": "Rusted Reliquary Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72516960f1/LesserScarabUnique.png",
+      "id": 18973,
+      "name": "Rusted Ambush Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJTdHJvbmdib3hlcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5600ee7971/LesserScarabStrongboxes.png",
       "stackSize": 10,
       "itemClass": 0,
       "sparkline": {
         "data": [
           0,
-          5.58,
-          6.38,
-          6.38,
-          6.38,
-          6.38,
-          6.38
+          3.13,
+          1.68,
+          0.48,
+          1.2,
+          -1.15,
+          -3.62
         ],
-        "totalChange": 6.38
+        "totalChange": -3.62
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          5.58,
-          6.38,
-          6.38,
-          6.38,
-          6.38,
-          6.38
+          3.13,
+          1.68,
+          0.48,
+          1.2,
+          -1.15,
+          -3.62
         ],
-        "totalChange": 6.38
+        "totalChange": -3.62
       },
       "implicitModifiers": [],
       "explicitModifiers": [
         {
-          "text": "50% more Unique Items found in Area",
+          "text": "Area contains 3 additional Strongboxes",
           "optional": false
         }
       ],
-      "flavourText": "The Maraketh left you to die alone in the desert, young Sumei, but we\nsaw the potential in you. The Order of the Djinn is your akhara now.",
+      "flavourText": "Your outlaw camp abandoned you when their surprise attack failed, young Rindwik.\nNow that you know we exist, we cannot let you go. You have two choices.",
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
       "divineValue": 0.01,
       "count": 99,
-      "detailsId": "rusted-reliquary-scarab",
-      "listingCount": 3532
+      "detailsId": "rusted-ambush-scarab",
+      "listingCount": 3606
     },
     {
       "id": 19005,
@@ -1809,26 +1764,26 @@
       "sparkline": {
         "data": [
           0,
-          2,
-          1.34,
-          12.67,
-          33.33,
-          30.67,
-          33.33
+          -0.65,
+          10.46,
+          30.72,
+          28.11,
+          30.72,
+          30.72
         ],
-        "totalChange": 33.33
+        "totalChange": 30.72
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          2,
-          1.34,
-          12.67,
-          33.33,
-          30.67,
-          33.33
+          -0.65,
+          10.46,
+          30.72,
+          28.11,
+          30.72,
+          30.72
         ],
-        "totalChange": 33.33
+        "totalChange": 30.72
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1843,7 +1798,7 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-bestiary-scarab",
-      "listingCount": 3065
+      "listingCount": 3075
     },
     {
       "id": 60022,
@@ -1856,9 +1811,9 @@
           0,
           0,
           0,
-          0,
           -8.5,
           -6.0,
+          -1.08,
           0
         ],
         "totalChange": 0
@@ -1868,9 +1823,9 @@
           0,
           0,
           0,
-          0,
           -8.5,
           -6.0,
+          -1.08,
           0
         ],
         "totalChange": 0
@@ -1888,7 +1843,52 @@
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-abyss-scarab",
-      "listingCount": 2981
+      "listingCount": 2977
+    },
+    {
+      "id": 18968,
+      "name": "Rusted Reliquary Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJVbmlxdWUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/72516960f1/LesserScarabUnique.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0.75,
+          0.75,
+          0.75,
+          0.75,
+          -0.55,
+          -1.26
+        ],
+        "totalChange": -1.26
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0.75,
+          0.75,
+          0.75,
+          0.75,
+          -0.55,
+          -1.26
+        ],
+        "totalChange": -1.26
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "50% more Unique Items found in Area",
+          "optional": false
+        }
+      ],
+      "flavourText": "The Maraketh left you to die alone in the desert, young Sumei, but we\nsaw the potential in you. The Order of the Djinn is your akhara now.",
+      "chaosValue": 1.96,
+      "exaltedValue": 0.14,
+      "divineValue": 0.01,
+      "count": 99,
+      "detailsId": "rusted-reliquary-scarab",
+      "listingCount": 3551
     },
     {
       "id": 18997,
@@ -1899,26 +1899,26 @@
       "sparkline": {
         "data": [
           0,
-          8.11,
-          6.49,
-          2.7,
-          -0.54,
-          -3.78,
-          -1.08
+          -1.49,
+          -5.0,
+          -8.0,
+          -11.0,
+          -12.82,
+          -25
         ],
-        "totalChange": -1.08
+        "totalChange": -25
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          8.11,
-          6.49,
-          2.7,
-          -0.54,
-          -3.78,
-          -1.08
+          -1.49,
+          -5.0,
+          -8.0,
+          -11.0,
+          -12.82,
+          -25
         ],
-        "totalChange": -1.08
+        "totalChange": -25
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -1928,12 +1928,12 @@
         }
       ],
       "flavourText": "For your loyalty and valour, honoured Betucia, we are proud to put\nthe requisition of dream-artefacts in your capable hands.",
-      "chaosValue": 1.83,
-      "exaltedValue": 0.14,
+      "chaosValue": 1.5,
+      "exaltedValue": 0.11,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-cartography-scarab",
-      "listingCount": 2226
+      "listingCount": 2227
     },
     {
       "id": 18969,
@@ -1974,11 +1974,11 @@
       ],
       "flavourText": "Your visions led the Azmeri down into a world left abandoned by the Vaal.\nThey cast you out, young Egrin, but the Order of the Djinn accepts you.",
       "chaosValue": 1.0,
-      "exaltedValue": 0.08,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "rusted-elder-scarab",
-      "listingCount": 2509
+      "listingCount": 2508
     },
     {
       "id": 18986,
@@ -1991,9 +1991,9 @@
           0,
           0,
           0,
-          0,
           -1,
           -3,
+          -1.6,
           0
         ],
         "totalChange": 0
@@ -2003,9 +2003,9 @@
           0,
           0,
           0,
-          0,
           -1,
           -3,
+          -1.6,
           0
         ],
         "totalChange": 0
@@ -2019,11 +2019,11 @@
       ],
       "flavourText": "For harnessing and controlling the power of lightning, you, Raethan,\nare now charged with researching this new energy.",
       "chaosValue": 1.0,
-      "exaltedValue": 0.08,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-sulphite-scarab",
-      "listingCount": 3966
+      "listingCount": 3960
     },
     {
       "id": 18996,
@@ -2036,8 +2036,8 @@
           0,
           0,
           0,
-          0,
           -7.98,
+          0,
           0,
           0
         ],
@@ -2048,8 +2048,8 @@
           0,
           0,
           0,
-          0,
           -7.98,
+          0,
           0,
           0
         ],
@@ -2064,7 +2064,7 @@
       ],
       "flavourText": "For deciphering the language of the inscrutable ones, honoured Sarina,\nwe charge you with investigating their intent in our land.",
       "chaosValue": 1.0,
-      "exaltedValue": 0.08,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-harbinger-scarab",
@@ -2079,26 +2079,26 @@
       "sparkline": {
         "data": [
           0,
-          -9.0,
-          -33.33,
-          -33.33,
-          -33.33,
-          -33.33,
-          -33.33
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74
         ],
-        "totalChange": -33.33
+        "totalChange": -26.74
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -9.0,
-          -33.33,
-          -33.33,
-          -33.33,
-          -33.33,
-          -33.33
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74,
+          -26.74
         ],
-        "totalChange": -33.33
+        "totalChange": -26.74
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2109,11 +2109,11 @@
       ],
       "flavourText": "Speaker of unclean truths, Egrin of the Dark Between Stars.\nWe curse you whose soul echoes the madness of the void!",
       "chaosValue": 1.0,
-      "exaltedValue": 0.08,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-elder-scarab",
-      "listingCount": 2587
+      "listingCount": 2588
     },
     {
       "id": 60120,
@@ -2154,11 +2154,11 @@
       ],
       "flavourText": "For using the techniques of your homeland to contain\nthe fungal plague, honoured Dhunan, you shall lead the war\nto eliminate it and end the century-cycle of infestation.",
       "chaosValue": 1.0,
-      "exaltedValue": 0.08,
+      "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-blight-scarab",
-      "listingCount": 4721
+      "listingCount": 4717
     },
     {
       "id": 18987,
@@ -2169,26 +2169,26 @@
       "sparkline": {
         "data": [
           0,
-          6.51,
-          3.25,
-          -2.18,
-          -4.9,
-          -1.64,
-          1.08
+          -3.06,
+          -8.16,
+          -10.71,
+          -7.65,
+          -6.55,
+          -7.14
         ],
-        "totalChange": 1.08
+        "totalChange": -7.14
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          6.51,
-          3.25,
-          -2.18,
-          -4.9,
-          -1.64,
-          1.08
+          -3.06,
+          -8.16,
+          -10.71,
+          -7.65,
+          -6.55,
+          -7.14
         ],
-        "totalChange": 1.08
+        "totalChange": -7.14
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2198,12 +2198,12 @@
         }
       ],
       "flavourText": "We task you, honoured Omid, with the investigation of this mysterious\n'Xoph' and artefacts related to rifts in the boundaries of our world.",
-      "chaosValue": 0.93,
+      "chaosValue": 0.91,
       "exaltedValue": 0.07,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "polished-breach-scarab",
-      "listingCount": 4989
+      "listingCount": 4991
     },
     {
       "id": 18967,
@@ -2214,26 +2214,26 @@
       "sparkline": {
         "data": [
           0,
-          -8,
-          -2,
-          -9,
-          -11,
-          -19,
-          -15
+          6.52,
+          -1.09,
+          -3.26,
+          -11.96,
+          -6.16,
+          -6.52
         ],
-        "totalChange": -15
+        "totalChange": -6.52
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -8,
-          -2,
-          -9,
-          -11,
-          -19,
-          -15
+          6.52,
+          -1.09,
+          -3.26,
+          -11.96,
+          -6.16,
+          -6.52
         ],
-        "totalChange": -15
+        "totalChange": -6.52
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2243,12 +2243,12 @@
         }
       ],
       "flavourText": "You were a casualty of callous Karui warfare, ageless Narumoa, but the Order\nmended your wounds. You are bound to us now by your own code.",
-      "chaosValue": 0.85,
-      "exaltedValue": 0.07,
+      "chaosValue": 0.86,
+      "exaltedValue": 0.06,
       "divineValue": 0.01,
       "count": 99,
       "detailsId": "rusted-divination-scarab",
-      "listingCount": 4841
+      "listingCount": 4853
     },
     {
       "id": 70501,
@@ -2259,26 +2259,26 @@
       "sparkline": {
         "data": [
           0,
-          -2.82,
-          1.41,
-          7.04,
-          9.86,
-          17.61,
-          11.27
+          4.35,
+          10.14,
+          13.04,
+          21.02,
+          14.26,
+          10.14
         ],
-        "totalChange": 11.27
+        "totalChange": 10.14
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          -2.82,
-          1.41,
-          7.04,
-          9.86,
-          17.61,
-          11.27
+          4.35,
+          10.14,
+          13.04,
+          21.02,
+          14.26,
+          10.14
         ],
-        "totalChange": 11.27
+        "totalChange": 10.14
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2288,12 +2288,12 @@
         }
       ],
       "flavourText": "Your people no longer walk this continent, young Revna,\nbut the Order of the Djinn will give you a new home.",
-      "chaosValue": 0.79,
+      "chaosValue": 0.76,
       "exaltedValue": 0.06,
-      "divineValue": 0.01,
+      "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-expedition-scarab",
-      "listingCount": 9131
+      "listingCount": 9125
     },
     {
       "id": 18998,
@@ -2308,7 +2308,7 @@
           0,
           0,
           0,
-          0,
+          0.21,
           0
         ],
         "totalChange": 0
@@ -2320,7 +2320,7 @@
           0,
           0,
           0,
-          0,
+          0.21,
           0
         ],
         "totalChange": 0
@@ -2338,7 +2338,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "polished-torment-scarab",
-      "listingCount": 2879
+      "listingCount": 2882
     },
     {
       "id": 18966,
@@ -2353,7 +2353,7 @@
           0,
           0,
           0,
-          0,
+          -3.19,
           0
         ],
         "totalChange": 0
@@ -2365,7 +2365,7 @@
           0,
           0,
           0,
-          0,
+          -3.19,
           0
         ],
         "totalChange": 0
@@ -2383,97 +2383,7 @@
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-cartography-scarab",
-      "listingCount": 3640
-    },
-    {
-      "id": 18970,
-      "name": "Rusted Bestiary Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          -3.03,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          -3.03,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Area contains Einhar\nArea contains an additional Red Beast",
-          "optional": false
-        }
-      ],
-      "flavourText": "Feuding Ezomytes slaughtered your kin, young Agnar, but we pulled you\nfrom the flames. The Order of the Djinn is your clan now.",
-      "chaosValue": 0.33,
-      "exaltedValue": 0.03,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "rusted-bestiary-scarab",
-      "listingCount": 4908
-    },
-    {
-      "id": 18984,
-      "name": "Polished Shaper Scarab",
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f92a75e584/NormalScarabShaper.png",
-      "stackSize": 10,
-      "itemClass": 0,
-      "sparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "lowConfidenceSparkline": {
-        "data": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "totalChange": 0
-      },
-      "implicitModifiers": [],
-      "explicitModifiers": [
-        {
-          "text": "Adds Shaper Influence outcome to Map Area\n60% more Rare Shaper Items found in Area",
-          "optional": false
-        }
-      ],
-      "flavourText": "Bold dreamer, Qianga of the Stars, she of the Celestial Cold! These titles\nwe bestow upon the one among us whose soul speaks to the ineffable.",
-      "chaosValue": 0.33,
-      "exaltedValue": 0.03,
-      "divineValue": 0.0,
-      "count": 99,
-      "detailsId": "polished-shaper-scarab",
-      "listingCount": 3302
+      "listingCount": 3633
     },
     {
       "id": 40044,
@@ -2488,7 +2398,52 @@
           0,
           0,
           0,
+          4.73,
+          21.21
+        ],
+        "totalChange": 21.21
+      },
+      "lowConfidenceSparkline": {
+        "data": [
           0,
+          0,
+          0,
+          0,
+          0,
+          4.73,
+          21.21
+        ],
+        "totalChange": 21.21
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample",
+          "optional": false
+        }
+      ],
+      "flavourText": "As you explore the vast well of human darkness, Saresh, our Surgeon of the Dead,\nremember that the price can sometimes exceed the value of knowledge.",
+      "chaosValue": 0.4,
+      "exaltedValue": 0.03,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "polished-metamorph-scarab",
+      "listingCount": 4301
+    },
+    {
+      "id": 18984,
+      "name": "Polished Shaper Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9Ob3JtYWxTY2FyYWJTaGFwZXIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f92a75e584/NormalScarabShaper.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          -0.85,
           0
         ],
         "totalChange": 0
@@ -2500,7 +2455,7 @@
           0,
           0,
           0,
-          0,
+          -0.85,
           0
         ],
         "totalChange": 0
@@ -2508,17 +2463,17 @@
       "implicitModifiers": [],
       "explicitModifiers": [
         {
-          "text": "Area contains Metamorph Monsters\nMetamorph Bosses which drop an Itemised Sample drop an additional Itemised Sample",
+          "text": "Adds Shaper Influence outcome to Map Area\n60% more Rare Shaper Items found in Area",
           "optional": false
         }
       ],
-      "flavourText": "As you explore the vast well of human darkness, Saresh, our Surgeon of the Dead,\nremember that the price can sometimes exceed the value of knowledge.",
+      "flavourText": "Bold dreamer, Qianga of the Stars, she of the Celestial Cold! These titles\nwe bestow upon the one among us whose soul speaks to the ineffable.",
       "chaosValue": 0.33,
-      "exaltedValue": 0.03,
+      "exaltedValue": 0.02,
       "divineValue": 0.0,
       "count": 99,
-      "detailsId": "polished-metamorph-scarab",
-      "listingCount": 4297
+      "detailsId": "polished-shaper-scarab",
+      "listingCount": 3296
     },
     {
       "id": 60074,
@@ -2529,9 +2484,9 @@
       "sparkline": {
         "data": [
           0,
-          0,
           6.45,
           -16.13,
+          6.45,
           6.45,
           6.45,
           6.45
@@ -2541,9 +2496,9 @@
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           6.45,
           -16.13,
+          6.45,
           6.45,
           6.45,
           6.45
@@ -2559,11 +2514,11 @@
       ],
       "flavourText": "We pulled you from the raging ocean, young Dhunan,\nbut we cannot return you to your home. The Order of the Djinn\noffers you a place on Wraeclast.",
       "chaosValue": 0.33,
-      "exaltedValue": 0.03,
+      "exaltedValue": 0.02,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-blight-scarab",
-      "listingCount": 5306
+      "listingCount": 5303
     },
     {
       "id": 60098,
@@ -2604,11 +2559,56 @@
       ],
       "flavourText": "As the hordes of bone and blood and foul magic surge across the Vastiri Plains,\nthe scant survivors of our akhara agree to your alliance, ash-scarred Ahkeli.\nDisorder means death. Order may mean life.",
       "chaosValue": 0.33,
-      "exaltedValue": 0.03,
+      "exaltedValue": 0.02,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-abyss-scarab",
       "listingCount": 4506
+    },
+    {
+      "id": 18970,
+      "name": "Rusted Bestiary Scarab",
+      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NhcmFicy9MZXNzZXJTY2FyYWJCZWFzdHMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea23afd0ff/LesserScarabBeasts.png",
+      "stackSize": 10,
+      "itemClass": 0,
+      "sparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -3.03,
+          0,
+          -2.5,
+          -3.03
+        ],
+        "totalChange": -3.03
+      },
+      "lowConfidenceSparkline": {
+        "data": [
+          0,
+          0,
+          0,
+          -3.03,
+          0,
+          -2.5,
+          -3.03
+        ],
+        "totalChange": -3.03
+      },
+      "implicitModifiers": [],
+      "explicitModifiers": [
+        {
+          "text": "Area contains Einhar\nArea contains an additional Red Beast",
+          "optional": false
+        }
+      ],
+      "flavourText": "Feuding Ezomytes slaughtered your kin, young Agnar, but we pulled you\nfrom the flames. The Order of the Djinn is your clan now.",
+      "chaosValue": 0.32,
+      "exaltedValue": 0.02,
+      "divineValue": 0.0,
+      "count": 99,
+      "detailsId": "rusted-bestiary-scarab",
+      "listingCount": 4915
     },
     {
       "id": 18977,
@@ -2621,24 +2621,24 @@
           0,
           0,
           0,
-          0,
           8,
           8,
-          0
+          1.33,
+          8
         ],
-        "totalChange": 0
+        "totalChange": 8
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
           0,
-          0,
           8,
           8,
-          0
+          1.33,
+          8
         ],
-        "totalChange": 0
+        "totalChange": 8
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2648,12 +2648,12 @@
         }
       ],
       "flavourText": "As the first Brinerot to join the Order, you have much to prove,\nyoung Raethan. We are confident you will succeed.",
-      "chaosValue": 0.25,
+      "chaosValue": 0.27,
       "exaltedValue": 0.02,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-sulphite-scarab",
-      "listingCount": 4880
+      "listingCount": 4879
     },
     {
       "id": 18976,
@@ -2664,26 +2664,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           14.29,
           21.43,
           21.43,
           0,
-          7.14
+          1.75,
+          0
         ],
-        "totalChange": 7.14
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           14.29,
           21.43,
           21.43,
           0,
-          7.14
+          1.75,
+          0
         ],
-        "totalChange": 7.14
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2693,7 +2693,7 @@
         }
       ],
       "flavourText": "Your ancestry has been much maligned by history, young Sarina Titucius,\nbut to the Order of the Djinn, you are born anew.",
-      "chaosValue": 0.15,
+      "chaosValue": 0.14,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
@@ -2713,10 +2713,10 @@
           0,
           0,
           0,
-          0,
-          9.09
+          3.51,
+          0
         ],
-        "totalChange": 9.09
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -2725,10 +2725,10 @@
           0,
           0,
           0,
-          0,
-          9.09
+          3.51,
+          0
         ],
-        "totalChange": 9.09
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2738,12 +2738,12 @@
         }
       ],
       "flavourText": "Rejected even by the Faridun outcasts, young Saresh, you were cursed to walk the\nwhite sands until we found you. The Order shall command your penance now.",
-      "chaosValue": 0.12,
+      "chaosValue": 0.11,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-metamorph-scarab",
-      "listingCount": 4891
+      "listingCount": 4890
     },
     {
       "id": 18971,
@@ -2754,26 +2754,26 @@
       "sparkline": {
         "data": [
           0,
-          0,
           11.11,
           11.11,
           0,
           -11.11,
-          11.11
+          -4.48,
+          -11.11
         ],
-        "totalChange": 11.11
+        "totalChange": -11.11
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
-          0,
           11.11,
           11.11,
           0,
           -11.11,
-          11.11
+          -4.48,
+          -11.11
         ],
-        "totalChange": 11.11
+        "totalChange": -11.11
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2783,12 +2783,12 @@
         }
       ],
       "flavourText": "Young Tsarsk, you were a broken and forgotten child lying glassy-eyed\nin a flesh-pit in Trarthus, but the Order found and cleansed you.",
-      "chaosValue": 0.1,
+      "chaosValue": 0.08,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-torment-scarab",
-      "listingCount": 4055
+      "listingCount": 4058
     },
     {
       "id": 18972,
@@ -2801,24 +2801,24 @@
           0,
           0,
           0,
-          0,
           -14.29,
           -14.29,
-          14.29
+          7.02,
+          0
         ],
-        "totalChange": 14.29
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
           0,
           0,
           0,
-          0,
           -14.29,
           -14.29,
-          14.29
+          7.02,
+          0
         ],
-        "totalChange": 14.29
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2828,12 +2828,12 @@
         }
       ],
       "flavourText": "The Ember-dwellers sought to throw you to their volcanic god, young Omid,\nbut we caught you instead. The Order of the Djinn is your tribe now.",
-      "chaosValue": 0.08,
+      "chaosValue": 0.07,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-breach-scarab",
-      "listingCount": 5622
+      "listingCount": 5625
     },
     {
       "id": 18974,
@@ -2848,10 +2848,10 @@
           0,
           0,
           0,
-          0,
-          14.29
+          8.52,
+          0
         ],
-        "totalChange": 14.29
+        "totalChange": 0
       },
       "lowConfidenceSparkline": {
         "data": [
@@ -2860,10 +2860,10 @@
           0,
           0,
           0,
-          0,
-          14.29
+          8.52,
+          0
         ],
-        "totalChange": 14.29
+        "totalChange": 0
       },
       "implicitModifiers": [],
       "explicitModifiers": [
@@ -2873,12 +2873,12 @@
         }
       ],
       "flavourText": "The Peak-dwellers saw you as impure, young Qianga, but the Order of\nthe Djinn sees you as all the stronger for your uniqueness.",
-      "chaosValue": 0.08,
+      "chaosValue": 0.07,
       "exaltedValue": 0.01,
       "divineValue": 0.0,
       "count": 99,
       "detailsId": "rusted-shaper-scarab",
-      "listingCount": 4117
+      "listingCount": 4121
     }
   ],
   "language": {

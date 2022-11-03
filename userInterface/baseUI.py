@@ -1,8 +1,10 @@
 import tkinter as tk
-from tkinter import messagebox
+from tkinter import messagebox, ttk
 import json
 
 # COLOURS---------------------------------------------
+import pandas as pd
+
 WHITE = "#ffffff"
 BLACK = "#919191"
 GREY = "#505050"
@@ -51,4 +53,40 @@ item_search_frame["bg"], item_search_frame["fg"] = D_BLUE, WHITE
 dataset_select_frame["bg"], dataset_select_frame["fg"] = D_BLUE, WHITE
 additional_data_frame["bg"], additional_data_frame["fg"] = D_BLUE, WHITE
 general_frame["bg"], general_frame["fg"] = D_BLUE, WHITE
+
+# ---test---
+test_text = tk.StringVar()
+label = tk.Label(additional_data_frame, textvariable=test_text)
+# ----------
+
+data_view = ttk.Treeview(item_data_frame)
+data_view.place(relheight=1, relwidth=1)
+
+data_view_scroll_y = tk.Scrollbar(item_data_frame, orient="vertical", command=data_view.yview)
+data_view.configure(yscrollcommand=data_view_scroll_y)
+data_view_scroll_y.pack(side="right", fill="y")
+
+df = pd.read_json("dataHandling/TrimmedData/trimmedItems.json")
+df = df.transpose().sort_values(by=["chaosValue"])
+data_view["columns"] = list(df.columns)
+
+# TODO - put into function for repeated uses
+for column in data_view["columns"]:
+    data_view.column(column, anchor="w")
+    data_view.heading(column, text=column)
+
+for index, row in df.iterrows():
+    data_view.insert("", 0, text=str(index), values=list(row))
+
+# TODO - fix this into a real function pulling data from trimmed variants
+def selected_additional_info(x):
+    curItem = data_view.item(data_view.focus())
+    print(curItem)
+
+    test_text.set(curItem["text"])
+
+
+data_view.bind("<ButtonRelease-1>", selected_additional_info)
+label.pack()
+
 

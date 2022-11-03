@@ -1,642 +1,647 @@
 {
   "Mirror of Kalandra": {
-    "chaosPay": 81040.56080068075,
-    "chaosReceive": 82912.23033993876,
+    "chaosPay": 80173.81683489805,
+    "chaosReceive": 85447.14574898785,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lEdXBsaWNhdGUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7111e35254/CurrencyDuplicate.png"
   },
   "Mirror Shard": {
-    "chaosPay": 4198.404858058229,
-    "chaosReceive": 4417.348963830409,
+    "chaosPay": 4200.522175312658,
+    "chaosReceive": 4473.701538461539,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWlycm9yU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6604b7aa32/MirrorShard.png"
   },
   "Tempering Orb": {
-    "chaosPay": 512.2367672168469,
-    "chaosReceive": 652.8947373947368,
+    "chaosPay": 544.7247706422019,
+    "chaosReceive": 686.3453441295546,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudEJvZHlBcm1vdXJDdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/41418e201d/DivineEnchantBodyArmourCurrency.png"
   },
   "Tailoring Orb": {
-    "chaosPay": 339.27056827820184,
-    "chaosReceive": 597.0622058167464,
+    "chaosPay": 341.6037396619921,
+    "chaosReceive": 617.377,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRGl2aW5lRW5jaGFudFdlYXBvbkN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c5f4a79b45/DivineEnchantWeaponCurrency.png"
   },
   "Sacred Crystallised Lifeforce": {
-    "chaosPay": 517.9103283635384,
-    "chaosReceive": 566.66667,
+    "chaosPay": 495.84366340965437,
+    "chaosReceive": 618.7692307692307,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9TYWNyZWRMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/dd4e43e4d0/SacredLifeforce.png"
   },
-  "Tainted Divine Teardrop": {
-    "chaosPay": 320.3514713285433,
-    "chaosReceive": 437.5438632105263,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3cd0195e1/HellscapeTeardropOrb.png"
-  },
   "Secondary Regrading Lens": {
-    "chaosPay": 335.21051220166265,
-    "chaosReceive": 423.02144516959066,
+    "chaosPay": 337.27411509922956,
+    "chaosReceive": 399.2857142857143,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWx0ZXJuYXRlU3VwcG9ydEdlbUN1cnJlbmN5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a4910912e4/AlternateSupportGemCurrency.png"
   },
+  "Tainted Divine Teardrop": {
+    "chaosPay": 320.7732774475001,
+    "chaosReceive": 375.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZVRlYXJkcm9wT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3cd0195e1/HellscapeTeardropOrb.png"
+  },
   "Orb of Dominance": {
-    "chaosPay": 149.8800959232614,
-    "chaosReceive": 243.2132979501385,
+    "chaosPay": 149.35627445708994,
+    "chaosReceive": 249.4135746606335,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWF2ZW5PcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8396ed7d8d/MavenOrb.png"
   },
   "Divine Orb": {
     "chaosPay": 149.92503748125938,
-    "chaosReceive": 150.8771942105263,
+    "chaosReceive": 154.69230769230768,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNb2RWYWx1ZXMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e1a54ff97d/CurrencyModValues.png"
   },
   "Hunter's Exalted Orb": {
-    "chaosPay": 71.9165767709457,
-    "chaosReceive": 119.52941176470588,
+    "chaosPay": 71.62513665322125,
+    "chaosReceive": 113.58823529411765,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9CYXNpbGlza09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c17ac5e60c/BasiliskOrb.png"
   },
   "Tainted Exalted Orb": {
-    "chaosPay": 72.43783129655196,
-    "chaosReceive": 99.0,
+    "chaosPay": 73.46620921707061,
+    "chaosReceive": 98.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUV4YWx0ZWRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7cb146de94/HellscapeExaltedOrb.png"
   },
+  "Tainted Chaos Orb": {
+    "chaosPay": 68.34170854271356,
+    "chaosReceive": 95.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bd934ad92b/HellscapeChaosOrb.png"
+  },
   "Awakener's Orb": {
-    "chaosPay": 67.23186252428751,
+    "chaosPay": 67.98096532970767,
     "chaosReceive": 90.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVHJhbnNmZXJPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6db384ea6e/TransferOrb.png"
   },
-  "Tainted Chaos Orb": {
-    "chaosPay": 68.25116428456721,
-    "chaosReceive": 90.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNoYW9zT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bd934ad92b/HellscapeChaosOrb.png"
-  },
   "Prime Regrading Lens": {
     "chaosPay": 48.88939589003145,
-    "chaosReceive": 79.22222222222223,
+    "chaosReceive": 79.46666666666667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQWx0ZXJuYXRlU2tpbGxHZW1DdXJyZW5jeSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/723fd6fbdd/AlternateSkillGemCurrency.png"
   },
   "Elevated Sextant": {
     "chaosPay": 50.0,
-    "chaosReceive": 48.25,
+    "chaosReceive": 45.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXNSYWRpdXNUaWVyNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5aa797a16b/AtlasRadiusTier4.png"
   },
-  "Warlord's Exalted Orb": {
-    "chaosPay": 28.091465812686106,
+  "Redeemer's Exalted Orb": {
+    "chaosPay": 29.12989018031402,
     "chaosReceive": 35.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6157e9ce59/EyrieOrb.png"
+  },
+  "Warlord's Exalted Orb": {
+    "chaosPay": 28.446265005404793,
+    "chaosReceive": 34.64705882352941,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9Db25xdWVyb3JPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/14d882831a/ConquerorOrb.png"
   },
   "Crusader's Exalted Orb": {
     "chaosPay": 30.003000300030003,
-    "chaosReceive": 34.0,
+    "chaosReceive": 31.2,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9DcnVzYWRlck9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0449a66634/CrusaderOrb.png"
   },
-  "Eldritch Chaos Orb": {
-    "chaosPay": 27.502750275027502,
-    "chaosReceive": 34.35,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/afdc1d40be/EldritchChaosOrb.png"
-  },
-  "Redeemer's Exalted Orb": {
-    "chaosPay": 28.74219828955178,
-    "chaosReceive": 33.611111111111114,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSW5mbHVlbmNlIEV4YWx0cy9FeXJpZU9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6157e9ce59/EyrieOrb.png"
-  },
   "Exceptional Eldritch Ichor": {
-    "chaosPay": 22.33462523812652,
-    "chaosReceive": 30.0,
+    "chaosPay": 21.793139519679205,
+    "chaosReceive": 29.63157894736842,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1205e2c0a/TangleOrbRank4.png"
   },
   "Blessing of Chayula": {
-    "chaosPay": 20.829167499833368,
-    "chaosReceive": 29.0,
+    "chaosPay": 20.76067098488623,
+    "chaosReceive": 28.352941176470587,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/5542f2ce9a/BreachUpgraderChaos.png"
   },
   "Orb of Conflict": {
-    "chaosPay": 25.366224871583487,
-    "chaosReceive": 25.857142857142858,
+    "chaosPay": 25.800163401034872,
+    "chaosReceive": 27.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ29uZmxpY3RPcmJSYW5rMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e1919976c3/ConflictOrbRank1.png"
   },
   "Exceptional Eldritch Ember": {
-    "chaosPay": 17.759812740534464,
-    "chaosReceive": 25.0,
+    "chaosPay": 16.831317471375073,
+    "chaosReceive": 24.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbms0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/920113641f/CleansingFireOrbRank4.png"
   },
   "Comprehensive Scouting Report": {
     "chaosPay": 3.000030000300003,
-    "chaosReceive": 24.470588235294116,
+    "chaosReceive": 21.076923076923077,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
   "Eldritch Orb of Annulment": {
-    "chaosPay": 16.585948384528628,
-    "chaosReceive": 24.72222222222222,
+    "chaosPay": 16.416380011415697,
+    "chaosReceive": 20.666666666666668,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hBbm51bG1lbnRPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/cd03411d81/EldritchAnnulmentOrb.png"
   },
-  "Tainted Blessing": {
-    "chaosPay": 9.300664439467557,
-    "chaosReceive": 19.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFpbnRlZEJsZXNzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a712d4cf74/TaintedBlessing.png"
-  },
   "Ancient Orb": {
-    "chaosPay": 15.636389004491251,
-    "chaosReceive": 16.763965048731578,
+    "chaosPay": 15.679745474967998,
+    "chaosReceive": 17.055253619909504,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5jaWVudE9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/08feb97abf/AncientOrb.png"
   },
   "Tainted Mythic Orb": {
-    "chaosPay": 17.782594187602186,
-    "chaosReceive": 14.736842105263158,
+    "chaosPay": 17.591097145734544,
+    "chaosReceive": 14.526315789473685,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU15dGhpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3cc4ad8930/HellscapeMythicOrb.png"
   },
   "Exalted Orb": {
     "chaosPay": 12.000480019200769,
-    "chaosReceive": 13.282021160741053,
+    "chaosReceive": 14.039838542510122,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/b102771c23/CurrencyAddModToRare.png"
+  },
+  "Unstable Catalyst": {
+    "chaosPay": 10.909289259804725,
+    "chaosReceive": 12.6875,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NyaXRpY2FsTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/18e5522c0e/CriticalModifierCatalyst.png"
+  },
+  "Tainted Blessing": {
+    "chaosPay": 9.300664439467557,
+    "chaosReceive": 12.666666666666666,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFpbnRlZEJsZXNzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a712d4cf74/TaintedBlessing.png"
   },
   "Veiled Chaos Orb": {
     "chaosPay": 12.000480019200769,
-    "chaosReceive": 10.8,
+    "chaosReceive": 10.066666666666666,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVmVpbGVkQ2hhb3NPcmIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/fe00a81cbc/VeiledChaosOrb.png"
   },
-  "Eldritch Exalted Orb": {
-    "chaosPay": 10.150543241047087,
+  "Blessing of Uul-Netol": {
+    "chaosPay": 1.0,
     "chaosReceive": 10.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56026bffa3/EldritchExaltedOrb.png"
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7eab2a8de8/BreachUpgraderPhysical.png"
   },
   "Otherworldly Scouting Report": {
     "chaosPay": 6.992126865149841,
     "chaosReceive": 10.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
-  "Unstable Catalyst": {
-    "chaosPay": 11.03471106298751,
-    "chaosReceive": 9.833333333333334,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NyaXRpY2FsTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/18e5522c0e/CriticalModifierCatalyst.png"
-  },
-  "Blessing of Uul-Netol": {
-    "chaosPay": 1.0,
-    "chaosReceive": 9.235294117647058,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7eab2a8de8/BreachUpgraderPhysical.png"
-  },
-  "Blessing of Esh": {
-    "chaosPay": 1.0,
-    "chaosReceive": 9.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d12318c95b/BreachUpgraderLightning.png"
-  },
-  "Sacred Orb": {
-    "chaosPay": 59.98800239952009,
-    "chaosReceive": 2.368334705882353,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5a07465c5/SacredOrb.png"
-  },
   "Orb of Annulment": {
-    "chaosPay": 8.906991855001298,
-    "chaosReceive": 8.88889,
+    "chaosPay": 9.168003667201466,
+    "chaosReceive": 9.90476,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/88cfdbe1e5/AnnullOrb.png"
   },
   "Blessing of Tul": {
     "chaosPay": 1.0,
-    "chaosReceive": 8.0,
+    "chaosReceive": 8.916666666666666,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3f8a9bbe57/BreachUpgraderCold.png"
+  },
+  "Blessing of Esh": {
+    "chaosPay": 1.0,
+    "chaosReceive": 8.352941176470589,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/d12318c95b/BreachUpgraderLightning.png"
+  },
+  "Sacred Orb": {
+    "chaosPay": 59.98800239952009,
+    "chaosReceive": 0.01761375,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2FjcmVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f5a07465c5/SacredOrb.png"
   },
   "Delirious Scouting Report": {
     "chaosPay": 0,
-    "chaosReceive": 7.3,
+    "chaosReceive": 6.4375,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
   "Fertile Catalyst": {
-    "chaosPay": 4.52147701582517,
-    "chaosReceive": 6.0,
+    "chaosPay": 3.770162593917106,
+    "chaosReceive": 5.914287,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ZlcnRpbGVDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4b4ca5d929/FertileCatalyst.png"
   },
+  "Charged Compass": {
+    "chaosPay": 0,
+    "chaosReceive": 5.235294117647059,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hhcmdlZENvbXBhc3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea8fcc3e35/ChargedCompass.png"
+  },
   "Oil Extractor": {
-    "chaosPay": 4.653030837349633,
-    "chaosReceive": 5.35,
+    "chaosPay": 5.0232044137222776,
+    "chaosReceive": 5.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvT2lscy9JY2hvckV4dHJhY3RvciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/21d47cfba0/IchorExtractor.png"
+  },
+  "Blessing of Xoph": {
+    "chaosPay": 1.0,
+    "chaosReceive": 4.761907142857143,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f9d0f29f08/BreachUpgraderFire.png"
   },
   "Influenced Scouting Report": {
     "chaosPay": 3.8245159118984513,
-    "chaosReceive": 5.0,
+    "chaosReceive": 4.65,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Tainted Orb of Fusing": {
+    "chaosPay": 3.08088333637193,
+    "chaosReceive": 3.9817821052631577,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a97eb273c3/HellscapeOrbOfFusing.png"
+  },
+  "Eldritch Exalted Orb": {
+    "chaosPay": 10.367539648063499,
+    "chaosReceive": 3.9494933333333333,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hFeGFsdGVkT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56026bffa3/EldritchExaltedOrb.png"
+  },
+  "Blighted Scouting Report": {
+    "chaosPay": 0,
+    "chaosReceive": 3.727272727272727,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  },
+  "Singular Scouting Report": {
+    "chaosPay": 0,
+    "chaosReceive": 3.1111133333333334,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
   "Ritual Vessel": {
     "chaosPay": 5.9998800023999515,
-    "chaosReceive": 4.894737894736842,
+    "chaosReceive": 3.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUml0dWFsL0VmZmlneSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/445939b722/Effigy.png"
-  },
-  "Charged Compass": {
-    "chaosPay": 0,
-    "chaosReceive": 4.6923076923076925,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2hhcmdlZENvbXBhc3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ea8fcc3e35/ChargedCompass.png"
-  },
-  "Blessing of Xoph": {
-    "chaosPay": 1.0,
-    "chaosReceive": 4.6333365,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFVwZ3JhZGVyRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f9d0f29f08/BreachUpgraderFire.png"
-  },
-  "Prismatic Catalyst": {
-    "chaosPay": 10.0,
-    "chaosReceive": 4.111111111111111,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e51d41a0e/PrismaticCatalyst.png"
   },
   "Accelerating Catalyst": {
     "chaosPay": 3.508789165981868,
-    "chaosReceive": 3.8590466666666665,
+    "chaosReceive": 3.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1NwZWVkTW9kaWZpZXJDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/592075333a/SpeedModifierCatalyst.png"
   },
   "Tainted Chromatic Orb": {
-    "chaosPay": 2.395442271837451,
-    "chaosReceive": 3.5384623076923076,
+    "chaosPay": 1.805426351432891,
+    "chaosReceive": 3.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUNocm9tYXRpY09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0a50953c2/HellscapeChromaticOrb.png"
-  },
-  "Blighted Scouting Report": {
-    "chaosPay": 0,
-    "chaosReceive": 3.4705882352941178,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
-  },
-  "Awakened Sextant": {
-    "chaosPay": 3.2,
-    "chaosReceive": 3.2106666928,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXNSYWRpdXNUaWVyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/07377648d7/AtlasRadiusTier3.png"
-  },
-  "Tainted Orb of Fusing": {
-    "chaosPay": 3.08088333637193,
-    "chaosReceive": 3.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZU9yYk9mRnVzaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a97eb273c3/HellscapeOrbOfFusing.png"
-  },
-  "Grand Eldritch Ichor": {
-    "chaosPay": 2.2041198673854545,
-    "chaosReceive": 3.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/80772bd510/TangleOrbRank3.png"
   },
   "Operative's Scouting Report": {
     "chaosPay": 0,
     "chaosReceive": 3.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
-  "Grand Eldritch Ember": {
-    "chaosPay": 2.029784415528919,
-    "chaosReceive": 2.511939074333795,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65093ad252/CleansingFireOrbRank3.png"
+  "Awakened Sextant": {
+    "chaosPay": 3.0720183501896114,
+    "chaosReceive": 2.919043846153846,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXNSYWRpdXNUaWVyMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/07377648d7/AtlasRadiusTier3.png"
   },
-  "Singular Scouting Report": {
-    "chaosPay": 0,
-    "chaosReceive": 2.4583325,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
+  "Grand Eldritch Ichor": {
+    "chaosPay": 2.2109463956046387,
+    "chaosReceive": 2.6668123481781376,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/80772bd510/TangleOrbRank3.png"
+  },
+  "Grand Eldritch Ember": {
+    "chaosPay": 2.0335484658147793,
+    "chaosReceive": 2.347146384615385,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmszIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65093ad252/CleansingFireOrbRank3.png"
   },
   "Stacked Deck": {
     "chaosPay": 0,
-    "chaosReceive": 2.0111929988263157,
+    "chaosReceive": 1.9,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9EZWNrIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/962aa0e620/Deck.png"
   },
   "Harbinger's Orb": {
-    "chaosPay": 1.307690798818309,
-    "chaosReceive": 1.66,
+    "chaosPay": 1.3281229248079298,
+    "chaosReceive": 1.788568,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFyYmluZ2VyT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3e31090ea7/HarbingerOrb.png"
   },
-  "Greater Eldritch Ember": {
-    "chaosPay": 1.4099470938087564,
-    "chaosReceive": 1.36364,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/33fd210c40/CleansingFireOrbRank2.png"
+  "Surveyor's Compass": {
+    "chaosPay": 0.9107468123861566,
+    "chaosReceive": 1.710908,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU3VydmV5b3JzQ29tcGFzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e8443c2996/SurveyorsCompass.png"
+  },
+  "Tempering Catalyst": {
+    "chaosPay": 1.2000048000192,
+    "chaosReceive": 1.4722222222222223,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b6277022e/TemperingCatalyst.png"
+  },
+  "Eldritch Chaos Orb": {
+    "chaosPay": 27.51721849480815,
+    "chaosReceive": 0.03333,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRWxkcml0Y2hDaGFvc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/afdc1d40be/EldritchChaosOrb.png"
   },
   "Gemcutter's Prism": {
     "chaosPay": 1.1111111111111112,
-    "chaosReceive": 1.1308245706078948,
+    "chaosReceive": 1.4015382692307692,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lHZW1RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1be1273b91/CurrencyGemQuality.png"
+  },
+  "Greater Eldritch Ember": {
+    "chaosPay": 1.404381582764376,
+    "chaosReceive": 1.3401936842105264,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/33fd210c40/CleansingFireOrbRank2.png"
+  },
+  "Orb of Unmaking": {
+    "chaosPay": 0.8840250113407779,
+    "chaosReceive": 1.098536,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2ebb4b5a3/RegretOrb.png"
   },
   "Annulment Shard": {
     "chaosPay": 0,
     "chaosReceive": 1.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQW5udWxsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/f7a8a838a6/AnnullShard.png"
   },
-  "Tempering Catalyst": {
-    "chaosPay": 1.2424940159935072,
-    "chaosReceive": 1.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1RlbXBlcmluZ0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7b6277022e/TemperingCatalyst.png"
+  "Greater Eldritch Ichor": {
+    "chaosPay": 0.9814757423074242,
+    "chaosReceive": 0.99002,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37b581d6b1/TangleOrbRank2.png"
   },
   "Tainted Jeweller's Orb": {
     "chaosPay": 0.20202020202020202,
-    "chaosReceive": 0.9984863157894737,
+    "chaosReceive": 0.9670733333333333,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUpld2VsbGVyc09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/7ade99596b/HellscapeJewellersOrb.png"
   },
-  "Tainted Armourer's Scrap": {
-    "chaosPay": 0.7007231427797329,
-    "chaosReceive": 0.9983166666666666,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/05e0065a80/HellscapeArmourersScrap.png"
-  },
-  "Surveyor's Compass": {
-    "chaosPay": 0.9107468123861566,
-    "chaosReceive": 1.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU3VydmV5b3JzQ29tcGFzcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e8443c2996/SurveyorsCompass.png"
-  },
-  "Orb of Unmaking": {
-    "chaosPay": 0.8186126669538991,
-    "chaosReceive": 1.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvUmVncmV0T3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a2ebb4b5a3/RegretOrb.png"
-  },
-  "Greater Eldritch Ichor": {
-    "chaosPay": 0.9814757423074242,
-    "chaosReceive": 0.97225,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/37b581d6b1/TangleOrbRank2.png"
-  },
-  "Vaal Orb": {
-    "chaosPay": 0.5670103092783505,
-    "chaosReceive": 0.8315369230769231,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/304f775089/CurrencyVaal.png"
+  "Prismatic Catalyst": {
+    "chaosPay": 10.0,
+    "chaosReceive": 0.8383866666666666,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1ByaXNtYXRpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e51d41a0e/PrismaticCatalyst.png"
   },
   "Exalted Shard": {
     "chaosPay": 0.5999988000023999,
-    "chaosReceive": 0.7368421052631579,
+    "chaosReceive": 0.813332,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhhbHRlZFNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/a919870741/ExaltedShard.png"
   },
+  "Tainted Armourer's Scrap": {
+    "chaosPay": 0.7007231427797329,
+    "chaosReceive": 0.8,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUFybW91cmVyc1NjcmFwIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/05e0065a80/HellscapeArmourersScrap.png"
+  },
+  "Enkindling Orb": {
+    "chaosPay": 0.6129388531519052,
+    "chaosReceive": 0.7920593333333333,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c03aace282/FlaskPlate.png"
+  },
+  "Vaal Orb": {
+    "chaosPay": 0.5597014925373135,
+    "chaosReceive": 0.8043204858299595,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lWYWFsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/304f775089/CurrencyVaal.png"
+  },
   "Intrinsic Catalyst": {
-    "chaosPay": 0.5561988536046378,
-    "chaosReceive": 0.66667,
+    "chaosPay": 0.5730650651484721,
+    "chaosReceive": 0.7749747368421053,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ludHJpbnNpY0NhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/107ffb799e/IntrinsicCatalyst.png"
   },
   "Noxious Catalyst": {
-    "chaosPay": 0.6289308176100629,
+    "chaosPay": 0.5555555555555556,
     "chaosReceive": 0.66667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0NoYW9zUGh5c2ljYWxDYXRhbHlzdCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bbdf8917e4/ChaosPhysicalCatalyst.png"
   },
-  "Orb of Regret": {
-    "chaosPay": 0.425531914893617,
-    "chaosReceive": 0.6643533333333334,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6b8ab3ff07/CurrencyPassiveSkillRefund.png"
+  "Regal Orb": {
+    "chaosPay": 0.5,
+    "chaosReceive": 0.61264,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/898378b439/CurrencyUpgradeMagicToRare.png"
   },
-  "Enkindling Orb": {
-    "chaosPay": 0.6422530507442445,
-    "chaosReceive": 0.57143,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza1BsYXRlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c03aace282/FlaskPlate.png"
+  "Orb of Regret": {
+    "chaosPay": 0.42051162247401,
+    "chaosReceive": 0.62188,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQYXNzaXZlU2tpbGxSZWZ1bmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6b8ab3ff07/CurrencyPassiveSkillRefund.png"
   },
   "Explorer's Scouting Report": {
     "chaosPay": 0.5,
-    "chaosReceive": 0.582735,
+    "chaosReceive": 0.57857,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
-  },
-  "Regal Orb": {
-    "chaosPay": 0.5029781601588352,
-    "chaosReceive": 0.5530888888888889,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlTWFnaWNUb1JhcmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/898378b439/CurrencyUpgradeMagicToRare.png"
   },
   "Lesser Eldritch Ember": {
-    "chaosPay": 0.2671428933979641,
-    "chaosReceive": 0.5441,
+    "chaosPay": 0.24605276010913918,
+    "chaosReceive": 0.55556,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2xlYW5zaW5nRmlyZU9yYlJhbmsxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/62c98f8357/CleansingFireOrbRank1.png"
-  },
-  "Vaal Scouting Report": {
-    "chaosPay": 0,
-    "chaosReceive": 0.52632,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
   "Turbulent Catalyst": {
     "chaosPay": 0.5,
     "chaosReceive": 0.5,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL1R1cmJ1bGVudENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fc41fe8950/TurbulentCatalyst.png"
   },
-  "Blessed Orb": {
-    "chaosPay": 0.2932550459662622,
-    "chaosReceive": 0.37705,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3cbf3e5ab/CurrencyImplicitMod.png"
+  "Vaal Scouting Report": {
+    "chaosPay": 0,
+    "chaosReceive": 0.45416666666666666,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvU2NvdXRpbmdSZXBvcnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/584635f3c8/ScoutingReport.png"
   },
   "Orb of Scouring": {
-    "chaosPay": 0.29821094308912544,
-    "chaosReceive": 0.3341175465792105,
+    "chaosPay": 0.2892561983471074,
+    "chaosReceive": 0.37646953846153847,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lDb252ZXJ0VG9Ob3JtYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6953e90545/CurrencyConvertToNormal.png"
   },
+  "Blessed Orb": {
+    "chaosPay": 0.26753853312902903,
+    "chaosReceive": 0.3358975,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJbXBsaWNpdE1vZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c3cbf3e5ab/CurrencyImplicitMod.png"
+  },
   "Imbued Catalyst": {
-    "chaosPay": 0.35714285714285715,
+    "chaosPay": 0.33375720498366257,
     "chaosReceive": 0.33333,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0ltYnVlZENhdGFseXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/9053293cf6/ImbuedCatalyst.png"
   },
   "Abrasive Catalyst": {
-    "chaosPay": 0.1,
+    "chaosPay": 0,
     "chaosReceive": 0.33333,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ2F0YWx5c3RzL0FicmFzaXZlQ2F0YWx5c3QiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c4e7f7f379/AbrasiveCatalyst.png"
   },
   "Instilling Orb": {
-    "chaosPay": 0.16652789342214822,
-    "chaosReceive": 0.33333,
+    "chaosPay": 0.16752069373275522,
+    "chaosReceive": 0.3327423529411765,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRXhwZWRpdGlvbi9GbGFza0luamVjdG9yIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/08e3793591/FlaskInjector.png"
   },
   "Lesser Eldritch Ichor": {
-    "chaosPay": 0.18599562363238512,
-    "chaosReceive": 0.300075,
+    "chaosPay": 0.1797752808988764,
+    "chaosReceive": 0.29703,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvVGFuZ2xlT3JiUmFuazEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3135dab202/TangleOrbRank1.png"
-  },
-  "Engineer's Orb": {
-    "chaosPay": 0,
-    "chaosReceive": 0.19966333333333333,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRW5naW5lZXJzT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56b41a5ee5/EngineersOrb.png"
   },
   "Tainted Blacksmith's Whetstone": {
     "chaosPay": 0.05025125628140704,
-    "chaosReceive": 0.20381066666666667,
+    "chaosReceive": 0.21429,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGVsbHNjYXBlL0hlbGxzY2FwZUJsYWNrc21pdGhXaGV0c3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1551a2a62/HellscapeBlacksmithWhetstone.png"
-  },
-  "Orb of Alteration": {
-    "chaosPay": 0.15167930660888407,
-    "chaosReceive": 0.1708997666119883,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/28212545fd/CurrencyRerollMagic.png"
   },
   "Orb of Horizons": {
     "chaosPay": 0.22094869847407303,
-    "chaosReceive": 0.16667,
+    "chaosReceive": 0.18158235294117647,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSG9yaXpvbk9yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a48e326c68/HorizonOrb.png"
   },
-  "Chromatic Orb": {
-    "chaosPay": 0.1,
-    "chaosReceive": 0.13348,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/136314c10a/CurrencyRerollSocketColours.png"
+  "Orb of Alteration": {
+    "chaosPay": 0.15592515592515593,
+    "chaosReceive": 0.16969307692307692,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxNYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/28212545fd/CurrencyRerollMagic.png"
   },
   "Orb of Fusing": {
-    "chaosPay": 0.12269938650306748,
-    "chaosReceive": 0.12522807119473683,
+    "chaosPay": 0.12305699481865284,
+    "chaosReceive": 0.14219,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRMaW5rcyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/f38529edfc/CurrencyRerollSocketLinks.png"
   },
+  "Chromatic Orb": {
+    "chaosPay": 0.10191602119853242,
+    "chaosReceive": 0.14286,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXRDb2xvdXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/136314c10a/CurrencyRerollSocketColours.png"
+  },
+  "Engineer's Orb": {
+    "chaosPay": 0,
+    "chaosReceive": 0.142145,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvRW5naW5lZXJzT3JiIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/56b41a5ee5/EngineersOrb.png"
+  },
   "Cartographer's Chisel": {
-    "chaosPay": 0.06909380813180974,
+    "chaosPay": 0.06666666666666667,
     "chaosReceive": 0.11111,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lNYXBRdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c83c35bed5/CurrencyMapQuality.png"
   },
   "Glassblower's Bauble": {
     "chaosPay": 0.056735353216973324,
-    "chaosReceive": 0.11042375,
+    "chaosReceive": 0.1,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lGbGFza1F1YWxpdHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/8a36dffe11/CurrencyFlaskQuality.png"
   },
   "Orb of Alchemy": {
-    "chaosPay": 0.0688360450563204,
-    "chaosReceive": 0.096085,
+    "chaosPay": 0.0611353711790393,
+    "chaosReceive": 0.098776,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9SYXJlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f0dc27cd7c/CurrencyUpgradeToRare.png"
   },
   "Vivid Crystallised Lifeforce": {
-    "chaosPay": 0.06820565200301112,
-    "chaosReceive": 0.08742296689569377,
+    "chaosPay": 0.06696428272480881,
+    "chaosReceive": 0.09091,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9WaXZpZExpZmVmb3JjZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/9e3d712362/VividLifeforce.png"
   },
   "Orb of Chance": {
-    "chaosPay": 0.0599999880000024,
+    "chaosPay": 0.06022104566987691,
     "chaosReceive": 0.06667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlUmFuZG9tbHkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/eaeece27be/CurrencyUpgradeRandomly.png"
   },
   "Orb of Binding": {
-    "chaosPay": 0.10381868050838222,
-    "chaosReceive": 0.06667,
+    "chaosPay": 0.07489731764993487,
+    "chaosReceive": 0.06672769230769231,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQmluZGluZ09yYiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/66ef64410c/BindingOrb.png"
+  },
+  "Jeweller's Orb": {
+    "chaosPay": 0.02943557050709195,
+    "chaosReceive": 0.05405,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/685633cb14/CurrencyRerollSocketNumbers.png"
   },
   "Orb of Augmentation": {
     "chaosPay": 0.041666666666666664,
-    "chaosReceive": 0.05950428571428571,
+    "chaosReceive": 0.053509,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lBZGRNb2RUb01hZ2ljIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/1a6cb2ad17/CurrencyAddModToMagic.png"
   },
-  "Jeweller's Orb": {
-    "chaosPay": 0.028985507246376812,
-    "chaosReceive": 0.05556,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lSZXJvbGxTb2NrZXROdW1iZXJzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/685633cb14/CurrencyRerollSocketNumbers.png"
-  },
   "Wild Crystallised Lifeforce": {
-    "chaosPay": 0.030419017787406577,
-    "chaosReceive": 0.03319298272631579,
+    "chaosPay": 0.028874830773279285,
+    "chaosReceive": 0.03248538461538462,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9XaWxkTGlmZWZvcmNlIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/facb3683d5/WildLifeforce.png"
   },
   "Portal Scroll": {
     "chaosPay": 0,
-    "chaosReceive": 0.016142631578947367,
+    "chaosReceive": 0.01667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lQb3J0YWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/a55c72f398/CurrencyPortal.png"
   },
   "Primal Crystallised Lifeforce": {
-    "chaosPay": 0.02501141145647702,
-    "chaosReceive": 0.023197368609868423,
+    "chaosPay": 0.025008038298024365,
+    "chaosReceive": 0.0246245,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvSGFydmVzdC9QcmltYWxMaWZlZm9yY2UiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d5d53c61c3/PrimalLifeforce.png"
   },
   "Orb of Transmutation": {
     "chaosPay": 0.0058823529411764705,
-    "chaosReceive": 0.00833,
+    "chaosReceive": 0.00802,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lVcGdyYWRlVG9NYWdpYyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/130762c82d/CurrencyUpgradeToMagic.png"
   },
   "Scroll of Wisdom": {
     "chaosPay": 0,
-    "chaosReceive": 0.006036315789473684,
+    "chaosReceive": 0.00667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lJZGVudGlmaWNhdGlvbiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/3a1e615322/CurrencyIdentification.png"
   },
   "Blacksmith's Whetstone": {
     "chaosPay": 0.00125,
-    "chaosReceive": 0.00556,
+    "chaosReceive": 0.00828578947368421,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQ3VycmVuY3lXZWFwb25RdWFsaXR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c874e03eb7/CurrencyWeaponQuality.png"
   },
   "Archive Reliquary Key": {
     "chaosPay": 0,
-    "chaosReceive": 980.7017623684211,
+    "chaosReceive": 928.1538461538462,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TZWFyaW5nRXhhcmNoRm9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/bb895c1f5d/SearingExarchFoil.png"
   },
   "Visceral Reliquary Key": {
     "chaosPay": 0,
-    "chaosReceive": 931.66667425,
+    "chaosReceive": 924.7343319838056,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FYXRlck9mV29ybGRzRm9pbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/b57140936b/EaterOfWorldsFoil.png"
   },
   "Oubliette Reliquary Key": {
     "chaosPay": 0,
-    "chaosReceive": 905.2631652631579,
+    "chaosReceive": 773.4615384615385,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaXJ1c0ZvaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7e611a9eb0/SirusFoil.png"
   },
   "Cosmic Reliquary Key": {
     "chaosPay": 0,
-    "chaosReceive": 520.5263200263158,
+    "chaosReceive": 464.0769230769231,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaGFwZXJGb2lsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/71325272ad/ShaperFoil.png"
-  },
-  "Gift to the Goddess": {
-    "chaosPay": 181.07741059302853,
-    "chaosReceive": 241.20300920300753,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/95aadb1d9f/LabyrinthHarvestInfused1.png"
-  },
-  "Chayula's Flawless Breachstone": {
-    "chaosPay": 0,
-    "chaosReceive": 226.31579131578948,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzRmxhd2xlc3NCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0d6f8da0ec/ChayulasFlawlessBreachstone.png"
-  },
-  "Shiny Reliquary Key": {
-    "chaosPay": 0,
-    "chaosReceive": 221.60087899671052,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXZlbkZvaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/114c341a3c/MavenFoil.png"
   },
   "Einhar's Memory": {
     "chaosPay": 0,
-    "chaosReceive": 221.4219765096953,
+    "chaosReceive": 309.38461538461536,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9FaW5oYXJNZW1vcnlJdGVtIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5e4c7a8f89/EinharMemoryItem.png"
+  },
+  "Gift to the Goddess": {
+    "chaosPay": 189.7343718793689,
+    "chaosReceive": 247.5076923076923,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/95aadb1d9f/LabyrinthHarvestInfused1.png"
+  },
+  "Shiny Reliquary Key": {
+    "chaosPay": 0,
+    "chaosReceive": 232.03846153846155,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXZlbkZvaWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/114c341a3c/MavenFoil.png"
+  },
+  "Chayula's Flawless Breachstone": {
+    "chaosPay": 0,
+    "chaosReceive": 219.01174089068826,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzRmxhd2xlc3NCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/0d6f8da0ec/ChayulasFlawlessBreachstone.png"
   },
   "Esh's Flawless Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 150.35087768421053,
+    "chaosReceive": 130.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNGbGF3bGVzc0JyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b2fe284562/EshsFlawlessBreachstone.png"
   },
-  "The Maven's Writ": {
-    "chaosPay": 120.04801920768307,
-    "chaosReceive": 117.57142857142857,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad4c12144c/MavenKey.png"
+  "Uul-Netol's Flawless Breachstone": {
+    "chaosPay": 0,
+    "chaosReceive": 126.63888888888889,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc0ZsYXdsZXNzQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/22915fdf3f/UulNetolsFlawlessBreachstone.png"
   },
   "Tul's Flawless Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 113.0,
+    "chaosReceive": 120.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNGbGF3bGVzc0JyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/3a646b7375/TulsFlawlessBreachstone.png"
+  },
+  "The Maven's Writ": {
+    "chaosPay": 120.04801920768307,
+    "chaosReceive": 115.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ad4c12144c/MavenKey.png"
   },
   "Chayula's Pure Breachstone": {
     "chaosPay": 82.44057065363006,
-    "chaosReceive": 110.0,
+    "chaosReceive": 114.2,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzUHVyZUJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/990514c659/ChayulasPureBreachstone.png"
   },
   "Xoph's Flawless Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 99.95,
+    "chaosReceive": 100.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzRmxhd2xlc3NCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ed1fa03ff6/XophsFlawlessBreachstone.png"
   },
   "Chayula's Enriched Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 99.75,
+    "chaosReceive": 93.23529411764706,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzRW5yaWNoZWRCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/84053be861/ChayulasEnrichedBreachstone.png"
   },
   "Chayula's Charged Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 89.2375,
+    "chaosReceive": 89.9,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0NoYXl1bGFzQ2hhcmdlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df8ac77370/ChayulasChargedBreachstone.png"
   },
+  "Fragment of Knowledge": {
+    "chaosPay": 57.63356578871535,
+    "chaosReceive": 74.85,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a2bab8955/UberElder04.png"
+  },
   "Fragment of Shape": {
-    "chaosPay": 57.56857433118862,
-    "chaosReceive": 79.73684210526316,
+    "chaosPay": 57.63356578871535,
+    "chaosReceive": 73.47368421052632,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/dd71531c9f/UberElder03.png"
   },
   "Chayula's Breachstone": {
     "chaosPay": 57.361376673040155,
-    "chaosReceive": 74.13333333333334,
+    "chaosReceive": 70.57894736842105,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NoYW9zIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/04b5c032f4/BreachFragmentsChaos.png"
   },
-  "Fragment of Knowledge": {
-    "chaosPay": 57.56857433118862,
-    "chaosReceive": 73.89473684210526,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwNCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a2bab8955/UberElder04.png"
-  },
   "Dedication to the Goddess": {
-    "chaosPay": 55.92657170115472,
-    "chaosReceive": 69.63157894736842,
+    "chaosPay": 50.57196896903984,
+    "chaosReceive": 70.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0SW5mdXNlZDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/3e8b597bd1/LabyrinthHarvestInfused2.png"
   },
-  "Timeless Maraketh Emblem": {
-    "chaosPay": 41.962238181860144,
-    "chaosReceive": 68.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aEZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7c42d58a5e/MarakethFragment.png"
-  },
   "Simulacrum": {
-    "chaosPay": 47.42001260017478,
-    "chaosReceive": 63.466664,
+    "chaosPay": 54.16120541178764,
+    "chaosReceive": 63.48147888888889,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/92fba984ee/DeliriumFragment.png"
   },
   "Uul-Netol's Pure Breachstone": {
     "chaosPay": 30.003000300030003,
-    "chaosReceive": 62.0,
+    "chaosReceive": 63.285714285714285,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc1B1cmVCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e90400edd6/UulNetolsPureBreachstone.png"
+  },
+  "Timeless Maraketh Emblem": {
+    "chaosPay": 41.962238181860144,
+    "chaosReceive": 60.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aEZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/7c42d58a5e/MarakethFragment.png"
   },
   "Unrelenting Timeless Maraketh Emblem": {
     "chaosPay": 0,
-    "chaosReceive": 40.0,
+    "chaosReceive": 42.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0TWFyYWtldGgiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/31d3f4f939/TimelessConflictMaraketh.png"
   },
   "Xoph's Pure Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 39.8421052631579,
+    "chaosReceive": 39.76470588235294,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzUHVyZUJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/901eb67c3b/XophsPureBreachstone.png"
   },
   "Uul-Netol's Enriched Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 39.775,
+    "chaosReceive": 39.62222222222222,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1V1bE5ldG9sc0VucmljaGVkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7aca605592/UulNetolsEnrichedBreachstone.png"
   },
   "Uul-Netol's Charged Breachstone": {
@@ -656,7 +661,7 @@
   },
   "Tul's Enriched Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 34.0,
+    "chaosReceive": 34.275,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNFbnJpY2hlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e3f127ab77/TulsEnrichedBreachstone.png"
   },
   "Xoph's Enriched Breachstone": {
@@ -664,65 +669,60 @@
     "chaosReceive": 30.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzRW5yaWNoZWRCcmVhY2hzdG9uZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/cc980d1aa4/XophsEnrichedBreachstone.png"
   },
-  "Esh's Enriched Breachstone": {
-    "chaosPay": 0,
-    "chaosReceive": 29.22,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNFbnJpY2hlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fbc839157e/EshsEnrichedBreachstone.png"
-  },
   "Unrelenting Timeless Eternal Emblem": {
     "chaosPay": 0,
-    "chaosReceive": 28.916666666666668,
+    "chaosReceive": 30.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0S2FydWkiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/d7f863e549/TimelessConflictKarui.png"
+  },
+  "Esh's Enriched Breachstone": {
+    "chaosPay": 0,
+    "chaosReceive": 28.41176470588235,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0VzaHNFbnJpY2hlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/fbc839157e/EshsEnrichedBreachstone.png"
   },
   "Fragment of Terror": {
     "chaosPay": 18.053800324968407,
-    "chaosReceive": 27.3,
+    "chaosReceive": 25.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/061cd63c5e/UberElder01.png"
   },
   "Fragment of Emptiness": {
     "chaosPay": 18.053800324968407,
-    "chaosReceive": 25.7,
+    "chaosReceive": 24.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyRWxkZXIwMiIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ced2590995/UberElder02.png"
-  },
-  "Xoph's Charged Breachstone": {
-    "chaosPay": 0,
-    "chaosReceive": 21.3,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzQ2hhcmdlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f7a05e5bb1/XophsChargedBreachstone.png"
-  },
-  "Fragment of Eradication": {
-    "chaosPay": 4.106776180698152,
-    "chaosReceive": 18.94736842105263,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/22a9d1257c/AtlasMapGuardianLightning.png"
-  },
-  "Niko's Memory": {
-    "chaosPay": 0,
-    "chaosReceive": 18.15,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9OaWtvTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5c560ea8fd/NikoMemoryItem.png"
-  },
-  "Tul's Charged Breachstone": {
-    "chaosPay": 0,
-    "chaosReceive": 18.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNDaGFyZ2VkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/63ee33df22/TulsChargedBreachstone.png"
   },
   "Uul-Netol's Breachstone": {
     "chaosPay": 18.740629685157423,
-    "chaosReceive": 17.607411333333335,
+    "chaosReceive": 22.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c1BoeXNpY2FsIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/2ab646ae46/BreachFragmentsPhysical.png"
   },
-  "Timeless Templar Emblem": {
-    "chaosPay": 12.554745297256723,
-    "chaosReceive": 17.23076923076923,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e31c7a2a1e/TemplarFragment.png"
+  "Xoph's Charged Breachstone": {
+    "chaosPay": 0,
+    "chaosReceive": 20.73846153846154,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1hvcGhzQ2hhcmdlZEJyZWFjaHN0b25lIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f7a05e5bb1/XophsChargedBreachstone.png"
+  },
+  "Tribute to the Goddess": {
+    "chaosPay": 17.702066762878953,
+    "chaosReceive": 20.25,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cfaffbce/LabyrinthHarvest.png"
   },
   "Mortal Ignorance": {
     "chaosPay": 20.999580008399832,
-    "chaosReceive": 15.689656,
+    "chaosReceive": 19.157894736842106,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAzIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e5a689eea8/UberVaal03.png"
   },
-  "Kirac's Memory": {
+  "Tul's Charged Breachstone": {
     "chaosPay": 0,
-    "chaosReceive": 15.4,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9LaXJhY01lbW9yeUl0ZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/def36e7b78/KiracMemoryItem.png"
+    "chaosReceive": 17.66875,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL1R1bHNDaGFyZ2VkQnJlYWNoc3RvbmUiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/63ee33df22/TulsChargedBreachstone.png"
+  },
+  "Alva's Memory": {
+    "chaosPay": 0,
+    "chaosReceive": 17.25,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9BbHZhTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5adc01981d/AlvaMemoryItem.png"
+  },
+  "Niko's Memory": {
+    "chaosPay": 0,
+    "chaosReceive": 16.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9OaWtvTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5c560ea8fd/NikoMemoryItem.png"
   },
   "Esh's Charged Breachstone": {
     "chaosPay": 0,
@@ -731,32 +731,42 @@
   },
   "Unrelenting Timeless Vaal Emblem": {
     "chaosPay": 0,
-    "chaosReceive": 15.0,
+    "chaosReceive": 14.885,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0VmFhbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/2245d648ba/TimelessConflictVaal.png"
   },
-  "Alva's Memory": {
+  "Kirac's Memory": {
     "chaosPay": 0,
-    "chaosReceive": 15.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9BbHZhTWVtb3J5SXRlbSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/5adc01981d/AlvaMemoryItem.png"
+    "chaosReceive": 14.857142857142858,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvTWVtb3J5TGluZS9LaXJhY01lbW9yeUl0ZW0iLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/def36e7b78/KiracMemoryItem.png"
   },
-  "Fragment of Constriction": {
-    "chaosPay": 7.729060365249629,
-    "chaosReceive": 13.789473684210526,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuSG9seSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ade615a113/AtlasMapGuardianHoly.png"
+  "Fragment of Eradication": {
+    "chaosPay": 2.0,
+    "chaosReceive": 14.703706666666667,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/22a9d1257c/AtlasMapGuardianLightning.png"
   },
-  "Fragment of Enslavement": {
-    "chaosPay": 8.375587396229962,
-    "chaosReceive": 13.78125,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6327dee00e/AtlasMapGuardianFire.png"
+  "Timeless Templar Emblem": {
+    "chaosPay": 12.554745297256723,
+    "chaosReceive": 14.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/e31c7a2a1e/TemplarFragment.png"
   },
   "Fragment of Purification": {
-    "chaosPay": 7.729060365249629,
-    "chaosReceive": 13.7833355,
+    "chaosPay": 6.66671111140741,
+    "chaosReceive": 12.423076923076923,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/767832e457/AtlasMapGuardianChaos.png"
+  },
+  "Fragment of Enslavement": {
+    "chaosPay": 6.656546497142178,
+    "chaosReceive": 11.481478888888889,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6327dee00e/AtlasMapGuardianFire.png"
+  },
+  "Fragment of Constriction": {
+    "chaosPay": 6.66671111140741,
+    "chaosReceive": 11.31578947368421,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcEd1YXJkaWFuSG9seSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ade615a113/AtlasMapGuardianHoly.png"
   },
   "Crescent Splinter": {
     "chaosPay": 9.352152982518488,
-    "chaosReceive": 11.454545454545455,
+    "chaosReceive": 10.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQXRsYXMvTWF2ZW5LZXlGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/1782453393/MavenKeyFragment.png"
   },
   "Unrelenting Timeless Templar Emblem": {
@@ -764,35 +774,35 @@
     "chaosReceive": 10.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0VGVtcGxhciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4e0d302db8/TimelessConflictTemplar.png"
   },
-  "Mortal Rage": {
-    "chaosPay": 3.3999728002175984,
-    "chaosReceive": 9.95,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e9822853c/UberVaal01.png"
+  "Al-Hezmin's Crest": {
+    "chaosPay": 9.529456609207573,
+    "chaosReceive": 10.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9IdW50ZXJGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a1c79a0f7/HunterFragment.png"
   },
-  "Fragment of the Chimera": {
-    "chaosPay": 7.671182436060694,
-    "chaosReceive": 9.754388421052631,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRDaGltZXJhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df51d0bd7a/FragmentChimera.png"
-  },
-  "Fragment of the Minotaur": {
-    "chaosPay": 5.865854363154457,
-    "chaosReceive": 9.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRNaW5vdGF1ciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a6307f6cc9/FragmentMinotaur.png"
+  "Baran's Crest": {
+    "chaosPay": 9.529456609207573,
+    "chaosReceive": 10.0,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVzYWRlckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83e0f167f2/CrusaderFragment.png"
   },
   "Drox's Crest": {
     "chaosPay": 9.529456609207573,
-    "chaosReceive": 9.0,
+    "chaosReceive": 10.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9XYXJsb3JkRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/863882aba2/WarlordFragment.png"
   },
   "Veritania's Crest": {
     "chaosPay": 9.529456609207573,
-    "chaosReceive": 8.696968181818182,
+    "chaosReceive": 10.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9SZWRlZW1lckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/5416c38a70/RedeemerFragment.png"
   },
-  "Fragment of the Phoenix": {
+  "Fragment of the Chimera": {
+    "chaosPay": 7.671182436060694,
+    "chaosReceive": 9.688891666666667,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRDaGltZXJhIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/df51d0bd7a/FragmentChimera.png"
+  },
+  "Fragment of the Minotaur": {
     "chaosPay": 5.865854363154457,
-    "chaosReceive": 7.5,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRQaG9lbml4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bf64bb03f8/FragmentPhoenix.png"
+    "chaosReceive": 8.883331,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRNaW5vdGF1ciIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/a6307f6cc9/FragmentMinotaur.png"
   },
   "Xoph's Breachstone": {
     "chaosPay": 3.000030000300003,
@@ -801,68 +811,48 @@
   },
   "Unrelenting Timeless Karui Emblem": {
     "chaosPay": 0,
-    "chaosReceive": 6.944444444444445,
+    "chaosReceive": 7.0,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UaW1lbGVzc0NvbmZsaWN0RXRlcm5hbCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/6a6e66a71c/TimelessConflictEternal.png"
-  },
-  "Esh's Breachstone": {
-    "chaosPay": 5.615182204863684,
-    "chaosReceive": 6.803569,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0xpZ2h0bmluZyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e66ff540ed/BreachFragmentsLightning.png"
-  },
-  "Fragment of the Hydra": {
-    "chaosPay": 5.865854363154457,
-    "chaosReceive": 5.7894736842105265,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRIeWRyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/16cec8bced/FragmentHydra.png"
-  },
-  "Al-Hezmin's Crest": {
-    "chaosPay": 9.529456609207573,
-    "chaosReceive": 5.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9IdW50ZXJGcmFnbWVudCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/4a1c79a0f7/HunterFragment.png"
-  },
-  "Timeless Vaal Emblem": {
-    "chaosPay": 4.2373204541390574,
-    "chaosReceive": 4.846937857142857,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7b02499e4e/VaalFragment.png"
   },
   "Tul's Breachstone": {
     "chaosPay": 3.000030000300003,
-    "chaosReceive": 4.421052631578948,
+    "chaosReceive": 5.727272,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0NvbGQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/210fc3b508/BreachFragmentsCold.png"
+  },
+  "Timeless Vaal Emblem": {
+    "chaosPay": 4.2373204541390574,
+    "chaosReceive": 5.464394736842105,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/7b02499e4e/VaalFragment.png"
+  },
+  "Esh's Breachstone": {
+    "chaosPay": 5.615182204863684,
+    "chaosReceive": 5.128654736842106,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaEZyYWdtZW50c0xpZ2h0bmluZyIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/e66ff540ed/BreachFragmentsLightning.png"
+  },
+  "Mortal Rage": {
+    "chaosPay": 3.3999728002175984,
+    "chaosReceive": 4.179927647058824,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAxIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/0e9822853c/UberVaal01.png"
   },
   "Mortal Hope": {
     "chaosPay": 3.5696437495537947,
-    "chaosReceive": 3.9400973684210525,
+    "chaosReceive": 3.9696966666666667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDAyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/c2c9f83dcd/UberVaal02.png"
   },
   "Mortal Grief": {
     "chaosPay": 2.5999688003743953,
-    "chaosReceive": 3.6345717647058824,
+    "chaosReceive": 3.689799285714286,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9VYmVyVmFhbDA0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/aa109d2841/UberVaal04.png"
   },
   "Divine Vessel": {
     "chaosPay": 1.0,
-    "chaosReceive": 2.0,
+    "chaosReceive": 0.9790207692307692,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9TaW5GbGFza0VtcHR5IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/65ed329fe5/SinFlaskEmpty.png"
-  },
-  "Timeless Eternal Emblem": {
-    "chaosPay": 1.3333333333333333,
-    "chaosReceive": 2.0,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1776eeb6b/EternalEmpireFragment.png"
-  },
-  "Baran's Crest": {
-    "chaosPay": 9.529456609207573,
-    "chaosReceive": 1.2252746153846155,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9DcnVzYWRlckZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/83e0f167f2/CrusaderFragment.png"
   },
   "Timeless Maraketh Splinter": {
     "chaosPay": 0,
-    "chaosReceive": 0.7383133333333334,
+    "chaosReceive": 0.7540484210526316,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9NYXJha2V0aFNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/06ccc00c64/MarakethShard.png"
-  },
-  "Sacrifice at Midnight": {
-    "chaosPay": 0.2,
-    "chaosReceive": 0.6809144444444445,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/005d9c56bb/Vaal01.png"
   },
   "Offering to the Goddess": {
     "chaosPay": 0.25,
@@ -871,47 +861,77 @@
   },
   "Splinter of Chayula": {
     "chaosPay": 0.5,
-    "chaosReceive": 0.6592288235294118,
+    "chaosReceive": 0.66667,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ2hhb3MiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/873da59e9c/BreachShardChaos.png"
-  },
-  "Splinter of Uul-Netol": {
-    "chaosPay": 0,
-    "chaosReceive": 0.60779,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/310aff1de6/BreachShardPhysical.png"
   },
   "Timeless Templar Splinter": {
     "chaosPay": 0,
-    "chaosReceive": 0.604641,
+    "chaosReceive": 0.60963,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9UZW1wbGFyU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/1c070c1aa4/TemplarShard.png"
+  },
+  "Splinter of Uul-Netol": {
+    "chaosPay": 0,
+    "chaosReceive": 0.5597707692307692,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkUGh5c2ljYWwiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/310aff1de6/BreachShardPhysical.png"
+  },
+  "Fragment of the Phoenix": {
+    "chaosPay": 5.865854363154457,
+    "chaosReceive": 0.531250625,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRQaG9lbml4IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/bf64bb03f8/FragmentPhoenix.png"
+  },
+  "Sacrifice at Midnight": {
+    "chaosPay": 0.2,
+    "chaosReceive": 0.47778,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDEiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/005d9c56bb/Vaal01.png"
+  },
+  "Timeless Eternal Emblem": {
+    "chaosPay": 1.3333333333333333,
+    "chaosReceive": 0.43235,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlRnJhZ21lbnQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/c1776eeb6b/EternalEmpireFragment.png"
+  },
+  "Fragment of the Hydra": {
+    "chaosPay": 5.865854363154457,
+    "chaosReceive": 0.37,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9BdGxhc01hcHMvRnJhZ21lbnRIeWRyYSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/16cec8bced/FragmentHydra.png"
   },
   "Sacrifice at Noon": {
     "chaosPay": 0.11594202898550725,
     "chaosReceive": 0.33333,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDMiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/85d03a6bbf/Vaal03.png"
   },
-  "Simulacrum Splinter": {
-    "chaosPay": 0.14285714285714285,
-    "chaosReceive": 0.332964,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ae73b9445e/DeliriumSplinter.png"
-  },
   "Timeless Karui Emblem": {
     "chaosPay": 0.9090909090909091,
-    "chaosReceive": 0.31111,
+    "chaosReceive": 0.32407166666666665,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aUZyYWdtZW50IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f05377f6c7/KaruiFragment.png"
   },
   "Sacrifice at Dawn": {
     "chaosPay": 0.11594202898550725,
-    "chaosReceive": 0.27541666666666664,
+    "chaosReceive": 0.3050922222222222,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDIiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/2e0739455f/Vaal02.png"
+  },
+  "Simulacrum Splinter": {
+    "chaosPay": 0.14285714285714285,
+    "chaosReceive": 0.274056,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9EZWxpcml1bVNwbGludGVyIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/ae73b9445e/DeliriumSplinter.png"
   },
   "Splinter of Xoph": {
     "chaosPay": 0,
-    "chaosReceive": 0.1406021052631579,
+    "chaosReceive": 0.1682788888888889,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkRmlyZSIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/c0deb5799d/BreachShardFire.png"
+  },
+  "Timeless Eternal Empire Splinter": {
+    "chaosPay": 0,
+    "chaosReceive": 0.1650025,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ee92812083/EternalEmpireShard.png"
+  },
+  "Splinter of Tul": {
+    "chaosPay": 0,
+    "chaosReceive": 0.14211947368421052,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ef894cc215/BreachShardCold.png"
   },
   "Splinter of Esh": {
     "chaosPay": 0,
-    "chaosReceive": 0.140429,
+    "chaosReceive": 0.14286,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkTGlnaHRuaW5nIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/de619878b0/BreachShardLightning.png"
   },
   "Timeless Karui Splinter": {
@@ -919,29 +939,14 @@
     "chaosReceive": 0.14286,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9LYXJ1aVNoYXJkIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/e9c55ce439/KaruiShard.png"
   },
-  "Timeless Eternal Empire Splinter": {
+  "Timeless Vaal Splinter": {
     "chaosPay": 0,
-    "chaosReceive": 0.14168235294117648,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9FdGVybmFsRW1waXJlU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/ee92812083/EternalEmpireShard.png"
-  },
-  "Splinter of Tul": {
-    "chaosPay": 0,
-    "chaosReceive": 0.13176636363636363,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvQ3VycmVuY3kvQnJlYWNoL0JyZWFjaFNoYXJkQ29sZCIsInciOjEsImgiOjEsInNjYWxlIjoxfV0/ef894cc215/BreachShardCold.png"
+    "chaosReceive": 0.132144,
+    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/02b4b4473c/VaalShard.png"
   },
   "Sacrifice at Dusk": {
     "chaosPay": 0.03333333333333333,
-    "chaosReceive": 0.11143117647058824,
+    "chaosReceive": 0.11111,
     "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsMDQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/6c797c0f93/Vaal04.png"
-  },
-  "Timeless Vaal Splinter": {
-    "chaosPay": 0,
-    "chaosReceive": 0.1,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9WYWFsU2hhcmQiLCJ3IjoxLCJoIjoxLCJzY2FsZSI6MX1d/02b4b4473c/VaalShard.png"
-  },
-  "Tribute to the Goddess": {
-    "chaosPay": 11.892303301303397,
-    "chaosReceive": 0.03846,
-    "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvTWFwcy9MYWJ5cmludGhIYXJ2ZXN0IiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/b1cfaffbce/LabyrinthHarvest.png"
   }
 }
