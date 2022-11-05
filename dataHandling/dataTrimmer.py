@@ -42,14 +42,14 @@ def trim_data():
             if variant not in variant_data[name]:
                 variant_data[name][variant] = {}
 
-            if file == "card.json":
-                variant_data[name][variant]["icon"] = card_url + item["artFilename"] + ".png"
-
             variant_data[name][variant]["icon"] = item["icon"]
             variant_data[name][variant]["rarity"] = item["itemClass"]
             variant_data[name][variant]["chaosValue"] = item["chaosValue"]
             variant_data[name][variant]["exaltedValue"] = item["exaltedValue"]
             variant_data[name][variant]["divineValue"] = item["divineValue"]
+
+            if file == "card.json":
+                variant_data[name][variant]["icon"] = card_url + item["artFilename"] + ".png"
 
         f.close()
     trimmed_f.write(json.dumps(trimmed_data, indent=2))

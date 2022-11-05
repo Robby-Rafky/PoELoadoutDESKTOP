@@ -9514,7 +9514,7 @@
   },
   "House of Mirrors": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HouseOfMirrors.png",
       "rarity": 6,
       "chaosValue": 11423.25,
       "exaltedValue": 840.56,
@@ -9523,7 +9523,7 @@
   },
   "The Apothecary": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheApothecary.png",
       "rarity": 6,
       "chaosValue": 10052.46,
       "exaltedValue": 739.7,
@@ -9532,7 +9532,7 @@
   },
   "The Price of Devotion": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfDevotion.png",
       "rarity": 6,
       "chaosValue": 5330.85,
       "exaltedValue": 392.26,
@@ -9541,7 +9541,7 @@
   },
   "Unrequited Love": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/UnrequitedLove.png",
       "rarity": 6,
       "chaosValue": 5102.38,
       "exaltedValue": 375.45,
@@ -9550,7 +9550,7 @@
   },
   "The Doctor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDoctor.png",
       "rarity": 6,
       "chaosValue": 3464.39,
       "exaltedValue": 254.92,
@@ -9559,7 +9559,7 @@
   },
   "The Demon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDemon.png",
       "rarity": 6,
       "chaosValue": 3046.2,
       "exaltedValue": 224.15,
@@ -9568,7 +9568,7 @@
   },
   "The Fiend": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFiend.png",
       "rarity": 6,
       "chaosValue": 2119.03,
       "exaltedValue": 155.93,
@@ -9577,7 +9577,7 @@
   },
   "The Immortal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheImmortal.png",
       "rarity": 6,
       "chaosValue": 1142.32,
       "exaltedValue": 84.06,
@@ -9586,7 +9586,7 @@
   },
   "Love Through Ice": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LoveThroughIce.png",
       "rarity": 6,
       "chaosValue": 990.02,
       "exaltedValue": 72.85,
@@ -9595,7 +9595,7 @@
   },
   "The Shieldbearer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheShieldbearer.png",
       "rarity": 6,
       "chaosValue": 732.39,
       "exaltedValue": 53.89,
@@ -9604,7 +9604,7 @@
   },
   "The Nurse": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheNurse.png",
       "rarity": 6,
       "chaosValue": 380.78,
       "exaltedValue": 28.02,
@@ -9613,7 +9613,7 @@
   },
   "Choking Guilt": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ChokingGuilt.png",
       "rarity": 6,
       "chaosValue": 380.78,
       "exaltedValue": 28.02,
@@ -9622,7 +9622,7 @@
   },
   "Seven Years Bad Luck": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SevenYearsBadLuck.png",
       "rarity": 6,
       "chaosValue": 317.04,
       "exaltedValue": 23.33,
@@ -9631,7 +9631,7 @@
   },
   "The Cheater": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCheater.png",
       "rarity": 6,
       "chaosValue": 243.7,
       "exaltedValue": 17.93,
@@ -9640,7 +9640,7 @@
   },
   "Wealth and Power": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/WealthAndPower.png",
       "rarity": 6,
       "chaosValue": 167.54,
       "exaltedValue": 12.33,
@@ -9649,7 +9649,7 @@
   },
   "Succor of the Sinless": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SuccorOfTheSinless.png",
       "rarity": 6,
       "chaosValue": 151.8,
       "exaltedValue": 11.17,
@@ -9658,7 +9658,7 @@
   },
   "The Sephirot": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSephirot.png",
       "rarity": 6,
       "chaosValue": 135.46,
       "exaltedValue": 9.97,
@@ -9667,7 +9667,7 @@
   },
   "Desecrated Virtue": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DesecratedVirtue.png",
       "rarity": 6,
       "chaosValue": 120.0,
       "exaltedValue": 8.83,
@@ -9676,7 +9676,7 @@
   },
   "The Price of Loyalty": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfLoyalty.png",
       "rarity": 6,
       "chaosValue": 90.0,
       "exaltedValue": 6.62,
@@ -9685,7 +9685,7 @@
   },
   "Doryani's Epiphany": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DoryanisEpiphany.png",
       "rarity": 6,
       "chaosValue": 90.0,
       "exaltedValue": 6.62,
@@ -9694,7 +9694,7 @@
   },
   "The Samurai's Eye": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSamuraisEye.png",
       "rarity": 6,
       "chaosValue": 68.62,
       "exaltedValue": 5.05,
@@ -9703,7 +9703,7 @@
   },
   "Brother's Stash": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BrothersStash.png",
       "rarity": 6,
       "chaosValue": 65.0,
       "exaltedValue": 4.78,
@@ -9712,7 +9712,7 @@
   },
   "Luminous Trove": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LuminousTrove.png",
       "rarity": 6,
       "chaosValue": 58.73,
       "exaltedValue": 4.32,
@@ -9721,7 +9721,7 @@
   },
   "The Dragon's Heart": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDragonsHeart.png",
       "rarity": 6,
       "chaosValue": 55.0,
       "exaltedValue": 4.05,
@@ -9730,7 +9730,7 @@
   },
   "A Fate Worse Than Death": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AFateWorseThanDeath.png",
       "rarity": 6,
       "chaosValue": 50.0,
       "exaltedValue": 3.68,
@@ -9739,7 +9739,7 @@
   },
   "Darker Half": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDarkerHalf.png",
       "rarity": 6,
       "chaosValue": 50.0,
       "exaltedValue": 3.68,
@@ -9748,7 +9748,7 @@
   },
   "Deadly Joy": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DeadlyJoy.png",
       "rarity": 6,
       "chaosValue": 44.14,
       "exaltedValue": 3.25,
@@ -9757,7 +9757,7 @@
   },
   "The Enlightened": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEnlightened.png",
       "rarity": 6,
       "chaosValue": 40.0,
       "exaltedValue": 2.94,
@@ -9766,7 +9766,7 @@
   },
   "The Patient": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePatient.png",
       "rarity": 6,
       "chaosValue": 40.0,
       "exaltedValue": 2.94,
@@ -9775,7 +9775,7 @@
   },
   "Eternal Bonds": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EternalBonds.png",
       "rarity": 6,
       "chaosValue": 40.0,
       "exaltedValue": 2.94,
@@ -9784,7 +9784,7 @@
   },
   "Broken Promises": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BrokenPromises.png",
       "rarity": 6,
       "chaosValue": 35.0,
       "exaltedValue": 2.58,
@@ -9793,7 +9793,7 @@
   },
   "Imperfect Memories": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ImperfectMemories.png",
       "rarity": 6,
       "chaosValue": 29.0,
       "exaltedValue": 2.13,
@@ -9802,7 +9802,7 @@
   },
   "The Strategist": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheStrategist.png",
       "rarity": 6,
       "chaosValue": 27.93,
       "exaltedValue": 2.05,
@@ -9811,7 +9811,7 @@
   },
   "The Artist": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheArtist.png",
       "rarity": 6,
       "chaosValue": 25.0,
       "exaltedValue": 1.84,
@@ -9820,7 +9820,7 @@
   },
   "The Gulf": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGulf.png",
       "rarity": 6,
       "chaosValue": 25.0,
       "exaltedValue": 1.84,
@@ -9829,7 +9829,7 @@
   },
   "Magnum Opus": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/MagnumOpus.png",
       "rarity": 6,
       "chaosValue": 25.0,
       "exaltedValue": 1.84,
@@ -9838,7 +9838,7 @@
   },
   "The Hook": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHook.png",
       "rarity": 6,
       "chaosValue": 22.38,
       "exaltedValue": 1.65,
@@ -9847,7 +9847,7 @@
   },
   "The Sacrifice": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSacrifice.png",
       "rarity": 6,
       "chaosValue": 20.0,
       "exaltedValue": 1.47,
@@ -9856,7 +9856,7 @@
   },
   "Home": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Home.png",
       "rarity": 6,
       "chaosValue": 20.0,
       "exaltedValue": 1.47,
@@ -9865,7 +9865,7 @@
   },
   "The Destination": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDestination.png",
       "rarity": 6,
       "chaosValue": 20.0,
       "exaltedValue": 1.47,
@@ -9874,7 +9874,7 @@
   },
   "Monochrome": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Monochrome.png",
       "rarity": 6,
       "chaosValue": 19.0,
       "exaltedValue": 1.4,
@@ -9883,7 +9883,7 @@
   },
   "Gemcutter's Mercy": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GemcuttersMercy.png",
       "rarity": 6,
       "chaosValue": 19.0,
       "exaltedValue": 1.4,
@@ -9892,7 +9892,7 @@
   },
   "The Academic": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAcademic.png",
       "rarity": 6,
       "chaosValue": 18.0,
       "exaltedValue": 1.32,
@@ -9901,7 +9901,7 @@
   },
   "Winter's Embrace": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/WintersEmbrace.png",
       "rarity": 6,
       "chaosValue": 15.46,
       "exaltedValue": 1.14,
@@ -9910,7 +9910,7 @@
   },
   "The Astromancer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAstromancer.png",
       "rarity": 6,
       "chaosValue": 15.0,
       "exaltedValue": 1.1,
@@ -9919,7 +9919,7 @@
   },
   "The Aspirant": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Dream.png",
       "rarity": 6,
       "chaosValue": 13.74,
       "exaltedValue": 1.01,
@@ -9928,7 +9928,7 @@
   },
   "Beauty Through Death": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BeautyThroughDeath.png",
       "rarity": 6,
       "chaosValue": 13.59,
       "exaltedValue": 1.0,
@@ -9937,7 +9937,7 @@
   },
   "Gift of Asenath": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GiftOfAsenath.png",
       "rarity": 6,
       "chaosValue": 13.0,
       "exaltedValue": 0.96,
@@ -9946,7 +9946,7 @@
   },
   "The Damned": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDamned.png",
       "rarity": 6,
       "chaosValue": 12.0,
       "exaltedValue": 0.88,
@@ -9955,7 +9955,7 @@
   },
   "Altered Perception": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AlteredPerception.png",
       "rarity": 6,
       "chaosValue": 12.0,
       "exaltedValue": 0.88,
@@ -9964,7 +9964,7 @@
   },
   "Duality": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Duality.png",
       "rarity": 6,
       "chaosValue": 10.22,
       "exaltedValue": 0.75,
@@ -9973,7 +9973,7 @@
   },
   "The Vast": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheVast.png",
       "rarity": 6,
       "chaosValue": 10.0,
       "exaltedValue": 0.74,
@@ -9982,7 +9982,7 @@
   },
   "Alluring Bounty": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AlluringBounty.png",
       "rarity": 6,
       "chaosValue": 10.0,
       "exaltedValue": 0.74,
@@ -9991,7 +9991,7 @@
   },
   "Remembrance": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Remembrance.png",
       "rarity": 6,
       "chaosValue": 10.0,
       "exaltedValue": 0.74,
@@ -10000,7 +10000,7 @@
   },
   "The Greatest Intentions": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGreatestIntentions.png",
       "rarity": 6,
       "chaosValue": 10.0,
       "exaltedValue": 0.74,
@@ -10009,7 +10009,7 @@
   },
   "A Modest Request": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AModestRequest.png",
       "rarity": 6,
       "chaosValue": 10.0,
       "exaltedValue": 0.74,
@@ -10018,7 +10018,7 @@
   },
   "The One That Got Away": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOneThatGotAway.png",
       "rarity": 6,
       "chaosValue": 9.18,
       "exaltedValue": 0.68,
@@ -10027,7 +10027,7 @@
   },
   "The Leviathan": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLeviathan.png",
       "rarity": 6,
       "chaosValue": 9.14,
       "exaltedValue": 0.67,
@@ -10036,7 +10036,7 @@
   },
   "The Eternal War": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEternalWar.png",
       "rarity": 6,
       "chaosValue": 9.0,
       "exaltedValue": 0.66,
@@ -10045,7 +10045,7 @@
   },
   "The Mind's Eyes": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMindsEyes.png",
       "rarity": 6,
       "chaosValue": 9.0,
       "exaltedValue": 0.66,
@@ -10054,7 +10054,7 @@
   },
   "Fateful Meeting": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/FatefulMeeting.png",
       "rarity": 6,
       "chaosValue": 8.98,
       "exaltedValue": 0.66,
@@ -10063,7 +10063,7 @@
   },
   "Pride of the First Ones": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/PrideOfTheFirstOnes.png",
       "rarity": 6,
       "chaosValue": 8.0,
       "exaltedValue": 0.59,
@@ -10072,7 +10072,7 @@
   },
   "The Eye of Terror": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEyeOfTerror.png",
       "rarity": 6,
       "chaosValue": 8.0,
       "exaltedValue": 0.59,
@@ -10081,7 +10081,7 @@
   },
   "The Escape": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEscape.png",
       "rarity": 6,
       "chaosValue": 8.0,
       "exaltedValue": 0.59,
@@ -10090,7 +10090,7 @@
   },
   "A Familiar Call": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AFamiliarCall.png",
       "rarity": 6,
       "chaosValue": 8.0,
       "exaltedValue": 0.59,
@@ -10099,7 +10099,7 @@
   },
   "Dying Light": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DyingLight.png",
       "rarity": 6,
       "chaosValue": 7.0,
       "exaltedValue": 0.52,
@@ -10108,7 +10108,7 @@
   },
   "The Rabbit's Foot": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRabbitsFoot.png",
       "rarity": 6,
       "chaosValue": 7.0,
       "exaltedValue": 0.52,
@@ -10117,7 +10117,7 @@
   },
   "The Scout": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheScout.png",
       "rarity": 6,
       "chaosValue": 7.0,
       "exaltedValue": 0.52,
@@ -10126,7 +10126,7 @@
   },
   "Something Dark": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SomethingDark.png",
       "rarity": 6,
       "chaosValue": 7.0,
       "exaltedValue": 0.52,
@@ -10135,7 +10135,7 @@
   },
   "The Enforcer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEnforcer.png",
       "rarity": 6,
       "chaosValue": 7.0,
       "exaltedValue": 0.52,
@@ -10144,7 +10144,7 @@
   },
   "The Long Con": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLongCon.png",
       "rarity": 6,
       "chaosValue": 6.99,
       "exaltedValue": 0.51,
@@ -10153,7 +10153,7 @@
   },
   "The Progeny of Lunaris": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheProgenyofLunaris.png",
       "rarity": 6,
       "chaosValue": 6.92,
       "exaltedValue": 0.51,
@@ -10162,7 +10162,7 @@
   },
   "The Chosen": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheChosen.png",
       "rarity": 6,
       "chaosValue": 6.46,
       "exaltedValue": 0.48,
@@ -10171,7 +10171,7 @@
   },
   "The Forgotten Treasure": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheForgottenTreasure.png",
       "rarity": 6,
       "chaosValue": 6.44,
       "exaltedValue": 0.47,
@@ -10180,7 +10180,7 @@
   },
   "The Sustenance": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSustenance.png",
       "rarity": 6,
       "chaosValue": 6.0,
       "exaltedValue": 0.44,
@@ -10189,7 +10189,7 @@
   },
   "Judging Voices": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/JudgingVoices.png",
       "rarity": 6,
       "chaosValue": 6.0,
       "exaltedValue": 0.44,
@@ -10198,7 +10198,7 @@
   },
   "The Undisputed": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheUndisputed.png",
       "rarity": 6,
       "chaosValue": 5.75,
       "exaltedValue": 0.42,
@@ -10207,7 +10207,7 @@
   },
   "Abandoned Wealth": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AbandonedWealth.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10216,7 +10216,7 @@
   },
   "Mawr Blaidd": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/RussiaDivinationCard.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10225,7 +10225,7 @@
   },
   "The Polymath": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePolymath.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10234,7 +10234,7 @@
   },
   "Nook's Crown": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/NooksCrown.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10243,7 +10243,7 @@
   },
   "The Bargain": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBargain.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10252,7 +10252,7 @@
   },
   "Void of the Elements": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/VoidOfTheElements.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10261,7 +10261,7 @@
   },
   "The Old Man": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOldMan.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10270,7 +10270,7 @@
   },
   "Underground Forest": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/UndergroundForest.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10279,7 +10279,7 @@
   },
   "Etched in Blood": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EtchedInBlood.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10288,7 +10288,7 @@
   },
   "The Fishmonger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFishmonger.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10297,7 +10297,7 @@
   },
   "The White Knight": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWhiteKnight.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10306,7 +10306,7 @@
   },
   "The Tumbleweed": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTumbleWeed.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10315,7 +10315,7 @@
   },
   "The Hive of Knowledge": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHiveOfKnowledge.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10324,7 +10324,7 @@
   },
   "The Bitter Blossom": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBitterBlossom.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10333,7 +10333,7 @@
   },
   "Draped in Dreams": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DrapedInDreams.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10342,7 +10342,7 @@
   },
   "Haunting Shadows": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HauntingShadows.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10351,7 +10351,7 @@
   },
   "The Shortcut": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheShortcut.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10360,7 +10360,7 @@
   },
   "The Price of Prescience": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePriceOfPrescience.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10369,7 +10369,7 @@
   },
   "A Stone Perfected": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AStonePerfected.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10378,7 +10378,7 @@
   },
   "The Catch": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCatch.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10387,7 +10387,7 @@
   },
   "Bijoux": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Bijoux.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10396,7 +10396,7 @@
   },
   "Further Invention": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/FurtherInvention.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10405,7 +10405,7 @@
   },
   "Lethean Temptation": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LetheanTemptation.png",
       "rarity": 6,
       "chaosValue": 5.0,
       "exaltedValue": 0.37,
@@ -10414,7 +10414,7 @@
   },
   "Desperate Crusade": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DesperateCrusade.png",
       "rarity": 6,
       "chaosValue": 4.91,
       "exaltedValue": 0.36,
@@ -10423,7 +10423,7 @@
   },
   "The Thaumaturgist": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheThaumaturgist.png",
       "rarity": 6,
       "chaosValue": 4.62,
       "exaltedValue": 0.34,
@@ -10432,7 +10432,7 @@
   },
   "Chaotic Disposition": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ChaoticDisposition.png",
       "rarity": 6,
       "chaosValue": 4.59,
       "exaltedValue": 0.34,
@@ -10441,7 +10441,7 @@
   },
   "Dementophobia": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Dementophobia.png",
       "rarity": 6,
       "chaosValue": 4.57,
       "exaltedValue": 0.34,
@@ -10450,7 +10450,7 @@
   },
   "Justified Ambition": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/JustifiedAmbition.png",
       "rarity": 6,
       "chaosValue": 4.48,
       "exaltedValue": 0.33,
@@ -10459,7 +10459,7 @@
   },
   "The Awakened": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAwakened.png",
       "rarity": 6,
       "chaosValue": 4.06,
       "exaltedValue": 0.3,
@@ -10468,7 +10468,7 @@
   },
   "The World Eater": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWorldEater.png",
       "rarity": 6,
       "chaosValue": 4.02,
       "exaltedValue": 0.3,
@@ -10477,7 +10477,7 @@
   },
   "The Throne": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheThrone.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10486,7 +10486,7 @@
   },
   "The Professor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheProfessor.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10495,7 +10495,7 @@
   },
   "The Celestial Stone": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCelestialStone.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10504,7 +10504,7 @@
   },
   "The Seeker": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSeeker.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10513,7 +10513,7 @@
   },
   "Azyran's Reward": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AzyransReward.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10522,7 +10522,7 @@
   },
   "Costly Curio": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CostlyCurio.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10531,7 +10531,7 @@
   },
   "Chasing Risk": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ChasingRisk.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10540,7 +10540,7 @@
   },
   "The Forward Gaze": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheForwardGaze.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10549,7 +10549,7 @@
   },
   "Rebirth and Renewal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/RebirthAndRenewal.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10558,7 +10558,7 @@
   },
   "The Shepherd's Sandals": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheShepherdsSandals.png",
       "rarity": 6,
       "chaosValue": 4.0,
       "exaltedValue": 0.29,
@@ -10567,7 +10567,7 @@
   },
   "Ambitious Obsession": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AmbitiousObsession.png",
       "rarity": 6,
       "chaosValue": 3.99,
       "exaltedValue": 0.29,
@@ -10576,7 +10576,7 @@
   },
   "Keeper's Corruption": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/KeepersCorruption.png",
       "rarity": 6,
       "chaosValue": 3.97,
       "exaltedValue": 0.29,
@@ -10585,7 +10585,7 @@
   },
   "Rebirth": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BirthOfTheThree.png",
       "rarity": 6,
       "chaosValue": 3.7,
       "exaltedValue": 0.27,
@@ -10594,7 +10594,7 @@
   },
   "Brotherhood in Exile": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BrotherhoodInExile.png",
       "rarity": 6,
       "chaosValue": 3.36,
       "exaltedValue": 0.25,
@@ -10603,7 +10603,7 @@
   },
   "Audacity": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Audacity.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10612,7 +10612,7 @@
   },
   "Bowyer's Dream": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BowyersDream.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10621,7 +10621,7 @@
   },
   "Death": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Death.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10630,7 +10630,7 @@
   },
   "The Avenger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAvenger.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10639,7 +10639,7 @@
   },
   "The Brittle Emperor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBrittleEmperor.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10648,7 +10648,7 @@
   },
   "The Hunger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHunger.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10657,7 +10657,7 @@
   },
   "The Queen": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheQueen.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10666,7 +10666,7 @@
   },
   "The Risk": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRisk.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10675,7 +10675,7 @@
   },
   "The Dreamer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDreamer.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10684,7 +10684,7 @@
   },
   "The Hale Heart": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHaleHeart.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10693,7 +10693,7 @@
   },
   "The Undaunted": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheUndaunted.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10702,7 +10702,7 @@
   },
   "Arrogance of the Vaal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ArroganceoftheVaal.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10711,7 +10711,7 @@
   },
   "The Lord of Celebration": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLordofCelebration.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10720,7 +10720,7 @@
   },
   "Burning Blood": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BurningBlood.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10729,7 +10729,7 @@
   },
   "Dark Dreams": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DarkDreams.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10738,7 +10738,7 @@
   },
   "Deathly Designs": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DeathlyDesigns.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10747,7 +10747,7 @@
   },
   "The Eldritch Decay": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEldritchDecay.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10756,7 +10756,7 @@
   },
   "Council of Cats": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CounciloOfCats.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10765,7 +10765,7 @@
   },
   "Prometheus' Armoury": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/PrometheusArmory.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10774,7 +10774,7 @@
   },
   "Peaceful Moments": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/PeacefulMoments.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10783,7 +10783,7 @@
   },
   "The Unexpected Prize": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheUnexpectedPrize.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10792,7 +10792,7 @@
   },
   "Brush, Paint and Palette": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BrushPaintAndPalette.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10801,7 +10801,7 @@
   },
   "The Enthusiasts": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEnthusiasts.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10810,7 +10810,7 @@
   },
   "Lachrymal Necrosis": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LachrymalNecrosis.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10819,7 +10819,7 @@
   },
   "Terrible Secret of Space": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TerribleSecretOfSpace.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10828,7 +10828,7 @@
   },
   "The Emptiness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEmptiness.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10837,7 +10837,7 @@
   },
   "The Prince of Darkness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePrinceOfDarkness.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10846,7 +10846,7 @@
   },
   "Silence and Frost": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SilenceAndFrost.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10855,7 +10855,7 @@
   },
   "The Brawny Battle Mage": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBrawnyBattleMage.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10864,7 +10864,7 @@
   },
   "Checkmate": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Checkmate.png",
       "rarity": 6,
       "chaosValue": 3.0,
       "exaltedValue": 0.22,
@@ -10873,7 +10873,7 @@
   },
   "The Easy Stroll": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEasyStroll.png",
       "rarity": 6,
       "chaosValue": 2.82,
       "exaltedValue": 0.21,
@@ -10882,7 +10882,7 @@
   },
   "The Soul": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSoul.png",
       "rarity": 6,
       "chaosValue": 2.79,
       "exaltedValue": 0.21,
@@ -10891,7 +10891,7 @@
   },
   "The King's Heart": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheKingsHeart.png",
       "rarity": 6,
       "chaosValue": 2.65,
       "exaltedValue": 0.19,
@@ -10900,7 +10900,7 @@
   },
   "Perfection": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Perfection.png",
       "rarity": 6,
       "chaosValue": 2.59,
       "exaltedValue": 0.19,
@@ -10909,7 +10909,7 @@
   },
   "Misery in Darkness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/MiseryInDarkness.png",
       "rarity": 6,
       "chaosValue": 2.58,
       "exaltedValue": 0.19,
@@ -10918,7 +10918,7 @@
   },
   "The Dreamland": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDreamland.png",
       "rarity": 6,
       "chaosValue": 2.47,
       "exaltedValue": 0.18,
@@ -10927,7 +10927,7 @@
   },
   "The Offering": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOffering.png",
       "rarity": 6,
       "chaosValue": 2.37,
       "exaltedValue": 0.17,
@@ -10936,7 +10936,7 @@
   },
   "The Road to Power": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRoadToPower.png",
       "rarity": 6,
       "chaosValue": 2.21,
       "exaltedValue": 0.16,
@@ -10945,7 +10945,7 @@
   },
   "Dying Anguish": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DyingAnguish.png",
       "rarity": 6,
       "chaosValue": 2.16,
       "exaltedValue": 0.16,
@@ -10954,7 +10954,7 @@
   },
   "A Dab of Ink": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ADabOfInk.png",
       "rarity": 6,
       "chaosValue": 2.1,
       "exaltedValue": 0.15,
@@ -10963,7 +10963,7 @@
   },
   "Dialla's Subjugation": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DiallasSubjugation.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -10972,7 +10972,7 @@
   },
   "Emperor of Purity": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EmperorOfPurity.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -10981,7 +10981,7 @@
   },
   "Hunter's Reward": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HuntersReward.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -10990,7 +10990,7 @@
   },
   "Light and Truth": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LigthAndTruth.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -10999,7 +10999,7 @@
   },
   "Lucky Deck": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LuckyDeck.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11008,7 +11008,7 @@
   },
   "Merciless Armament": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/MercilessArmament.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11017,7 +11017,7 @@
   },
   "The Celestial Justicar": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCelestialJusticar.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11026,7 +11026,7 @@
   },
   "The Conduit": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheConduit.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11035,7 +11035,7 @@
   },
   "The Dapper Prodigy": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDapperProdigy.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11044,7 +11044,7 @@
   },
   "The Drunken Aristocrat": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDrunkenAristocrat.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11053,7 +11053,7 @@
   },
   "The Ethereal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEthereal.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11062,7 +11062,7 @@
   },
   "The Fox": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFox.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11071,7 +11071,7 @@
   },
   "The Incantation": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheIncantation.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11080,7 +11080,7 @@
   },
   "The Jester": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheJester.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11089,7 +11089,7 @@
   },
   "The Lord in Black": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLordInBlack.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11098,7 +11098,7 @@
   },
   "The Pact": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePact.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11107,7 +11107,7 @@
   },
   "The Rabid Rhoa": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRabidRhoa.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11116,7 +11116,7 @@
   },
   "The Siren": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSiren.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11125,7 +11125,7 @@
   },
   "The Traitor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTraitor.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11134,7 +11134,7 @@
   },
   "The Tyrant": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTyrant.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11143,7 +11143,7 @@
   },
   "The Valkyrie": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheValkyrie.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11152,7 +11152,7 @@
   },
   "The Void": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheVoid.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11161,7 +11161,7 @@
   },
   "The Warlord": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWarlord.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11170,7 +11170,7 @@
   },
   "Vinia's Token": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ViniasToken.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11179,7 +11179,7 @@
   },
   "The Wolven King's Bite": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWolvenKingsBite.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11188,7 +11188,7 @@
   },
   "Atziri's Arsenal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AtzirisArmory.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11197,7 +11197,7 @@
   },
   "The Obscured": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheObscured.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11206,7 +11206,7 @@
   },
   "The Breach": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBreach.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11215,7 +11215,7 @@
   },
   "Immortal Resolve": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ImmortalResolve.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11224,7 +11224,7 @@
   },
   "The Darkest Dream": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDarkestDream.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11233,7 +11233,7 @@
   },
   "Harmony of Souls": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HarmonyOfSouls.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11242,7 +11242,7 @@
   },
   "The Innocent": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheInnocent.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11251,7 +11251,7 @@
   },
   "The Twilight Moon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTwilightMoon.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11260,7 +11260,7 @@
   },
   "The Wilted Rose": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWiltedRose.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11269,7 +11269,7 @@
   },
   "The Endless Darkness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEndlessDarkness.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11278,7 +11278,7 @@
   },
   "The Price of Protection": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePriceofProtection.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11287,7 +11287,7 @@
   },
   "The Cacophony": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCacophony.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11296,7 +11296,7 @@
   },
   "Sambodhi's Vow": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SambodhisVow.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11305,7 +11305,7 @@
   },
   "The Landing": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLanding.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11314,7 +11314,7 @@
   },
   "The Journey": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheJourney.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11323,7 +11323,7 @@
   },
   "The Golden Era": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGoldenEra.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11332,7 +11332,7 @@
   },
   "The Life Thief": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLifeThief.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11341,7 +11341,7 @@
   },
   "Echoes of Love": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EchoesOfLove.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11350,7 +11350,7 @@
   },
   "The Deep Ones": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDeepOnes.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11359,7 +11359,7 @@
   },
   "Demigod's Wager": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DemigodsWagergives.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11368,7 +11368,7 @@
   },
   "The Primordial": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePrimordial.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11377,7 +11377,7 @@
   },
   "The Archmage's Right Hand": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheArchmagesRightHand.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11386,7 +11386,7 @@
   },
   "The Heroic Shot": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHeroicShot.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11395,7 +11395,7 @@
   },
   "The Mountain": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMountain.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11404,7 +11404,7 @@
   },
   "The Deal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDeal.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11413,7 +11413,7 @@
   },
   "The Side Quest": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSideQuest.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11422,7 +11422,7 @@
   },
   "More is Never Enough": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/MoreIsNeverEnough.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11431,7 +11431,7 @@
   },
   "Divine Justice": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DivineJustice.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11440,7 +11440,7 @@
   },
   "The Craving": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCraving.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11449,7 +11449,7 @@
   },
   "Triskaidekaphobia": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Triskaidekaphobia.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11458,7 +11458,7 @@
   },
   "Unchained": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Unchained.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11467,7 +11467,7 @@
   },
   "The Whiteout": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWhiteout.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11476,7 +11476,7 @@
   },
   "The Bear Woman": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBearWoman.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11485,7 +11485,7 @@
   },
   "Prejudice": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Prejudice.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11494,7 +11494,7 @@
   },
   "The Card Sharp": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCardSharp.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11503,7 +11503,7 @@
   },
   "Sambodhi's Wisdom": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SambodhisWisdom.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11512,7 +11512,7 @@
   },
   "The Offspring": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOffspring.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11521,7 +11521,7 @@
   },
   "Guardian's Challenge": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GuardiansChallenge.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11530,7 +11530,7 @@
   },
   "Disdain": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Disdain.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11539,7 +11539,7 @@
   },
   "Parasitic Passengers": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ParasiticPassengers.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11548,7 +11548,7 @@
   },
   "The Magma Crab": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMagmaCrab.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11557,7 +11557,7 @@
   },
   "From Bone to Ashes": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/FromBonesToAshes.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11566,7 +11566,7 @@
   },
   "The Dungeon Master": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDungeonMaster.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11575,7 +11575,7 @@
   },
   "Astral Protection": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AstralProtection.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11584,7 +11584,7 @@
   },
   "Endless Night": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EndlessNight.png",
       "rarity": 6,
       "chaosValue": 2.0,
       "exaltedValue": 0.15,
@@ -11593,7 +11593,7 @@
   },
   "The Formless Sea": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFormlessSea.png",
       "rarity": 6,
       "chaosValue": 1.96,
       "exaltedValue": 0.14,
@@ -11602,7 +11602,7 @@
   },
   "The Messenger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMessenger.png",
       "rarity": 6,
       "chaosValue": 1.95,
       "exaltedValue": 0.14,
@@ -11611,7 +11611,7 @@
   },
   "Baited Expectations": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BaitedExpectations.png",
       "rarity": 6,
       "chaosValue": 1.85,
       "exaltedValue": 0.14,
@@ -11620,7 +11620,7 @@
   },
   "The Gentleman": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGentleman.png",
       "rarity": 6,
       "chaosValue": 1.83,
       "exaltedValue": 0.13,
@@ -11629,7 +11629,7 @@
   },
   "Society's Remorse": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/SocietysRemorse.png",
       "rarity": 6,
       "chaosValue": 1.69,
       "exaltedValue": 0.12,
@@ -11638,7 +11638,7 @@
   },
   "The Last One Standing": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLastOneStanding.png",
       "rarity": 6,
       "chaosValue": 1.57,
       "exaltedValue": 0.12,
@@ -11647,7 +11647,7 @@
   },
   "The Wind": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWind.png",
       "rarity": 6,
       "chaosValue": 1.57,
       "exaltedValue": 0.12,
@@ -11656,7 +11656,7 @@
   },
   "Treasure Hunter": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TreasureHunter.png",
       "rarity": 6,
       "chaosValue": 1.54,
       "exaltedValue": 0.11,
@@ -11665,7 +11665,7 @@
   },
   "Boon of the First Ones": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BoonoftheFirstOnes.png",
       "rarity": 6,
       "chaosValue": 1.54,
       "exaltedValue": 0.11,
@@ -11674,7 +11674,7 @@
   },
   "The Spark and the Flame": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSparkAndTheFlame.png",
       "rarity": 6,
       "chaosValue": 1.53,
       "exaltedValue": 0.11,
@@ -11683,7 +11683,7 @@
   },
   "Pride Before the Fall": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/PrideBeforeTheFall.png",
       "rarity": 6,
       "chaosValue": 1.48,
       "exaltedValue": 0.11,
@@ -11692,7 +11692,7 @@
   },
   "The Last Supper": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLastSupper.png",
       "rarity": 6,
       "chaosValue": 1.48,
       "exaltedValue": 0.11,
@@ -11701,7 +11701,7 @@
   },
   "Acclimatisation": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Acclimatisation.png",
       "rarity": 6,
       "chaosValue": 1.43,
       "exaltedValue": 0.11,
@@ -11710,7 +11710,7 @@
   },
   "The Saint's Treasure": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSaintsTreasure.png",
       "rarity": 6,
       "chaosValue": 1.4,
       "exaltedValue": 0.1,
@@ -11719,7 +11719,7 @@
   },
   "The Dark Mage": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDarkMage.png",
       "rarity": 6,
       "chaosValue": 1.3,
       "exaltedValue": 0.1,
@@ -11728,7 +11728,7 @@
   },
   "The Blessing of Moosh": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBlessingOfMoosh.png",
       "rarity": 6,
       "chaosValue": 1.3,
       "exaltedValue": 0.1,
@@ -11737,7 +11737,7 @@
   },
   "The Wrath": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWrath.png",
       "rarity": 6,
       "chaosValue": 1.29,
       "exaltedValue": 0.1,
@@ -11746,7 +11746,7 @@
   },
   "Gift of the Gemling Queen": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GiftOfTheGemlingQueen.png",
       "rarity": 6,
       "chaosValue": 1.28,
       "exaltedValue": 0.09,
@@ -11755,7 +11755,7 @@
   },
   "The Spoiled Prince": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSpoiledPrince.png",
       "rarity": 6,
       "chaosValue": 1.28,
       "exaltedValue": 0.09,
@@ -11764,7 +11764,7 @@
   },
   "The Union": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheUnion.png",
       "rarity": 6,
       "chaosValue": 1.26,
       "exaltedValue": 0.09,
@@ -11773,7 +11773,7 @@
   },
   "Lysah's Respite": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LysahsRespite.png",
       "rarity": 6,
       "chaosValue": 1.15,
       "exaltedValue": 0.08,
@@ -11782,7 +11782,7 @@
   },
   "Left to Fate": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LeftToFate.png",
       "rarity": 6,
       "chaosValue": 1.12,
       "exaltedValue": 0.08,
@@ -11791,7 +11791,7 @@
   },
   "Call to the First Ones": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CallToTheFirstOnes.png",
       "rarity": 6,
       "chaosValue": 1.07,
       "exaltedValue": 0.08,
@@ -11800,7 +11800,7 @@
   },
   "The Deceiver": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDeceiver.png",
       "rarity": 6,
       "chaosValue": 1.07,
       "exaltedValue": 0.08,
@@ -11809,7 +11809,7 @@
   },
   "Heterochromia": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Heterochromia.png",
       "rarity": 6,
       "chaosValue": 1.01,
       "exaltedValue": 0.07,
@@ -11818,7 +11818,7 @@
   },
   "The Garish Power": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GarishPower.png",
       "rarity": 6,
       "chaosValue": 1.01,
       "exaltedValue": 0.07,
@@ -11827,7 +11827,7 @@
   },
   "A Mother's Parting Gift": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AMothersPartingGift.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11836,7 +11836,7 @@
   },
   "Anarchy's Price": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AnarchysPrice.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11845,7 +11845,7 @@
   },
   "Assassin's Favour": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AssassinsFavor.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11854,7 +11854,7 @@
   },
   "Blind Venture": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BlindVenture.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11863,7 +11863,7 @@
   },
   "Boundless Realms": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BoundlessRealms.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11872,7 +11872,7 @@
   },
   "Cartographer's Delight": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CartographersDelight.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11881,7 +11881,7 @@
   },
   "Coveted Possession": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CovetedPossession.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11890,7 +11890,7 @@
   },
   "Destined to Crumble": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DestinedtoCrumble.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11899,7 +11899,7 @@
   },
   "Doedre's Madness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DoedresMadness.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11908,7 +11908,7 @@
   },
   "Earth Drinker": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EarthDrinker.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11917,7 +11917,7 @@
   },
   "Emperor's Luck": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/EmperorsLuck.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11926,7 +11926,7 @@
   },
   "Gemcutter's Promise": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GemcuttersPromise.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11935,7 +11935,7 @@
   },
   "Glimmer of Hope": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GlimmerOfHope.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11944,7 +11944,7 @@
   },
   "Grave Knowledge": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/GraveKnowledge.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11953,7 +11953,7 @@
   },
   "Her Mask": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HerMask.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11962,7 +11962,7 @@
   },
   "Hope": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Hope.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11971,7 +11971,7 @@
   },
   "Hubris": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Hubris.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11980,7 +11980,7 @@
   },
   "Hunter's Resolve": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/HuntersResolve.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11989,7 +11989,7 @@
   },
   "Jack in the Box": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/JackInTheBox.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -11998,7 +11998,7 @@
   },
   "Lantador's Lost Love": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LantadorsLostLove.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12007,7 +12007,7 @@
   },
   "Last Hope": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LastHope.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12016,7 +12016,7 @@
   },
   "Lost Worlds": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LostWorlds.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12025,7 +12025,7 @@
   },
   "Loyalty": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Loyalty.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12034,7 +12034,7 @@
   },
   "Lucky Connections": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LuckyConnections.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12043,7 +12043,7 @@
   },
   "Prosperity": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Prosperity.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12052,7 +12052,7 @@
   },
   "Rain of Chaos": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/RainOfChaos.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12061,7 +12061,7 @@
   },
   "Rain Tempter": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/RainTempter.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12070,7 +12070,7 @@
   },
   "Rats": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Rats.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12079,7 +12079,7 @@
   },
   "Scholar of the Seas": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ScholarOfTheSeas.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12088,7 +12088,7 @@
   },
   "Shard of Fate": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ShardofFate.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12097,7 +12097,7 @@
   },
   "The Aesthete": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAesthete.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12106,7 +12106,7 @@
   },
   "The Arena Champion": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheArenaChampion.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12115,7 +12115,7 @@
   },
   "The Battle Born": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBattleBorn.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12124,7 +12124,7 @@
   },
   "The Betrayal": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBetrayal.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12133,7 +12133,7 @@
   },
   "The Body": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBody.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12142,7 +12142,7 @@
   },
   "The Calling": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCalling.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12151,7 +12151,7 @@
   },
   "The Carrion Crow": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCarrionCrow.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12160,7 +12160,7 @@
   },
   "The Cartographer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMapmaker.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12169,7 +12169,7 @@
   },
   "The Cataclysm": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCataclysm.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12178,7 +12178,7 @@
   },
   "The Catalyst": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCatalyst.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12187,7 +12187,7 @@
   },
   "The Cursed King": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCursedKing.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12196,7 +12196,7 @@
   },
   "The Demoness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDemoness.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12205,7 +12205,7 @@
   },
   "The Doppelganger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDoppelganger.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12214,7 +12214,7 @@
   },
   "The Dragon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheDragon.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12223,7 +12223,7 @@
   },
   "The Encroaching Darkness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEncroachingDarkness.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12232,7 +12232,7 @@
   },
   "The Endurance": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEndurance.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12241,7 +12241,7 @@
   },
   "The Explorer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheExplorer.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12250,7 +12250,7 @@
   },
   "The Feast": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFeast.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12259,7 +12259,7 @@
   },
   "The Fletcher": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFletcher.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12268,7 +12268,7 @@
   },
   "The Flora's Gift": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFlorasGift.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12277,7 +12277,7 @@
   },
   "The Gambler": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGambler.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12286,7 +12286,7 @@
   },
   "The Gemcutter": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGemcutter.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12295,7 +12295,7 @@
   },
   "The Gladiator": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheGladiator.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12304,7 +12304,7 @@
   },
   "The Harvester": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHarvester.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12313,7 +12313,7 @@
   },
   "The Hermit": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHermit.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12322,7 +12322,7 @@
   },
   "The Hoarder": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheHoarder.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12331,7 +12331,7 @@
   },
   "The Inoculated": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheInoculated.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12340,7 +12340,7 @@
   },
   "The Inventor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheInventor.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12349,7 +12349,7 @@
   },
   "The King's Blade": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheKingsBlade.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12358,7 +12358,7 @@
   },
   "The Lich": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLich.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12367,7 +12367,7 @@
   },
   "The Lion": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLion.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12376,7 +12376,7 @@
   },
   "The Lover": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLover.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12385,7 +12385,7 @@
   },
   "The Lunaris Priestess": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLunarisPriestess.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12394,7 +12394,7 @@
   },
   "The Mercenary": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMercenary.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12403,7 +12403,7 @@
   },
   "The Metalsmith's Gift": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMetalsmithsGift.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12412,7 +12412,7 @@
   },
   "The Oath": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOath.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12421,7 +12421,7 @@
   },
   "The One With All": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOneWithAll.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12430,7 +12430,7 @@
   },
   "The Pack Leader": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePackLeader.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12439,7 +12439,7 @@
   },
   "The Penitent": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePenitent.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12448,7 +12448,7 @@
   },
   "The Poet": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePoet.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12457,7 +12457,7 @@
   },
   "The Scarred Meadow": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheScarredMeadow.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12466,7 +12466,7 @@
   },
   "The Scavenger": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheScavenger.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12475,7 +12475,7 @@
   },
   "The Scholar": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheScholar.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12484,7 +12484,7 @@
   },
   "The Sigil": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSigil.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12493,7 +12493,7 @@
   },
   "The Stormcaller": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheStormcaller.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12502,7 +12502,7 @@
   },
   "The Summoner": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSummoner.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12511,7 +12511,7 @@
   },
   "The Sun": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSun.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12520,7 +12520,7 @@
   },
   "The Surgeon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSurgeon.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12529,7 +12529,7 @@
   },
   "The Surveyor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSurveyor.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12538,7 +12538,7 @@
   },
   "The Survivalist": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSurvivalist.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12547,7 +12547,7 @@
   },
   "The Tower": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTower.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12556,7 +12556,7 @@
   },
   "The Trial": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTrial.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12565,7 +12565,7 @@
   },
   "The Twins": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTwins.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12574,7 +12574,7 @@
   },
   "The Visionary": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheVisionary.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12583,7 +12583,7 @@
   },
   "The Warden": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWarden.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12592,7 +12592,7 @@
   },
   "The Watcher": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWatcher.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12601,7 +12601,7 @@
   },
   "The Web": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWeb.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12610,7 +12610,7 @@
   },
   "The Wolf": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWolf.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12619,7 +12619,7 @@
   },
   "The Wolf's Shadow": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWolfsShadow.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12628,7 +12628,7 @@
   },
   "Three Faces in the Dark": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThreeFacesInTheDark.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12637,7 +12637,7 @@
   },
   "Thunderous Skies": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThunderousSkies.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12646,7 +12646,7 @@
   },
   "Time-Lost Relic": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TimeLostRelic.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12655,7 +12655,7 @@
   },
   "Tranquillity": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Tranquillity.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12664,7 +12664,7 @@
   },
   "Turn the Other Cheek": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TurnTheOtherCheek.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12673,7 +12673,7 @@
   },
   "Volatile Power": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/VolatilePower.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12682,7 +12682,7 @@
   },
   "Mitts": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Mitts.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12691,7 +12691,7 @@
   },
   "The Wretched": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWretched.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12700,7 +12700,7 @@
   },
   "Lingering Remnants": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/LingeringRemnants.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12709,7 +12709,7 @@
   },
   "The Coming Storm": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheComingStorm.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12718,7 +12718,7 @@
   },
   "The Wolverine": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWolverine.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12727,7 +12727,7 @@
   },
   "The Standoff": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheStandOff.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12736,7 +12736,7 @@
   },
   "The Porcupine": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePorcupine.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12745,7 +12745,7 @@
   },
   "The Forsaken": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheForsaken.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12754,7 +12754,7 @@
   },
   "Might is Right": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/MightIsRight.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12763,7 +12763,7 @@
   },
   "The Opulent": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheOpulecent.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12772,7 +12772,7 @@
   },
   "Struck by Lightning": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/StruckbyLightning.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12781,7 +12781,7 @@
   },
   "The Blazing Fire": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBlazingFire.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12790,7 +12790,7 @@
   },
   "The Ruthless Ceinture": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRuthlessCeinture.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12799,7 +12799,7 @@
   },
   "No Traces": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/NoTraces.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12808,7 +12808,7 @@
   },
   "The Eye of the Dragon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheEyeOfTheDragon.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12817,7 +12817,7 @@
   },
   "The Realm": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRealm.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12826,7 +12826,7 @@
   },
   "The Puzzle": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThePuzzle.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12835,7 +12835,7 @@
   },
   "The Insatiable": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheInsatiable.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12844,7 +12844,7 @@
   },
   "Forbidden Power": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ForbiddenPower.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12853,7 +12853,7 @@
   },
   "Three Voices": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThreeVoices.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12862,7 +12862,7 @@
   },
   "The Jeweller's Boon": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheJewellersBoon.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12871,7 +12871,7 @@
   },
   "The Army of Blood": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheArmyOfBlood.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12880,7 +12880,7 @@
   },
   "The Beast": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBeast.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12889,7 +12889,7 @@
   },
   "The Sword King's Salute": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSwordKingsSalute.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12898,7 +12898,7 @@
   },
   "The Master": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMaster.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12907,7 +12907,7 @@
   },
   "The Fathomless Depths": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFathomlessDepths.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12916,7 +12916,7 @@
   },
   "The Rite of Elements": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheRiteofElements.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12925,7 +12925,7 @@
   },
   "The Admirer": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAdmirer.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12934,7 +12934,7 @@
   },
   "The Witch": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWitch.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12943,7 +12943,7 @@
   },
   "The Master Artisan": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheMasterArtisan.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12952,7 +12952,7 @@
   },
   "Alone in the Darkness": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AloneintheDarkness.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12961,7 +12961,7 @@
   },
   "Dark Temptation": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/DarkTemptation.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12970,7 +12970,7 @@
   },
   "Boon of Justice": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BoonofJustice.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12979,7 +12979,7 @@
   },
   "Vanity": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Vanity.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12988,7 +12988,7 @@
   },
   "Thirst for Knowledge": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ThirstForKnowledge.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -12997,7 +12997,7 @@
   },
   "The Fool": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFool.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13006,7 +13006,7 @@
   },
   "Buried Treasure": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BuriedTreasure.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13015,7 +13015,7 @@
   },
   "The Skeleton": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheSkeleton.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13024,7 +13024,7 @@
   },
   "The Wolf's Legacy": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheWolfsLegacy.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13033,7 +13033,7 @@
   },
   "Cameria's Cut": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CameriasCut.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13042,7 +13042,7 @@
   },
   "The Bones": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheBones.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13051,7 +13051,7 @@
   },
   "The Tinkerer's Table": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTinkerersTable.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13060,7 +13060,7 @@
   },
   "The Journalist": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheJournalist.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13069,7 +13069,7 @@
   },
   "The Cache": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheCache.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13078,7 +13078,7 @@
   },
   "Cursed Words": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/CursedWords.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13087,7 +13087,7 @@
   },
   "The Long Watch": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheLongWatch.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13096,7 +13096,7 @@
   },
   "Reckless Ambition": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/RecklessAmbition.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13105,7 +13105,7 @@
   },
   "The Adventuring Spirit": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheAdventuringSpirit.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13114,7 +13114,7 @@
   },
   "A Sea of Blue": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ASeaOfBlue.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13123,7 +13123,7 @@
   },
   "The Fox in the Brambles": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheFoxInTheBrambles.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13132,7 +13132,7 @@
   },
   "The Tireless Extractor": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheTirelessExtractor.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13141,7 +13141,7 @@
   },
   "Azure Rage": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/AzureRage.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13150,7 +13150,7 @@
   },
   "Broken Truce": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/BrokenTruce.png",
       "rarity": 6,
       "chaosValue": 1.0,
       "exaltedValue": 0.07,
@@ -13159,7 +13159,7 @@
   },
   "Humility": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/Humility.png",
       "rarity": 6,
       "chaosValue": 0.99,
       "exaltedValue": 0.07,
@@ -13168,7 +13168,7 @@
   },
   "The Chains that Bind": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/TheChainsThatBind.png",
       "rarity": 6,
       "chaosValue": 0.99,
       "exaltedValue": 0.07,
@@ -13177,7 +13177,7 @@
   },
   "Imperial Legacy": {
     "Base": {
-      "icon": "https://web.poecdn.com/gen/image/WzI1LDE0LHsiZiI6IjJESXRlbXMvRGl2aW5hdGlvbi9JbnZlbnRvcnlJY29uIiwidyI6MSwiaCI6MSwic2NhbGUiOjF9XQ/f34bf8cbb5/InventoryIcon.png",
+      "icon": "https://web.poecdn.com/image/divination-card/ImperialLegacy.png",
       "rarity": 6,
       "chaosValue": 0.45,
       "exaltedValue": 0.03,
