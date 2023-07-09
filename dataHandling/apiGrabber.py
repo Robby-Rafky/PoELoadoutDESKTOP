@@ -2,7 +2,7 @@ import requests
 import json
 
 HEADERS = {"content-type": "PoE_Loadout_Tool/0.1"}
-current_league = "Kalandra"
+current_league = "Sanctum"
 api_url = {
     "curr": "https://poe.ninja/api/data/CurrencyOverview?league="+current_league+"&type=Currency",
     "frag": "https://poe.ninja/api/data/CurrencyOverview?league="+current_league+"&type=Fragment&language=en",
@@ -26,6 +26,12 @@ api_url = {
 
 
 def update_prices():
+    """Updates the prices by making API requests to retrieve item data and saving it as JSON files.
+
+    The function iterates over each item in the 'api_url' dictionary, makes an API request to retrieve the item data,
+    and saves it as a JSON file in the 'RawData' directory. The filename is based on the item's key in the 'api_url' dictionary.
+
+    """
     for item in api_url:
         response = requests.get(api_url[item], headers=HEADERS)
         data = response.json()

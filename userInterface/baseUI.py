@@ -27,12 +27,22 @@ COLOUR_OTHER_BG = "#423e2d"
 
 # ----------------------------------------------------
 def on_app_close():
+    """Handles the close event of the application window.
+
+    Displays a confirmation dialog and closes the application window if the user confirms.
+
+    """
     if messagebox.askokcancel("Quit", "Do you want to quit?"):
         config_file.close()
         base_window.destroy()
 
 
 def change_data_set():
+    """Updates the data set displayed in the Treeview widget.
+
+    Updates the columns and rows in the data_view Treeview widget based on the current data set.
+
+    """
     data_view["columns"] = list(df.columns)
 
     for column, text in zip(data_view["columns"], ["Chaos", "Exalted", "Divine"]):
@@ -44,18 +54,40 @@ def change_data_set():
 
 
 def get_image_from_url(url):
+    """Downloads an image from the given URL and converts it to a PhotoImage object.
+
+    Args:
+        url (str): The URL of the image to download.
+
+    Returns:
+        tk.PhotoImage: The PhotoImage object representing the downloaded image.
+    """
     image_byt = urlopen(url).read()
     image_b64 = base64.encodebytes(image_byt)
     return tk.PhotoImage(data=image_b64)
 
 
 def change_variant(x):
+    """Updates the displayed variant data based on the selected variant.
+
+    Retrieves the selected item and variant from the Treeview widgets and displays the corresponding data in the UI.
+
+    Args:
+        x (Event): The event object (not used).
+
+    """
     selected_item = data_view.item(data_view.focus())["text"]
     selected_variant = variant_view.item(variant_view.focus())["text"]
     display_selected_data(variant_data[selected_item][selected_variant], selected_item)
 
-
+# TODO - Use Dict for rarity-colour definitions
 def change_name_colour(rarity):
+    """Changes the background and foreground colors of the item name label based on the rarity.
+
+    Args:
+        rarity (int): The rarity value of the item.
+
+    """
     if rarity == 9:
         item_name_label["bg"] = COLOUR_FOIL_BG
         item_name_label["fg"] = COLOUR_FOIL_TEXT
@@ -71,6 +103,15 @@ def change_name_colour(rarity):
 
 
 def display_selected_data(variant, variant_name):
+    """Displays the selected item variant data in the UI.
+
+    Updates the item name label, item image, and other UI elements to show the selected item variant's data.
+
+    Args:
+        variant (dict): The data of the selected item variant.
+        variant_name (str): The name of the selected item.
+
+    """
     change_name_colour(variant["rarity"])
     variant_image = get_image_from_url(variant["icon"])
     item_image.configure(image=variant_image)
@@ -83,6 +124,15 @@ def display_selected_data(variant, variant_name):
 
 
 def selected_additional_info(x):
+    """Handles the selection of an item in the data view Treeview widget.
+
+    Retrieves the selected item, displays its additional information in the variant view Treeview widget,
+    and updates the displayed data based on the selected variant.
+
+    Args:
+        x (Event): The event object (not used).
+
+    """
     selected_item = data_view.item(data_view.focus())["text"]
     if selected_item != "":
         variant_item = list(variant_data[selected_item])[-1]

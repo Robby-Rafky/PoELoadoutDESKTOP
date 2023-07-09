@@ -5,6 +5,12 @@ card_url = "https://web.poecdn.com/image/divination-card/"
 
 
 def trim_data():
+    """Trims the raw item data and creates trimmed item and variant JSON files.
+
+    The function reads the raw item data from the "RawData" directory, trims the data based on specific conditions,
+    and creates two JSON files: "trimmedItems.json" containing the trimmed item data and
+    "trimmedVariants.json" containing the variant data.
+    """
     all_files = [e for e in os.listdir("RawData") if e not in ("curr.json", "frag.json")]
     trimmed_data = {}
     variant_data = {}
@@ -59,6 +65,11 @@ def trim_data():
 
 
 def trim_currency():
+    """Trims the raw currency data and creates a trimmed currency JSON file.
+
+    The function reads the raw currency data from the "RawData" directory, trims the data based on specific conditions,
+    and creates a JSON file named "trimmedCurrency.json" containing the trimmed currency data.
+    """
     currency_data = ("curr.json", "frag.json")
     trimmed_currency = {}
     trimmed_currency_f = open("TrimmedData/trimmedCurrency.json", "w")
