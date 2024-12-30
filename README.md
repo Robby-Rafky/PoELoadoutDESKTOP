@@ -1,4 +1,6 @@
 # PoELoadoutDESKTOP
+A Path of Exile desktop tool to list and plan items using POE.ninja api for pricing.
+
 Using Pandas Dataframe and Tkinter
 
 Using POE.ninja api
